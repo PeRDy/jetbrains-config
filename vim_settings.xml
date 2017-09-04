@@ -32,11 +32,11 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" timestamp="1504557532157">
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="10" />
-        <mark key="." line="70" column="10" />
-        <mark key="^" line="62" column="29" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" timestamp="1504558250249">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
@@ -1297,13 +1297,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2tpbGxzIA==</text>
+        <text>Projects</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2tpbGxzIA==</text>
+        <text>Projects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICE9PSBcW1xd</text>
