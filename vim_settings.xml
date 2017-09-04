@@ -32,6 +32,12 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
         <mark key="[" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" timestamp="1504557532157">
+        <mark key="[" line="70" column="11" />
+        <mark key="]" line="70" column="10" />
+        <mark key="." line="70" column="10" />
+        <mark key="^" line="62" column="29" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
         <mark key="]" line="139" column="10" />
@@ -448,12 +454,6 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/webpack.config.js" timestamp="1504352040784">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="19" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/views/api/test_mixins.py" timestamp="1453245053657">
         <mark key="[" line="130" column="22" />
         <mark key="]" line="130" column="22" />
@@ -688,10 +688,6 @@
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/nose.py" timestamp="1491425191750">
         <mark key="[" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/migrations/0002_auto_20170821_0823.py" timestamp="1503344229745">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="153" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
@@ -754,10 +750,6 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Profile.vue" timestamp="1504555091459">
         <mark key="[" line="6" column="78" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" timestamp="1503427080605">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="62" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
@@ -840,9 +832,9 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="60" column="104" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504555155049">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504557511618">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="35" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="58" column="72" />
       </file>
@@ -928,6 +920,9 @@
         <mark key="]" line="56" column="13" />
         <mark key="." line="56" column="13" />
         <mark key="^" line="56" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504557326750">
+        <mark key="[" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/permissions.py" timestamp="1452552179145">
         <mark key="[" line="35" column="12" />
@@ -1095,10 +1090,6 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/webpack.config.js.old" timestamp="1504348788963">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="88" column="39" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/index.ios.js" timestamp="1504439037050">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="48" />
@@ -1170,10 +1161,6 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
-      </file>
-      <file name="/Repository.vue" timestamp="1503665974884">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
@@ -1310,46 +1297,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHhzMTIgbWQ4IG9mZnNldC1tZDIgbGc0IG9mZnNldC1sZzQ=</text>
+        <text encoding="base64">c2tpbGxzIA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHhzMTIgbWQ4IG9mZnNldC1tZDIgbGc0IG9mZnNldC1sZzQ=</text>
+        <text encoding="base64">c2tpbGxzIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICE9PSBcW1xd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgc2VhcmNoOiAnJywKICAgICAgICBzZWFyY2hpbmc6IGZhbHNlLAogICAgICB9CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5za2lsbHMgIT09IG51bGwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3BzOiB7CiAgICAgIHJlcG9zaXRvcmllczogQXJyYXksCiAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2LWxpc3QtdGlsZS1hY3Rpb24+CiAgICAgICAgICAgIDx2LWljb24+e3sgaXRlbS5pY29uIH19PC92LWljb24+CiAgICAgICAgICA8L3YtbGlzdC10aWxlLWFjdGlvbj4KICAgICAgICAgIDx2LWxpc3QtdGlsZS1jb250ZW50PgogICAgICAgICAgICA8di1saXN0LXRpbGUtdGl0bGU+CiAgICAgICAgICAgICAge3sgaXRlbS50aXRsZSB9fQogICAgICAgICAgICA8L3YtbGlzdC10aWxlLXRpdGxlPgogICAgICAgICAgPC92LWxpc3QtdGlsZS1jb250ZW50Pgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">PHN0eWxlIGxhbmc9InNjc3MiIHNjb3BlZD4KICBAaW1wb3J0ICIuLi8uLi9zY3NzL2Jhc2UiOwoKICAubWRjLWxpc3QtZ3JvdXAgewogICAgJjpub3QoOmxhc3Qtb2YtdHlwZSkgewogICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkIHJnYmEoMCwgMCwgMCwgLjEyKTsKICAgICAgYm9yZGVyLXJpZ2h0OiAxcHggc29saWQgcmdiYSgwLCAwLCAwLCAuMTIpOwogICAgICBib3JkZXItdG9wOiAxcHggc29saWQgcmdiYSgwLCAwLCAwLCAuMTIpOwogICAgfQoKICAgICY6bGFzdC1vZi10eXBlIHsKICAgICAgYm9yZGVyOiAxcHggc29saWQgcmdiYSgwLCAwLCAwLCAuMTIpOwogICAgfQogIH0KPC9zdHlsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpyaXBwbGU9IntjbGFzczogJ3ByaW1hcnktLXRleHQnfSIK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAkY29sb3ItcHJpbWFyeSA9ICRsaWdodC1ibHVlLmRhcmtlbi0yCgo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkdGhlbWUucHJpbWFyeQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgUmVwb3NpdG9yeSBmcm9tICcuL1JlcG9zaXRvcnkudnVlJzsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2LXRvb2xiYXItc2lkZS1pY29uPjwvdi10b29sYmFyLXNpZGUtaWNvbj4K</text>
+        <text encoding="base64">CiAgPC9kaXY+Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb249ImZhZGUtdHJhbnNpdGlvbiIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyZXBvc2l0b3J5LWxpc3QiPgogICAgPGgxIGNsYXNzPSJtZGMtdHlwb2dyYXBoeS0tZGlzcGxheTIiPlByb2plY3RzPC9oMT4KICAgIDxkaXYgY2xhc3M9Im1kYy1saXN0LWdyb3VwIiB2LWZvcj0iKHllYXIsIGluZGV4KSBpbiByZXBvc2l0b3JpZXNCeVllYXIiPgogICAgICA8aDIgY2xhc3M9Im1kYy1saXN0LWdyb3VwX19zdWJoZWFkZXIiPnt7IHllYXJbMF0gfX08L2gyPgogICAgICA8dWwgY2xhc3M9Im1kYy1saXN0IG1kYy1saXN0LS1hdmF0YXItbGlzdCBtZGMtbGlzdC0tdHdvLWxpbmUiPgogICAgICAgIDxyZXBvc2l0b3J5CiAgICAgICAgICB2LWZvcj0iKGl0ZW0sIGluZGV4KSBpbiB5ZWFyWzFdIgogICAgICAgICAgdi1pZj0iIWl0ZW0uaXNGb3JrIgogICAgICAgICAgOmtleT0iaXRlbS5pZCIKICAgICAgICAgIDppZD0iJ3JlcG9zaXRvcnktJyArIGl0ZW0uaWQiCiAgICAgICAgICA6bmFtZT0iaXRlbS5uYW1lIgogICAgICAgICAgOnVybD0iaXRlbS51cmwiCiAgICAgICAgICA6ZGVzY3JpcHRpb249Iml0ZW0uZGVzY3JpcHRpb24iCiAgICAgICAgICA6Y3JlYXRlZC1hdD0iaXRlbS5jcmVhdGVkQXQiCiAgICAgICAgICA6cHVzaGVkLWF0PSJpdGVtLnB1c2hlZEF0IgogICAgICAgICAgOmlzLWZvcms9Iml0ZW0uaXNGb3JrIgogICAgICAgICAgOmZvcmtzPSJpdGVtLmZvcmtzIgogICAgICAgICAgOnN0YXJzPSJpdGVtLnN0YXJzIj4KICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgIDwvdWw+CiAgICA8L2Rpdj4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
