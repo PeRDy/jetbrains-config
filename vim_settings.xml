@@ -8,11 +8,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Recommendation.vue" timestamp="1504563504853">
-        <mark key="[" line="105" column="9" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="105" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Recommendation.vue" timestamp="1504564830519">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="23" column="86" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/package.json" timestamp="1504119209458">
         <mark key="[" line="30" column="35" />
@@ -38,11 +38,12 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" timestamp="1504563680501">
-        <mark key="'" line="29" column="50" />
-        <mark key="[" line="30" column="68" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" timestamp="1504564430706">
+        <mark key="'" line="31" column="32" />
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="114" column="7" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
@@ -130,11 +131,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Drawer.vue" timestamp="1504481874485">
-        <mark key="[" line="54" column="7" />
-        <mark key="]" line="18" column="50" />
-        <mark key="." line="18" column="50" />
-        <mark key="^" line="18" column="50" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Drawer.vue" timestamp="1504567081471">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose.yml" timestamp="1500932311128">
         <mark key="[" line="6" column="12" />
@@ -541,6 +541,12 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/apollo-client.js" timestamp="1504567289360">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/cache.py" timestamp="1452282946618">
         <mark key="[" line="65" column="10" />
         <mark key="]" line="66" column="0" />
@@ -667,8 +673,8 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose-production.yml" timestamp="1498233090560">
-        <mark key="[" line="71" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose-production.yml" timestamp="1504567636918">
+        <mark key="[" line="9" column="11" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
         <mark key="^" line="73" column="13" />
@@ -706,9 +712,9 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504560524982">
-        <mark key="[" line="61" column="41" />
-        <mark key="]" line="60" column="48" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504564613920">
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="67" column="20" />
         <mark key="^" line="60" column="104" />
         <mark key="." line="60" column="0" />
       </file>
@@ -736,6 +742,9 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" timestamp="1504566056304">
+        <mark key="'" line="4288" column="7" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
@@ -754,8 +763,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Profile.vue" timestamp="1504555091459">
-        <mark key="[" line="6" column="78" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Profile.vue" timestamp="1504566661897">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="27" column="67" />
+        <mark key="." line="27" column="67" />
+        <mark key="^" line="27" column="67" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
@@ -844,8 +856,8 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="104" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504560518771">
-        <mark key="[" line="57" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504564463871">
+        <mark key="[" line="41" column="16" />
         <mark key="]" line="57" column="48" />
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
@@ -933,8 +945,8 @@
         <mark key="." line="56" column="13" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504557326750">
-        <mark key="[" line="15" column="17" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504564847223">
+        <mark key="[" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/permissions.py" timestamp="1452552179145">
         <mark key="[" line="35" column="12" />
@@ -1213,158 +1225,158 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="57" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="86" column="6" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="87" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="100" column="35" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="127" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="3" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="5" column="20" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="4" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="110" column="4" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="100" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="113" column="24" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="10" column="22" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="17" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="20" column="44" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="23" column="51" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="31" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="45" column="11" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="62" column="24" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="68" column="3" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="69" column="5" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="73" column="5" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="89" column="3" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="99" column="5" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="103" column="5" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="107" column="24" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="7" column="58" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="8" column="54" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="1493" column="16" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="1499" column="38" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="1501" column="25" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="1502" column="32" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="1505" column="38" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="1510" column="26" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="617" column="0" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="10" column="1" filename="$USER_HOME$/Desarrollo/miner/miner.py" />
-      <jump line="16" column="8" filename="$USER_HOME$/Desarrollo/miner/miner.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/Desarrollo/miner/miner.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Desarrollo/miner/README.rst" />
-      <jump line="51" column="25" filename="$USER_HOME$/Desarrollo/miner/miner/nvidia.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Desarrollo/miner/__main__.py" />
-      <jump line="32" column="7" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="49" column="12" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="113" column="105" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="115" column="109" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="98" column="28" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="101" column="33" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="96" column="15" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="6" column="14" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="868" column="23" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/bot.py" />
-      <jump line="2021" column="31" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/bot.py" />
-      <jump line="871" column="40" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/bot.py" />
-      <jump line="878" column="62" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/bot.py" />
-      <jump line="895" column="37" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/bot.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="142" column="29" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="146" column="89" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="150" column="86" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="56" column="33" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="64" column="25" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="68" column="32" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="70" column="37" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="82" column="89" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="86" column="33" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="87" column="37" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="95" column="25" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="83" column="55" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="111" column="55" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="132" column="55" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="147" column="55" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="151" column="56" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="145" column="23" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="179" column="0" filename="$USER_HOME$/Desarrollo/miner/telegram_bot/bot.py" />
-      <jump line="434" column="0" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="136" column="12" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="354" column="16" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="356" column="12" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="376" column="16" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="385" column="20" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="85" column="12" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="87" column="12" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/1598801900/-1382175924/telegram/ext/updater.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/migrations/0001_initial.py" />
-      <jump line="15" column="34" filename="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/migrations/0001_initial.py" />
-      <jump line="30" column="27" filename="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/schema.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Desarrollo/miner/miner/nvidia.py" />
-      <jump line="60" column="60" filename="$USER_HOME$/Desarrollo/miner/miner/nvidia.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Desarrollo/miner/miner/miner.py" />
-      <jump line="62" column="7" filename="$USER_HOME$/Desarrollo/miner/miner/miner.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/linkedin/spiders.py" />
-      <jump line="149" column="6" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="110" column="5" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="158" column="7" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="116" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experience.vue" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/webpack.config.js" />
-      <jump line="59" column="22" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/App.vue" />
-      <jump line="9" column="31" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/App.vue" />
-      <jump line="78" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" />
-      <jump line="54" column="27" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/graphql/app.graphql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/graphql/app.graphql" />
-      <jump line="29" column="50" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" />
+      <jump line="3498" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3508" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3518" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3528" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3538" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3548" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3558" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3568" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3575" column="8" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3588" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3598" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3608" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3618" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3628" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3638" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3648" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3658" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3668" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3678" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3688" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3698" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3708" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3715" column="9" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3728" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3738" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3748" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3758" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3768" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3778" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3788" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3798" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3808" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3818" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3828" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3838" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3848" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3855" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3868" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3878" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3888" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3898" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3908" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3918" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3928" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3938" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3948" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3958" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3968" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3978" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3988" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="3995" column="8" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4008" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4018" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4028" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4038" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4048" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4058" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4068" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4078" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4088" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4095" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4108" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4118" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4128" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4138" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4148" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4158" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4168" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4178" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4188" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4195" column="7" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4208" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4218" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4228" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4238" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4248" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4258" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4268" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4278" column="12" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5391" column="2" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5388" column="2" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5383" column="2" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5344" column="22" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5337" column="38" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5336" column="34" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5335" column="33" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5317" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5312" column="2" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5282" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5276" column="31" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5274" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5268" column="22" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5215" column="10" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5211" column="2" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5170" column="2" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="5161" column="10" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4318" column="9" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4308" column="9" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4298" column="9" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
+      <jump line="4288" column="7" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwcmltYXJ5LS1hZnRlciIK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>createdAt</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>text</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgogIDx2LWxheW91dCBjb2x1bW4+CiAgICA8di1mbGV4PgogICAgICA8di1jYXJkPgogICAgICAgIDx2LXRvb2xiYXIgY2xhc3M9InRvb2xiYXItLXByaW1hcnkiIGZsYXQgZGFyaz4KICAgICAgICAgIDx2LXRvb2xiYXItdGl0bGU+UHJvamVjdHM8L3YtdG9vbGJhci10aXRsZT4KICAgICAgICAgIDx2LXNwYWNlcj48L3Ytc3BhY2VyPgogICAgICAgICAgPHYtc2xpZGUteC10cmFuc2l0aW9uIG1vZGU9Im91dC1pbiI+CiAgICAgICAgICAgIDx0ZW1wbGF0ZSB2LWlmPSJzZWFyY2hpbmciPgogICAgICAgICAgICAgIDx2LXRleHQtZmllbGQgc29sbyBhdXRvZm9jdXMgcGxhY2Vob2xkZXI9IlNlYXJjaCIgYXBwZW5kLWljb249InNlYXJjaCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtbW9kZWw9InNlYXJjaCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBibHVyPSJzZWFyY2hpbmcgPSBmYWxzZSI+CiAgICAgICAgICAgICAgPC92LXRleHQtZmllbGQ+CiAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgIDx0ZW1wbGF0ZSB2LWVsc2U+CiAgICAgICAgICAgICAgPHYtYnRuIGljb24gQGNsaWNrPSJzZWFyY2hpbmcgPSB0cnVlIj4KICAgICAgICAgICAgICAgIDx2LWljb24+c2VhcmNoPC92LWljb24+CiAgICAgICAgICAgICAgPC92LWJ0bj4KICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICAgIDwvdi1zbGlkZS14LXRyYW5zaXRpb24+CiAgICAgICAgPC92LXRvb2xiYXI+CiAgICAgICAgPHRlbXBsYXRlIHYtZm9yPSIoeWVhciwgaW5kZXgpIGluIGZpbHRlcmVkUmVwb3NpdG9yaWVzIj4KICAgICAgICAgIDx2LXN1YmhlYWRlcj57eyB5ZWFyWzBdIH19PC92LXN1YmhlYWRlcj4KICAgICAgICAgIDx2LWNvbnRhaW5lciBmbHVpZCBncmlkLWxpc3QtbWQ+CiAgICAgICAgICAgIDx2LWxheW91dCByb3cgd3JhcD4KICAgICAgICAgICAgICA8di1mbGV4IG1kNiBsZzQgdi1mb3I9IihyZXBvLCBpbmRleCkgaW4geWVhclsxXSIgOmtleT0icmVwby5pZCI+CiAgICAgICAgICAgICAgICA8di1jYXJkIGNsYXNzPSJncmV5IGxpZ2h0ZW4tNCI+CiAgICAgICAgICAgICAgICAgIDx2LWNhcmQtdGl0bGU+CiAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzcz0icmVwb3NpdG9yeS0tdGl0bGUgdGl0bGUgcHJpbWFyeS0tdGV4dCI+e3sgaHVtYW5pemVkTmFtZShyZXBvLm5hbWUpIH19PC9oMz48YnI+CiAgICAgICAgICAgICAgICAgICAgICA8cD57eyByZXBvLmRlc2NyaXB0aW9uIH19PC9wPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L3YtY2FyZC10aXRsZT4KICAgICAgICAgICAgICAgICAgPHYtY2FyZC1hY3Rpb25zPgogICAgICAgICAgICAgICAgICAgIDx2LWJ0biBpY29uPgogICAgICAgICAgICAgICAgICAgICAgPHYtaWNvbiB2LWJhZGdlPSJ7dmFsdWU6IHJlcG8uc3RhcnN9Ij5mYS1zdGFyPC92LWljb24+CiAgICAgICAgICAgICAgICAgICAgPC92LWJ0bj4KICAgICAgICAgICAgICAgICAgICA8di1idG4gaWNvbj4KICAgICAgICAgICAgICAgICAgICAgIDx2LWljb24gdi1iYWRnZT0ie3ZhbHVlOiByZXBvLmZvcmtzfSI+ZmEtY29kZS1mb3JrPC92LWljb24+CiAgICAgICAgICAgICAgICAgICAgPC92LWJ0bj4KICAgICAgICAgICAgICAgICAgICA8di1zcGFjZXI+PC92LXNwYWNlcj4KICAgICAgICAgICAgICAgICAgICA8di1idG4gaWNvbiA6aHJlZj0icmVwby51cmwiPgogICAgICAgICAgICAgICAgICAgICAgPHYtaWNvbiBzZWNvbmRhcnk+ZmEtZ2l0aHViPC92LWljb24+CiAgICAgICAgICAgICAgICAgICAgPC92LWJ0bj4KICAgICAgICAgICAgICAgICAgPC92LWNhcmQtYWN0aW9ucz4KICAgICAgICAgICAgICAgIDwvdi1jYXJkPgogICAgICAgICAgICAgIDwvdi1mbGV4PgogICAgICAgICAgICA8L3YtbGF5b3V0PgogICAgICAgICAgPC92LWNvbnRhaW5lcj4KICAgICAgICA8L3RlbXBsYXRlPgogICAgICA8L3YtY2FyZD4KICAgIDwvdi1mbGV4PgogIDwvdi1sYXlvdXQ+CjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogIGltcG9ydCB7bWFwR2V0dGVyc30gZnJvbSAidnVleCI7CgogIGV4cG9ydCBkZWZhdWx0IHsKICAgIG5hbWU6ICdyZXBvc2l0b3J5LWxpc3QnLAogICAgZGF0YSgpIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBzZWFyY2g6ICcnLAogICAgICAgIHNlYXJjaGluZzogZmFsc2UsCiAgICAgIH0KICAgIH0sCiAgICBjb21wdXRlZDogewogICAgICAuLi5tYXBHZXR0ZXJzKCdhcHAnLCB7CiAgICAgICAgcmVwb3NpdG9yaWVzOiAncmVwb3NpdG9yaWVzJywKICAgICAgfSksCiAgICAgIGZpbHRlcmVkUmVwb3NpdG9yaWVzKCkgewogICAgICAgIGxldCByZXBvcyA9IHt9CgogICAgICAgIGlmICh0aGlzLnJlcG9zaXRvcmllcyAhPT0gbnVsbCkgewogICAgICAgICAgbGV0IGZpbHRlcmVkID0gdGhpcy5yZXBvc2l0b3JpZXMKICAgICAgICAgIGxldCBzZWFyY2ggPSB0aGlzLnNlYXJjaC50b0xvd2VyQ2FzZSgpCiAgICAgICAgICBmaWx0ZXJlZCA9IGZpbHRlcmVkLmZpbHRlcigoYSkgPT4gKAogICAgICAgICAgICBhLm5hbWUudG9Mb3dlckNhc2UoKS5pbmNsdWRlcyhzZWFyY2gpKSB8fCBhLmRlc2NyaXB0aW9uLnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoc2VhcmNoKQogICAgICAgICAgKQoKICAgICAgICAgIGZvciAobGV0IHJlcG8gb2YgZmlsdGVyZWQpIHsKICAgICAgICAgICAgbGV0IGQgPSBuZXcgRGF0ZShyZXBvLmNyZWF0ZWRBdCkuZ2V0RnVsbFllYXIoKQogICAgICAgICAgICBpZiAoZCBpbiByZXBvcykgewogICAgICAgICAgICAgIHJlcG9zW2RdLnB1c2gocmVwbykKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICByZXBvc1tkXSA9IFtyZXBvXQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgICByZXBvcyA9IE9iamVjdC5rZXlzKHJlcG9zKS5yZXZlcnNlKCkubWFwKGtleSA9PiBba2V5LCByZXBvc1trZXldXSkKICAgICAgICB9CgogICAgICAgIHJldHVybiByZXBvcwogICAgICB9LAogICAgfSwKICAgIG1ldGhvZHM6IHsKICAgICAgaHVtYW5pemVkTmFtZShuYW1lKSB7CiAgICAgICAgcmV0dXJuIG5hbWUucmVwbGFjZSgvLS9nLCAiICIpOwogICAgICB9LAogICAgICBodW1hbml6ZWREYXRlKGRhdGUpIHsKICAgICAgICBkYXRlID0gbmV3IERhdGUodGhpcy5kYXRlKTsKICAgICAgICBsZXQgc3RyRGF0ZSA9IGRhdGUudG9EYXRlU3RyaW5nKCkuc2xpY2UoNCk7CiAgICAgICAgcmV0dXJuIHN0ckRhdGUuc2xpY2UoMCwgNikgKyAiLCAiICsgZGF0ZS5nZXRGdWxsWWVhcigpOwogICAgICB9LAogICAgfQogIH07Cjwvc2NyaXB0PgoKPHN0eWxlIGxhbmc9InNjc3MiPgogIC5yZXBvc2l0b3J5IHsKICAgICYtLXRpdGxlIHsKICAgICAgdGV4dC10cmFuc2Zvcm06IGNhcGl0YWxpemU7CiAgICB9CiAgfQo8L3N0eWxlPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHNwYW4gY2xhc3M9ImJsYWNrLS10ZXh0Ij4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwcmltYXJ5LS1hZnRlciIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAmLS1zdWJ0aXRsZSB7CiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJpcHBsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHNlY29uZGFyeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjxzdHlsZSBsYW5nPSJzY3NzIj4KICAucmVwb3NpdG9yeSB7CiAgICAmLS10aXRsZSB7CiAgICAgIHRleHQtdHJhbnNmb3JtOiBjYXBpdGFsaXplOwogICAgfQogIH0KPC9zdHlsZT4K</text>
+        <text encoding="base64">CiAgICBpIHsKICAgICAgd2lkdGg6IDI0cHg7CiAgICAgIGhlaWdodDogMjRweDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHRlbXBsYXRlPgogIDxkaXYgY2xhc3M9InJlY29tbWVuZGF0aW9uIj4KICAgIDxkaXY+e3sgbmFtZSB9fTwvZGl2PgogICAgPGRpdj57eyB0aXRsZSB9fTwvZGl2PgogICAgPGRpdj57eyBkZXNjcmlwdGlvbiB9fTwvZGl2PgogIDwvZGl2Pgo8L3RlbXBsYXRlPgoKPHNjcmlwdD4KICAgIGV4cG9ydCBkZWZhdWx0IHsKICAgICAgICBuYW1lOiAncmVjb21tZW5kYXRpb24nLAogICAgICAgIHByb3BzOiB7CiAgICAgICAgICAgIG5hbWU6IFN0cmluZywKICAgICAgICAgICAgdGl0bGU6IFN0cmluZywKICAgICAgICAgICAgZGVzY3JpcHRpb246IFN0cmluZywKICAgICAgICB9LAogICAgfTsKPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwaXAK</text>
+        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L3YtZmxleD4KICAgICAgICAgICAgPC92LWxheW91dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZXBvc2l0b3JpZXNCeVllYXIKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8di1mbGV4IHhzMTEgY2xhc3M9InBhLTEiPgogICAgICAgICAgICAgICAge3sgcHJvZmlsZS5jb21wYW55IH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyZWRSZXBvc2l0b3JpZXMoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdi1idG4+CiAgICAgICAgICAgICAgPC92LWZsZXg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9maWx0ZXJlZFJlcG9zL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>text</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>text</last-pattern>
       <last-replace>filteredRepos</last-replace>
       <last-substitute>result</last-substitute>
       <last-dir>1</last-dir>
@@ -1372,7 +1384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>[A-Z_]*</entry>
         <entry>[A-Z_]\+</entry>
         <entry>{</entry>
         <entry>}</entry>
@@ -1392,6 +1403,7 @@
         <entry encoding="base64">ICE9PSBbXS8ubGVuZ3RoL2c=</entry>
         <entry encoding="base64">ICE9PSBcW1xd</entry>
         <entry>result</entry>
+        <entry>text</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1tBLVpfXVwrLydcMScvZw==</entry>
