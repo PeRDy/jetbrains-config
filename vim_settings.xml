@@ -32,11 +32,11 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" timestamp="1504558250249">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="26" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" timestamp="1504560800812">
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="98" column="18" />
+        <mark key="." line="98" column="18" />
+        <mark key="^" line="98" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
@@ -142,7 +142,7 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1497528608128">
+      <file name="/GraphQL.variables.json" timestamp="1504560955756">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/docker-compose.yml" timestamp="1486057205666">
@@ -700,11 +700,11 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504555178813">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504560524982">
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="60" column="48" />
         <mark key="^" line="60" column="104" />
-        <mark key="." line="2" column="11" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/mixins.py" timestamp="1485535808398">
         <mark key="[" line="130" column="22" />
@@ -826,17 +826,17 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experiences.vue" timestamp="1504555184624">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experiences.vue" timestamp="1504560549780">
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="104" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504557511618">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="35" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="58" column="72" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504560518771">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="48" />
+        <mark key="." line="56" column="29" />
+        <mark key="^" line="56" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/Dockerfile" timestamp="1465213571018">
         <mark key="[" line="1" column="0" />
@@ -1126,6 +1126,13 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/graphql/app.graphql" timestamp="1504561064845">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="54" column="27" />
+        <mark key="." line="54" column="27" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/core/templates/core/home.html" timestamp="1493152243329">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="0" />
@@ -1194,9 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="43" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="21" column="38" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
-      <jump line="27" column="38" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
       <jump line="76" column="18" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
       <jump line="79" column="57" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
       <jump line="86" column="6" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Repository.vue" />
@@ -1294,66 +1298,211 @@
       <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/webpack.config.js" />
       <jump line="59" column="22" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/App.vue" />
       <jump line="9" column="31" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/App.vue" />
+      <jump line="78" column="17" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Projects.vue" />
+      <jump line="54" column="27" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/graphql/app.graphql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/graphql/app.graphql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Projects</text>
+        <text>query {
+    allProfiles(first: 1) {
+        edges {
+            node {
+                ...profile
+                experiences {
+                    edges {
+                        node {
+                            ...experience
+                        }
+                    }
+                }
+                educations {
+                    edges {
+                        node {
+                            ...education
+                        }
+                    }
+                }
+                skills {
+                    edges {
+                        node {
+                            ...skill
+                        }
+                    }
+                }
+                recommendations {
+                    edges {
+                        node {
+                            ...recommendation
+                        }
+                    }
+                }
+                publications {
+                    edges {
+                        node {
+                            ...publication
+                        }
+                    }
+                }
+                honors {
+                    edges {
+                        node {
+                            ...honor
+                        }
+                    }
+                }
+            }
+        }
+    }
+    allUsers(first: 1) {
+        edges {
+            node {
+                ...user
+                repositories {
+                    edges {
+                        node {
+                            ...repository
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+fragment profile on ProfileNode {
+    id
+    name
+    title
+}
+
+fragment experience on ExperienceNode {
+    id
+    title
+    location
+    dateFrom
+    dateTo
+    current
+    description
+    company
+    companyLogo
+}
+
+fragment education on EducationNode {
+    id
+    degree
+    grade
+    fieldOfStudy
+    dateFrom
+    dateTo
+    current
+    description
+    school
+    schoolLogo
+}
+
+fragment skill on SkillNode {
+    id
+    name
+    points
+}
+
+fragment recommendation on RecommendationNode {
+    id
+    name
+    title
+    description
+}
+
+fragment publication on PublicationNode {
+    id
+    title
+    date
+    publisher
+    description
+}
+
+fragment honor on HonorNode {
+    id
+    title
+    date
+    description
+}
+
+fragment user on UserNode {
+    id
+    name
+    login
+    email
+    company
+}
+
+fragment repository on RepositoryNode {
+    id
+    name
+    url
+    description
+    createdAt
+    pushedAt
+    isFork
+    forks
+    stars
+}</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Projects</text>
+        <text>createdAt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICE9PSBcW1xd</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5za2lsbHMgIT09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgaHVtYW5pemVkTmFtZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5uYW1lLnJlcGxhY2UoLy0vZywgIiAiKTsKICAgICAgfSwKICAgICAgaHVtYW5pemVkQ3JlYXRlZEF0KCkgewogICAgICAgIGxldCBkYXRlID0gbmV3IERhdGUodGhpcy5jcmVhdGVkQXQpOwogICAgICAgIGxldCBzdHJEYXRlID0gZGF0ZS50b0RhdGVTdHJpbmcoKS5zbGljZSg0KTsKICAgICAgICByZXR1cm4gc3RyRGF0ZS5zbGljZSgwLCA2KSArICIsICIgKyBkYXRlLmdldEZ1bGxZZWFyKCk7CiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3BzOiB7CiAgICAgIHJlcG9zaXRvcmllczogQXJyYXksCiAgICB9LAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZXBvc2l0b3JpZXNCeVllYXIKICAgICAgfQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyZWRSZXBvc2l0b3JpZXMoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHN0eWxlIGxhbmc9InNjc3MiIHNjb3BlZD4KICBAaW1wb3J0ICIuLi8uLi9zY3NzL2Jhc2UiOwoKICAubWRjLWxpc3QtZ3JvdXAgewogICAgJjpub3QoOmxhc3Qtb2YtdHlwZSkgewogICAgICBib3JkZXItbGVmdDogMXB4IHNvbGlkIHJnYmEoMCwgMCwgMCwgLjEyKTsKICAgICAgYm9yZGVyLXJpZ2h0OiAxcHggc29saWQgcmdiYSgwLCAwLCAwLCAuMTIpOwogICAgICBib3JkZXItdG9wOiAxcHggc29saWQgcmdiYSgwLCAwLCAwLCAuMTIpOwogICAgfQoKICAgICY6bGFzdC1vZi10eXBlIHsKICAgICAgYm9yZGVyOiAxcHggc29saWQgcmdiYSgwLCAwLCAwLCAuMTIpOwogICAgfQogIH0KPC9zdHlsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGZpbHRlcmVkID0gdGhpcy5yZXBvc2l0b3JpZXMKICAgICAgICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5maWx0ZXIoKGEpID0+IChhLnRpdGxlLmluY2x1ZGVzKHRoaXMuc2VhcmNoKSkgfHwgYS5kZXNjcmlwdGlvbi5pbmNsdWRlcyh0aGlzLnNlYXJjaCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5zb3J0KChhLCBiKSA9PiBhLmRhdGVGcm9tIDwgYi5kYXRlRnJvbSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUmVwb3NpdG9yeSBmcm9tICcuL1JlcG9zaXRvcnkudnVlJzsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx2LWRpdmlkZXIgaW5zZXQ+PC92LWRpdmlkZXI+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyZXBvc2l0b3J5LWxpc3QiPgogICAgPGgxIGNsYXNzPSJtZGMtdHlwb2dyYXBoeS0tZGlzcGxheTIiPlByb2plY3RzPC9oMT4KICAgIDxkaXYgY2xhc3M9Im1kYy1saXN0LWdyb3VwIiB2LWZvcj0iKHllYXIsIGluZGV4KSBpbiByZXBvc2l0b3JpZXNCeVllYXIiPgogICAgICA8aDIgY2xhc3M9Im1kYy1saXN0LWdyb3VwX19zdWJoZWFkZXIiPnt7IHllYXJbMF0gfX08L2gyPgogICAgICA8dWwgY2xhc3M9Im1kYy1saXN0IG1kYy1saXN0LS1hdmF0YXItbGlzdCBtZGMtbGlzdC0tdHdvLWxpbmUiPgogICAgICAgIDxyZXBvc2l0b3J5CiAgICAgICAgICB2LWZvcj0iKGl0ZW0sIGluZGV4KSBpbiB5ZWFyWzFdIgogICAgICAgICAgdi1pZj0iIWl0ZW0uaXNGb3JrIgogICAgICAgICAgOmtleT0iaXRlbS5pZCIKICAgICAgICAgIDppZD0iJ3JlcG9zaXRvcnktJyArIGl0ZW0uaWQiCiAgICAgICAgICA6bmFtZT0iaXRlbS5uYW1lIgogICAgICAgICAgOnVybD0iaXRlbS51cmwiCiAgICAgICAgICA6ZGVzY3JpcHRpb249Iml0ZW0uZGVzY3JpcHRpb24iCiAgICAgICAgICA6Y3JlYXRlZC1hdD0iaXRlbS5jcmVhdGVkQXQiCiAgICAgICAgICA6cHVzaGVkLWF0PSJpdGVtLnB1c2hlZEF0IgogICAgICAgICAgOmlzLWZvcms9Iml0ZW0uaXNGb3JrIgogICAgICAgICAgOmZvcmtzPSJpdGVtLmZvcmtzIgogICAgICAgICAgOnN0YXJzPSJpdGVtLnN0YXJzIj4KICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgIDwvdWw+CiAgICA8L2Rpdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvdi1idG4+CiAgICAgICAgPC92LXRvb2xiYXI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Jlc3VsdC9maWx0ZXJlZFJlcG9zL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICE9PSBcW1xd</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICE9PSBcW1xd</last-pattern>
-      <last-replace>.length</last-replace>
-      <last-substitute encoding="base64">ICE9PSBcW1xd</last-substitute>
+      <last-pattern>result</last-pattern>
+      <last-replace>filteredRepos</last-replace>
+      <last-substitute>result</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>=.*</entry>
         <entry>[A-Z_]*</entry>
         <entry>[A-Z_]\+</entry>
         <entry>{</entry>
@@ -1373,9 +1522,9 @@
         <entry>main</entry>
         <entry encoding="base64">ICE9PSBbXS8ubGVuZ3RoL2c=</entry>
         <entry encoding="base64">ICE9PSBcW1xd</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1tBLVpfXSovJ1wxJy9n</entry>
         <entry encoding="base64">JzwsJz5zL1tBLVpfXVwrLydcMScvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1tBLVpfXVwrLydcMCcsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3svWy9n</entry>
@@ -1395,6 +1544,7 @@
         <entry encoding="base64">JzwsJz5zLyAhPT0gW10vLmxlbmd0aC9n</entry>
         <entry encoding="base64">JzwsJz5zLyAhPT0gXFtcXS8ubGVuZ3RoL2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9maWx0ZXJlZFJlcG9zL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
