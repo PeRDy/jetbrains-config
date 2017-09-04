@@ -405,6 +405,7 @@
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/models.py" timestamp="1498417059388">
         <mark key="[" line="24" column="59" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/node_modules/vuetify/src/stylus/settings/_colors.styl" timestamp="1504555511035" />
       <file name="$USER_HOME$/Desarrollo/clinner/requirements.txt" timestamp="1488281734736">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="0" column="7" />
@@ -703,11 +704,11 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504483159486">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="50" column="6" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504555178813">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
         <mark key="^" line="60" column="104" />
-        <mark key="." line="60" column="104" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/mixins.py" timestamp="1485535808398">
         <mark key="[" line="130" column="22" />
@@ -751,8 +752,8 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Profile.vue" timestamp="1504480751150">
-        <mark key="[" line="19" column="24" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Profile.vue" timestamp="1504555091459">
+        <mark key="[" line="6" column="78" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" timestamp="1503427080605">
         <mark key="[" line="25" column="0" />
@@ -833,16 +834,16 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experiences.vue" timestamp="1504483163952">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="50" column="6" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experiences.vue" timestamp="1504555184624">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
         <mark key="^" line="60" column="104" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504483612344">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="57" column="69" />
-        <mark key="." line="58" column="72" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Skills.vue" timestamp="1504555155049">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
         <mark key="^" line="58" column="72" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/Dockerfile" timestamp="1465213571018">
@@ -910,6 +911,11 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/base.py" timestamp="1493741801269">
         <mark key="[" line="29" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/core/templates/core/base/base.html" timestamp="1504555501674">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="71" />
+        <mark key="." line="28" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/docker-compose-base.yml" timestamp="1467128616612">
         <mark key="[" line="8" column="25" />
@@ -1303,14 +1309,14 @@
       <jump line="9" column="31" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGEoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgc2VhcmNoOiAnJywKICAgICAgICBzZWFyY2hpbmc6IGZhbHNlLAogICAgICB9CiAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHhzMTIgbWQ4IG9mZnNldC1tZDIgbGc0IG9mZnNldC1sZzQ=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>degree</text>
+        <text encoding="base64">IHhzMTIgbWQ4IG9mZnNldC1tZDIgbGc0IG9mZnNldC1sZzQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICE9PSBcW1xd</text>

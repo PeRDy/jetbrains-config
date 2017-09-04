@@ -57,6 +57,13 @@
         <option name="FOREGROUND" value="f2777a" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="d27b53" />
@@ -114,6 +121,18 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cc99cc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6699cc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="995a26" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -487,6 +506,12 @@
         <option name="FOREGROUND" value="6699cc" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="995a26" />
+      </value>
+    </option>
     <option name="KOTLIN_AUTO_CASTED_VALUE">
       <value>
         <option name="BACKGROUND" value="515151" />
@@ -562,6 +587,12 @@
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value />
     </option>
+    <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="REST.INTERPRETED">
+      <value>
+        <option name="FOREGROUND" value="66cccc" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d27b53" />
@@ -634,7 +665,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7f0000" />
+        <option name="FOREGROUND" value="e92024" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
