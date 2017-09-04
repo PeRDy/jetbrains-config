@@ -790,6 +790,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="39" column="7" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/make" timestamp="1504562019092">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/sass.js" timestamp="1489336231361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="2" />
@@ -1303,151 +1309,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/client/src/js/graphql/app.graphql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>query {
-    allProfiles(first: 1) {
-        edges {
-            node {
-                ...profile
-                experiences {
-                    edges {
-                        node {
-                            ...experience
-                        }
-                    }
-                }
-                educations {
-                    edges {
-                        node {
-                            ...education
-                        }
-                    }
-                }
-                skills {
-                    edges {
-                        node {
-                            ...skill
-                        }
-                    }
-                }
-                recommendations {
-                    edges {
-                        node {
-                            ...recommendation
-                        }
-                    }
-                }
-                publications {
-                    edges {
-                        node {
-                            ...publication
-                        }
-                    }
-                }
-                honors {
-                    edges {
-                        node {
-                            ...honor
-                        }
-                    }
-                }
-            }
-        }
-    }
-    allUsers(first: 1) {
-        edges {
-            node {
-                ...user
-                repositories {
-                    edges {
-                        node {
-                            ...repository
-                        }
-                    }
-                }
-            }
-        }
-    }
-}
-
-fragment profile on ProfileNode {
-    id
-    name
-    title
-}
-
-fragment experience on ExperienceNode {
-    id
-    title
-    location
-    dateFrom
-    dateTo
-    current
-    description
-    company
-    companyLogo
-}
-
-fragment education on EducationNode {
-    id
-    degree
-    grade
-    fieldOfStudy
-    dateFrom
-    dateTo
-    current
-    description
-    school
-    schoolLogo
-}
-
-fragment skill on SkillNode {
-    id
-    name
-    points
-}
-
-fragment recommendation on RecommendationNode {
-    id
-    name
-    title
-    description
-}
-
-fragment publication on PublicationNode {
-    id
-    title
-    date
-    publisher
-    description
-}
-
-fragment honor on HonorNode {
-    id
-    title
-    date
-    description
-}
-
-fragment user on UserNode {
-    id
-    name
-    login
-    email
-    company
-}
-
-fragment repository on RepositoryNode {
-    id
-    name
-    url
-    description
-    createdAt
-    pushedAt
-    isFork
-    forks
-    stars
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwaXAK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1462,31 +1325,31 @@ fragment repository on RepositoryNode {
         <text encoding="base64">ICAgICAgaHVtYW5pemVkTmFtZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5uYW1lLnJlcGxhY2UoLy0vZywgIiAiKTsKICAgICAgfSwKICAgICAgaHVtYW5pemVkQ3JlYXRlZEF0KCkgewogICAgICAgIGxldCBkYXRlID0gbmV3IERhdGUodGhpcy5jcmVhdGVkQXQpOwogICAgICAgIGxldCBzdHJEYXRlID0gZGF0ZS50b0RhdGVTdHJpbmcoKS5zbGljZSg0KTsKICAgICAgICByZXR1cm4gc3RyRGF0ZS5zbGljZSgwLCA2KSArICIsICIgKyBkYXRlLmdldEZ1bGxZZWFyKCk7CiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwaXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZXBvc2l0b3JpZXNCeVllYXIKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyZWRSZXBvc2l0b3JpZXMoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZXBvc2l0b3JpZXNCeVllYXIKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyZWRSZXBvc2l0b3JpZXMoKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGZpbHRlcmVkID0gdGhpcy5yZXBvc2l0b3JpZXMKICAgICAgICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5maWx0ZXIoKGEpID0+IChhLnRpdGxlLmluY2x1ZGVzKHRoaXMuc2VhcmNoKSkgfHwgYS5kZXNjcmlwdGlvbi5pbmNsdWRlcyh0aGlzLnNlYXJjaCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5zb3J0KChhLCBiKSA9PiBhLmRhdGVGcm9tIDwgYi5kYXRlRnJvbSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGZpbHRlcmVkID0gdGhpcy5yZXBvc2l0b3JpZXMKICAgICAgICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5maWx0ZXIoKGEpID0+IChhLnRpdGxlLmluY2x1ZGVzKHRoaXMuc2VhcmNoKSkgfHwgYS5kZXNjcmlwdGlvbi5pbmNsdWRlcyh0aGlzLnNlYXJjaCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyZWQgPSBmaWx0ZXJlZC5zb3J0KChhLCBiKSA9PiBhLmRhdGVGcm9tIDwgYi5kYXRlRnJvbSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx2LWRpdmlkZXIgaW5zZXQ+PC92LWRpdmlkZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvdi1idG4+CiAgICAgICAgPC92LXRvb2xiYXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx2LWRpdmlkZXIgaW5zZXQ+PC92LWRpdmlkZXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9maWx0ZXJlZFJlcG9zL2c=</text>
