@@ -346,6 +346,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/spiders.py" timestamp="1504572133868">
+        <mark key="[" line="152" column="64" />
+        <mark key="]" line="152" column="64" />
+        <mark key="." line="152" column="64" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/.env" timestamp="1497007709506">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="58" />
@@ -1014,13 +1019,6 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="126" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/App.vue" timestamp="1504481100660">
-        <mark key="'" line="9" column="31" />
-        <mark key="[" line="99" column="25" />
-        <mark key="]" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-        <mark key="^" line="99" column="16" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_base.scss" timestamp="1490228166230">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="2" column="0" />
@@ -1327,14 +1325,15 @@
       <jump line="4288" column="7" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwcmltYXJ5LS1hZnRlciIK</text>
+      <register name="&quot;" type="4">
+        <text>#, endpoint='execute',
+                             #args={'lua_source': SPLASH_LUA})</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>?locale=en_US</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
@@ -1342,32 +1341,33 @@
       <register name="0" type="4">
         <text encoding="base64">PHNwYW4gY2xhc3M9ImJsYWNrLS10ZXh0Ij4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwcmltYXJ5LS1hZnRlciIK</text>
+      <register name="1" type="4">
+        <text>#, endpoint='execute',
+                             #args={'lua_source': SPLASH_LUA})</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJpcHBsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwcmltYXJ5LS1hZnRlciIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHNlY29uZGFyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJpcHBsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBpIHsKICAgICAgd2lkdGg6IDI0cHg7CiAgICAgIGhlaWdodDogMjRweDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHNlY29uZGFyeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4OwogICAgfQo=</text>
+        <text encoding="base64">CiAgICBpIHsKICAgICAgd2lkdGg6IDI0cHg7CiAgICAgIGhlaWdodDogMjRweDsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4Owo=</text>
+        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4OwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L3YtZmxleD4KICAgICAgICAgICAgPC92LWxheW91dD4K</text>
+        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8di1mbGV4IHhzMTEgY2xhc3M9InBhLTEiPgogICAgICAgICAgICAgICAge3sgcHJvZmlsZS5jb21wYW55IH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L3YtZmxleD4KICAgICAgICAgICAgPC92LWxheW91dD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdi1idG4+CiAgICAgICAgICAgICAgPC92LWZsZXg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8di1mbGV4IHhzMTEgY2xhc3M9InBhLTEiPgogICAgICAgICAgICAgICAge3sgcHJvZmlsZS5jb21wYW55IH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9maWx0ZXJlZFJlcG9zL2c=</text>
