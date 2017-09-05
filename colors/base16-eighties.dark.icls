@@ -588,6 +588,7 @@
       <value />
     </option>
     <option name="REST.FIXED" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="REST.INLINE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INTERPRETED">
       <value>
         <option name="FOREGROUND" value="66cccc" />

@@ -277,6 +277,11 @@
         <mark key="^" line="311" column="17" />
         <mark key="." line="314" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/.gitignore" timestamp="1504622053456">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/requirements.txt" timestamp="1491425885134">
         <mark key="[" line="5" column="0" />
       </file>
@@ -557,7 +562,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504436538142">
+      <file name="/Dummy.txt" timestamp="1504621408763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
@@ -703,6 +708,11 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/nose.py" timestamp="1491425191750">
         <mark key="[" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/miner.cfg" timestamp="1504621057942">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
@@ -952,6 +962,12 @@
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504564847223">
         <mark key="[" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/Dockerfile" timestamp="1504621222713">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/permissions.py" timestamp="1452552179145">
         <mark key="[" line="35" column="12" />
         <mark key="]" line="39" column="12" />
@@ -1072,6 +1088,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/__main__.py" timestamp="1504621338946">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="16" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="52" column="16" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/__init__.py" timestamp="1490367204024">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1189,6 +1211,12 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/README.rst" timestamp="1504621830414">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
@@ -1324,15 +1352,14 @@
       <jump line="4288" column="7" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#, endpoint='execute',
-                             #args={'lua_source': SPLASH_LUA})</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>?locale=en_US</text>
+        <text>telegram</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
@@ -1340,33 +1367,32 @@
       <register name="0" type="4">
         <text encoding="base64">PHNwYW4gY2xhc3M9ImJsYWNrLS10ZXh0Ij4=</text>
       </register>
-      <register name="1" type="4">
-        <text>#, endpoint='execute',
-                             #args={'lua_source': SPLASH_LUA})</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwcmltYXJ5LS1hZnRlciIK</text>
+        <text encoding="base64">IyMgV2FsbGV0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJpcHBsZQo=</text>
+        <text encoding="base64">LmdldGgud2x0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHNlY29uZGFyeQo=</text>
+        <text encoding="base64">NC4gQ29uZmlndXJlIG1pbmVyIHBhcmFtZXRlcnMgaW4gKm1pbmVyLmNmZyogZmlsZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpIHsKICAgICAgd2lkdGg6IDI0cHg7CiAgICAgIGhlaWdodDogMjRweDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4OwogICAgfQo=</text>
+        <text encoding="base64">Li4gY29kZTo6IGJhc2gKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGkgewogICAgICB3aWR0aDogMjRweDsKICAgICAgaGVpZ2h0OiAyNHB4Owo=</text>
+        <text encoding="base64">My4gSW5zdGFsbCBweXRob24gcmVxdWlyZW1lbnRzLgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L3YtZmxleD4KICAgICAgICAgICAgPC92LWxheW91dD4K</text>
+        <text encoding="base64">ICAgIGdpdCBjbG9uZSBnaXRAYml0YnVja2V0Lm9yZzpEYWFraXNoL2JhcnJlbmVyby10ZWxlZ3JhbS5naXQKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8di1mbGV4IHhzMTEgY2xhc3M9InBhLTEiPgogICAgICAgICAgICAgICAge3sgcHJvZmlsZS5jb21wYW55IH19Cg==</text>
+        <text encoding="base64">Li4gY29kZTo6IGJhc2gKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9maWx0ZXJlZFJlcG9zL2c=</text>
