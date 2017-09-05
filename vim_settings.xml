@@ -968,12 +968,12 @@
         <mark key="^" line="31" column="31" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/ether.py" timestamp="1504625165511">
-        <mark key="'" line="78" column="8" />
-        <mark key="[" line="47" column="66" />
-        <mark key="]" line="48" column="15" />
-        <mark key="^" line="48" column="15" />
-        <mark key="." line="48" column="15" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/ether.py" timestamp="1504627020838">
+        <mark key="'" line="77" column="28" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="77" column="29" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/requirements-tests.txt" timestamp="1492352581865">
         <mark key="[" line="0" column="6" />
@@ -1001,8 +1001,8 @@
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504564847223">
         <mark key="[" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/Dockerfile" timestamp="1504621222713">
-        <mark key="[" line="41" column="22" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/Dockerfile" timestamp="1504627361134">
+        <mark key="[" line="30" column="35" />
         <mark key="]" line="41" column="20" />
         <mark key="^" line="41" column="20" />
         <mark key="." line="41" column="20" />
@@ -1133,11 +1133,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/__main__.py" timestamp="1504621338946">
-        <mark key="[" line="52" column="21" />
-        <mark key="]" line="52" column="16" />
-        <mark key="^" line="52" column="16" />
-        <mark key="." line="52" column="16" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/__main__.py" timestamp="1504627754348">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="^" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/__init__.py" timestamp="1490367204024">
         <mark key="[" line="0" column="0" />
@@ -1195,6 +1195,11 @@
         <mark key="]" line="5" column="45" />
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/miner.py" timestamp="1504627006071">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="79" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/make.py" timestamp="1497534369047">
         <mark key="[" line="17" column="22" />
@@ -1300,8 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3548" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3558" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3568" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3575" column="8" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3588" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1400,49 +1403,135 @@
       <jump line="46" column="22" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/Dockerfile" />
       <jump line="29" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/Dockerfile" />
       <jump line="62" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/miner.py" />
+      <jump line="77" column="28" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/ether.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.geth.wlt</text>
+        <text>json</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>.geth.wlt</text>
+        <text>json</text>
       </register>
       <register name="/" type="4">
         <text>miner</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImJsYWNrLS10ZXh0Ij4=</text>
+        <text>'base_file': {
+                'class': 'logging.handlers.RotatingFileHandler',
+                'filename': 'logs/base.log',
+                'formatter': 'json',
+                'level': 'INFO',
+                'maxBytes': 10 * (2 ** 20),
+                'backupCount': 5
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9hY2NvdW50ID0gZi5yZWFkbGluZSgpLnJzdHJpcCgpCgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpbXAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Clt0ZWxlZ3JhbV0KdG9rZW4gPSA0NDA3MDYzMjk6QUFHdk82MWlrdDRBSlBkM3NOc0JUZDJPMEpCN1F0LXVRMm8Kc2VjcmV0X2tleSA9IGNiMzU4NTI5NGRhMzc5NTZjZWMyMzdhMWQwMzg0NjlhCnN1cGVydXNlciA9IDZjNzBiODMwMDE5ZGVmNGJhNjAzYzUxZjY5OGE3OTExZmM0MzE0NzA2ZGQ2MDdhMjA2YzNlMjgzMTA1MDRjYmIKc3FsaXRlID0gLmRhdGEvdGVsZWdyYW1fYm90LmRiCm1heF9pZGxlID0gMzAwCgpbZXRoZXJzY2FuXQp0b2tlbiA9IDM0S0k2UjZOOEY5Qk4xVEc2RUdVUkczU1dBTlZSVk02UTMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVxdWVzdHMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHl0aG9uLXRlbGVncmFtLWJvdAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgpAY29tbWFuZChjb21tYW5kX3R5cGU9VHlwZS5QWVRIT04sCiAgICAgICAgIGFyZ3M9KCgoJy1jJywgJy0tY29uZmlnLWZpbGUnKSwgeydoZWxwJzogJ0NvbmZpZyBmaWxlJywgJ2RlZmF1bHQnOiAnbWluZXIuY2ZnJ30pLCksCiAgICAgICAgIHBhcnNlcl9vcHRzPXsnaGVscCc6ICdUZWxlZ3JhbSBib3QnfSkKZGVmIHRlbGVncmFtKCphcmdzLCAqKmt3YXJncyk6CiAgICBUZWxlZ3JhbUJvdChjb25maWc9a3dhcmdzWydjb25maWdfZmlsZSddKS5ydW4oKQ==</text>
+      <register name="2" type="4">
+        <text>import logging
+import logging.config
+import os
+import re
+import shlex
+import subprocess
+from configparser import ConfigParser
+
+
+class Miner:
+    def __init__(self, config='setup.cfg'):
+        self._command = None
+        self._account = None
+
+        self.config = ConfigParser()
+        self.config.read(config)
+
+        if not self.config.has_section('core'):
+            raise ValueError(&quot;Cannot found core section in config file&quot;)
+
+        if not self.config.has_section('ether'):
+            raise ValueError(&quot;Cannot found miner section in config file&quot;)
+
+        self.logger = logging.getLogger('ether')
+        self.values_logger = logging.getLogger('values')
+
+    @property
+    def command(self):
+        if not self._command:
+            bin_path = os.path.expanduser(self.config.get('ether', 'bin'))
+            args = self.config.get('ether', 'args', fallback='')
+            pool_primary = self.config.get('ether', 'pool_primary')
+            pool_secondary = self.config.get('ether', 'pool_secondary')
+            worker_name = self.config.get('ether', 'worker', fallback='Worker')
+            email = self.config.get('ether', 'email', fallback=None)
+            worker = f'{self.account}.{worker_name}'
+            if email:
+                worker += f'/{email}'
+
+            self._command = f'{bin_path} {args} -S {pool_primary} -FS {pool_secondary} -O {worker}'
+
+        return self._command
+
+    @property
+    def account(self):
+        if not self._account:
+            try:
+                self._account = self.config.get('ether', 'wallet')
+
+                if self._account[:2] != '0x':
+                    self._account = '0x' + self._account
+            except PermissionError:
+                raise PermissionError('Cannot access to wallet account')
+
+        return self._account
+
+    def run(self):
+        os.environ['GPU_FORCE_64BIT_PTR'] = '0'
+        os.environ['GPU_MAX_HEAP_SIZE'] = '100'
+        os.environ['GPU_USE_SYNC_OBJECTS'] = '1'
+        os.environ['GPU_MAX_ALLOC_PERCENT'] = '100'
+        os.environ['GPU_SINGLE_ALLOC_PERCENT'] = '100'
+
+        hashes_regex = re.compile(r'(\d+\.\d+)MH/s')
+        self.logger.info('Run command: %s', self.command)
+        process = subprocess.Popen(shlex.split(self.command), stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                                   bufsize=1, universal_newlines=True)
+
+        for message in (m.rstrip() for m in process.stdout):
+            try:
+                hashes = float(hashes_regex.search(message).group(1))
+            except (AttributeError, ValueError):
+                self.logger.info(message)
+            else:
+                self.values_logger.info(f'{hashes:.2f}')
+
+        process.stdout.close()
+        return process.poll()</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9hY2NvdW50ID0gZi5yZWFkbGluZSgpLnJzdHJpcCgpCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpbXAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Clt0ZWxlZ3JhbV0KdG9rZW4gPSA0NDA3MDYzMjk6QUFHdk82MWlrdDRBSlBkM3NOc0JUZDJPMEpCN1F0LXVRMm8Kc2VjcmV0X2tleSA9IGNiMzU4NTI5NGRhMzc5NTZjZWMyMzdhMWQwMzg0NjlhCnN1cGVydXNlciA9IDZjNzBiODMwMDE5ZGVmNGJhNjAzYzUxZjY5OGE3OTExZmM0MzE0NzA2ZGQ2MDdhMjA2YzNlMjgzMTA1MDRjYmIKc3FsaXRlID0gLmRhdGEvdGVsZWdyYW1fYm90LmRiCm1heF9pZGxlID0gMzAwCgpbZXRoZXJzY2FuXQp0b2tlbiA9IDM0S0k2UjZOOEY5Qk4xVEc2RUdVUkczU1dBTlZSVk02UTMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cmVxdWVzdHMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHl0aG9uLXRlbGVncmFtLWJvdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RlbGVncmFtJzogewogICAgICAgICAgICAgICAgJ2hhbmRsZXJzJzogWydjb25zb2xlJywgJ3RlbGVncmFtX2ZpbGUnXSwKICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpAY29tbWFuZChjb21tYW5kX3R5cGU9VHlwZS5QWVRIT04sCiAgICAgICAgIGFyZ3M9KCgoJy1jJywgJy0tY29uZmlnLWZpbGUnKSwgeydoZWxwJzogJ0NvbmZpZyBmaWxlJywgJ2RlZmF1bHQnOiAnbWluZXIuY2ZnJ30pLCksCiAgICAgICAgIHBhcnNlcl9vcHRzPXsnaGVscCc6ICdUZWxlZ3JhbSBib3QnfSkKZGVmIHRlbGVncmFtKCphcmdzLCAqKmt3YXJncyk6CiAgICBUZWxlZ3JhbUJvdChjb25maWc9a3dhcmdzWydjb25maWdfZmlsZSddKS5ydW4oKQ==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
