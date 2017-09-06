@@ -640,11 +640,11 @@
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/base.html" timestamp="1490228197980">
         <mark key="[" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1504724269876">
-        <mark key="[" line="28" column="80" />
-        <mark key="]" line="28" column="121" />
-        <mark key="^" line="28" column="121" />
-        <mark key="." line="28" column="121" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1504731102206">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -1496,7 +1496,7 @@
         <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1548,10 +1548,10 @@
         <entry>s</entry>
         <entry>%s/miner/$APP/g</entry>
         <entry encoding="base64">JzwsJz5zL21pbmVyLyRBUFAvZw==</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>%s/ether/storj/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
