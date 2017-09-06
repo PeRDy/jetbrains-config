@@ -252,8 +252,8 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_nvidia.py" timestamp="1504735655146">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_nvidia.py" timestamp="1504736994756">
+        <mark key="[" line="0" column="22" />
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
         <mark key="^" line="18" column="32" />
@@ -302,11 +302,11 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/manage.py" timestamp="1493148795788">
         <mark key="[" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/dockerfiles/storj/Dockerfile" timestamp="1504736465076">
-        <mark key="[" line="6" column="78" />
-        <mark key="]" line="6" column="85" />
-        <mark key="^" line="6" column="85" />
-        <mark key="." line="6" column="85" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/dockerfiles/storj/Dockerfile" timestamp="1504738046570">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/__init__.py" timestamp="1493762515273">
         <mark key="[" line="0" column="0" />
@@ -767,12 +767,12 @@
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/nose.py" timestamp="1491425191750">
         <mark key="[" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_ether.py" timestamp="1504735609516">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_ether.py" timestamp="1504736986349">
         <mark key="'" line="98" column="28" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="98" column="28" />
-        <mark key="^" line="98" column="28" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/miner.cfg" timestamp="1504621057942">
         <mark key="[" line="0" column="0" />
@@ -797,9 +797,9 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/dockerfiles/ether/Dockerfile" timestamp="1504720628880">
-        <mark key="[" line="61" column="6" />
-        <mark key="]" line="61" column="6" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/dockerfiles/ether/Dockerfile" timestamp="1504737530647">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="36" />
         <mark key="." line="61" column="6" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504564613920">
@@ -889,8 +889,8 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_storj.py" timestamp="1504735683381">
-        <mark key="[" line="26" column="22" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_storj.py" timestamp="1504736999073">
+        <mark key="[" line="0" column="22" />
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
@@ -1472,7 +1472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1483,38 +1483,38 @@
       <register name="/" type="4">
         <text>ether</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dHJ5OgogICAgZnJvbSBjbGlubmVyLmNvbW1hbmQgaW1wb3J0IGNvbW1hbmQsIFR5cGUgYXMgQ29tbWFuZFR5cGUKICAgIGZyb20gY2xpbm5lci5ydW4gaW1wb3J0IE1haW4KZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6CiAgICBpbXBvcnQgcGlwCgogICAgcHJpbnQoJ0luc3RhbGxpbmcgQ2xpbm5lcicpCiAgICBwaXAubWFpbihbJ2luc3RhbGwnLCAnLS11c2VyJywgJy1xcScsICdjbGlubmVyJ10pCgogICAgZnJvbSBjbGlubmVyLmNvbW1hbmQgaW1wb3J0IGNvbW1hbmQsIFR5cGUgYXMgQ29tbWFuZFR5cGUKICAgIGZyb20gY2xpbm5lci5ydW4gaW1wb3J0IE1haW4K</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhcHQtdHJhbnNwb3J0LWh0dHBzIFwKICAgICAgICBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbiBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm0gLXJmIC90bXAvbnBtKiAmJiBcCnN0b3Jqc2hhcmUgLS12ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHQtdXRpbHMgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBrIGRlbCBnaXQgb3BlbnNzbC1kZXYgcHl0aG9uIHZpbSAmJiBcCnJtIC1yZiAvdmFyL2NhY2hlL2Fway8qICYmIFwK</text>
+        <text encoding="base64">ICAgICAgICBhcHQtdXRpbHMgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgLS1nbG9iYWwgc3RvcmpzaGFyZS1kYWVtb24gJiYgXApucG0gY2FjaGUgY2xlYW4gJiYgXAo=</text>
+        <text encoding="base64">RVhQT1NFIDQwMDAKRVhQT1NFIDQwMDEKRVhQT1NFIDQwMDIKRVhQT1NFIDQwMDMKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnBtIC0tdmVyc2lvbiAmJiBcCnB5dGhvbiAtLXZlcnNpb24gJiYgXAo=</text>
+        <text encoding="base64">YXB0LWdldCAtLXB1cmdlIHJlbW92ZSAteSBhcHQtdXRpbHMgYnVpbGQtZXNzZW50aWFsIGdpdCBsaWJzc2wtZGV2IHB5dGhvbiB2aW0gJiYgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBiYXNoIGcrKyBnaXQgbWFrZSBvcGVuc3NsLWRldiBweXRob24gdmltIHB5dGhvbjMgJiYgXApub2RlIC0tdmVyc2lvbiAmJiBcCg==</text>
+        <text encoding="base64">IyBJbnN0YWxsIHN0b3Jqc2hhcmUKUlVOIG5wbSBpbnN0YWxsIC0tZ2xvYmFsIHN0b3Jqc2hhcmUtZGFlbW9uIC0tdW5zYWZlLXBlcm0gJiYgXAogICAgZWNobyBucG0gLS12ZXJzaW9uOyBucG0gLS12ZXJzaW9uICYmIFwKICAgIGVjaG8gc3RvcmpzaGFyZSAtLXZlcnNpb247IHN0b3Jqc2hhcmUgLS12ZXJzaW9uCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3VybCAtc0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfNi54IHwgYmFzaCAtICYmIFwK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHN0b3Jqc2hhcmUKUlVOIG5wbSBpbnN0YWxsIC0tZ2xvYmFsIHN0b3Jqc2hhcmUtZGFlbW9uIC0tdW5zYWZlLXBlcm0gJiYgXAogICAgZWNobyBucG0gLS12ZXJzaW9uOyBucG0gLS12ZXJzaW9uICYmIFwKICAgIGVjaG8gc3RvcmpzaGFyZSAtLXZlcnNpb247IHN0b3Jqc2hhcmUgLS12ZXJzaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjbGlubmVyLmNvbW1hbmQgaW1wb3J0IFR5cGUsIGNvbW1hbmQKZnJvbSBjbGlubmVyLnJ1biBpbXBvcnQgTWFpbiBhcyBNYWluCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gbnBtIC0tdmVyc2lvbjsgbnBtIC0tdmVyc2lvbiAmJiBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjbGlubmVyLmNvbW1hbmQgaW1wb3J0IFR5cGUsIGNvbW1hbmQKZnJvbSBjbGlubmVyLnJ1biBpbXBvcnQgTWFpbiBhcyBNYWluCg==</text>
+        <text encoding="base64">cm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qICYmIFwKcm0gLXJmIC90bXAvbnBtKiAmJiBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1568,8 +1568,8 @@
         <entry encoding="base64">JzwsJz5zL21pbmVyLyRBUFAvZw==</entry>
         <entry>q</entry>
         <entry>%s/ether/storj/g</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
