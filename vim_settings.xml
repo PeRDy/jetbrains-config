@@ -290,7 +290,7 @@
       <file name="$USER_HOME$/Desarrollo/clinner/tests/requirements.txt" timestamp="1491425885134">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1504735292875">
+      <file name="/GraphQL.result.json" timestamp="1504738796486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
@@ -302,11 +302,11 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/manage.py" timestamp="1493148795788">
         <mark key="[" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/dockerfiles/storj/Dockerfile" timestamp="1504738046570">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/dockerfiles/storj/Dockerfile" timestamp="1504738900159">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="60" column="21" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/__init__.py" timestamp="1493762515273">
         <mark key="[" line="0" column="0" />
@@ -1472,7 +1472,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
+        <text encoding="base64">V09SS0RJUiAvc3J2L2FwcHMvJEFQUAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1484,7 +1484,7 @@
         <text>ether</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHQtdHJhbnNwb3J0LWh0dHBzIFwKICAgICAgICBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbiBcCg==</text>
+        <text encoding="base64">V09SS0RJUiAvc3J2L2FwcHMvJEFQUAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
