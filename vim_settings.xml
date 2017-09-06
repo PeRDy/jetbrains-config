@@ -632,8 +632,11 @@
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/base.html" timestamp="1490228197980">
         <mark key="[" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1504622849437">
-        <mark key="[" line="17" column="21" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1504688117500">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="59" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -1414,131 +1417,47 @@
       <jump line="77" column="28" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/ether.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>miner</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>miner</text>
       </register>
       <register name="/" type="4">
         <text>miner</text>
       </register>
       <register name="0" type="4">
-        <text>'base_file': {
-                'class': 'logging.handlers.RotatingFileHandler',
-                'filename': 'logs/base.log',
-                'formatter': 'json',
-                'level': 'INFO',
-                'maxBytes': 10 * (2 ** 20),
-                'backupCount': 5
-            }</text>
+        <text>(('--name',), {'help': 'Docker image name'}),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGRhdGFfcGF0aCA9IG9zLnBhdGguam9pbihvcy5nZXRjd2QoKSwgJy5kYXRhJykKICAgIGRhdGFfZmxhZyA9IGYnLXYge2RhdGFfcGF0aH06L3Nydi9hcHBzL21pbmVyLy5kYXRhJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlcyc6IHsKICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsndmFsdWVzX2ZpbGUnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdiYWNrdXBDb3VudCc6IDUKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlcyc6IHsKICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsndmFsdWVzX2ZpbGUnXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdtYXhCeXRlcyc6IDEwICogKDIgKiogMjApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdiYWNrdXBDb3VudCc6IDUKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlbmFtZSc6ICdsb2dzL3RlbGVncmFtL3ZhbHVlcy5sb2cnLAogICAgICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICd2YWx1ZV9qc29uJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdtYXhCeXRlcyc6IDEwICogKDIgKiogMjApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlc19maWxlJzogewogICAgICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuaGFuZGxlcnMuUm90YXRpbmdGaWxlSGFuZGxlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlbmFtZSc6ICdsb2dzL3RlbGVncmFtL3ZhbHVlcy5sb2cnLAogICAgICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICd2YWx1ZV9qc29uJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlc19maWxlJzogewogICAgICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuaGFuZGxlcnMuUm90YXRpbmdGaWxlSGFuZGxlcicsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>import logging
-import logging.config
-import os
-import re
-import shlex
-import subprocess
-from configparser import ConfigParser
-
-
-class Miner:
-    def __init__(self, config='setup.cfg'):
-        self._command = None
-        self._account = None
-
-        self.config = ConfigParser()
-        self.config.read(config)
-
-        if not self.config.has_section('core'):
-            raise ValueError(&quot;Cannot found core section in config file&quot;)
-
-        if not self.config.has_section('ether'):
-            raise ValueError(&quot;Cannot found miner section in config file&quot;)
-
-        self.logger = logging.getLogger('ether')
-        self.values_logger = logging.getLogger('values')
-
-    @property
-    def command(self):
-        if not self._command:
-            bin_path = os.path.expanduser(self.config.get('ether', 'bin'))
-            args = self.config.get('ether', 'args', fallback='')
-            pool_primary = self.config.get('ether', 'pool_primary')
-            pool_secondary = self.config.get('ether', 'pool_secondary')
-            worker_name = self.config.get('ether', 'worker', fallback='Worker')
-            email = self.config.get('ether', 'email', fallback=None)
-            worker = f'{self.account}.{worker_name}'
-            if email:
-                worker += f'/{email}'
-
-            self._command = f'{bin_path} {args} -S {pool_primary} -FS {pool_secondary} -O {worker}'
-
-        return self._command
-
-    @property
-    def account(self):
-        if not self._account:
-            try:
-                self._account = self.config.get('ether', 'wallet')
-
-                if self._account[:2] != '0x':
-                    self._account = '0x' + self._account
-            except PermissionError:
-                raise PermissionError('Cannot access to wallet account')
-
-        return self._account
-
-    def run(self):
-        os.environ['GPU_FORCE_64BIT_PTR'] = '0'
-        os.environ['GPU_MAX_HEAP_SIZE'] = '100'
-        os.environ['GPU_USE_SYNC_OBJECTS'] = '1'
-        os.environ['GPU_MAX_ALLOC_PERCENT'] = '100'
-        os.environ['GPU_SINGLE_ALLOC_PERCENT'] = '100'
-
-        hashes_regex = re.compile(r'(\d+\.\d+)MH/s')
-        self.logger.info('Run command: %s', self.command)
-        process = subprocess.Popen(shlex.split(self.command), stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-                                   bufsize=1, universal_newlines=True)
-
-        for message in (m.rstrip() for m in process.stdout):
-            try:
-                hashes = float(hashes_regex.search(message).group(1))
-            except (AttributeError, ValueError):
-                self.logger.info(message)
-            else:
-                self.values_logger.info(f'{hashes:.2f}')
-
-        process.stdout.close()
-        return process.poll()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
