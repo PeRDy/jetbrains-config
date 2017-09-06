@@ -287,8 +287,11 @@
       <file name="/GraphQL.result.json" timestamp="1504620971114">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504624543028">
-        <mark key="[" line="7" column="32" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/manage.py" timestamp="1493148795788">
         <mark key="[" line="5" column="60" />
@@ -476,9 +479,9 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/Dockerfile" timestamp="1504623553913">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/Dockerfile" timestamp="1504688948328">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="1" column="0" />
+        <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
@@ -632,11 +635,11 @@
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/base.html" timestamp="1490228197980">
         <mark key="[" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1504688117500">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="22" column="59" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="22" column="59" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1504688852317">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -907,6 +910,12 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_telegram.service" timestamp="1504689088112">
+        <mark key="[" line="10" column="165" />
+        <mark key="]" line="10" column="167" />
+        <mark key="." line="10" column="167" />
+        <mark key="^" line="10" column="167" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experiences.vue" timestamp="1504560549780">
         <mark key="[" line="61" column="41" />
         <mark key="]" line="60" column="48" />
@@ -1167,11 +1176,11 @@
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/models.py" timestamp="1503344126625">
         <mark key="[" line="92" column="89" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_miner.service" timestamp="1504624534865">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="9" column="42" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_miner.service" timestamp="1504689135490">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="10" column="101" />
+        <mark key="^" line="10" column="101" />
+        <mark key="." line="10" column="101" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/pipelines.py" timestamp="1497370390003">
         <mark key="[" line="18" column="34" />
@@ -1418,46 +1427,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>miner</text>
+        <text>s</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>miner</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>miner</text>
       </register>
-      <register name="0" type="4">
-        <text>(('--name',), {'help': 'Docker image name'}),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgYXJncz0oKCgnLS1hcHAnLCksIHsnaGVscCc6ICdBcHAgbmFtZSAoc2FtZSBhcyBkb2NrZXIgaW50ZXJuYWwgcGF0aCknLCAnY2hvaWNlcyc6IEFQUF9DSE9JQ0VTfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGFfcGF0aCA9IG9zLnBhdGguam9pbihvcy5nZXRjd2QoKSwgJy5kYXRhJykKICAgIGRhdGFfZmxhZyA9IGYnLXYge2RhdGFfcGF0aH06L3Nydi9hcHBzL21pbmVyLy5kYXRhJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLS10YWcnLCksIHsnaGVscCc6ICdEb2NrZXIgaW1hZ2UgdGFnJ30pLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgYXJncz0oKCgnLXQnLCAnLS10YWcnKSwgeydoZWxwJzogJ0RvY2tlciBpbWFnZSB0YWcnfSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIGRhdGFfcGF0aCA9IG9zLnBhdGguam9pbihvcy5nZXRjd2QoKSwgJy5kYXRhJykKICAgIGRhdGFfZmxhZyA9IGYnLXYge2RhdGFfcGF0aH06L3Nydi9hcHBzL21pbmVyLy5kYXRhJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlcyc6IHsKICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsndmFsdWVzX2ZpbGUnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdiYWNrdXBDb3VudCc6IDUKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdtYXhCeXRlcyc6IDEwICogKDIgKiogMjApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlcyc6IHsKICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsndmFsdWVzX2ZpbGUnXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlbmFtZSc6ICdsb2dzL3RlbGVncmFtL3ZhbHVlcy5sb2cnLAogICAgICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICd2YWx1ZV9qc29uJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdiYWNrdXBDb3VudCc6IDUKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlc19maWxlJzogewogICAgICAgICAgICAgICAgJ2NsYXNzJzogJ2xvZ2dpbmcuaGFuZGxlcnMuUm90YXRpbmdGaWxlSGFuZGxlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdtYXhCeXRlcyc6IDEwICogKDIgKiogMjApLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlbmFtZSc6ICdsb2dzL3RlbGVncmFtL3ZhbHVlcy5sb2cnLAogICAgICAgICAgICAgICAgJ2Zvcm1hdHRlcic6ICd2YWx1ZV9qc29uJywK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
