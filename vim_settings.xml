@@ -1060,10 +1060,11 @@
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/base.py" timestamp="1493741801269">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/core/templates/core/base/base.html" timestamp="1504555501674">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="71" />
-        <mark key="." line="28" column="36" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/core/templates/core/base/base.html" timestamp="1504878694723">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="56" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/docker-compose-base.yml" timestamp="1467128616612">
         <mark key="[" line="8" column="25" />
@@ -1492,7 +1493,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnY2xpZW50JywgJ3N0YXRpYycpKQo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iIiBzaXplcz0iMTZ4MTYiPgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1507,31 +1508,31 @@
         <text encoding="base64">V09SS0RJUiAvc3J2L2FwcHMvJEFQUAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnY2xpZW50JywgJ3N0YXRpYycpKQo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iIiBzaXplcz0iMTZ4MTYiPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnY2xpZW50JywgJ3N0YXRpYycpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKUlVOIG5wbSBpbnN0YWxsCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
+        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKUlVOIG5wbSBpbnN0YWxsCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAuOi9zcnYvYXBwcy9wZXJkeS1zaXRlCg==</text>
+        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGt3YXJnc1sncmVnaXN0cnknXToKICAgICAgICB0YWcgPSAne3JlZ2lzdHJ5fS97dGFnfScuZm9ybWF0KHJlZ2lzdHJ5PWt3YXJnc1sncmVnaXN0cnknXSwgdGFnPXRhZykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLSAuOi9zcnYvYXBwcy9wZXJkeS1zaXRlCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGt3YXJnc1sncmVnaXN0cnknXToKICAgICAgICB0YWcgPSAne3JlZ2lzdHJ5fS97dGFnfScuZm9ybWF0KHJlZ2lzdHJ5PWt3YXJnc1sncmVnaXN0cnknXSwgdGFnPXRhZykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2NsaWVudC9kaXN0Oi9zcnYvYXBwcy9wZXJkeS1zaXRlL2NsaWVudC9kaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgLSAuOi9zcnYvYXBwcy9wZXJkeS1zaXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgLSAuL2NsaWVudC9kaXN0Oi9zcnYvYXBwcy9wZXJkeS1zaXRlL2NsaWVudC9kaXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/perdy-site/$APP/g</text>
