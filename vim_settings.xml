@@ -222,6 +222,9 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/urls.py" timestamp="1504874233264">
+        <mark key="[" line="17" column="11" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt" timestamp="1500600630291">
         <mark key="[" line="1" column="7" />
       </file>
@@ -276,6 +279,11 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/.gitignore" timestamp="1504875524291">
+        <mark key="[" line="129" column="13" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/static/scss/home.scss" timestamp="1467368490694">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="0" />
@@ -290,7 +298,7 @@
       <file name="$USER_HOME$/Desarrollo/clinner/tests/requirements.txt" timestamp="1491425885134">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1504738796486">
+      <file name="/GraphQL.result.json" timestamp="1504874122835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
@@ -740,11 +748,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose-production.yml" timestamp="1504567636918">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="73" column="13" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose-production.yml" timestamp="1504874988121">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="67" column="13" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/mixins/health_check.py" timestamp="1493739667710">
         <mark key="[" line="77" column="65" />
@@ -862,6 +870,13 @@
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" timestamp="1504875288489">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="29" column="0" />
@@ -907,11 +922,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/make" timestamp="1504562019092">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/make" timestamp="1504874961697">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/sass.js" timestamp="1489336231361">
         <mark key="[" line="0" column="0" />
@@ -1132,6 +1147,7 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="126" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/App.vue" timestamp="1504875575606" />
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_base.scss" timestamp="1490228166230">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="2" column="0" />
@@ -1369,9 +1385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3588" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3598" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3608" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3618" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3628" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3638" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1469,19 +1482,22 @@
       <jump line="77" column="28" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/ether.py" />
       <jump line="10" column="107" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_miner_storj.service" />
       <jump line="98" column="28" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_ether.py" />
+      <jump line="3" column="9" filename="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" />
+      <jump line="71" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(('--registry',), {'help': 'Docker registry'}),</text>
       </register>
       <register name="/" type="4">
-        <text>ether</text>
+        <text>perdy-site</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">V09SS0RJUiAvc3J2L2FwcHMvJEFQUAo=</text>
@@ -1490,45 +1506,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKUlVOIG5wbSBpbnN0YWxsCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
+        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvcGFydGlhbC8qLmRlYiBcCg==</text>
+        <text encoding="base64">ICAgICAgLSAuOi9zcnYvYXBwcy9wZXJkeS1zaXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCg==</text>
+        <text encoding="base64">ICAgIGlmIGt3YXJnc1sncmVnaXN0cnknXToKICAgICAgICB0YWcgPSAne3JlZ2lzdHJ5fS97dGFnfScuZm9ybWF0KHJlZ2lzdHJ5PWt3YXJnc1sncmVnaXN0cnknXSwgdGFnPXRhZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL3Bhc3Nlbmdlci5saXN0IFwK</text>
+        <text encoding="base64">ICAgICAgLSAuOi9zcnYvYXBwcy9wZXJkeS1zaXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aW0gJiYgXAogICAgcm0gLXJmICRIT01FLy5jYWNoZS9waXAvKiBcCg==</text>
+        <text encoding="base64">ICAgICAgLSAuL2NsaWVudC9kaXN0Oi9zcnYvYXBwcy9wZXJkeS1zaXRlL2NsaWVudC9kaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJzc2wtZGV2IFwKICAgICAgICBweXRob24gXAo=</text>
+        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJsIFwKICAgICAgICBnaXQgXAo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/perdy-site/$APP/g</text>
       </register>
     </registers>
     <search>
-      <last-search>ether</last-search>
+      <last-search>perdy-site</last-search>
       <last-offset />
-      <last-pattern>ether</last-pattern>
-      <last-replace>storj</last-replace>
-      <last-substitute>ether</last-substitute>
+      <last-pattern>perdy-site</last-pattern>
+      <last-replace>$APP</last-replace>
+      <last-substitute>perdy-site</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>balance</entry>
         <entry>action</entry>
         <entry>\*\n</entry>
         <entry>*\n</entry>
@@ -1548,9 +1563,9 @@
         <entry>'miner'</entry>
         <entry>miner</entry>
         <entry>ether</entry>
+        <entry>perdy-site</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2JhbGFuY2Uvd29ya2Vycy9n</entry>
         <entry>%s/\*\n/*\n\n/g</entry>
         <entry>%s/*\n/*\n\n/g</entry>
         <entry>%s# MH/s#MH/s#g</entry>
@@ -1566,10 +1581,11 @@
         <entry>s</entry>
         <entry>%s/miner/$APP/g</entry>
         <entry encoding="base64">JzwsJz5zL21pbmVyLyRBUFAvZw==</entry>
-        <entry>q</entry>
         <entry>%s/ether/storj/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>%s/perdy-site/$APP/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
