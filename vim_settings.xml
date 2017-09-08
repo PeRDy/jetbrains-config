@@ -386,8 +386,11 @@
         <mark key="." line="78" column="46" />
         <mark key="^" line="77" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1504890463834">
-        <mark key="[" line="52" column="22" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1504910109925">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="48" column="34" />
+        <mark key="^" line="48" column="34" />
+        <mark key="." line="48" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/status.py" timestamp="1504886203347">
         <mark key="[" line="20" column="0" />
@@ -1571,7 +1574,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLS1uby1udmlkaWEnLCksIHsnaGVscCc6ICdSdW4gd2l0aCBkb2NrZXInLCAnYWN0aW9uJzogJ3N0b3JlX3RydWUnfSkpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvIi9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1625,8 +1628,8 @@
         <entry>q</entry>
         <entry>%s/perdy-site/$APP/g</entry>
         <entry>s/16/32/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
