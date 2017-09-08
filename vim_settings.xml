@@ -609,8 +609,8 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/apollo-client.js" timestamp="1504567289360">
-        <mark key="[" line="5" column="31" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/apollo-client.js" timestamp="1504880967362">
+        <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="33" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
@@ -1060,11 +1060,12 @@
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/base.py" timestamp="1493741801269">
         <mark key="[" line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/core/templates/core/base/base.html" timestamp="1504878694723">
+      <file name="$USER_HOME$/Desarrollo/perdy-site/core/templates/core/base/base.html" timestamp="1504880479065">
+        <mark key="'" line="25" column="19" />
         <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+        <mark key="]" line="25" column="75" />
         <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="56" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/docker-compose-base.yml" timestamp="1467128616612">
         <mark key="[" line="8" column="25" />
@@ -1390,7 +1391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3618" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3628" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3638" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3648" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1490,22 +1490,23 @@
       <jump line="3" column="9" filename="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" />
       <jump line="71" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" />
       <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" />
+      <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/core/templates/core/base/base.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iIiBzaXplcz0iMTZ4MTYiPgo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iZmF2aWNvbi0xNngxNi5wbmciIHNpemVzPSIxNngxNiI+Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>(('--registry',), {'help': 'Docker registry'}),</text>
+        <text encoding="base64">Ij4=</text>
       </register>
       <register name="/" type="4">
-        <text>perdy-site</text>
+        <text>16</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V09SS0RJUiAvc3J2L2FwcHMvJEFQUAo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iZmF2aWNvbi0xNngxNi5wbmciIHNpemVzPSIxNngxNiI+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8bGluayByZWw9Imljb24iIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iIiBzaXplcz0iMTZ4MTYiPgo=</text>
@@ -1535,21 +1536,20 @@
         <text encoding="base64">ICAgICAgLSAuL2NsaWVudC9kaXN0Oi9zcnYvYXBwcy9wZXJkeS1zaXRlL2NsaWVudC9kaXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/perdy-site/$APP/g</text>
+        <text>s/16/32/g</text>
       </register>
     </registers>
     <search>
-      <last-search>perdy-site</last-search>
+      <last-search>16</last-search>
       <last-offset />
-      <last-pattern>perdy-site</last-pattern>
-      <last-replace>$APP</last-replace>
-      <last-substitute>perdy-site</last-substitute>
+      <last-pattern>16</last-pattern>
+      <last-replace>32</last-replace>
+      <last-substitute>16</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>action</entry>
         <entry>\*\n</entry>
         <entry>*\n</entry>
         <entry>chat</entry>
@@ -1569,9 +1569,9 @@
         <entry>miner</entry>
         <entry>ether</entry>
         <entry>perdy-site</entry>
+        <entry>16</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\*\n/*\n\n/g</entry>
         <entry>%s/*\n/*\n\n/g</entry>
         <entry>%s# MH/s#MH/s#g</entry>
         <entry>%s/RequestException/NanopoolRequestException/g</entry>
@@ -1591,6 +1591,7 @@
         <entry>w</entry>
         <entry>q</entry>
         <entry>%s/perdy-site/$APP/g</entry>
+        <entry>s/16/32/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
