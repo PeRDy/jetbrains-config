@@ -439,6 +439,11 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/nanopool.py" timestamp="1504910988625">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/schema.py" timestamp="1497563056541">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="7" />
@@ -813,6 +818,12 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/nanopool.py" timestamp="1504911098347">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -927,10 +938,10 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504890321348">
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504910754262">
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="49" />
+        <mark key="." line="272" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -1531,13 +1542,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lbV9jbG9jayA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>data_path</text>
+        <text>GraphicCard</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -1546,32 +1557,31 @@
         <text>(('-n', '--name',), {'help': 'Docker image name'}),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lbV9jbG9jayA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAjIERhdGFiYXNlCiAgICBEQVRBQkFTRVMgPSB7CiAgICAgICAgJ2RlZmF1bHQnOiB7CiAgICAgICAgICAgICdFTkdJTkUnOiAnZGphbmdvLmRiLmJhY2tlbmRzLnBvc3RncmVzcWxfcHN5Y29wZzInLAogICAgICAgICAgICAnTkFNRSc6IG9zLmVudmlyb24uZ2V0KCdEQl9ERUZBVUxUX05BTUUnKSwKICAgICAgICAgICAgJ0hPU1QnOiBvcy5lbnZpcm9uLmdldCgnREJfREVGQVVMVF9IT1NUJyksCiAgICAgICAgICAgICdQT1JUJzogb3MuZW52aXJvbi5nZXQoJ0RCX0RFRkFVTFRfUE9SVCcpLAogICAgICAgICAgICAnVVNFUic6IG9zLmVudmlyb24uZ2V0KCdEQl9ERUZBVUxUX1VTRVInKSwKICAgICAgICAgICAgJ1BBU1NXT1JEJzogb3MuZW52aXJvbi5nZXQoJ0RCX0RFRkFVTFRfUEFTU1dPUkQnKSwKICAgICAgICB9LAogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG1lbV91c2FnZSA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCiAgICBncHVfY2xvY2sgPSBzZXJpYWxpemVycy5JbnRlZ2VyRmllbGQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZhbiA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCiAgICBncHVfdXNhZ2UgPSBzZXJpYWxpemVycy5JbnRlZ2VyRmllbGQoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAjIERhdGFiYXNlCiAgICBEQVRBQkFTRVMgPSB7CiAgICAgICAgJ2RlZmF1bHQnOiB7CiAgICAgICAgICAgICdFTkdJTkUnOiAnZGphbmdvLmRiLmJhY2tlbmRzLnBvc3RncmVzcWxfcHN5Y29wZzInLAogICAgICAgICAgICAnTkFNRSc6IG9zLmVudmlyb24uZ2V0KCdEQl9ERUZBVUxUX05BTUUnKSwKICAgICAgICAgICAgJ0hPU1QnOiBvcy5lbnZpcm9uLmdldCgnREJfREVGQVVMVF9IT1NUJyksCiAgICAgICAgICAgICdQT1JUJzogb3MuZW52aXJvbi5nZXQoJ0RCX0RFRkFVTFRfUE9SVCcpLAogICAgICAgICAgICAnVVNFUic6IG9zLmVudmlyb24uZ2V0KCdEQl9ERUZBVUxUX1VTRVInKSwKICAgICAgICAgICAgJ1BBU1NXT1JEJzogb3MuZW52aXJvbi5nZXQoJ0RCX0RFRkFVTFRfUEFTU1dPUkQnKSwKICAgICAgICB9LAogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkKICAgIHBvd2VyID0gc2VyaWFsaXplcnMuRmxvYXRGaWVsZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RhdHMnOiAoCiAgICAgICAgICAgICgnZGF0YWJhc2VzJywgJ2hlYWx0aF9jaGVjay5wcm92aWRlcnMuZGphbmdvLnN0YXRzLmRhdGFiYXNlcycsIE5vbmUsIE5vbmUpLAo=</text>
+        <text encoding="base64">CiAgICAgICAgYm90LnNlbmRfY2hhdF9hY3Rpb24oY2hhdF9pZD1jaGF0X2lkLCBhY3Rpb249Q2hhdEFjdGlvbi5UWVBJTkcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uaGVhbHRoLmRhdGFiYXNlcycsIE5vbmUsIE5vbmUpLAo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHVwZGF0ZS5jYWxsYmFja19xdWVyeQogICAgICAgIGNoYXRfaWQgPSBxdWVyeS5tZXNzYWdlLmNoYXRfaWQK</text>
       </register>
       <register name="8" type="4">
-        <text>,
-               (('--no-nvidia',), {'help': 'Run with docker', 'action': 'store_true'})</text>
+        <text encoding="base64">ICAgIGRlZiBfZ3JhcGhpY3Nfc3RhdHVzKHNlbGYpOgogICAgICAgIGNvbW1hbmQgPSAnbnZpZGlhLXNtaSAnIFwKICAgICAgICAgICAgICAgICAgJy0tcXVlcnktZ3B1PWluZGV4LHBvd2VyLmRyYXcsZmFuLnNwZWVkLHV0aWxpemF0aW9uLmdwdSx1dGlsaXphdGlvbi5tZW1vcnksY2xvY2tzLmdyLGNsb2Nrcy5tZW0gJyBcCiAgICAgICAgICAgICAgICAgICctLWZvcm1hdD1jc3YnCiAgICAgICAgcHJvY2VzcyA9IHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KGNvbW1hbmQpLCBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCB1bml2ZXJzYWxfbmV3bGluZXM9VHJ1ZSkKICAgICAgICBncmFwaGljc19rZXlzID0gKCdpZCcsICdwb3dlcicsICdmYW4nLCAnZ3B1X3VzYWdlJywgJ21lbV91c2FnZScsICdncHVfY2xvY2snLCAnbWVtX2Nsb2NrJykKICAgICAgICBncmFwaGljc19zdGF0cyA9IFtbai5zcGxpdCgpWzBdIGZvciBqIGluIGkuc3BsaXQoJywgJyldIGZvciBpIGluIHByb2Nlc3Muc3Rkb3V0LnN0cmlwKCkuc3BsaXQoJ1xuJylbMTpdXQogICAgICAgIHJldHVybiBbe2s6IHYgZm9yIGssIHYgaW4gemlwKGdyYXBoaWNzX2tleXMsIHZhbHVlcyl9IGZvciB2YWx1ZXMgaW4gZ3JhcGhpY3Nfc3RhdHNdCgogICAgZGVmIF9zZXJ2aWNlc19zdGF0dXMoc2VsZik6CiAgICAgICAgc2VydmljZXMgPSBbXQogICAgICAgIGZvciBzZXJ2aWNlX25hbWUsIHNlcnZpY2UgaW4gc2V0dGluZ3MuU1lTVEVNRF9TRVJWSUNFUy5pdGVtcygpOgogICAgICAgICAgICBzdGF0dXMgPSBzdWJwcm9jZXNzLnJ1bihzaGxleC5zcGxpdChmJ3N5c3RlbWN0bCBpcy1hY3RpdmUge3NlcnZpY2V9JyksIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXZlcnNhbF9uZXdsaW5lcz1UcnVlKS5zdGRvdXQuc3RyaXAoKQogICAgICAgICAgICBzZXJ2aWNlcy5hcHBlbmQoeyduYW1lJzogc2VydmljZV9uYW1lLCAnc3RhdHVzJzogc3RhdHVzfSkKCiAgICAgICAgcmV0dXJuIHNlcnZpY2Vz</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLS1uby1udmlkaWEnLCksIHsnaGVscCc6ICdSdW4gd2l0aCBkb2NrZXInLCAnYWN0aW9uJzogJ3N0b3JlX3RydWUnfSkpLAo=</text>
+        <text encoding="base64">TkFOT1BPT0xfQVBJID0gJ2h0dHBzOi8vYXBpLm5hbm9wb29sLm9yZy92MS9ldGgvJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
