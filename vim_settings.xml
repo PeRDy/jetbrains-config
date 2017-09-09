@@ -366,11 +366,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1504917194971">
-        <mark key="[" line="86" column="40" />
-        <mark key="]" line="86" column="79" />
-        <mark key="." line="86" column="79" />
-        <mark key="^" line="86" column="79" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1504918781432">
+        <mark key="[" line="86" column="66" />
+        <mark key="]" line="49" column="24" />
+        <mark key="." line="49" column="24" />
+        <mark key="^" line="49" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/tox.py" timestamp="1491425163457">
         <mark key="[" line="13" column="30" />
@@ -561,11 +561,11 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/systemd/barrenero_api.service" timestamp="1504916879575">
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="53" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="53" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/systemd/barrenero_api.service" timestamp="1504919290383">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/views/api/test_mixins.py" timestamp="1453245053657">
         <mark key="[" line="130" column="22" />
@@ -958,11 +958,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504914419627">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="254" column="3" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504918126957">
+        <mark key="[" line="205" column="8" />
+        <mark key="]" line="205" column="9" />
+        <mark key="^" line="205" column="9" />
+        <mark key="." line="205" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -1568,8 +1568,8 @@
       <jump line="28" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RGV2ZWxvcG1lbnQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1584,32 +1584,32 @@
         <text encoding="base64">CkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5TSEVMTCwKICAgICAgICAgYXJncz0oKCgnLW4nLCAnLS1uYW1lJywpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIG5hbWUnLCAnZGVmYXVsdCc6ICdiYXJyZW5lcm8tYXBpJ30pLAogICAgICAgICAgICAgICAoKCctYycsICctLWNvZGUnLCksIHsnaGVscCc6ICdBZGQgY29kZSBmb2xkZXIgYXMgdm9sdW1lJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pLAogICAgICAgICAgICAgICAoKCctaScsICctLWludGVyYWN0aXZlJyksIHsnaGVscCc6ICdEb2NrZXIgaW1hZ2UgdGFnJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pLAogICAgICAgICAgICAgICAoKCctcCcsICctLXBvcnRzJyksIHsnaGVscCc6ICdQb3J0cyB0byBiaW5kJywgJ25hcmdzJzogJyonLCAnZGVmYXVsdCc6IFsnODA6ODAwMCddfSksCiAgICAgICAgICAgICAgICgoJy0tbm8tbnZpZGlhJywpLCB7J2hlbHAnOiAnUnVuIHdpdGggZG9ja2VyJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pKSwKICAgICAgICAgcGFyc2VyX29wdHM9eydoZWxwJzogJ1J1biBhcHBsaWNhdGlvbid9KQpkZWYgcnVuKCphcmdzLCAqKmt3YXJncyk6CiAgICAjIFNlbGVjdCBkb2NrZXIgYmluYXJ5CiAgICBkb2NrZXIgPSAnZG9ja2VyJyBpZiBrd2FyZ3NbJ25vX252aWRpYSddIGVsc2UgJ252aWRpYS1kb2NrZXInCiAgICAKICAgIGZsYWdzID0gX2RvY2tlcl9mbGFncyhrd2FyZ3NbJ25hbWUnXSwga3dhcmdzWydjb2RlJ10sIGt3YXJnc1sncG9ydHMnXSwga3dhcmdzWydpbnRlcmFjdGl2ZSddKQoKICAgIGNtZCA9IHNobGV4LnNwbGl0KGYne2RvY2tlcn0gcnVuIHtmbGFnc30gLS1ybSBiYXJyZW5lcm8tYXBpJykKICAgIGNtZCArPSBsaXN0KGFyZ3MpCiAgICByZXR1cm4gW2NtZF0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLWknLCAnLS1pbnRlcmFjdGl2ZScpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIHRhZycsICdhY3Rpb24nOiAnc3RvcmVfdHJ1ZSd9KSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludGVyYWN0aXZlX2ZsYWcgPSAnLWl0JyBpZiBpbnRlcmFjdGl2ZSBlbHNlICctZCcK</text>
+        <text encoding="base64">V29ya2luZ0RpcmVjdG9yeT0vaG9tZS9iYXJyZW5lcm8vYmFycmVuZXJvLWFwaQpFeGVjU3RhcnRQcmU9Li9tYWtlIGNyZWF0ZSAtcyBiYXJyZW5lcm9fYXBpLnNldHRpbmdzOlByb2R1Y3Rpb24gcGFzc2VuZ2VyCkV4ZWNTdGFydD0vdXNyL2Jpbi9udmlkaWEtZG9ja2VyIHN0YXJ0IC1hIGJhcnJlbmVyby1hcGkKRXhlY1N0b3A9L3Vzci9iaW4vbnZpZGlhLWRvY2tlciBzdG9wIC10IDIgYmFycmVuZXJvLWFwaQpSZXN0YXJ0PWFsd2F5cwpSZXN0YXJ0U2VjPTUK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">W1NlcnZpY2VdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLWknLCAnLS1pbnRlcmFjdGl2ZScpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIHRhZycsICdhY3Rpb24nOiAnc3RvcmVfdHJ1ZSd9KSwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGludGVyYWN0aXZlX2ZsYWcgPSAnLWl0JyBpZiBpbnRlcmFjdGl2ZSBlbHNlICctZCcK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">RXhlY1N0YXJ0PS91c3IvYmluL252aWRpYS1kb2NrZXIgc3RhcnQgLWEgYmFycmVuZXJvLWFwaQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>{ports_flag} {interactive_flag} {code_flag} {logs_flag} {data_flag} {docker_flag} '
                       f'{systemd_flag} {name_flag}</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICMgQXBwIHZvbHVtZXMKICAgIGxvZ3NfZmxhZyA9IGYnLXYge29zLnBhdGguam9pbigiL3Zhci9sb2cvYmFycmVuZXJvIiwgImFwaSIpfTovc3J2L2FwcHMvYmFycmVuZXJvLWFwaS9sb2dzJwogICAgZGF0YV9mbGFnID0gZictdiB7b3MucGF0aC5qb2luKG9zLmdldGN3ZCgpLCAiLmRhdGEiKX06L3Nydi9hcHBzL2JhcnJlbmVyby1hcGkvLmRhdGEnCiAgICBjb2RlX2ZsYWcgPSBmJy12IHtvcy5nZXRjd2QoKX06L3Nydi9hcHBzL2JhcnJlbmVyby1hcGknIGlmIGt3YXJnc1snY29kZSddIGVsc2UgJycKCiAgICAjIFN5c3RlbSB2b2x1bWVzCiAgICBzeXN0ZW1kX2ZsYWcgPSAnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcKICAgIGRvY2tlcl9mbGFnID0gJy12IC92YXIvcnVuL2RvY2tlci5zb2NrOi92YXIvcnVuL2RvY2tlci5zb2NrJwoKICAgICMgRmxhZ3MKICAgIG5hbWVfZmxhZyA9IGYnLS1uYW1lIHtrd2FyZ3NbIm5hbWUiXX0nIGlmICduYW1lJyBpbiBrd2FyZ3MgZWxzZSAnJwogICAgaW50ZXJhY3RpdmVfZmxhZyA9ICctaXQnIGlmIGt3YXJnc1snaW50ZXJhY3RpdmUnXSBlbHNlICctZCcKICAgIHBvcnRzX2ZsYWcgPSAnICcuam9pbihbZictcCB7cG9ydH0nIGZvciBwb3J0IGluIGt3YXJnc1sncG9ydHMnXV0pCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MKCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZSh0aW1lLCBmKS50aW1lKCkKICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZiBpbiBmb3JtYXRzOgogICAgICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
