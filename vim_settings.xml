@@ -848,9 +848,9 @@
         <mark key="." line="21" column="44" />
         <mark key="^" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/base.py" timestamp="1500924366591">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/base.py" timestamp="1504964497776">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="35" />
         <mark key="^" line="125" column="22" />
         <mark key="." line="126" column="0" />
       </file>
@@ -1009,11 +1009,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504958183512">
-        <mark key="[" line="253" column="4" />
-        <mark key="]" line="253" column="27" />
-        <mark key="^" line="253" column="27" />
-        <mark key="." line="253" column="27" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504964531346">
+        <mark key="[" line="142" column="25" />
+        <mark key="]" line="142" column="25" />
+        <mark key="^" line="254" column="27" />
+        <mark key="." line="142" column="25" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -1162,10 +1162,10 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="132" column="5" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/models/user.py" timestamp="1504962346240">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="66" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/models/user.py" timestamp="1504964418643">
+        <mark key="[" line="64" column="23" />
+        <mark key="]" line="64" column="23" />
+        <mark key="." line="64" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/default.babel.js" timestamp="1498425921514">
         <mark key="[" line="9" column="26" />
@@ -1434,10 +1434,10 @@
         <mark key="." line="5" column="45" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/admin.py" timestamp="1504962570553">
-        <mark key="[" line="57" column="18" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="80" column="38" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="81" column="38" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/make.py" timestamp="1497534369047">
         <mark key="[" line="17" column="22" />
@@ -1650,19 +1650,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmsuYXV0aHRva2VuJywK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>'account', 'api_password'</text>
       </register>
       <register name="/" type="4">
         <text>is_staff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCgppbXBvcnQgZGphbmdvLmNvbnRyaWIuYXV0aC52YWxpZGF0b3JzCmZyb20gZGphbmdvLmRiIGltcG9ydCBtaWdyYXRpb25zLCBtb2RlbHMKCgpkZWYgY3JlYXRlX3Blcm1pc3Npb25zKGFwcHMsIHNjaGVtYV9lZGl0b3IpOgogICAgQ29udGVudFR5cGUgPSBhcHBzLmdldF9tb2RlbCgiY29udGVudHR5cGVzIiwgIkNvbnRlbnRUeXBlIikKICAgIGNvbnRlbnRfdHlwZV9rd2FyZ3MgPSB7CiAgICAgICAgJ2FwcF9sYWJlbCc6ICdnbG9iYWxfcGVybWlzc2lvbicsCiAgICAgICAgJ21vZGVsJzogJ2dsb2JhbHBlcm1pc3Npb24nCiAgICB9CiAgICBjdCwgY3JlYXRlZCA9IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X29yX2NyZWF0ZSgqKmNvbnRlbnRfdHlwZV9rd2FyZ3MpCiAgICBHbG9iYWxQZXJtaXNzaW9uID0gYXBwcy5nZXRfbW9kZWwoImdsb2JhbF9wZXJtaXNzaW9ucyIsICJHbG9iYWxQZXJtaXNzaW9uIikKICAgIEdsb2JhbFBlcm1pc3Npb24ub2JqZWN0cy5jcmVhdGUobmFtZT0nUmVzdGFydCcsIGNvZGVuYW1lPSdyZXN0YXJ0JywgY29udGVudF90eXBlPWN0KQoKCmRlZiBkcm9wX3Blcm1pc3Npb25zKGFwcHMsIHNjaGVtYV9lZGl0b3IpOgogICAgR2xvYmFsUGVybWlzc2lvbiA9IGFwcHMuZ2V0X21vZGVsKCJnbG9iYWxfcGVybWlzc2lvbnMiLCAiR2xvYmFsUGVybWlzc2lvbiIpCiAgICBHbG9iYWxQZXJtaXNzaW9uLm9iamVjdHMuZmlsdGVyKGNvZGVuYW1lPSdyZXN0YXJ0JykuZGVsZXRlKCkKCgpjbGFzcyBNaWdyYXRpb24obWlncmF0aW9ucy5NaWdyYXRpb24pOgogICAgaW5pdGlhbCA9IFRydWUKCiAgICBkZXBlbmRlbmNpZXMgPSBbCiAgICAgICAgKCdhdXRoJywgJzAwMDhfYWx0ZXJfdXNlcl91c2VybmFtZV9tYXhfbGVuZ3RoJyksCiAgICAgICAgKCdnbG9iYWxfcGVybWlzc2lvbnMnLCAnMDAwMV9pbml0aWFsJyksCiAgICAgICAgKCdjb250ZW50dHlwZXMnLCAnMDAwMV9pbml0aWFsJyksCiAgICBdCgogICAgb3BlcmF0aW9ucyA9IFsKICAgICAgICBtaWdyYXRpb25zLkNyZWF0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdVc2VyJywKICAgICAgICAgICAgZmllbGRzPVsKICAgICAgICAgICAgICAgICgnaWQnLCBtb2RlbHMuQXV0b0ZpZWxkKGF1dG9fY3JlYXRlZD1UcnVlLCBwcmltYXJ5X2tleT1UcnVlLCBzZXJpYWxpemU9RmFsc2UsIHZlcmJvc2VfbmFtZT0nSUQnKSksCiAgICAgICAgICAgICAgICAoJ3Bhc3N3b3JkJywgbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEyOCwgdmVyYm9zZV9uYW1lPSdwYXNzd29yZCcpKSwKICAgICAgICAgICAgICAgICgnbGFzdF9sb2dpbicsIG1vZGVscy5EYXRlVGltZUZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSwgdmVyYm9zZV9uYW1lPSdsYXN0IGxvZ2luJykpLAogICAgICAgICAgICAgICAgKCd1c2VybmFtZScsIG1vZGVscy5DaGFyRmllbGQoCiAgICAgICAgICAgICAgICAgICAgZXJyb3JfbWVzc2FnZXM9eyd1bmlxdWUnOiAnQSB1c2VyIHdpdGggdGhhdCB1c2VybmFtZSBhbHJlYWR5IGV4aXN0cy4nfSwKICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlcXVpcmVkLiAxNTAgY2hhcmFjdGVycyBvciBmZXdlci4gTGV0dGVycywgZGlnaXRzIGFuZCBALy4vKy8tL18gb25seS4nLAogICAgICAgICAgICAgICAgICAgIG1heF9sZW5ndGg9MTUwLCB1bmlxdWU9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICB2YWxpZGF0b3JzPVtkamFuZ28uY29udHJpYi5hdXRoLnZhbGlkYXRvcnMuVW5pY29kZVVzZXJuYW1lVmFsaWRhdG9yKCldLAogICAgICAgICAgICAgICAgICAgIHZlcmJvc2VfbmFtZT0ndXNlcm5hbWUnKSksCiAgICAgICAgICAgICAgICAoJ2FjY291bnQnLCBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAwLCB1bmlxdWU9VHJ1ZSwgdmVyYm9zZV9uYW1lPSd3YWxsZXQgYWNjb3VudCcpKSwKICAgICAgICAgICAgICAgICgnaXNfYWN0aXZlJywgbW9kZWxzLkJvb2xlYW5GaWVsZChkZWZhdWx0PVRydWUpKSwKICAgICAgICAgICAgICAgICgnaXNfYWRtaW4nLCBtb2RlbHMuQm9vbGVhbkZpZWxkKGRlZmF1bHQ9RmFsc2UpKSwKICAgICAgICAgICAgICAgICgnZ3JvdXBzJywgbW9kZWxzLk1hbnlUb01hbnlGaWVsZCgKICAgICAgICAgICAgICAgICAgICBibGFuaz1UcnVlLAogICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nVGhlIGdyb3VwcyB0aGlzIHVzZXIgYmVsb25ncyB0by4gQSB1c2VyIHdpbGwgZ2V0IGFsbCBwZXJtaXNzaW9ucyBncmFudGVkIHRvIGVhY2ggb2YgJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGhlaXIgZ3JvdXBzLicsCiAgICAgICAgICAgICAgICAgICAgcmVsYXRlZF9uYW1lPSd1c2VyX3NldCcsIHJlbGF0ZWRfcXVlcnlfbmFtZT0ndXNlcicsIHRvPSdhdXRoLkdyb3VwJywKICAgICAgICAgICAgICAgICAgICB2ZXJib3NlX25hbWU9J2dyb3VwcycpKSwKICAgICAgICAgICAgICAgICgndXNlcl9wZXJtaXNzaW9ucycsIG1vZGVscy5NYW55VG9NYW55RmllbGQoYmxhbms9VHJ1ZSwgaGVscF90ZXh0PSdTcGVjaWZpYyBwZXJtaXNzaW9ucyBmb3IgdGhpcyB1c2VyLicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbGF0ZWRfbmFtZT0ndXNlcl9zZXQnLCByZWxhdGVkX3F1ZXJ5X25hbWU9J3VzZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0bz0nYXV0aC5QZXJtaXNzaW9uJywgdmVyYm9zZV9uYW1lPSd1c2VyIHBlcm1pc3Npb25zJykpLAogICAgICAgICAgICBdLAogICAgICAgICAgICBvcHRpb25zPXsKICAgICAgICAgICAgICAgICdhYnN0cmFjdCc6IEZhbHNlLAogICAgICAgICAgICB9LAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5SdW5QeXRob24oY3JlYXRlX3Blcm1pc3Npb25zLCBkcm9wX3Blcm1pc3Npb25zKQogICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmsuYXV0aHRva2VuJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
