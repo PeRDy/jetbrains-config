@@ -366,11 +366,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1504891274697">
-        <mark key="'" line="46" column="35" />
-        <mark key="[" line="49" column="73" />
-        <mark key="]" line="41" column="94" />
-        <mark key="." line="41" column="94" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1504917194971">
+        <mark key="[" line="86" column="40" />
+        <mark key="]" line="86" column="79" />
+        <mark key="." line="86" column="79" />
+        <mark key="^" line="86" column="79" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/tox.py" timestamp="1491425163457">
         <mark key="[" line="13" column="30" />
@@ -386,11 +386,11 @@
         <mark key="." line="78" column="46" />
         <mark key="^" line="77" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1504910109925">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="48" column="34" />
-        <mark key="^" line="48" column="34" />
-        <mark key="." line="48" column="34" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1504914864980">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="51" column="34" />
+        <mark key="^" line="51" column="34" />
+        <mark key="." line="51" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/status.py" timestamp="1504886203347">
         <mark key="[" line="20" column="0" />
@@ -439,10 +439,12 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/nanopool.py" timestamp="1504910988625">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/nanopool.py" timestamp="1504912337434">
+        <mark key="'" line="32" column="35" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="44" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/schema.py" timestamp="1497563056541">
         <mark key="[" line="7" column="8" />
@@ -558,6 +560,12 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/systemd/barrenero_api.service" timestamp="1504916879575">
+        <mark key="[" line="10" column="53" />
+        <mark key="]" line="10" column="53" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="53" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/views/api/test_mixins.py" timestamp="1453245053657">
         <mark key="[" line="130" column="22" />
@@ -699,6 +707,12 @@
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/factories.py" timestamp="1501010206173">
         <mark key="[" line="28" column="72" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/urls.py" timestamp="1504913901702">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/admin/__init__.py" timestamp="1493758904234">
         <mark key="[" line="0" column="0" />
       </file>
@@ -818,11 +832,11 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/nanopool.py" timestamp="1504911098347">
-        <mark key="[" line="3" column="52" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/nanopool.py" timestamp="1504911370117">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="44" column="58" />
+        <mark key="^" line="44" column="58" />
+        <mark key="." line="44" column="58" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -938,10 +952,17 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504910754262">
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="49" />
-        <mark key="." line="272" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/storj.py" timestamp="1504915857836">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504914419627">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="254" column="3" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -1332,6 +1353,12 @@
         <mark key="^" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" timestamp="1504915868960">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/make.py" timestamp="1497534369047">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="28" />
@@ -1439,9 +1466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3638" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3648" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3658" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3668" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3678" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3688" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1539,69 +1563,69 @@
       <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/perdy-site/Dockerfile" />
       <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/core/templates/core/base/base.html" />
       <jump line="46" column="35" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
+      <jump line="31" column="35" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/nanopool.py" />
+      <jump line="17" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" />
+      <jump line="28" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lbV9jbG9jayA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RGV2ZWxvcG1lbnQg</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>GraphicCard</text>
+        <text encoding="base64">RGV2ZWxvcG1lbnQg</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>\w\+</text>
       </register>
       <register name="0" type="4">
-        <text>(('-n', '--name',), {'help': 'Docker image name'}),</text>
+        <text encoding="base64">CkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5TSEVMTCwKICAgICAgICAgYXJncz0oKCgnLW4nLCAnLS1uYW1lJywpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIG5hbWUnLCAnZGVmYXVsdCc6ICdiYXJyZW5lcm8tYXBpJ30pLAogICAgICAgICAgICAgICAoKCctYycsICctLWNvZGUnLCksIHsnaGVscCc6ICdBZGQgY29kZSBmb2xkZXIgYXMgdm9sdW1lJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pLAogICAgICAgICAgICAgICAoKCctaScsICctLWludGVyYWN0aXZlJyksIHsnaGVscCc6ICdEb2NrZXIgaW1hZ2UgdGFnJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pLAogICAgICAgICAgICAgICAoKCctcCcsICctLXBvcnRzJyksIHsnaGVscCc6ICdQb3J0cyB0byBiaW5kJywgJ25hcmdzJzogJyonLCAnZGVmYXVsdCc6IFsnODA6ODAwMCddfSksCiAgICAgICAgICAgICAgICgoJy0tbm8tbnZpZGlhJywpLCB7J2hlbHAnOiAnUnVuIHdpdGggZG9ja2VyJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pKSwKICAgICAgICAgcGFyc2VyX29wdHM9eydoZWxwJzogJ1J1biBhcHBsaWNhdGlvbid9KQpkZWYgcnVuKCphcmdzLCAqKmt3YXJncyk6CiAgICAjIFNlbGVjdCBkb2NrZXIgYmluYXJ5CiAgICBkb2NrZXIgPSAnZG9ja2VyJyBpZiBrd2FyZ3NbJ25vX252aWRpYSddIGVsc2UgJ252aWRpYS1kb2NrZXInCiAgICAKICAgIGZsYWdzID0gX2RvY2tlcl9mbGFncyhrd2FyZ3NbJ25hbWUnXSwga3dhcmdzWydjb2RlJ10sIGt3YXJnc1sncG9ydHMnXSwga3dhcmdzWydpbnRlcmFjdGl2ZSddKQoKICAgIGNtZCA9IHNobGV4LnNwbGl0KGYne2RvY2tlcn0gcnVuIHtmbGFnc30gLS1ybSBiYXJyZW5lcm8tYXBpJykKICAgIGNtZCArPSBsaXN0KGFyZ3MpCiAgICByZXR1cm4gW2NtZF0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lbV9jbG9jayA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLWknLCAnLS1pbnRlcmFjdGl2ZScpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIHRhZycsICdhY3Rpb24nOiAnc3RvcmVfdHJ1ZSd9KSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lbV91c2FnZSA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCiAgICBncHVfY2xvY2sgPSBzZXJpYWxpemVycy5JbnRlZ2VyRmllbGQoKQo=</text>
+        <text encoding="base64">ICAgIGludGVyYWN0aXZlX2ZsYWcgPSAnLWl0JyBpZiBpbnRlcmFjdGl2ZSBlbHNlICctZCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZhbiA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCgpCiAgICBncHVfdXNhZ2UgPSBzZXJpYWxpemVycy5JbnRlZ2VyRmllbGQoKQo=</text>
+        <text encoding="base64">RXhlY1N0YXJ0PS91c3IvYmluL252aWRpYS1kb2NrZXIgc3RhcnQgLWEgYmFycmVuZXJvLWFwaQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkKICAgIHBvd2VyID0gc2VyaWFsaXplcnMuRmxvYXRGaWVsZCgpCg==</text>
+      <register name="4" type="4">
+        <text>{ports_flag} {interactive_flag} {code_flag} {logs_flag} {data_flag} {docker_flag} '
+                      f'{systemd_flag} {name_flag}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICMgQXBwIHZvbHVtZXMKICAgIGxvZ3NfZmxhZyA9IGYnLXYge29zLnBhdGguam9pbigiL3Zhci9sb2cvYmFycmVuZXJvIiwgImFwaSIpfTovc3J2L2FwcHMvYmFycmVuZXJvLWFwaS9sb2dzJwogICAgZGF0YV9mbGFnID0gZictdiB7b3MucGF0aC5qb2luKG9zLmdldGN3ZCgpLCAiLmRhdGEiKX06L3Nydi9hcHBzL2JhcnJlbmVyby1hcGkvLmRhdGEnCiAgICBjb2RlX2ZsYWcgPSBmJy12IHtvcy5nZXRjd2QoKX06L3Nydi9hcHBzL2JhcnJlbmVyby1hcGknIGlmIGt3YXJnc1snY29kZSddIGVsc2UgJycKCiAgICAjIFN5c3RlbSB2b2x1bWVzCiAgICBzeXN0ZW1kX2ZsYWcgPSAnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcKICAgIGRvY2tlcl9mbGFnID0gJy12IC92YXIvcnVuL2RvY2tlci5zb2NrOi92YXIvcnVuL2RvY2tlci5zb2NrJwoKICAgICMgRmxhZ3MKICAgIG5hbWVfZmxhZyA9IGYnLS1uYW1lIHtrd2FyZ3NbIm5hbWUiXX0nIGlmICduYW1lJyBpbiBrd2FyZ3MgZWxzZSAnJwogICAgaW50ZXJhY3RpdmVfZmxhZyA9ICctaXQnIGlmIGt3YXJnc1snaW50ZXJhY3RpdmUnXSBlbHNlICctZCcKICAgIHBvcnRzX2ZsYWcgPSAnICcuam9pbihbZictcCB7cG9ydH0nIGZvciBwb3J0IGluIGt3YXJnc1sncG9ydHMnXV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgYm90LnNlbmRfY2hhdF9hY3Rpb24oY2hhdF9pZD1jaGF0X2lkLCBhY3Rpb249Q2hhdEFjdGlvbi5UWVBJTkcpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHVwZGF0ZS5jYWxsYmFja19xdWVyeQogICAgICAgIGNoYXRfaWQgPSBxdWVyeS5tZXNzYWdlLmNoYXRfaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGRlZiBfZ3JhcGhpY3Nfc3RhdHVzKHNlbGYpOgogICAgICAgIGNvbW1hbmQgPSAnbnZpZGlhLXNtaSAnIFwKICAgICAgICAgICAgICAgICAgJy0tcXVlcnktZ3B1PWluZGV4LHBvd2VyLmRyYXcsZmFuLnNwZWVkLHV0aWxpemF0aW9uLmdwdSx1dGlsaXphdGlvbi5tZW1vcnksY2xvY2tzLmdyLGNsb2Nrcy5tZW0gJyBcCiAgICAgICAgICAgICAgICAgICctLWZvcm1hdD1jc3YnCiAgICAgICAgcHJvY2VzcyA9IHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KGNvbW1hbmQpLCBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCB1bml2ZXJzYWxfbmV3bGluZXM9VHJ1ZSkKICAgICAgICBncmFwaGljc19rZXlzID0gKCdpZCcsICdwb3dlcicsICdmYW4nLCAnZ3B1X3VzYWdlJywgJ21lbV91c2FnZScsICdncHVfY2xvY2snLCAnbWVtX2Nsb2NrJykKICAgICAgICBncmFwaGljc19zdGF0cyA9IFtbai5zcGxpdCgpWzBdIGZvciBqIGluIGkuc3BsaXQoJywgJyldIGZvciBpIGluIHByb2Nlc3Muc3Rkb3V0LnN0cmlwKCkuc3BsaXQoJ1xuJylbMTpdXQogICAgICAgIHJldHVybiBbe2s6IHYgZm9yIGssIHYgaW4gemlwKGdyYXBoaWNzX2tleXMsIHZhbHVlcyl9IGZvciB2YWx1ZXMgaW4gZ3JhcGhpY3Nfc3RhdHNdCgogICAgZGVmIF9zZXJ2aWNlc19zdGF0dXMoc2VsZik6CiAgICAgICAgc2VydmljZXMgPSBbXQogICAgICAgIGZvciBzZXJ2aWNlX25hbWUsIHNlcnZpY2UgaW4gc2V0dGluZ3MuU1lTVEVNRF9TRVJWSUNFUy5pdGVtcygpOgogICAgICAgICAgICBzdGF0dXMgPSBzdWJwcm9jZXNzLnJ1bihzaGxleC5zcGxpdChmJ3N5c3RlbWN0bCBpcy1hY3RpdmUge3NlcnZpY2V9JyksIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuaXZlcnNhbF9uZXdsaW5lcz1UcnVlKS5zdGRvdXQuc3RyaXAoKQogICAgICAgICAgICBzZXJ2aWNlcy5hcHBlbmQoeyduYW1lJzogc2VydmljZV9uYW1lLCAnc3RhdHVzJzogc3RhdHVzfSkKCiAgICAgICAgcmV0dXJuIHNlcnZpY2Vz</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZSh0aW1lLCBmKS50aW1lKCkKICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TkFOT1BPT0xfQVBJID0gJ2h0dHBzOi8vYXBpLm5hbm9wb29sLm9yZy92MS9ldGgvJwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZiBpbiBmb3JtYXRzOgogICAgICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>\w\+</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>\w\+</last-pattern>
+      <last-replace>'\0'</last-replace>
+      <last-substitute>\w\+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>*\n</entry>
-        <entry>chat</entry>
-        <entry>message.id</entry>
-        <entry encoding="base64">IE1IL3M=</entry>
         <entry>RequestException</entry>
         <entry>raise</entry>
         <entry>\(.*\) = \(\d\+\)</entry>
@@ -1618,12 +1642,12 @@
         <entry>perdy-site</entry>
         <entry>16</entry>
         <entry>'</entry>
+        <entry>&quot;</entry>
+        <entry encoding="base64">ID1cLlwr</entry>
+        <entry encoding="base64">ID0uXCs=</entry>
+        <entry>\w\+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s# MH/s#MH/s#g</entry>
-        <entry>%s/RequestException/NanopoolRequestException/g</entry>
-        <entry encoding="base64">JzwsJz5zL1woLipcKSA9IFwoXGRcK1wpL29zLmVudmlyb25bJ1wxJ10gPSBcMi9n</entry>
-        <entry encoding="base64">JzwsJz5zL1xzXCtcKC4qXCkgPSBcKFxkXCtcKS9vcy5lbnZpcm9uWydcMSddID0gXDIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLz0gXChcZFwrXCkvPSAnXDEnL2c=</entry>
         <entry>90</entry>
         <entry encoding="base64">JzwsJz5zLyAhPT0gW10vLmxlbmd0aC9n</entry>
@@ -1639,6 +1663,10 @@
         <entry>%s/perdy-site/$APP/g</entry>
         <entry>s/16/32/g</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zLyA9XC5cKy8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyA9LlwrLy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
