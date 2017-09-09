@@ -32,7 +32,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1504953026472">
+      <file name="/a.dummy" timestamp="1504955417844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
@@ -43,6 +43,13 @@
         <mark key="]" line="139" column="10" />
         <mark key="." line="139" column="10" />
         <mark key="^" line="139" column="10" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" timestamp="1504955251908">
+        <mark key="k" line="6" column="53" />
+        <mark key="[" line="11" column="79" />
+        <mark key="]" line="12" column="63" />
+        <mark key="^" line="12" column="63" />
+        <mark key="." line="12" column="63" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -82,11 +89,18 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/models.py" timestamp="1504955393086">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/static.js" timestamp="1489959225748">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="27" />
         <mark key="^" line="22" column="47" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/migrations/0001_initial.py" timestamp="1504954974894">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/admin.py" timestamp="1497012347109">
         <mark key="[" line="7" column="0" />
@@ -635,6 +649,9 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" timestamp="1504955996308">
+        <mark key="'" line="320" column="4" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/README.rst" timestamp="1500557128798">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="9" />
@@ -976,11 +993,11 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504918126957">
-        <mark key="[" line="205" column="8" />
-        <mark key="]" line="205" column="9" />
-        <mark key="^" line="205" column="9" />
-        <mark key="." line="205" column="9" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1504954879720">
+        <mark key="[" line="139" column="23" />
+        <mark key="]" line="206" column="9" />
+        <mark key="^" line="206" column="9" />
+        <mark key="." line="206" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -1122,6 +1139,12 @@
         <mark key="]" line="35" column="5" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="132" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/models/user.py" timestamp="1504956603409">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/default.babel.js" timestamp="1498425921514">
         <mark key="[" line="9" column="26" />
@@ -1498,13 +1521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3668" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3678" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3688" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3698" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3708" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3715" column="9" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3728" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3738" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3748" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3758" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1598,58 +1614,65 @@
       <jump line="31" column="35" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/nanopool.py" />
       <jump line="17" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" />
       <jump line="28" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" />
+      <jump line="2" column="110" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" />
+      <jump line="18" column="45" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
+      <jump line="181" column="10" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
+      <jump line="186" column="33" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
+      <jump line="189" column="23" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
+      <jump line="256" column="75" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
+      <jump line="320" column="4" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZV9vZl9iaXJ0aD1kYXRlX29mX2JpcnRoLAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>\w\+</text>
+        <text>is_staff</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5TSEVMTCwKICAgICAgICAgYXJncz0oKCgnLW4nLCAnLS1uYW1lJywpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIG5hbWUnLCAnZGVmYXVsdCc6ICdiYXJyZW5lcm8tYXBpJ30pLAogICAgICAgICAgICAgICAoKCctYycsICctLWNvZGUnLCksIHsnaGVscCc6ICdBZGQgY29kZSBmb2xkZXIgYXMgdm9sdW1lJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pLAogICAgICAgICAgICAgICAoKCctaScsICctLWludGVyYWN0aXZlJyksIHsnaGVscCc6ICdEb2NrZXIgaW1hZ2UgdGFnJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pLAogICAgICAgICAgICAgICAoKCctcCcsICctLXBvcnRzJyksIHsnaGVscCc6ICdQb3J0cyB0byBiaW5kJywgJ25hcmdzJzogJyonLCAnZGVmYXVsdCc6IFsnODA6ODAwMCddfSksCiAgICAgICAgICAgICAgICgoJy0tbm8tbnZpZGlhJywpLCB7J2hlbHAnOiAnUnVuIHdpdGggZG9ja2VyJywgJ2FjdGlvbic6ICdzdG9yZV90cnVlJ30pKSwKICAgICAgICAgcGFyc2VyX29wdHM9eydoZWxwJzogJ1J1biBhcHBsaWNhdGlvbid9KQpkZWYgcnVuKCphcmdzLCAqKmt3YXJncyk6CiAgICAjIFNlbGVjdCBkb2NrZXIgYmluYXJ5CiAgICBkb2NrZXIgPSAnZG9ja2VyJyBpZiBrd2FyZ3NbJ25vX252aWRpYSddIGVsc2UgJ252aWRpYS1kb2NrZXInCiAgICAKICAgIGZsYWdzID0gX2RvY2tlcl9mbGFncyhrd2FyZ3NbJ25hbWUnXSwga3dhcmdzWydjb2RlJ10sIGt3YXJnc1sncG9ydHMnXSwga3dhcmdzWydpbnRlcmFjdGl2ZSddKQoKICAgIGNtZCA9IHNobGV4LnNwbGl0KGYne2RvY2tlcn0gcnVuIHtmbGFnc30gLS1ybSBiYXJyZW5lcm8tYXBpJykKICAgIGNtZCArPSBsaXN0KGFyZ3MpCiAgICByZXR1cm4gW2NtZF0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBUaGUgdXNlciBpcyBpZGVudGlmaWVkIGJ5IHRoZWlyIHdhbGxldCBhY2NvdW50IGFkZHJlc3MuCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybChyJ14nLCBpbmNsdWRlKCdtYWNoaW5lX2xlYXJuaW5nLnVybHMnKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZV9vZl9iaXJ0aD1kYXRlX29mX2JpcnRoLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBiYXJyZW5lcm9fYXBpLnVybHMuYXBpLmJhc2UgaW1wb3J0IHVybHBhdHRlcm5zCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFNpbXBsZXN0IHBvc3NpYmxlIGFuc3dlcjogQWxsIGFkbWlucyBhcmUgc3RhZmYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15zdG9yai8/JywgU3RvcmpWaWV3LmFzX3ZpZXcoKSwgbmFtZT0nbmFub3Bvb2wnKSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiSXMgdGhlIHVzZXIgYSBtZW1iZXIgb2Ygc3RhZmY/Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIFN0b3JqUmVib290Vmlldwo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V29ya2luZ0RpcmVjdG9yeT0vaG9tZS9iYXJyZW5lcm8vYmFycmVuZXJvLWFwaQpFeGVjU3RhcnRQcmU9Li9tYWtlIGNyZWF0ZSAtcyBiYXJyZW5lcm9fYXBpLnNldHRpbmdzOlByb2R1Y3Rpb24gcGFzc2VuZ2VyCkV4ZWNTdGFydD0vdXNyL2Jpbi9udmlkaWEtZG9ja2VyIHN0YXJ0IC1hIGJhcnJlbmVyby1hcGkKRXhlY1N0b3A9L3Vzci9iaW4vbnZpZGlhLWRvY2tlciBzdG9wIC10IDIgYmFycmVuZXJvLWFwaQpSZXN0YXJ0PWFsd2F5cwpSZXN0YXJ0U2VjPTUK</text>
+        <text encoding="base64">ICAgICAgICAiRG9lcyB0aGUgdXNlciBoYXZlIHBlcm1pc3Npb25zIHRvIHZpZXcgdGhlIGFwcCBgYXBwX2xhYmVsYD8iCiAgICAgICAgIyBTaW1wbGVzdCBwb3NzaWJsZSBhbnN3ZXI6IFllcywgYWx3YXlzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W1NlcnZpY2VdCg==</text>
+        <text encoding="base64">CiAgICBkZWYgaGFzX21vZHVsZV9wZXJtcyhzZWxmLCBhcHBfbGFiZWwpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLWknLCAnLS1pbnRlcmFjdGl2ZScpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIHRhZycsICdhY3Rpb24nOiAnc3RvcmVfdHJ1ZSd9KSwK</text>
+        <text encoding="base64">ICAgICAgICAjIFNpbXBsZXN0IHBvc3NpYmxlIGFuc3dlcjogWWVzLCBhbHdheXMKICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\w\+</last-search>
+      <last-search>is_staff</last-search>
       <last-offset />
-      <last-pattern>\w\+</last-pattern>
+      <last-pattern>is_staff</last-pattern>
       <last-replace>'\0'</last-replace>
       <last-substitute>\w\+</last-substitute>
       <last-dir>1</last-dir>
@@ -1657,8 +1680,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RequestException</entry>
-        <entry>raise</entry>
         <entry>\(.*\) = \(\d\+\)</entry>
         <entry>\s\+\(.*\) = \(\d\+\)</entry>
         <entry>= \(\d\+\)</entry>
@@ -1677,6 +1698,8 @@
         <entry encoding="base64">ID1cLlwr</entry>
         <entry encoding="base64">ID0uXCs=</entry>
         <entry>\w\+</entry>
+        <entry>has_perm</entry>
+        <entry>is_staff</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLz0gXChcZFwrXCkvPSAnXDEnL2c=</entry>
