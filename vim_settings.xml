@@ -79,12 +79,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1505079772969">
-        <mark key="'" line="251" column="21" />
-        <mark key="[" line="235" column="36" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-        <mark key="^" line="234" column="7" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1505084420839">
+        <mark key="[" line="253" column="48" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
+        <mark key="^" line="253" column="47" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/Dockerfile" timestamp="1502056036019">
         <mark key="[" line="12" column="20" />
@@ -1060,9 +1059,9 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1505061649725">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="57" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1505083589689">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="69" />
         <mark key="^" line="69" column="73" />
         <mark key="." line="21" column="57" />
       </file>
@@ -1396,9 +1395,9 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" timestamp="1505074047608">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="53" column="60" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" timestamp="1505083800919">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="28" column="0" />
         <mark key="^" line="53" column="60" />
         <mark key="." line="53" column="60" />
       </file>
@@ -1627,7 +1626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3958" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3968" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3978" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3988" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1727,49 +1725,50 @@
       <jump line="58" column="72" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
       <jump line="70" column="56" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
       <jump line="242" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="237" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VjcmV0X2tleSA9IGNiMzU4NTI5NGRhMzc5NTZjZWMyMzdhMWQwMzg0NjlhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>shlex.split('docker network inspect --format=&quot;{{range .IPAM.Config}}{{.Gateway}}{{end}}&quot; bridge')</text>
+        <text>register</text>
       </register>
       <register name="/" type="4">
         <text>ETHER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGF0X2lkID0gdXBkYXRlLm1lc3NhZ2UuY2hhdF9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfcmVnaXN0ZXIgPSByZXF1ZXN0cy5wb3N0KHVybF9yZWdpc3RlciwgcGFyYW1zPXBhcmFtc19yZWdpc3RlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VjcmV0X2tleSA9IGNiMzU4NTI5NGRhMzc5NTZjZWMyMzdhMWQwMzg0NjlhCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZV90ZXh0ID0gZicqTmV3IENvbmZpZ3VyYXRpb24qJwoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZidFdGhlcnNjYW4gQVBJIHRva2VuOiBge2NvbmZpZy5nZXQoIiIsICJObyBjb25maWd1cmFkbyIpfWBcbicgXAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzX2ZsYWcgPSAnICcuam9pbihbZictcCB7cG9ydH0nIGZvciBwb3J0IGluIHBvcnRzXSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgSFRUUEVycm9yOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYWNjb3VudCc6IHNlbGYudG1wX2NvbmZpZ1tjaGF0X2lkXVsnd2FsbGV0J10sCiAgICAgICAgICAgICAgICAgICAgJ2FwaV9wYXNzd29yZCc6IHNlbGYudG1wX2NvbmZpZ1tjaGF0X2lkXVsnYXBpX3Bhc3N3b3JkJ10sCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">RE9DS0VSX0lNQUdFID0gJ2JhcnJlbmVyby10ZWxlZ3JhbScKCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgSFRUUAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudl9mbGFnID0gZictLWVudi1maWxlPS5lbnYnCg==</text>
+        <text encoding="base64">c2VjcmV0X2tleSA9IGNiMzU4NTI5NGRhMzc5NTZjZWMyMzdhMWQwMzg0NjlhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgU3lzdGVtIHZvbHVtZXMKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
