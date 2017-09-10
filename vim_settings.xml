@@ -79,6 +79,13 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1505076844540">
+        <mark key="'" line="55" column="62" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="212" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/Dockerfile" timestamp="1502056036019">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
@@ -310,10 +317,10 @@
         <mark key="^" line="311" column="17" />
         <mark key="." line="314" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/.gitignore" timestamp="1504622053456">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/.gitignore" timestamp="1505075551607">
+        <mark key="[" line="126" column="5" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/requirements.txt" timestamp="1491425885134">
         <mark key="[" line="5" column="0" />
@@ -1260,9 +1267,11 @@
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/setup.cfg" timestamp="1505071251823">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="41" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/setup.cfg" timestamp="1505075641615">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/permissions.py" timestamp="1452552179145">
         <mark key="[" line="35" column="12" />
@@ -1612,8 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3848" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3855" column="14" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3868" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3878" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3888" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1712,58 +1719,60 @@
       <jump line="253" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" />
       <jump line="34" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" />
+      <jump line="214" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="55" column="62" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">REpBTkdPX1NFQ1JFVF9LRVk9YmFycmVuZXJvX3NlY3JldApESkFOR09fQVBJX1NVUEVSVVNFUj1wYmtkZjJfc2hhMjU2JDM2MDAwJDNSa2lpOXhza2NCaSRMVS9pYVE0NFJkQzh4NVgwT3c5a1Rzc1lkam8xYkJIM3JUb2VMbkdyTGFzPQpESkFOR09fRVRIRVJTQ0FOX1RPS0VOPTM0S0k2UjZOOEY5Qk4xVEc2RUdVUkczU1dBTlZSVk02UTMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zdXBlcnVzZXIgPSBjb25maWdfZnJvbV9maWxlLmdldCgndGVsZWdyYW0nLCAnc3VwZXJ1c2VyJywgZmFsbGJhY2s9Tm9uZSkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>restart</text>
+        <text>etherscan</text>
       </register>
       <register name="/" type="4">
-        <text>HEALTH</text>
+        <text>max_idle</text>
       </register>
       <register name="0" type="4">
-        <text>e</text>
+        <text encoding="base64">ICAgIGRlZiBjb25maWdfdXNlcm5hbWUoc2VsZiwgYm90LCB1cGRhdGUpOgogICAgICAgIHRleHQgPSB1cGRhdGUubWVzc2FnZS50ZXh0CiAgICAgICAgY2hhdF9pZCA9IHVwZGF0ZS5tZXNzYWdlLmNoYXRfaWQKCiAgICAgICAgaWYgY2hhdF9pZCBub3QgaW4gc2VsZi5jb25maWc6CiAgICAgICAgICAgIHNlbGYuY29uZmlnW2NoYXRfaWRdID0ge30KCiAgICAgICAgc2VsZi5jb25maWdbY2hhdF9pZF1bJ3VzZXJuYW1lJ10gPSB0ZXh0CgogICAgICAgIHVwZGF0ZS5tZXNzYWdlLnJlcGx5X3RleHQoJ0tlZXAgKnVzZXJuYW1lKiBmb3IgcmVnaXN0ZXJpbmcgaW4gQVBJJywgcGFyc2VfbW9kZT1QYXJzZU1vZGUuTUFSS0RPV04pCgogICAgICAgIHJldHVybiBTdGFydFN0YXRlLkNIT09TSU5H</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbGVhbl9hcGlfcGFzc3dvcmQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuaW5pdGlhbFsnYXBpX3Bhc3N3b3JkJ10KCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zdXBlcnVzZXIgPSBjb25maWdfZnJvbV9maWxlLmdldCgndGVsZWdyYW0nLCAnc3VwZXJ1c2VyJywgZmFsbGJhY2s9Tm9uZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZWNyZXRfa2V5ID0gY29uZmlnX2Zyb21fZmlsZS5nZXQoJ3RlbGVncmFtJywgJ3NlY3JldF9rZXknLCBmYWxsYmFjaz1Ob25lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RhcnRTdGF0ZS5DSE9JQ0VfRVRIRVJTQ0FOCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuYW5vcG9vbF9pbmZvID0gc2VsZi5fYWNjb3VudChyZXF1ZXN0LnVzZXIuYWNjb3VudCkKICAgICAgICBuYW5vcG9vbF9pbmZvWydsYXN0X3BheW1lbnQnXSA9IHNlbGYuX3BheW1lbnQocmVxdWVzdC51c2VyLmFjY291bnQpCg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUubWVzc2FnZS5yZXBseV90ZXh0KCdEaW1lIHR1IHRva2VuIHBhcmEgbGEgQVBJIGRlICpFdGhlcnNjYW4qLicsIHBhcnNlX21vZGU9UGFyc2VNb2RlLk1BUktET1dOKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc2tzIGZvciBldGhlcnNjYW4gdG9rZW4uCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHBheW1lbnRfZGF0ZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBjaG9pY2VfZXRoZXJzY2FuKHNlbGYsIGJvdCwgdXBkYXRlKToKICAgICAgICAiIiIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcignV3JvbmcgcmVzcG9uc2U6ICVzJywgc3RyKGUpKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">V0FMTEVUCiAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSFRUUEVycm9yOgogICAgICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdDYW5ub3QgcmV0cmlldmUgTmFub3Bvb2wgYWNjb3VudCBpbmZvJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXJ0U3RhdGUuQ0hPSUNFX0VUSEVSU0NBTjogWwogICAgICAgICAgICAgICAgICAgIE1lc3NhZ2VIYW5kbGVyKEZpbHRlcnMudGV4dCwgc2VsZi5jb25maWdfZXRoZXJzY2FuKQogICAgICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlLm1lc3NhZ2UucmVwbHlfdGV4dCgnQ29udHJhc2XDsWEgaW5jb3JyZWN0YScsIHBhcnNlX21vZGU9UGFyc2VNb2RlLk1BUktET1dOKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HEALTH</last-search>
+      <last-search>max_idle</last-search>
       <last-offset />
-      <last-pattern>HEALTH</last-pattern>
+      <last-pattern>max_idle</last-pattern>
       <last-replace>password</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -1771,7 +1780,6 @@
     </search>
     <history>
       <history-search>
-        <entry>result</entry>
         <entry>text</entry>
         <entry>'miner'</entry>
         <entry>miner</entry>
@@ -1791,6 +1799,7 @@
         <entry>set_password</entry>
         <entry>global</entry>
         <entry>HEALTH</entry>
+        <entry>max_idle</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
