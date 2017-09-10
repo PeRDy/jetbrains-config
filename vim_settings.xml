@@ -79,12 +79,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1505076844540">
-        <mark key="'" line="55" column="62" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="212" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1505079772969">
+        <mark key="'" line="251" column="21" />
+        <mark key="[" line="235" column="36" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="234" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/Dockerfile" timestamp="1502056036019">
         <mark key="[" line="12" column="20" />
@@ -167,6 +167,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1505078468247">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/production.py" timestamp="1500924382203">
         <mark key="[" line="54" column="9" />
@@ -1267,11 +1273,11 @@
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/setup.cfg" timestamp="1505075641615">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="3" column="32" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/setup.cfg" timestamp="1505077716365">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/permissions.py" timestamp="1452552179145">
         <mark key="[" line="35" column="12" />
@@ -1583,11 +1589,11 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" timestamp="1504623463710">
-        <mark key="[" line="39" column="64" />
-        <mark key="]" line="39" column="47" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="39" column="47" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" timestamp="1505078753446">
+        <mark key="'" line="69" column="56" />
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
@@ -1621,15 +1627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3868" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3878" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3888" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3898" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3908" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3918" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3928" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3938" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
-      <jump line="3948" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3958" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3968" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="3978" column="19" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1721,58 +1718,67 @@
       <jump line="34" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" />
       <jump line="214" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="55" column="62" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="75" column="41" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="77" column="56" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="129" column="26" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="54" column="22" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="70" column="51" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="58" column="72" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
+      <jump line="70" column="56" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
+      <jump line="242" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdXBlcnVzZXIgPSBjb25maWdfZnJvbV9maWxlLmdldCgndGVsZWdyYW0nLCAnc3VwZXJ1c2VyJywgZmFsbGJhY2s9Tm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>etherscan</text>
+        <text>Username</text>
       </register>
       <register name="/" type="4">
-        <text>max_idle</text>
+        <text>ETHER</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiBjb25maWdfdXNlcm5hbWUoc2VsZiwgYm90LCB1cGRhdGUpOgogICAgICAgIHRleHQgPSB1cGRhdGUubWVzc2FnZS50ZXh0CiAgICAgICAgY2hhdF9pZCA9IHVwZGF0ZS5tZXNzYWdlLmNoYXRfaWQKCiAgICAgICAgaWYgY2hhdF9pZCBub3QgaW4gc2VsZi5jb25maWc6CiAgICAgICAgICAgIHNlbGYuY29uZmlnW2NoYXRfaWRdID0ge30KCiAgICAgICAgc2VsZi5jb25maWdbY2hhdF9pZF1bJ3VzZXJuYW1lJ10gPSB0ZXh0CgogICAgICAgIHVwZGF0ZS5tZXNzYWdlLnJlcGx5X3RleHQoJ0tlZXAgKnVzZXJuYW1lKiBmb3IgcmVnaXN0ZXJpbmcgaW4gQVBJJywgcGFyc2VfbW9kZT1QYXJzZU1vZGUuTUFSS0RPV04pCgogICAgICAgIHJldHVybiBTdGFydFN0YXRlLkNIT09TSU5H</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjaGF0X2lkID0gdXBkYXRlLm1lc3NhZ2UuY2hhdF9pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdXBlcnVzZXIgPSBjb25maWdfZnJvbV9maWxlLmdldCgndGVsZWdyYW0nLCAnc3VwZXJ1c2VyJywgZmFsbGJhY2s9Tm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZWNyZXRfa2V5ID0gY29uZmlnX2Zyb21fZmlsZS5nZXQoJ3RlbGVncmFtJywgJ3NlY3JldF9rZXknLCBmYWxsYmFjaz1Ob25lKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV90ZXh0ID0gZicqTmV3IENvbmZpZ3VyYXRpb24qJwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RhcnRTdGF0ZS5DSE9JQ0VfRVRIRVJTQ0FOCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZidFdGhlcnNjYW4gQVBJIHRva2VuOiBge2NvbmZpZy5nZXQoIiIsICJObyBjb25maWd1cmFkbyIpfWBcbicgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGUubWVzc2FnZS5yZXBseV90ZXh0KCdEaW1lIHR1IHRva2VuIHBhcmEgbGEgQVBJIGRlICpFdGhlcnNjYW4qLicsIHBhcnNlX21vZGU9UGFyc2VNb2RlLk1BUktET1dOKQoK</text>
+        <text encoding="base64">ICAgIHBvcnRzX2ZsYWcgPSAnICcuam9pbihbZictcCB7cG9ydH0nIGZvciBwb3J0IGluIHBvcnRzXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc2tzIGZvciBldGhlcnNjYW4gdG9rZW4uCiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBjaG9pY2VfZXRoZXJzY2FuKHNlbGYsIGJvdCwgdXBkYXRlKToKICAgICAgICAiIiIK</text>
+        <text encoding="base64">RE9DS0VSX0lNQUdFID0gJ2JhcnJlbmVyby10ZWxlZ3JhbScKCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">V0FMTEVUCiAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVudl9mbGFnID0gZictLWVudi1maWxlPS5lbnYnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXJ0U3RhdGUuQ0hPSUNFX0VUSEVSU0NBTjogWwogICAgICAgICAgICAgICAgICAgIE1lc3NhZ2VIYW5kbGVyKEZpbHRlcnMudGV4dCwgc2VsZi5jb25maWdfZXRoZXJzY2FuKQogICAgICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICMgU3lzdGVtIHZvbHVtZXMKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlLm1lc3NhZ2UucmVwbHlfdGV4dCgnQ29udHJhc2XDsWEgaW5jb3JyZWN0YScsIHBhcnNlX21vZGU9UGFyc2VNb2RlLk1BUktET1dOKQo=</text>
+        <text encoding="base64">ICAgIHN5c3RlbWRfZmxhZyA9ICctdiAvcnVuL3N5c3RlbWQ6L3J1bi9zeXN0ZW1kJwogICAgZG9ja2VyX2ZsYWcgPSAnLXYgL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2snCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max_idle</last-search>
+      <last-search>ETHER</last-search>
       <last-offset />
-      <last-pattern>max_idle</last-pattern>
+      <last-pattern>ETHER</last-pattern>
       <last-replace>password</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
@@ -1780,10 +1786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text</entry>
-        <entry>'miner'</entry>
-        <entry>miner</entry>
-        <entry>ether</entry>
         <entry>perdy-site</entry>
         <entry>16</entry>
         <entry>'</entry>
@@ -1800,6 +1802,10 @@
         <entry>global</entry>
         <entry>HEALTH</entry>
         <entry>max_idle</entry>
+        <entry>token</entry>
+        <entry>_token</entry>
+        <entry>api</entry>
+        <entry>ETHER</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
