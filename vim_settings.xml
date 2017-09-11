@@ -79,10 +79,10 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1505159021779">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="245" column="7" />
-        <mark key="." line="245" column="7" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1505159666108">
+        <mark key="[" line="227" column="34" />
+        <mark key="]" line="227" column="34" />
+        <mark key="." line="227" column="34" />
         <mark key="^" line="245" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/Dockerfile" timestamp="1502056036019">
@@ -1506,8 +1506,8 @@
         <mark key="^" line="41" column="48" />
         <mark key="." line="41" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/auth.py" timestamp="1505157218478">
-        <mark key="[" line="10" column="72" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/auth.py" timestamp="1505159913366">
+        <mark key="[" line="33" column="18" />
         <mark key="]" line="39" column="21" />
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
@@ -1740,14 +1740,14 @@
       <jump line="73" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0b2tlbic6IHRva2VuLAogICAgICAgICAgICAgICAgJ2FwaV9zdXBlcnVzZXInOgogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>superuser</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>superuser</text>
       </register>
       <register name="/" type="4">
         <text>ETHER</text>
