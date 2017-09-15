@@ -1060,12 +1060,12 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1505437926796">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1505438871109">
         <mark key="'" line="1" column="13" />
-        <mark key="[" line="82" column="72" />
-        <mark key="]" line="84" column="18" />
-        <mark key="." line="84" column="18" />
-        <mark key="^" line="84" column="18" />
+        <mark key="[" line="91" column="17" />
+        <mark key="]" line="91" column="83" />
+        <mark key="." line="91" column="83" />
+        <mark key="^" line="91" column="83" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/index.android.js" timestamp="1504440491953">
         <mark key="[" line="6" column="48" />
@@ -1392,12 +1392,12 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" timestamp="1505437506446">
-        <mark key="'" line="106" column="7" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="54" />
-        <mark key="^" line="117" column="38" />
-        <mark key="." line="117" column="38" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" timestamp="1505438839214">
+        <mark key="'" line="28" column="10" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="118" column="64" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/models.py" timestamp="1493377451873">
         <mark key="[" line="9" column="0" />
@@ -1632,7 +1632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4038" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="4048" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="4058" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
       <jump line="4068" column="13" filename="$USER_HOME$/Desarrollo/perdy-site/assets/style.css" />
@@ -1732,49 +1731,50 @@
       <jump line="107" column="7" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" />
       <jump line="22" column="10" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" />
       <jump line="1" column="13" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" />
+      <jump line="28" column="10" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHVybCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">V2FsbGV0IA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzcG9uc2Ug</text>
+        <text encoding="base64">V2FsbGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>ETHER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBBc3luYyB3cmFwcGVyIGZvciBnZXQgbWV0aG9kLgogICAgICAgIAogICAgICAgIDpwYXJhbSBhY2NvdW50OiBBY2NvdW50IGFkZHJlc3MuCiAgICAgICAgOnJldHVybjogV2FsbGV0IGluZm8gaW5jbHVkaW5nIGJhbGFuY2UgYW5kIHRyYW5zYWN0aW9ucy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHVybCkK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYWNjb3VudDogQWNjb3VudCBhZGRyZXNzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gZid7c2V0dGluZ3MuTkFOT1BPT0x9dXNlci97YWNjb3VudH0nCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgPSBhd2FpdCByZXNwb25zZS5qc29uKCkK</text>
+        <text encoding="base64">ICAgICAgICBHZXQgbGFzIHRyYW5zYWN0aW9ucy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQK</text>
+        <text encoding="base64">ICAgICAgICBHZXQgbGFzIHRyYW5zYWN0aW9ucy4KICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gZid7c2V0dGluZ3MuTkFOT1BPT0x9cGF5bWVudHMve2FjY291bnR9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAiIiIKICAgICAgICBHZXQgbGFzIHRyYW5zYWN0aW9ucy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50X2RhdGUgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMuZ2V0KHVybCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW5vcG9vbF9pbmZvID0gc2VsZi5fYWNjb3VudChyZXF1ZXN0LnVzZXIuYWNjb3VudCkKICAgICAgICBuYW5vcG9vbF9pbmZvWydsYXN0X3BheW1lbnQnXSA9IHNlbGYuX3BheW1lbnQocmVxdWVzdC51c2VyLmFjY291bnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gZid7c2V0dGluZ3MuTkFOT1BPT0x9dXNlci97YWNjb3VudH0nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
