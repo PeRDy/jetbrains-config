@@ -1365,8 +1365,13 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" timestamp="1505690789049">
-        <mark key="]" line="145" column="21" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" timestamp="1507365139243">
+        <mark key="'" line="84" column="20" />
+        <mark key="j" line="80" column="19" />
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="91" column="37" />
+        <mark key="." line="91" column="37" />
+        <mark key="^" line="91" column="37" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/telegram_bot/exceptions.py" timestamp="1500649380191">
         <mark key="[" line="7" column="8" />
@@ -1504,7 +1509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="35" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/nanopool.py" />
       <jump line="17" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" />
       <jump line="28" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" />
       <jump line="2" column="110" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" />
@@ -1604,66 +1608,66 @@
       <jump line="14" column="25" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/ether.py" />
       <jump line="44" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/wallet.py" />
       <jump line="28" column="55" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/wallet.py" />
+      <jump line="84" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RVhQT1NFIDQwMTAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>shared</text>
       </register>
       <register name="/" type="4">
-        <text>storj_status_machine</text>
+        <text>shared</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLW4nLCAnLS1uYW1lJywpLCB7J2hlbHAnOiAnRG9ja2VyIGltYWdlIG5hbWUnfSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaGFyZWQgPSBub2RlWydzaGFyZWQnXSBpZiBub2RlWydzaGFyZWQnXSBpcyBub3QgTm9uZSBlbHNlICdVbmtub3duJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVhQT1NFIDQwMTAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RVhQT1NFIDQwMDgKRVhQT1NFIDQwMDkK</text>
+        <text encoding="base64">RVhQT1NFIDQwMTAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RVhQT1NFIDQwMDYKRVhQT1NFIDQwMDcK</text>
+        <text encoding="base64">RVhQT1NFIDQwMDgKRVhQT1NFIDQwMDkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RVhQT1NFIDQwMDQKRVhQT1NFIDQwMDUK</text>
+        <text encoding="base64">RVhQT1NFIDQwMDYKRVhQT1NFIDQwMDcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVhQT1NFIDQwMDIKRVhQT1NFIDQwMDMK</text>
+        <text encoding="base64">RVhQT1NFIDQwMDQKRVhQT1NFIDQwMDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVhQT1NFIDQwMDAKRVhQT1NFIDQwMDEK</text>
+        <text encoding="base64">RVhQT1NFIDQwMDIKRVhQT1NFIDQwMDMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CkhlbHAgdXMgRG9uYXRpbmcKLS0tLS0tLS0tLS0tLS0tLQoKOkV0aGVyOiAweDU2NmQ0MWI5MjVlZDFkOWY2NDM3NDhkNjUyZjRlNjY1OTNjYmE5YzkK</text>
+        <text encoding="base64">RVhQT1NFIDQwMDAKRVhQT1NFIDQwMDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SGVscCB1cyBEb25hdGluZwotLS0tLS0tLS0tLS0tLS0tCgo6RXRoZXI6IDB4NTY2ZDQxYjkyNWVkMWQ5ZjY0Mzc0OGQ2NTJmNGU2NjU5M2NiYTljOQo=</text>
+        <text encoding="base64">CkhlbHAgdXMgRG9uYXRpbmcKLS0tLS0tLS0tLS0tLS0tLQoKOkV0aGVyOiAweDU2NmQ0MWI5MjVlZDFkOWY2NDM3NDhkNjUyZjRlNjY1OTNjYmE5YzkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNVUEVSVVNFUiA9ICcnCg==</text>
+        <text encoding="base64">SGVscCB1cyBEb25hdGluZwotLS0tLS0tLS0tLS0tLS0tCgo6RXRoZXI6IDB4NTY2ZDQxYjkyNWVkMWQ5ZjY0Mzc0OGQ2NTJmNGU2NjU5M2NiYTljOQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL3NoYXJlZC9kZWx0YS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>storj_status_machine</last-search>
+      <last-search>shared</last-search>
       <last-offset />
-      <last-pattern>storj_status_machine</last-pattern>
-      <last-replace>ether_status_machine</last-replace>
-      <last-substitute>storj_status_machine</last-substitute>
+      <last-pattern>shared</last-pattern>
+      <last-replace>delta</last-replace>
+      <last-substitute>shared</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>is_staff</entry>
         <entry>username</entry>
         <entry>save</entry>
         <entry>create_user</entry>
@@ -1683,9 +1687,9 @@
         <entry>data['data']</entry>
         <entry>data\['data'\]</entry>
         <entry>storj_status_machine</entry>
+        <entry>shared</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLydtaW5lcicvJ2V0aGVyJy9n</entry>
         <entry>s</entry>
         <entry>%s/miner/$APP/g</entry>
         <entry encoding="base64">JzwsJz5zL21pbmVyLyRBUFAvZw==</entry>
@@ -1705,6 +1709,7 @@
         <entry encoding="base64">JzwsJz5zL3N0b3JqX3N0YXR1c19tYWNoaW5lL2V0aGVyX3N0YXR1c19tYWNoaW5lL2c=</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL3NoYXJlZC9kZWx0YS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
