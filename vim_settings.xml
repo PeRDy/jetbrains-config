@@ -323,11 +323,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1507476738775">
-        <mark key="[" line="55" column="56" />
-        <mark key="]" line="57" column="71" />
-        <mark key="^" line="57" column="71" />
-        <mark key="." line="57" column="71" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1507477468595">
+        <mark key="[" line="10" column="110" />
+        <mark key="]" line="10" column="109" />
+        <mark key="^" line="10" column="109" />
+        <mark key="." line="10" column="109" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/v1.py" timestamp="1504966275207">
         <mark key="[" line="3" column="10" />
@@ -740,12 +740,12 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1507476643371">
-        <mark key="'" line="0" column="21" />
-        <mark key="[" line="142" column="10" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="120" column="14" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1507477595804">
+        <mark key="'" line="143" column="33" />
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="143" column="33" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -1132,10 +1132,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="132" column="5" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/templates/setup.cfg.jinja2" timestamp="1507476696148">
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/templates/setup.cfg.jinja2" timestamp="1507477729291">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/default.babel.js" timestamp="1498425921514">
         <mark key="[" line="9" column="26" />
@@ -1559,7 +1560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/auth.py" />
       <jump line="348" column="6" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/rest_framework/serializers.py" />
       <jump line="362" column="10" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
       <jump line="397" column="47" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
@@ -1659,16 +1659,17 @@
       <jump line="62" column="19" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" />
       <jump line="144" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" />
       <jump line="0" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" />
+      <jump line="143" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KiBBZGQgWkNhc2ggbWluZXIuCg==</text>
+      <register name="&quot;" type="4">
+        <text>, ModuleNotFoundError):</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFlvdSBjYW4gdXNlICpzZXR1cC5jZmcuZXhhbXBsZSogYXMgYSB0ZW1wbGF0ZS4=</text>
+        <text>, ModuleNotFoundError):</text>
       </register>
       <register name="/" type="4">
         <text>f'</text>
@@ -1704,7 +1705,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1758,8 +1759,8 @@
         <entry encoding="base64">JzwsJz5zL2RhdGFcWydkYXRhJ1xdL2RhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JqX3N0YXR1c19tYWNoaW5lL2V0aGVyX3N0YXR1c19tYWNoaW5lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NoYXJlZC9kZWx0YS9n</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
