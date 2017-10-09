@@ -382,9 +382,9 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1507571834669">
         <mark key="'" line="93" column="15" />
-        <mark key="[" line="153" column="67" />
-        <mark key="]" line="153" column="67" />
-        <mark key="." line="153" column="67" />
+        <mark key="[" line="156" column="67" />
+        <mark key="]" line="156" column="67" />
+        <mark key="." line="156" column="67" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/tox.py" timestamp="1491425163457">
         <mark key="[" line="13" column="30" />
@@ -1348,10 +1348,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/README.rst" timestamp="1507572123678">
-        <mark key="[" line="68" column="9" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/README.rst" timestamp="1507572789523">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/drawer/DrawerItem.vue" timestamp="1503657079402">
         <mark key="[" line="2" column="26" />
@@ -1680,7 +1681,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">SGVyZSBjb21lcyAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1695,31 +1696,31 @@
         <text encoding="base64">ICAgIHN1ZG8gc2VydmljZSBiYXJyZW5lcm9fdGVsZWdyYW0gcmVzdGFydAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SGVyZSBjb21lcyAuCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">QVBJIGZvciBpbnRlcmFjdGluZyB3aXRoIEJhcnJlbmVyby4K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5Mignc3lzdGVtZC9iYXJyZW5lcm9fYXBpLnNlcnZpY2UnLCAnL2V0Yy9zeXN0ZW1kL3N5c3RlbS8nKQogICAgc3VicHJvY2Vzcy5ydW4oc2hsZXguc3BsaXQoJ3N5c3RlbWN0bCBlbmFibGUgYmFycmVuZXJvX2FwaS5zZXJ2aWNlJykpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5MignLmVudi5leGFtcGxlJywgJy5lbnYnKQo=</text>
+        <text encoding="base64">KiBQeXRob24gMy41IG9yIG5ld2VyLiBEb3dubG9hZCBgaGVyZSA8aHR0cHM6Ly93d3cucHl0aG9uLm9yZy8+YF8uCiogRG9ja2VyLiBgT2ZmaWNpYWwgZG9jcyA8aHR0cHM6Ly9kb2NzLmRvY2tlci5jb20vZW5naW5lL2luc3RhbGxhdGlvbi8+YF8uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmltcG9ydCBqaW5qYTIK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbnZpZGlhJzoga3dhcmdzWydudmlkaWEnXQo=</text>
+        <text encoding="base64">ClJlcXVpcmVtZW50cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RvcmonOiB7CiAgICAgICAgICAgICdwb3J0cyc6IGt3YXJnc1snc3RvcmpfcG9ydHMnXSwKICAgICAgICAgICAgJ3ZvbHVtZSc6IGt3YXJnc1snc3RvcmpfcGF0aCddLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">CjpFdGhlcjogMHg1NjZkNDFiOTI1ZWQxZDlmNjQzNzQ4ZDY1MmY0ZTY2NTkzY2JhOWM5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnZXRoZXInOiB7fSwK</text>
+        <text encoding="base64">SGVscCB1cyBEb25hdGluZwotLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5ybXRyZWUoJy91c3IvbG9jYWwvbGliL2JhcnJlbmVyby9iYXJyZW5lcm8tYXBpLycsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKICAgIHNodXRpbC5jb3B5dHJlZSgnLicsICcvdXNyL2xvY2FsL2xpYi9iYXJyZW5lcm8vYmFycmVuZXJvLWFwaS8nKQo=</text>
+        <text encoding="base64">SGVyZSBjb21lcyAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
