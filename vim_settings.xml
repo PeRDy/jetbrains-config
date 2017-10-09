@@ -287,6 +287,12 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1507571355917">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="11" column="52" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/static/scss/home.scss" timestamp="1467368490694">
         <mark key="[" line="314" column="0" />
         <mark key="]" line="314" column="0" />
@@ -322,6 +328,9 @@
         <mark key="]" line="6" column="28" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/env.jinja2" timestamp="1507572380857">
+        <mark key="[" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1507477468595">
         <mark key="[" line="10" column="110" />
@@ -370,6 +379,12 @@
         <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1507571834669">
+        <mark key="'" line="93" column="15" />
+        <mark key="[" line="153" column="67" />
+        <mark key="]" line="153" column="67" />
+        <mark key="." line="153" column="67" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/tox.py" timestamp="1491425163457">
         <mark key="[" line="13" column="30" />
@@ -1333,6 +1348,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/README.rst" timestamp="1507572123678">
+        <mark key="[" line="68" column="9" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/drawer/DrawerItem.vue" timestamp="1503657079402">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="63" />
@@ -1557,11 +1577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="6" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/rest_framework/serializers.py" />
-      <jump line="362" column="10" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
-      <jump line="397" column="47" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
-      <jump line="151" column="13" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
-      <jump line="411" column="8" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-38339868/-1382175924/django/contrib/auth/models.py" />
       <jump line="13" column="27" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" />
       <jump line="253" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" />
@@ -1657,16 +1672,21 @@
       <jump line="144" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" />
       <jump line="0" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" />
       <jump line="143" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" />
+      <jump line="74" column="44" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
+      <jump line="90" column="22" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
+      <jump line="110" column="22" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
+      <jump line="63" column="31" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
+      <jump line="92" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, ModuleNotFoundError):</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SGVyZSBjb21lcyAuCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, ModuleNotFoundError):</text>
+        <text>/usr/local/lib/barrenero/barrenero-api/</text>
       </register>
       <register name="/" type="4">
         <text>f'</text>
@@ -1675,31 +1695,31 @@
         <text encoding="base64">ICAgIHN1ZG8gc2VydmljZSBiYXJyZW5lcm9fdGVsZWdyYW0gcmVzdGFydAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBBZGQgWkNhc2ggbWluZXIuCg==</text>
+        <text encoding="base64">SGVyZSBjb21lcyAuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNkIC91c3IvbG9jYWwvbGliL2JhcnJlbmVyby9iYXJyZW5lcm8tbWluZXIvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNodXRpbC5jb3B5Mignc3lzdGVtZC9iYXJyZW5lcm9fYXBpLnNlcnZpY2UnLCAnL2V0Yy9zeXN0ZW1kL3N5c3RlbS8nKQogICAgc3VicHJvY2Vzcy5ydW4oc2hsZXguc3BsaXQoJ3N5c3RlbWN0bCBlbmFibGUgYmFycmVuZXJvX2FwaS5zZXJ2aWNlJykpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OkV0aGVyOiAweDU2NmQ0MWI5MjVlZDFkOWY2NDM3NDhkNjUyZjRlNjY1OTNjYmE5YzkK</text>
+        <text encoding="base64">ICAgIHNodXRpbC5jb3B5MignLmVudi5leGFtcGxlJywgJy5lbnYnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CmltcG9ydCBqaW5qYTIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICAgICAnbnZpZGlhJzoga3dhcmdzWydudmlkaWEnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgU3RvcmoK</text>
+        <text encoding="base64">ICAgICAgICAnc3RvcmonOiB7CiAgICAgICAgICAgICdwb3J0cyc6IGt3YXJnc1snc3RvcmpfcG9ydHMnXSwKICAgICAgICAgICAgJ3ZvbHVtZSc6IGt3YXJnc1snc3RvcmpfcGF0aCddLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgRXRoZXIK</text>
+        <text encoding="base64">ICAgICAgICAnZXRoZXInOiB7fSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNodXRpbC5ybXRyZWUoJy91c3IvbG9jYWwvbGliL2JhcnJlbmVyby9iYXJyZW5lcm8tYXBpLycsIGlnbm9yZV9lcnJvcnM9VHJ1ZSkKICAgIHNodXRpbC5jb3B5dHJlZSgnLicsICcvdXNyL2xvY2FsL2xpYi9iYXJyZW5lcm8vYmFycmVuZXJvLWFwaS8nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
