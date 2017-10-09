@@ -1348,9 +1348,10 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/README.rst" timestamp="1507575535977">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="8" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/README.rst" timestamp="1507577795278">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="114" column="67" />
+        <mark key="]" line="4" column="39" />
         <mark key="^" line="43" column="12" />
         <mark key="." line="57" column="8" />
       </file>
@@ -1578,7 +1579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="27" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" />
       <jump line="253" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" />
       <jump line="34" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" />
@@ -1678,10 +1678,11 @@
       <jump line="110" column="22" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
       <jump line="63" column="31" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
       <jump line="92" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/README.rst" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text>REST API for interacting with Barrenero.</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
