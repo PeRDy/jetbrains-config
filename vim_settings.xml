@@ -41,7 +41,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1505503009974">
+      <file name="/a.dummy" timestamp="1507977614376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
@@ -1286,11 +1286,12 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1507581508241">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="11" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1507977767399">
+        <mark key="'" line="51" column="15" />
+        <mark key="[" line="60" column="31" />
+        <mark key="m" line="73" column="25" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/apps.py" timestamp="1504965219427">
         <mark key="[" line="5" column="0" />
@@ -1663,9 +1664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" />
-      <jump line="107" column="7" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" />
-      <jump line="22" column="10" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" />
       <jump line="1" column="13" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" />
       <jump line="28" column="10" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" />
       <jump line="26" column="101" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
@@ -1763,60 +1761,63 @@
       <jump line="96" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/.gitignore" />
       <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/.gitignore" />
       <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/installation.rst" />
+      <jump line="34" column="5" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="29" column="5" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="51" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Parameters</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>doc</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VVJMCioqKgoKSGVhZGVycwoqKioqKioqCgo=</text>
+        <text encoding="base64">ICAgICdhcGknOiB7CiAgICAgICAgJ3VybCc6ICdodHRwczovL2dpdGh1Yi5jb20vUGVSRHkvYmFycmVuZXJvLWFwaScsCiAgICAgICAgJ25hbWUnOiAnYmFycmVuZXJvLWFwaScKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">ClNFUlZJQ0VTX0NIT0lDRVMgPSB0dXBsZShTRVJWSUNFUy5rZXlzKCkpICsgKCdhbGwnLCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBhcGlfcGF0aCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oa3dhcmdzWydwYXRoJ10sICdiYXJyZW5lcm8nLCAnYmFycmVuZXJvLWFwaScpKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGFwaV9wYXRoKToKICAgICAgICBsb2dnZXIuaW5mbygnSW5pdGlhbGl6aW5nIEJhcnJlbmVybyBBUEknKQogICAgICAgIGFwaV9yZXBvID0gUmVwby5jbG9uZV9mcm9tKFJFUE9TWydhcGknXVsndXJsJ10sIGFwaV9wYXRoKQogICAgZWxzZToKICAgICAgICBsb2dnZXIuaW5mbygnVXBkYXRpbmcgQmFycmVuZXJvIEFQSScpCiAgICAgICAgYXBpX3JlcG8gPSBSZXBvKGFwaV9wYXRoKQogICAgICAgIGFwaV9yZXBvLnJlbW90ZXMub3JpZ2luLmZldGNoKCkKICAgICAgICBhcGlfcmVwby5yZW1vdGVzLm9yaWdpbi5wdWxsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">ICAgICAgICBhcGlfcmVwbyA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Xl5eXl5eXl5eXgo=</text>
+        <text encoding="base64">ICAgIGFwaV9yZXBvID0gUmVwbyhhcGlfcGF0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmVzdGFydCBTZXJ2aWNlCi0tLS0tLS0tLS0tLS0tLQoK</text>
+        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QmFycmVuZXJvIFN0YXR1cwotLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RGphbmdvIFNlY3JldCBLZXkKLS0tLS0tLS0tLS0tLS0tLS0KUHV0IHRoZSBEamFuZ28gc2VjcmV0IGtleSBpbiBgREpBTkdPX1NFQ1JFVF9LRVlgIHZhcmlhYmxlLgoKTW9yZSBpbmZvIGBoZXJlIDxodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vMS4xMS9yZWYvc2V0dGluZ3MvI3NlY3JldC1rZXk+YF8uCgpBUEkgc3VwZXJ1c2VyIHBhc3N3b3JkCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KVG8gY3JlYXRlIGFuIEFQSSBzdXBlcnVzZXIgcGFzc3dvcmQgdGhhdCBhbGxvd3MgdXNlcnMgdG8gZG8gYWN0aW9ucyBzdWNoIHJlc3RhcnRpbmcgc2VydmljZXMgeW91IG11c3QgZGVmaW5lIGEgcGFzc3dvcmQKYW5kIGVuY3J5cHQgaXQgdXNpbmcgRGphbmdvIHRvb2xzOgoKLi4gY29kZTo6IHB5dGhvbgoKICAgIGZyb20gZGphbmdvLmNvbnRyaWIuYXV0aC5oYXNoZXJzIGltcG9ydCBtYWtlX3Bhc3N3b3JkCgogICAgcGFzc3dvcmQgPSBtYWtlX3Bhc3N3b3JkKCdmb29fcGFzc3dvcmQnKQoKWW91IHNob3VsZCBwdXQgdGhlIHJlc3VsdCBpbiBgREpBTkdPX0FQSV9TVVBFUlVTRVJgIHZhcmlhYmxlLgoKRXRoZXJzY2FuIHRva2VuCi0tLS0tLS0tLS0tLS0tLQpQdXQgeW91ciBFdGhlcnNjYW4gQVBJIHRva2VuIGluIGBESkFOR09fRVRIRVJTQ0FOX1RPS0VOYCB2YXJpYWJsZS4KCk1vcmUgaW5mbyBgaGVyZSA8aHR0cHM6Ly9ldGhlcnNjYW4uaW8vYXBpcz5gXy4KCkV0aHBsb3JlciB0b2tlbgotLS0tLS0tLS0tLS0tLS0KUHV0IHlvdXIgRXRocGxvcmVyIEFQSSB0b2tlbiBpbiBgREpBTkdPX0VUSFBMT1JFUl9UT0tFTmAgdmFyaWFibGUuCgpNb3JlIGluZm8gYGhlcmUgPGh0dHBzOi8vZ2l0aHViLmNvbS9FdmVyZXhJTy9FdGhwbG9yZXIvd2lraS9FdGhwbG9yZXItQVBJPmBfLgo=</text>
+        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</text>
       </register>
     </registers>
     <search>
-      <last-search>doc</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>doc</last-pattern>
-      <last-replace>delta</last-replace>
-      <last-substitute>shared</last-substitute>
+      <last-pattern>api</last-pattern>
+      <last-replace>miner</last-replace>
+      <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1826,7 +1827,6 @@
         <entry>max_idle</entry>
         <entry>token</entry>
         <entry>_token</entry>
-        <entry>api</entry>
         <entry>ETHER</entry>
         <entry encoding="base64">XDxtaW5lcl9oYXNocmF0ZVw+</entry>
         <entry>loop</entry>
@@ -1842,10 +1842,9 @@
         <entry>Clinner</entry>
         <entry>dodc</entry>
         <entry>doc</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
-        <entry>%s/miner/$APP/g</entry>
         <entry encoding="base64">JzwsJz5zL21pbmVyLyRBUFAvZw==</entry>
         <entry>%s/ether/storj/g</entry>
         <entry>%s/perdy-site/$APP/g</entry>
@@ -1864,6 +1863,8 @@
         <entry encoding="base64">JzwsJz5zL3NoYXJlZC9kZWx0YS9n</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
