@@ -893,11 +893,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1507904937076">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1508064603613">
+        <mark key="[" line="197" column="69" />
+        <mark key="]" line="197" column="69" />
+        <mark key="." line="197" column="14" />
+        <mark key="^" line="197" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/base.py" timestamp="1504964497776">
         <mark key="[" line="167" column="0" />
@@ -1250,11 +1250,11 @@
         <mark key="^" line="31" column="31" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/installation.rst" timestamp="1507586175214">
-        <mark key="[" line="26" column="71" />
-        <mark key="]" line="38" column="21" />
-        <mark key="^" line="26" column="73" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/installation.rst" timestamp="1508063259989">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="59" column="27" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/requirements-tests.txt" timestamp="1492352581865">
         <mark key="[" line="0" column="6" />
@@ -1286,12 +1286,12 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1507977767399">
-        <mark key="'" line="51" column="15" />
-        <mark key="[" line="60" column="31" />
-        <mark key="m" line="73" column="25" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1508063382622">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="47" column="8" />
+        <mark key="m" line="77" column="25" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/apps.py" timestamp="1504965219427">
         <mark key="[" line="5" column="0" />
@@ -1356,10 +1356,10 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/index.rst" timestamp="1507585629101">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/index.rst" timestamp="1508064671672">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/manage.py" timestamp="1487708377940">
         <mark key="[" line="6" column="64" />
@@ -1664,7 +1664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="13" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" />
       <jump line="28" column="10" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" />
       <jump line="26" column="101" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="168" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
@@ -1764,49 +1763,54 @@
       <jump line="34" column="5" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
       <jump line="29" column="5" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
       <jump line="51" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="53" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGluY2x1ZGluZyBiYWxhbmNlIGZvciBlYWNoIHRva2VuIGFuZCBsYXN0IHRyYW5zYWN0aW9ucy4=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdhcGknOiB7CiAgICAgICAgJ3VybCc6ICdodHRwczovL2dpdGh1Yi5jb20vUGVSRHkvYmFycmVuZXJvLWFwaScsCiAgICAgICAgJ25hbWUnOiAnYmFycmVuZXJvLWFwaScKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>including balance for each token and last transactions.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGFyYW1ldGVycwoqKioqKioqKioqCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ClNFUlZJQ0VTX0NIT0lDRVMgPSB0dXBsZShTRVJWSUNFUy5rZXlzKCkpICsgKCdhbGwnLCkK</text>
+        <text encoding="base64">YC9hcGkvdjEvYXV0aC91c2VyYAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBhcGlfcGF0aCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oa3dhcmdzWydwYXRoJ10sICdiYXJyZW5lcm8nLCAnYmFycmVuZXJvLWFwaScpKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGFwaV9wYXRoKToKICAgICAgICBsb2dnZXIuaW5mbygnSW5pdGlhbGl6aW5nIEJhcnJlbmVybyBBUEknKQogICAgICAgIGFwaV9yZXBvID0gUmVwby5jbG9uZV9mcm9tKFJFUE9TWydhcGknXVsndXJsJ10sIGFwaV9wYXRoKQogICAgZWxzZToKICAgICAgICBsb2dnZXIuaW5mbygnVXBkYXRpbmcgQmFycmVuZXJvIEFQSScpCiAgICAgICAgYXBpX3JlcG8gPSBSZXBvKGFwaV9wYXRoKQogICAgICAgIGFwaV9yZXBvLnJlbW90ZXMub3JpZ2luLmZldGNoKCkKICAgICAgICBhcGlfcmVwby5yZW1vdGVzLm9yaWdpbi5wdWxsKCkK</text>
+      <register name="4" type="2">
+        <text encoding="base64">UmV0cmlldmUgdXNlciB0b2tlbiBhbmQgdXNlciBnaXZlbiB1c2VybmFtZSBhbmQgcGFzc3dvcmQuCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcGlfcmVwbyA9Cg==</text>
+        <text encoding="base64">IyBUT0RPOiBtYWtlIGluc3RhbGwgKEluc3RhbGwKCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwaV9yZXBvID0gUmVwbyhhcGlfcGF0aCkK</text>
+      <register name="6" type="4">
+        <text>_service(service, path):
+    service_path = os.path.abspath(os.path.join(path, 'barrenero', SERVICES[service]['name']))
+    if not os.path.exists(service_path):
+        logger.info('Installing Barrenero %s', service)
+        Repo.clone_from(SERVICES['a</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">Mi4gQnVpbGQgc2VydmljZXM6CgogICAgLi4gY29kZTo6IGNvbnNvbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SGVhZGVycwpeXl5eXl5eCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</text>
