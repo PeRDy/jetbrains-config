@@ -383,8 +383,8 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/env.jinja2" timestamp="1507572380857">
         <mark key="[" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1507477468595">
-        <mark key="[" line="10" column="110" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1508139501132">
+        <mark key="[" line="26" column="44" />
         <mark key="]" line="10" column="109" />
         <mark key="^" line="10" column="109" />
         <mark key="." line="10" column="109" />
@@ -436,10 +436,10 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1508139390593">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1508139487882">
         <mark key="'" line="99" column="18" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="62" column="18" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="40" column="0" />
         <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/tox.py" timestamp="1491425163457">
@@ -835,12 +835,12 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1508087593275">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="88" column="73" />
-        <mark key="]" line="88" column="74" />
-        <mark key="^" line="88" column="74" />
-        <mark key="." line="88" column="74" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1508139492979">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="107" column="74" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -1810,7 +1810,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGRvbmF0ZQo=</text>
+        <text encoding="base64">RE9OQVRFX1RFWFQgPSAnJycKVGhpcyBwcm9qZWN0IGlzIGZyZWUgYW5kIG9wZW4gc291cmNlZCwgeW91IGNhbiB1c2UgaXQsIHNwcmVhZCB0aGUgd29yZCwgY29udHJpYnV0ZSB0byB0aGUgY29kZWJhc2UgYW5kIGhlbHAgdXMgZG9uYXRpbmc6CiogRXRoZXI6IDB4NTY2ZDQxYjkyNWVkMWQ5ZjY0Mzc0OGQ2NTJmNGU2NjU5M2NiYTljOQoqIEJpdGNvaW46IDFKdGoybTY1RE4yVXNVenhYaHIzNTV4MzhUNnBQR2hxaUEKKiBQYXlQYWw6IGJhcnJlbmVyb2JvdEBnbWFpbC5jb20KJycnCgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1822,7 +1822,7 @@
         <text>doc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGRvbmF0ZQo=</text>
+        <text encoding="base64">RE9OQVRFX1RFWFQgPSAnJycKVGhpcyBwcm9qZWN0IGlzIGZyZWUgYW5kIG9wZW4gc291cmNlZCwgeW91IGNhbiB1c2UgaXQsIHNwcmVhZCB0aGUgd29yZCwgY29udHJpYnV0ZSB0byB0aGUgY29kZWJhc2UgYW5kIGhlbHAgdXMgZG9uYXRpbmc6CiogRXRoZXI6IDB4NTY2ZDQxYjkyNWVkMWQ5ZjY0Mzc0OGQ2NTJmNGU2NjU5M2NiYTljOQoqIEJpdGNvaW46IDFKdGoybTY1RE4yVXNVenhYaHIzNTV4MzhUNnBQR2hxaUEKKiBQYXlQYWw6IGJhcnJlbmVyb2JvdEBnbWFpbC5jb20KJycnCgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGRvbmF0ZQo=</text>
