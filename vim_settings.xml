@@ -436,7 +436,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1508139487882">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1508139707997">
         <mark key="'" line="99" column="18" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="40" column="0" />
@@ -881,11 +881,11 @@
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/settings/production.py" timestamp="1497565439445">
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/README.rst" timestamp="1507585638591">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="87" column="45" />
-        <mark key="." line="87" column="45" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/README.rst" timestamp="1508139757544">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/sonar_api/settings/development.py" timestamp="1465207125720">
         <mark key="[" line="4" column="5" />
@@ -1231,6 +1231,11 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="120" column="44" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/contribute.rst" timestamp="1508139764926">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/LICENSE" timestamp="1486483920480">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="45" />
@@ -1320,6 +1325,12 @@
         <mark key="]" line="21" column="12" />
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1508139742393">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="7" />
+        <mark key="^" line="167" column="6" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/apps.py" timestamp="1504965219427">
         <mark key="[" line="5" column="0" />
@@ -1810,7 +1821,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RE9OQVRFX1RFWFQgPSAnJycKVGhpcyBwcm9qZWN0IGlzIGZyZWUgYW5kIG9wZW4gc291cmNlZCwgeW91IGNhbiB1c2UgaXQsIHNwcmVhZCB0aGUgd29yZCwgY29udHJpYnV0ZSB0byB0aGUgY29kZWJhc2UgYW5kIGhlbHAgdXMgZG9uYXRpbmc6CiogRXRoZXI6IDB4NTY2ZDQxYjkyNWVkMWQ5ZjY0Mzc0OGQ2NTJmNGU2NjU5M2NiYTljOQoqIEJpdGNvaW46IDFKdGoybTY1RE4yVXNVenhYaHIzNTV4MzhUNnBQR2hxaUEKKiBQYXlQYWw6IGJhcnJlbmVyb2JvdEBnbWFpbC5jb20KJycnCgo=</text>
+        <text encoding="base64">OlBheVBhbDogYmFycmVuZXJvYm90QGdtYWlsLmNvbQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1822,7 +1833,7 @@
         <text>doc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RE9OQVRFX1RFWFQgPSAnJycKVGhpcyBwcm9qZWN0IGlzIGZyZWUgYW5kIG9wZW4gc291cmNlZCwgeW91IGNhbiB1c2UgaXQsIHNwcmVhZCB0aGUgd29yZCwgY29udHJpYnV0ZSB0byB0aGUgY29kZWJhc2UgYW5kIGhlbHAgdXMgZG9uYXRpbmc6CiogRXRoZXI6IDB4NTY2ZDQxYjkyNWVkMWQ5ZjY0Mzc0OGQ2NTJmNGU2NjU5M2NiYTljOQoqIEJpdGNvaW46IDFKdGoybTY1RE4yVXNVenhYaHIzNTV4MzhUNnBQR2hxaUEKKiBQYXlQYWw6IGJhcnJlbmVyb2JvdEBnbWFpbC5jb20KJycnCgo=</text>
+        <text encoding="base64">OlBheVBhbDogYmFycmVuZXJvYm90QGdtYWlsLmNvbQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGRvbmF0ZQo=</text>
