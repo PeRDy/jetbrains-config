@@ -47,6 +47,12 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
         <mark key="[" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/gurumelo/run_storj.py" timestamp="1508577319808">
+        <mark key="[" line="39" column="81" />
+        <mark key="]" line="39" column="52" />
+        <mark key="^" line="39" column="52" />
+        <mark key="." line="39" column="52" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
         <mark key="[" line="3" column="32" />
       </file>
@@ -887,6 +893,12 @@
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/settings/production.py" timestamp="1497565439445">
         <mark key="[" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/gurumelo/supervisor/units/storj.ini" timestamp="1508577192621">
+        <mark key="[" line="3" column="171" />
+        <mark key="]" line="3" column="170" />
+        <mark key="." line="3" column="170" />
+        <mark key="^" line="3" column="170" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/README.rst" timestamp="1508139757544">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="31" />
@@ -1561,10 +1573,7 @@
         <mark key="[" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/gurumelo/Dockerfile" timestamp="1508356744963">
-        <mark key="[" line="4" column="61" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="18" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/configuration.rst" timestamp="1507582816915">
         <mark key="[" line="33" column="0" />
@@ -1577,6 +1586,9 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/gurumelo/telegraf/plugins/storj.py" timestamp="1508577514165">
+        <mark key="[" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/miner.service" timestamp="1500551856915">
         <mark key="[" line="7" column="17" />
@@ -1842,48 +1854,47 @@
       <jump line="126" column="9" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
+      <register name="&quot;" type="4">
+        <text>os.environ.get('NODE_SIZE', '100GB')</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RvcmFnZSA=</text>
+        <text>os.environ.get('NODE_SIZE', '100GB')</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
       </register>
       <register name="0" type="4">
-        <text>if not os.path.exists(STORAGE_PATH):
-        raise ValueError('Storj storage volume must be mounted in {} path'.format(STORAGE_PATH))</text>
+        <text>NODE_PORT_RPC=%(ENV_NODE_PORT_RPC)s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCiAgICAK</text>
+        <text encoding="base64">ZW52aXJvbm1lbnQ9Tk9ERV9OQU1FPSUoRU5WX05PREVfTkFNRSlzCmVudmlyb25tZW50PU5PREVfTkFNRT0lKEVOVl9OT0RFX05BTUUpcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCg==</text>
+        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm9kZSAtLXZlcnNpb24gJiYgXApucG0gLS12ZXJzaW9uICYmIFwKcHl0aG9uIC0tdmVyc2lvbiAmJiBcCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCiAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9ja2VyZmlsZXMvCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3lzdGVtZC8K</text>
+        <text encoding="base64">bm9kZSAtLXZlcnNpb24gJiYgXApucG0gLS12ZXJzaW9uICYmIFwKcHl0aG9uIC0tdmVyc2lvbiAmJiBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9zcnYvYXBwcy8kQVBQL2xvZ3MKUlVOIG1rZGlyIC1wIC9zcnYvYXBwcy8kQVBQL3N0b3JhZ2UK</text>
+        <text encoding="base64">ZG9ja2VyZmlsZXMvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgdHhbJ2hhc2gnXSA9PSBjaGF0Lmxhc3RfdHJhbnNhY3Rpb246CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhawoK</text>
+        <text encoding="base64">c3lzdGVtZC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGRvbmF0ZQo=</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9zcnYvYXBwcy8kQVBQL2xvZ3MKUlVOIG1rZGlyIC1wIC9zcnYvYXBwcy8kQVBQL3N0b3JhZ2UK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
