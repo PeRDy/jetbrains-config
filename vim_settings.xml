@@ -401,10 +401,11 @@
         <mark key="^" line="10" column="109" />
         <mark key="." line="10" column="109" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/gurumelo/.gitlab-ci.yml" timestamp="1508579050250">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
+      <file name="$USER_HOME$/Desarrollo/gurumelo/.gitlab-ci.yml" timestamp="1508580661271">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/v1.py" timestamp="1504966275207">
         <mark key="[" line="3" column="10" />
@@ -1866,13 +1867,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hub</text>
+        <text>$CI_COMMIT_REF_NAME</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>hub</text>
+        <text>$CI_COMMIT_REF_NAME</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
@@ -1881,31 +1882,31 @@
         <text>NODE_PORT_RPC=%(ENV_NODE_PORT_RPC)s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBDT05UQUlORVJfVEVTVF9JTUFHRTogbXktZG9ja2VyLWh1Yi8kQ0lfUFJPSkVDVF9JRDokQ0lfQlVJTERfUkVGX05BTUVfdGVzdAoK</text>
+        <text encoding="base64">aW1hZ2U6IGRvY2tlcjpsYXRlc3QKCnNlcnZpY2VzOgogIC0gZG9ja2VyOmRpbmQKCnN0YWdlczoKLSBidWlsZAoKdmFyaWFibGVzOgogIENPTlRBSU5FUl9JTUFHRTogcmVnaXN0cnkuZ2l0bGFiLmNvbS9QZVJEeS8kQ0lfUFJPSkVDVF9OQU1FOmxhdGVzdAoKYmVmb3JlX3NjcmlwdDoKICAtIGRvY2tlciBsb2dpbiAtdSBQZVJEeSAtcCAkQ0lfVE9LRU4gcmVnaXN0cnkuZ2l0bGFiLmNvbQoKYnVpbGQ6CiAgc3RhZ2U6IGJ1aWxkCiAgc2NyaXB0OgogICAgLSBkb2NrZXIgYnVpbGQgLS1wdWxsIC10ICRDT05UQUlORVJfSU1BR0UgLgogICAgLSBkb2NrZXIgcHVzaCAkQ09OVEFJTkVSX0lNQUdFCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDT05UQUlORVJfVEVTVF9JTUFHRTogbXktZG9ja2VyLWh1Yi8kQ0lfUFJPSkVDVF9JRDokQ0lfQlVJTERfUkVGX05BTUVfdGVzdAo=</text>
+        <text encoding="base64">ICBDT05UQUlORVJfVEVTVF9JTUFHRTogbXktZG9ja2VyLWh1Yi8kQ0lfUFJPSkVDVF9JRDokQ0lfQlVJTERfUkVGX05BTUVfdGVzdAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnZhcmlhYmxlczoK</text>
+        <text encoding="base64">ICBDT05UQUlORVJfVEVTVF9JTUFHRTogbXktZG9ja2VyLWh1Yi8kQ0lfUFJPSkVDVF9JRDokQ0lfQlVJTERfUkVGX05BTUVfdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnZhcmlhYmxlczoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW52aXJvbm1lbnQ9Tk9ERV9OQU1FPSUoRU5WX05PREVfTkFNRSlzCmVudmlyb25tZW50PU5PREVfTkFNRT0lKEVOVl9OT0RFX05BTUUpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ZW52aXJvbm1lbnQ9Tk9ERV9OQU1FPSUoRU5WX05PREVfTkFNRSlzCmVudmlyb25tZW50PU5PREVfTkFNRT0lKEVOVl9OT0RFX05BTUUpcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCiAgICAK</text>
+        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCiAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm9kZSAtLXZlcnNpb24gJiYgXApucG0gLS12ZXJzaW9uICYmIFwKcHl0aG9uIC0tdmVyc2lvbiAmJiBcCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhCQVNFX1BBVEgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1N0b3JqIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KEJBU0VfUEFUSCkpCgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKFNUT1JBR0VfUEFUSCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignU3Rvcmogc3RvcmFnZSB2b2x1bWUgbXVzdCBiZSBtb3VudGVkIGluIHt9IHBhdGgnLmZvcm1hdChTVE9SQUdFX1BBVEgpKQogICAgCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoTE9HU19QQVRIKToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdTdG9yaiBsb2dzIHZvbHVtZSBtdXN0IGJlIG1vdW50ZWQgaW4ge30gcGF0aCcuZm9ybWF0KExPR1NfUEFUSCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
