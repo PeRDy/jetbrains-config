@@ -56,10 +56,10 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/compute-cli/__main__.py" timestamp="1509105316976">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
+      <file name="$USER_HOME$/Desarrollo/compute-cli/__main__.py" timestamp="1509105924288">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
         <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
@@ -1358,6 +1358,12 @@
         <mark key="." line="56" column="13" />
         <mark key="^" line="56" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/login/__main__.py" timestamp="1509106008604">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504883786775">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
@@ -1439,10 +1445,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509105138656">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/manage.py" timestamp="1487708377940">
         <mark key="[" line="6" column="64" />
@@ -1881,46 +1888,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Build</text>
+        <text>Job</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Build</text>
+        <text>Job</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
       </register>
-      <register name="0" type="4">
-        <text>NODE_PORT_RPC=%(ENV_NODE_PORT_RPC)s</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgSm9iKE1haW4pOgogICAgY29tbWFuZHMgPSAoCiAgICAgICAgJ3Bpa3NlbF9jb21wdXRlX2Zsb3dfY2xpLmpvYnMuY3JlYXRlLmNyZWF0ZScsCiAgICApCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHN5cy5leGl0KEpvYigpLnJ1bigpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQnVpbGQoTWFpbik6Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAncGlrc2VsX2NvbXB1dGVfZmxvd19jbGkuam9iLmpvYicsCiAgICApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRzID0gKAogICAgICAgICdwaWtzZWxfY29tcHV0ZV9mbG93X2NsaS5sb2dpbi5sb2dpbicsCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPVR5cGUuUFlUSE9OLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnSm9iIG9wZXJhdGlvbnMnfSwpCmRlZiBqb2IoKmFyZ3MsICoqa3dhcmdzKToKICAgIHJldHVybiBKb2IoKS5ydW4oKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgQnVpbGQoTWFpbik6Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAncGlrc2VsX2NvbXB1dGVfZmxvd19jbGkuam9iLmpvYicsCiAgICApCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIGNvbW1hbmRzID0gKAogICAgICAgICdwaWtzZWxfY29tcHV0ZV9mbG93X2NsaS5sb2dpbi5sb2dpbicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub2RlWydzaGFyZWQnXSAhPSAnLi4uJyBhbmQgbm9kZVsnc2hhcmVkJ11bLTI6XSA9PSAnVEInOgogICAgICAgICAgICAgICAgc2hhcmVkID0gZmxvYXQobm9kZVsnc2hhcmVkJ11bOi0yXSkgKiAxMDI0ICogMTAyNAo=</text>
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPVR5cGUuUFlUSE9OLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnSm9iIG9wZXJhdGlvbnMnfSwpCmRlZiBqb2IoKmFyZ3MsICoqa3dhcmdzKToKICAgIHJldHVybiBKb2IoKS5ydW4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub2RlWydzaGFyZWQnXSAhPSAnLi4uJyBhbmQgbm9kZVsnc2hhcmVkJ11bLTI6XSA9PSAnR0InOgogICAgICAgICAgICAgICAgc2hhcmVkID0gZmxvYXQobm9kZVsnc2hhcmVkJ11bOi0yXSkgKiAxMDI0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXJlZCA9IC0xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub2RlWydzaGFyZWQnXSAhPSAnLi4uJyBhbmQgbm9kZVsnc2hhcmVkJ11bLTI6XSA9PSAnVEInOgogICAgICAgICAgICAgICAgc2hhcmVkID0gZmxvYXQobm9kZVsnc2hhcmVkJ11bOi0yXSkgKiAxMDI0ICogMTAyNAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
