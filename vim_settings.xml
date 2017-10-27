@@ -41,7 +41,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1508604891685">
+      <file name="/a.dummy" timestamp="1509104719527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
@@ -55,6 +55,12 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
         <mark key="[" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/compute-cli/__main__.py" timestamp="1509105316976">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
@@ -1433,6 +1439,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="21" column="14" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509105138656">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/manage.py" timestamp="1487708377940">
         <mark key="[" line="6" column="64" />
         <mark key="]" line="7" column="3" />
@@ -1869,14 +1880,14 @@
       <jump line="126" column="9" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      <register name="&quot;" type="4">
+        <text>Build</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBub2RlWydzaGFyZWQnXVstMjpdID09ICdNQic6</text>
+        <text>Build</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
@@ -1885,31 +1896,31 @@
         <text>NODE_PORT_RPC=%(ENV_NODE_PORT_RPC)s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub2RlWydzaGFyZWQnXSAhPSAnLi4uJyBhbmQgbm9kZVsnc2hhcmVkJ11bLTI6XSA9PSAnVEInOgogICAgICAgICAgICAgICAgc2hhcmVkID0gZmxvYXQobm9kZVsnc2hhcmVkJ11bOi0yXSkgKiAxMDI0ICogMTAyNAo=</text>
+        <text encoding="base64">Y2xhc3MgQnVpbGQoTWFpbik6Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub2RlWydzaGFyZWQnXSAhPSAnLi4uJyBhbmQgbm9kZVsnc2hhcmVkJ11bLTI6XSA9PSAnR0InOgogICAgICAgICAgICAgICAgc2hhcmVkID0gZmxvYXQobm9kZVsnc2hhcmVkJ11bOi0yXSkgKiAxMDI0Cg==</text>
+        <text encoding="base64">ICAgICAgICAncGlrc2VsX2NvbXB1dGVfZmxvd19jbGkuam9iLmpvYicsCiAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXJlZCA9IC0xCg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmRzID0gKAogICAgICAgICdwaWtzZWxfY29tcHV0ZV9mbG93X2NsaS5sb2dpbi5sb2dpbicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1hZ2U6IGRvY2tlcjpsYXRlc3QKCnNlcnZpY2VzOgogIC0gZG9ja2VyOmRpbmQKCnN0YWdlczoKLSBidWlsZAoKdmFyaWFibGVzOgogIENPTlRBSU5FUl9JTUFHRTogcmVnaXN0cnkuZ2l0bGFiLmNvbS9QZVJEeS8kQ0lfUFJPSkVDVF9OQU1FOmxhdGVzdAoKYmVmb3JlX3NjcmlwdDoKICAtIGRvY2tlciBsb2dpbiAtdSBQZVJEeSAtcCAkQ0lfVE9LRU4gcmVnaXN0cnkuZ2l0bGFiLmNvbQoKYnVpbGQ6CiAgc3RhZ2U6IGJ1aWxkCiAgc2NyaXB0OgogICAgLSBkb2NrZXIgYnVpbGQgLS1wdWxsIC10ICRDT05UQUlORVJfSU1BR0UgLgogICAgLSBkb2NrZXIgcHVzaCAkQ09OVEFJTkVSX0lNQUdFCgoK</text>
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPVR5cGUuUFlUSE9OLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnSm9iIG9wZXJhdGlvbnMnfSwpCmRlZiBqb2IoKmFyZ3MsICoqa3dhcmdzKToKICAgIHJldHVybiBKb2IoKS5ydW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDT05UQUlORVJfVEVTVF9JTUFHRTogbXktZG9ja2VyLWh1Yi8kQ0lfUFJPSkVDVF9JRDokQ0lfQlVJTERfUkVGX05BTUVfdGVzdAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBDT05UQUlORVJfVEVTVF9JTUFHRTogbXktZG9ja2VyLWh1Yi8kQ0lfUFJPSkVDVF9JRDokQ0lfQlVJTERfUkVGX05BTUVfdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub2RlWydzaGFyZWQnXSAhPSAnLi4uJyBhbmQgbm9kZVsnc2hhcmVkJ11bLTI6XSA9PSAnVEInOgogICAgICAgICAgICAgICAgc2hhcmVkID0gZmxvYXQobm9kZVsnc2hhcmVkJ11bOi0yXSkgKiAxMDI0ICogMTAyNAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnZhcmlhYmxlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub2RlWydzaGFyZWQnXSAhPSAnLi4uJyBhbmQgbm9kZVsnc2hhcmVkJ11bLTI6XSA9PSAnR0InOgogICAgICAgICAgICAgICAgc2hhcmVkID0gZmxvYXQobm9kZVsnc2hhcmVkJ11bOi0yXSkgKiAxMDI0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXJlZCA9IC0xCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
