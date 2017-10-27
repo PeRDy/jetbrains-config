@@ -1005,10 +1005,11 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="130" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/templates/barrenero_telegraf.service.jinja2" timestamp="1509124284692">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/templates/barrenero_telegraf.service.jinja2" timestamp="1509125739420">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/js/topics_best_segments.js" timestamp="1465662897670">
         <mark key="[" line="12" column="71" />
@@ -1568,6 +1569,12 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="17" column="55" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/make" timestamp="1509125960232">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="117" column="45" />
+        <mark key="." line="114" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/ripple.js" timestamp="1498776359919">
         <mark key="[" line="9" column="21" />
       </file>
@@ -1846,8 +1853,8 @@
       <jump line="126" column="9" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Pre</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZD1zaGxleC5zcGxpdCgnLXEgLS1za2lwLWNoZWNrIHJ1bicpICsgbGlzdChhcmdzKSwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1862,34 +1869,34 @@
         <text encoding="base64">ICsgJy9hcGkvdjEn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXhlY1N0YXJ0PS91c3IvYmluL2RvY2tlciBzdGFydCAtYSB7eyBhcHAubmFtZSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZD1zaGxleC5zcGxpdCgnLXEgLS1za2lwLWNoZWNrIHJ1bicpICsgbGlzdChhcmdzKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RXhlY1N0YXJ0UHJlPS91c3IvYmluL3B5dGhvbjMuNiBtYWtlIHJ1bgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b19yZW1vdmU9VHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBjb25maWcuZ2V0KCdhcGknLCAnbmFtZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ny4gQWRkIHRoZSBib3QgdG8geW91ciBUZWxlZ3JhbSBjaGF0IGFuZCBjb25maWd1cmUgaXQgdXNpbmcgYC9zdGFydGAgY29tbWFuZC4K</text>
+        <text encoding="base64">UmVzdGFydD1hbHdheXMKUmVzdGFydFNlYz01Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdWRvIHNlcnZpY2UgYmFycmVuZXJvX3RlbGVncmFtIHJlc3RhcnQKCg==</text>
+        <text encoding="base64">RXhlY1N0YXJ0PS91c3IvYmluL2RvY2tlciBzdGFydCAtYSB7eyBhcHAubmFtZSB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4uIGNvZGU6OiBjb25zb2xlCgo=</text>
+        <text encoding="base64">RXhlY1N0YXJ0UHJlPS91c3IvYmluL3B5dGhvbjMuNiBtYWtlIHJ1bgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ni4gUmVib290IG9yIHJlc3RhcnQgU3lzdGVtZCB1bml0OgoK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBjb25maWcuZ2V0KCdhcGknLCAnbmFtZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuL21ha2UgYnVpbGQKCg==</text>
+        <text encoding="base64">Ny4gQWRkIHRoZSBib3QgdG8geW91ciBUZWxlZ3JhbSBjaGF0IGFuZCBjb25maWd1cmUgaXQgdXNpbmcgYC9zdGFydGAgY29tbWFuZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uIGNvZGU6OiBjb25zb2xlCgo=</text>
+        <text encoding="base64">ICAgICAgICBzdWRvIHNlcnZpY2UgYmFycmVuZXJvX3RlbGVncmFtIHJlc3RhcnQKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1942,9 +1949,9 @@
         <entry encoding="base64">JzwsJz5zL3NoYXJlZC9kZWx0YS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
