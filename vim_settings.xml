@@ -120,11 +120,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="87" column="69" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/templates/telegraf.conf.jinja2" timestamp="1509121339064">
-        <mark key="[" line="27" column="2" />
-        <mark key="]" line="30" column="9" />
-        <mark key="^" line="30" column="9" />
-        <mark key="." line="30" column="9" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/templates/telegraf.conf.jinja2" timestamp="1509123116127">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/views/api/test_base.py" timestamp="1453240733828">
         <mark key="[" line="54" column="39" />
@@ -1878,7 +1878,7 @@
         <text encoding="base64">ICAgICAgICBjZCAvdXNyL2xvY2FsL2xpYi9iYXJyZW5lcm8vYmFycmVuZXJvLXRlbGVncmFtLwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1932,8 +1932,8 @@
         <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
