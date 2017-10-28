@@ -1005,11 +1005,11 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="130" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/templates/barrenero_telegraf.service.jinja2" timestamp="1509125739420">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/templates/barrenero_telegraf.service.jinja2" timestamp="1509190519196">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+        <mark key="." line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/js/topics_best_segments.js" timestamp="1465662897670">
         <mark key="[" line="12" column="71" />
@@ -1715,11 +1715,11 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/README.rst" timestamp="1508139343848">
         <mark key="[" line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" timestamp="1509124126404">
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="61" column="37" />
-        <mark key="." line="61" column="37" />
-        <mark key="^" line="61" column="37" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" timestamp="1509190496864">
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
@@ -1861,13 +1861,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Offers</text>
+        <text>offers</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Offers</text>
+        <text>offers</text>
       </register>
       <register name="/" type="4">
         <text>offers</text>
