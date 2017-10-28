@@ -1100,11 +1100,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/storj.py" timestamp="1504967309798">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="16" column="46" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/storj.py" timestamp="1509190235921">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="57" />
+        <mark key="^" line="11" column="57" />
+        <mark key="." line="11" column="57" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -1488,8 +1488,8 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" timestamp="1508310736013">
-        <mark key="[" line="62" column="70" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" timestamp="1509189967076">
+        <mark key="[" line="150" column="58" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/nanopool.py" timestamp="1505502992650">
         <mark key="[" line="93" column="0" />
@@ -1626,11 +1626,11 @@
         <mark key="^" line="79" column="38" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" timestamp="1507364868482">
-        <mark key="[" line="33" column="69" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" timestamp="1509190218134">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="37" />
+        <mark key="^" line="37" column="37" />
+        <mark key="." line="37" column="37" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources/restart.rst" timestamp="1508079306192">
         <mark key="[" line="18" column="14" />
@@ -1853,14 +1853,14 @@
       <jump line="126" column="9" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZD1zaGxleC5zcGxpdCgnLXEgLS1za2lwLWNoZWNrIHJ1bicpICsgbGlzdChhcmdzKSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b2ZmZXJzIA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Pre</text>
+        <text encoding="base64">b2ZmZXJzIA==</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
@@ -1896,7 +1896,7 @@
         <text encoding="base64">ICAgICAgICBzdWRvIHNlcnZpY2UgYmFycmVuZXJvX3RlbGVncmFtIHJlc3RhcnQKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1950,8 +1950,8 @@
         <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
         <entry>w</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
