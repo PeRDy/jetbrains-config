@@ -1596,6 +1596,13 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" timestamp="1509190281952">
+        <mark key="'" line="90" column="73" />
+        <mark key="[" line="90" column="35" />
+        <mark key="]" line="90" column="40" />
+        <mark key="." line="90" column="40" />
+        <mark key="^" line="90" column="40" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/telegram_bot/exceptions.py" timestamp="1500649380191">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="10" column="7" />
@@ -1751,8 +1758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="179" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="160" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="187" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
@@ -1851,19 +1856,21 @@
       <jump line="70" column="18" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
       <jump line="62" column="49" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
       <jump line="126" column="9" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/make" />
+      <jump line="91" column="37" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" />
+      <jump line="90" column="73" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b2ZmZXJzIA==</text>
+        <text>Offers</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2ZmZXJzIA==</text>
+        <text>Offers</text>
       </register>
       <register name="/" type="4">
-        <text>doc</text>
+        <text>offers</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICsgJy9hcGkvdjEn</text>
@@ -1900,9 +1907,9 @@
       </register>
     </registers>
     <search>
-      <last-search>doc</last-search>
+      <last-search>offers</last-search>
       <last-offset />
-      <last-pattern>doc</last-pattern>
+      <last-pattern>offers</last-pattern>
       <last-replace>delta</last-replace>
       <last-substitute>shared</last-substitute>
       <last-dir>1</last-dir>
@@ -1910,7 +1917,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HEALTH</entry>
         <entry>max_idle</entry>
         <entry>token</entry>
         <entry>_token</entry>
@@ -1930,6 +1936,7 @@
         <entry>dodc</entry>
         <entry>doc</entry>
         <entry>api</entry>
+        <entry>offers</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21pbmVyLyRBUFAvZw==</entry>
