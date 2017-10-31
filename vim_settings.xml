@@ -27,7 +27,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1509104719527">
+      <file name="/a.dummy" timestamp="1509445381087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
@@ -173,7 +173,7 @@
         <mark key="^" line="31" column="16" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1505984890512">
+      <file name="/GraphQL.variables.json" timestamp="1509443970177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/docker-compose.yml" timestamp="1486057205666">
@@ -353,7 +353,7 @@
       <file name="$USER_HOME$/Desarrollo/clinner/tests/requirements.txt" timestamp="1491425885134">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1505984890757">
+      <file name="/GraphQL.result.json" timestamp="1509443970408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
@@ -1507,11 +1507,20 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/core/management/commands/run_spiders.py" timestamp="1509445001429">
+        <mark key="[" line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/drawer/DrawerItem.vue" timestamp="1503657079402">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="63" />
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy-site/core/tasks.py" timestamp="1509445354828">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="23" column="15" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/.gitignore" timestamp="1505071462885">
         <mark key="[" line="125" column="5" />
@@ -1864,47 +1873,47 @@
       <jump line="90" column="73" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBydW5uZXIuY3Jhd2woTGlua2VkSW5TcGlkZXIpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>github</text>
       </register>
       <register name="/" type="4">
         <text>offers</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICsgJy9hcGkvdjEn</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGFwcC50YXNrCmRlZiBydW5fZ2l0aHViX3NwaWRlcigpOgogICAgcnVubmVyID0gQ3Jhd2xlclJ1bm5lcihzZXR0aW5ncz1nZXRfcHJvamVjdF9zZXR0aW5ncygpKQoKICAgIEBkZWZlci5pbmxpbmVDYWxsYmFja3MKICAgIGRlZiBjcmF3bCgpOgogICAgICAgIHlpZWxkIHJ1bm5lci5jcmF3bChMaW5rZWRJblNwaWRlcikKICAgICAgICB5aWVsZCBydW5uZXIuY3Jhd2woR2l0aHViU3BpZGVyKQogICAgICAgIHJlYWN0b3Iuc3RvcCgpCgogICAgY3Jhd2woKQogICAgcmVhY3Rvci5ydW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW1ib2wgPSAK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBydW5uZXIuY3Jhd2woTGlua2VkSW5TcGlkZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlX3VzZCc6IHRbJ3Rva2VuSW5mbyddWydwcmljZSddWydyYXRlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICdiYWxhbmNlX3VzZCc6IHRbJ2JhbGFuY2UnXSAqIDEwICoqICgtaW50KHRbJ3Rva2VuSW5mbyddWydkZWNpbWFscyddKSkgKiBmbG9hdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRbJ3Rva2VuSW5mbyddWydwcmljZSddWydyYXRlJ10pLAo=</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBydW5uZXIuY3Jhd2woR2l0aHViU3BpZGVyKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IAo=</text>
+        <text encoding="base64">CiAgICAjIHByb2Nlc3MgPSBDcmF3bGVyUHJvY2VzcyhzZXR0aW5ncz1nZXRfcHJvamVjdF9zZXR0aW5ncygpKQogICAgIyBwcm9jZXNzLmNyYXdsKExpbmtlZEluU3BpZGVyKQogICAgIyBwcm9jZXNzLmNyYXdsKEdpdGh1YlNwaWRlcikKICAgICMgcHJvY2Vzcy5zdGFydCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VucyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW1ib2wgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VucyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3ByaWNlX3VzZCc6IHRbJ3Rva2VuSW5mbyddWydwcmljZSddWydyYXRlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICdiYWxhbmNlX3VzZCc6IHRbJ2JhbGFuY2UnXSAqIDEwICoqICgtaW50KHRbJ3Rva2VuSW5mbyddWydkZWNpbWFscyddKSkgKiBmbG9hdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRbJ3Rva2VuSW5mbyddWydwcmljZSddWydyYXRlJ10pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgR2V0cyBFVEgvVVNEIHByaWNlCiAgICAgICAgICAgICAgICBwcmljZSA9IGF3YWl0IHNlbGYuX3ByaWNlKHNlc3Npb24pCiAgICAgICAgICAgICAgICBwcmljZV91c2QgPSBmbG9hdChwcmljZVsnZXRodXNkJ10pIGlmIHByaWNlIGVsc2UgTm9uZQogICAgICAgICAgICAgICAgYmFsYW5jZV91c2QgPSBwcmljZV91c2QgKiByZXN1bHRbJ0VUSCddWydiYWxhbmNlJ10gaWYgcHJpY2UgZWxzZSBOb25lCgogICAgICAgICAgICAgICAgIyBBZGQgRXRoZXIgdG9rZW4KICAgICAgICAgICAgICAgIHRva2Vuc1snRVRIJ10gPSB7CiAgICAgICAgICAgICAgICAgICAgJ25hbWUnOiAnRXRoZXInLAogICAgICAgICAgICAgICAgICAgICdzeW1ib2wnOiAnRVRIJywKICAgICAgICAgICAgICAgICAgICAnYmFsYW5jZSc6IHJlc3VsdFsnRVRIJ11bJ2JhbGFuY2UnXSwKICAgICAgICAgICAgICAgICAgICAncHJpY2VfdXNkJzogcHJpY2VfdXNkLAogICAgICAgICAgICAgICAgICAgICdiYWxhbmNlX3VzZCc6IGJhbGFuY2VfdXNkLAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgR2V0cyBFVEgvVVNEIHByaWNlCiAgICAgICAgICAgICAgICBwcmljZSA9IGF3YWl0IHNlbGYuX3ByaWNlKHNlc3Npb24pCiAgICAgICAgICAgICAgICBwcmljZV91c2QgPSBmbG9hdChwcmljZVsnZXRodXNkJ10pIGlmIHByaWNlIGVsc2UgTm9uZQogICAgICAgICAgICAgICAgYmFsYW5jZV91c2QgPSBwcmljZV91c2QgKiByZXN1bHRbJ0VUSCddWydiYWxhbmNlJ10gaWYgcHJpY2UgZWxzZSBOb25lCgogICAgICAgICAgICAgICAgIyBBZGQgRXRoZXIgdG9rZW4KICAgICAgICAgICAgICAgIHRva2Vuc1snRVRIJ10gPSB7CiAgICAgICAgICAgICAgICAgICAgJ25hbWUnOiAnRXRoZXInLAogICAgICAgICAgICAgICAgICAgICdzeW1ib2wnOiAnRVRIJywKICAgICAgICAgICAgICAgICAgICAnYmFsYW5jZSc6IHJlc3VsdFsnRVRIJ11bJ2JhbGFuY2UnXSwKICAgICAgICAgICAgICAgICAgICAncHJpY2VfdXNkJzogcHJpY2VfdXNkLAogICAgICAgICAgICAgICAgICAgICdiYWxhbmNlX3VzZCc6IGJhbGFuY2VfdXNkLAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZD1zaGxleC5zcGxpdCgnLXEgLS1za2lwLWNoZWNrIHJ1bicpICsgbGlzdChhcmdzKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VucyA9IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
