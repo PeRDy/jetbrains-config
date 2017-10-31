@@ -132,8 +132,8 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="54" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
-        <mark key="[" line="26" column="34" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1509446123372">
+        <mark key="[" line="31" column="45" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
@@ -761,8 +761,10 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509277091647">
+      <file name="/Dummy.txt" timestamp="1509446230677">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
         <mark key="[" line="12" column="25" />
@@ -943,8 +945,8 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose-production.yml" timestamp="1504874988121">
-        <mark key="[" line="29" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose-production.yml" timestamp="1509446264788">
+        <mark key="[" line="28" column="28" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="67" column="13" />
         <mark key="." line="29" column="0" />
@@ -1873,14 +1875,14 @@
       <jump line="90" column="73" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBydW5uZXIuY3Jhd2woTGlua2VkSW5TcGlkZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>,*.html</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>github</text>
+        <text>,*.html</text>
       </register>
       <register name="/" type="4">
         <text>offers</text>
