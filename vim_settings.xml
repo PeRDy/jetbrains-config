@@ -571,6 +571,10 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1509618855107">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="42" column="2" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/bower.json" timestamp="1490219207451">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="22" />
@@ -1108,6 +1112,11 @@
         <mark key="]" line="11" column="57" />
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/socialNetwork.js" timestamp="1509618861603">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -1876,7 +1885,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,*.html</text>
+        <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICBpZiAoX19ERVZfXykgewogICAgICBBZE1vYkludGVyc3RpdGlhbC5zZXRUZXN0RGV2aWNlSUQoJ0VNVUxBVE9SJyk7CiAgICAgIEFkTW9iSW50ZXJzdGl0aWFsLnNldEFkVW5pdElEKCdjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDQvMTAzMzE3MzcxMicpOwogICAgfSBlbHNlIHsKICAgICAgLy8gVE9ETzogc2V0QWRVbml0SUQgcHJvZAogICAgfQoKICAgIEFkTW9iSW50ZXJzdGl0aWFsLmFkZEV2ZW50TGlzdGVuZXIoJ2ludGVyc3RpdGlhbERpZENsb3NlJywgKCkgPT4gewogICAgICBBZE1vYkludGVyc3RpdGlhbC5yZXF1ZXN0QWQoKGVycm9yKSA9PiBlcnJvciAmJiBjb25zb2xlLmxvZyhlcnJvcikpOwogICAgfSk7CgogICAgQWRNb2JJbnRlcnN0aXRpYWwucmVxdWVzdEFkKChlcnJvcikgPT4gZXJyb3IgJiYgY29uc29sZS5sb2coZXJyb3IpKTsKICB9CgogIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgQWRNb2JJbnRlcnN0aXRpYWwucmVtb3ZlQWxsTGlzdGVuZXJzKCk7CiAgfQ==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1887,8 +1896,8 @@
       <register name="/" type="4">
         <text>offers</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGFwcC50YXNrCmRlZiBydW5fZ2l0aHViX3NwaWRlcigpOgogICAgcnVubmVyID0gQ3Jhd2xlclJ1bm5lcihzZXR0aW5ncz1nZXRfcHJvamVjdF9zZXR0aW5ncygpKQoKICAgIEBkZWZlci5pbmxpbmVDYWxsYmFja3MKICAgIGRlZiBjcmF3bCgpOgogICAgICAgIHlpZWxkIHJ1bm5lci5jcmF3bChMaW5rZWRJblNwaWRlcikKICAgICAgICB5aWVsZCBydW5uZXIuY3Jhd2woR2l0aHViU3BpZGVyKQogICAgICAgIHJlYWN0b3Iuc3RvcCgpCgogICAgY3Jhd2woKQogICAgcmVhY3Rvci5ydW4oKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKSB7CiAgICBpZiAoX19ERVZfXykgewogICAgICBBZE1vYkludGVyc3RpdGlhbC5zZXRUZXN0RGV2aWNlSUQoJ0VNVUxBVE9SJyk7CiAgICAgIEFkTW9iSW50ZXJzdGl0aWFsLnNldEFkVW5pdElEKCdjYS1hcHAtcHViLTM5NDAyNTYwOTk5NDI1NDQvMTAzMzE3MzcxMicpOwogICAgfSBlbHNlIHsKICAgICAgLy8gVE9ETzogc2V0QWRVbml0SUQgcHJvZAogICAgfQoKICAgIEFkTW9iSW50ZXJzdGl0aWFsLmFkZEV2ZW50TGlzdGVuZXIoJ2ludGVyc3RpdGlhbERpZENsb3NlJywgKCkgPT4gewogICAgICBBZE1vYkludGVyc3RpdGlhbC5yZXF1ZXN0QWQoKGVycm9yKSA9PiBlcnJvciAmJiBjb25zb2xlLmxvZyhlcnJvcikpOwogICAgfSk7CgogICAgQWRNb2JJbnRlcnN0aXRpYWwucmVxdWVzdEFkKChlcnJvcikgPT4gZXJyb3IgJiYgY29uc29sZS5sb2coZXJyb3IpKTsKICB9CgogIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgQWRNb2JJbnRlcnN0aXRpYWwucmVtb3ZlQWxsTGlzdGVuZXJzKCk7CiAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB5aWVsZCBydW5uZXIuY3Jhd2woTGlua2VkSW5TcGlkZXIpCg==</text>
