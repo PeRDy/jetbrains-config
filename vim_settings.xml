@@ -504,11 +504,8 @@
         <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1507914790659">
-        <mark key="'" line="7" column="56" />
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="50" column="83" />
-        <mark key="^" line="132" column="17" />
-        <mark key="." line="132" column="17" />
+        <mark key="^" line="155" column="17" />
+        <mark key="." line="155" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/bower.json" timestamp="1490219207451">
         <mark key="[" line="20" column="22" />
@@ -978,9 +975,6 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/socialNetwork.js" timestamp="1507916802348">
-        <mark key="^" line="54" column="18" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1505670248907">
         <mark key="'" line="252" column="0" />
         <mark key="[" line="284" column="50" />
@@ -1285,6 +1279,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1510248903285">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_telegram.service" timestamp="1504623376289">
         <mark key="[" line="10" column="67" />
@@ -1656,7 +1655,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1668,34 +1667,34 @@
         <text>doc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxpbmVIZWlnaHQ6IDMwLAo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMzUsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmVIZWlnaHQ6ICwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCiAgICAgIH0sCiAgICB9KSwK</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogMzUsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxpbmVIZWlnaHQ6ICwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDogewogICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCiAgICAgIH0sCiAgICB9KSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1MCwK</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDogewogICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAogICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiA1MCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMzAsCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiA1MCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWUgPSAoPEJ1dHRvbiB0aXRsZT0iTG9hZGluZyIgc3R5bGU9e3N0eWxlcy52YWx1ZX0gY29sb3I9e3RoZW1lLmNvbG9yLnNlY29uZGFyeX0gb25QcmVzcz17dGhpcy5oYW5kbGVQcmVzc30vPik7Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMzAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
