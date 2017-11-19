@@ -449,6 +449,11 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/package.json" timestamp="1511113423220">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/schema.py" timestamp="1497563056541">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="7" />
@@ -503,9 +508,11 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1507914790659">
-        <mark key="^" line="155" column="17" />
-        <mark key="." line="155" column="17" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1511110107479">
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="85" column="6" />
+        <mark key="^" line="85" column="6" />
+        <mark key="." line="85" column="6" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/bower.json" timestamp="1490219207451">
         <mark key="[" line="20" column="22" />
@@ -916,10 +923,8 @@
         <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1507913472161">
-        <mark key="[" line="85" column="21" />
-        <mark key="]" line="85" column="30" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="38" />
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
@@ -1280,11 +1285,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1510248903285">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_telegram.service" timestamp="1504623376289">
         <mark key="[" line="10" column="67" />
         <mark key="]" line="12" column="44" />
@@ -1552,30 +1552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="101" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="242" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="274" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="158" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="180" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="159" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="179" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="160" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="187" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="21" column="55" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="175" column="90" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="275" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="187" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="276" column="27" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="253" column="39" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="184" column="23" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="252" column="32" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="341" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
@@ -1652,58 +1628,82 @@
       <jump line="78" column="7" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" />
       <jump line="7" column="56" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" />
       <jump line="58" column="12" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/socialNetwork.js" />
+      <jump line="4916" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="1937" column="53" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="1935" column="5" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="895" column="32" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="894" column="32" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="889" column="59" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="887" column="18" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="775" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="772" column="69" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="770" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="766" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="762" column="69" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="760" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="525" column="66" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="523" column="25" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="520" column="66" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="518" column="25" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="8" column="47" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="6" column="6" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="1955" column="38" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="3128" column="10" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="3130" column="63" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="4775" column="37" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
+      <jump line="6030" column="37" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXtzdHlsZXMudmFsdWVOb3RGb3VuZH0=</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
-        <text>doc</text>
+        <text>expo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCiAgICAgIH0sCiAgICB9KSwK</text>
+      <register name="0" type="4">
+        <text>name.charAt(0).toUpperCase() + name.slice(1).toLowerCase()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMzUsCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpbmVIZWlnaHQ6ICwK</text>
+        <text encoding="base64">ICAgICJyZWFjdCI6ICJeMTYuMC4wLWFscGhhLjEyIiwKICAgICJyZWFjdC1uYXRpdmUiOiAiaHR0cHM6Ly9naXRodWIuY29tL2V4cG8vcmVhY3QtbmF0aXZlL2FyY2hpdmUvc2RrLTIxLjAuMi50YXIuZ3oiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uLlBsYXRmb3JtLnNlbGVjdCh7CiAgICAgIGFuZHJvaWQ6IHsKICAgICAgICB0ZXh0QWxpZ25WZXJ0aWNhbDogJ2NlbnRlcicsCiAgICAgIH0sCiAgICB9KSwK</text>
+        <text encoding="base64">ICAgICAgICBmb250RmFtaWx5PSdMYXRvJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDogewogICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAogICAgICB9LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2FyZCwgQ2FyZEFjdGlvbiwgQ2FyZFRpdGxlIH0gZnJvbSAicmVhY3QtbmF0aXZlLWNhcmQtdmlldyI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1MCwK</text>
+        <text encoding="base64">ICAgICAgICBUaGUgaWRlYSB3aXRoIFJlYWN0IE5hdGl2ZSBFbGVtZW50cyBpcyBtb3JlIGFib3V0IGNvbXBvbmVudCBzdHJ1Y3R1cmUgdGhhbiBhY3R1YWwgZGVzaWduLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA1MCwK</text>
+        <text encoding="base64">ICAgICAgaW1hZ2U9e3JlcXVpcmUoJy4uL2ltYWdlcy9waWMyLmpwZycpfT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMzAsCg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>doc</last-search>
+      <last-search>expo</last-search>
       <last-offset />
-      <last-pattern>doc</last-pattern>
+      <last-pattern>expo</last-pattern>
       <last-replace>delta</last-replace>
       <last-substitute>shared</last-substitute>
       <last-dir>1</last-dir>
@@ -1711,7 +1711,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HEALTH</entry>
         <entry>max_idle</entry>
         <entry>token</entry>
         <entry>_token</entry>
@@ -1731,6 +1730,7 @@
         <entry>Clinner</entry>
         <entry>dodc</entry>
         <entry>doc</entry>
+        <entry>expo</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
