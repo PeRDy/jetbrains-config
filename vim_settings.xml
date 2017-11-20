@@ -450,9 +450,9 @@
         <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/package.json" timestamp="1511113423220">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/schema.py" timestamp="1497563056541">
         <mark key="[" line="7" column="8" />
@@ -923,9 +923,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1507913472161">
-        <mark key="[" line="80" column="21" />
-        <mark key="]" line="80" column="30" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1511209449983">
+        <mark key="[" line="66" column="16" />
+        <mark key="]" line="71" column="25" />
+        <mark key="^" line="71" column="25" />
+        <mark key="." line="71" column="25" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
@@ -1560,7 +1562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="182" column="23" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
       <jump line="185" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
@@ -1660,10 +1661,11 @@
       <jump line="6030" column="37" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="47" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" />
       <jump line="59" column="77" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
+      <jump line="27" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>capitalize</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Q29udGFpbmVyPgogICAgICAgIDwvQ29udGFpbmVyPgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1678,16 +1680,16 @@
         <text encoding="base64">ICAgICAgY29sb3I6IHRoZW1lLmNvbG9yLnN1Y2Nlc3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8Q29udGFpbmVyPgogICAgICAgIDwvQ29udGFpbmVyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aXRsZU5vdEZvdW5kOiB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoPENhcmQgdGl0bGU9e25hbWUuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyBuYW1lLnNsaWNlKDEpLnRvTG93ZXJDYXNlKCl9Pgo=</text>
+        <text encoding="base64">ICB0aXRsZU5vdEZvdW5kOiB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHJldHVybiAoPENhcmQgdGl0bGU9e25hbWUuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyBuYW1lLnNsaWNlKDEpLnRvTG93ZXJDYXNlKCl9Pgo=</text>
@@ -1696,13 +1698,13 @@
         <text encoding="base64">ICAgIHJldHVybiAoPENhcmQgdGl0bGU9e25hbWUuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyBuYW1lLnNsaWNlKDEpLnRvTG93ZXJDYXNlKCl9Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB2YWx1ZTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoPENhcmQgdGl0bGU9e25hbWUuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyBuYW1lLnNsaWNlKDEpLnRvTG93ZXJDYXNlKCl9Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICB9LAo=</text>
+        <text encoding="base64">ICAgIGxldCB2YWx1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAogICAgaGVpZ2h0OiAzNSwK</text>
+        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
