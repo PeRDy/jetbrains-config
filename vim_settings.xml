@@ -788,11 +788,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/theme.js" timestamp="1511213617298">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/theme.js" timestamp="1511351612819">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/nginx/nginx.conf" timestamp="1467123913113">
         <mark key="[" line="0" column="0" />
@@ -919,10 +919,11 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1511349071968">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1511351608936">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
@@ -1670,13 +1671,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0VGhlbWUgfSBmcm9tICdyZWFjdC1uYXRpdmUtbWF0ZXJpYWwta2l0JzsK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCl9Pg==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1685,7 +1686,7 @@
         <text encoding="base64">ICBicmFuZFByaW1hcnk6ICcjMmI4NWE4JywKICBicmFuZFNpZGViYXI6ICcjRkY5ODAwJywKICBicmFuZEluZm86ICcjNjJCMUY2JywKICBicmFuZERhcms6ICcjMDAwMDAwJywKICBicmFuZFN1Y2Nlc3M6ICcjOEJDMzRBJywKICBicmFuZERhbmdlcjogJyNkOTUzNGYnLAogIGJyYW5kV2FybmluZzogJyNmMGFkNGUnLAogIGJyYW5kTGlnaHQ6ICcjZjRmNGY0JywKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0VGhlbWUgfSBmcm9tICdyZWFjdC1uYXRpdmUtbWF0ZXJpYWwta2l0JzsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1694,22 +1695,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0VGhlbWUoewogIHByaW1hcnlDb2xvcjogdGhlbWUuY29sb3IucHJpbWFyeSwKICBhY2NlbnRDb2xvcjogdGhlbWUuY29sb3IuYWNjZW50LAogIGJnUGxhaW46IHRoZW1lLmNvbG9yLmJhY2tncm91bmQsCiAgYmdEaXNhYmxlZDogdGhlbWUuY29sb3IuYmFja2dyb3VuZERpc2FibGVkLAogIGZvbnRDb2xvcjogdGhlbWUuY29sb3IudGV4dCwKfSk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">c2V0VGhlbWUoewogIHByaW1hcnlDb2xvcjogdGhlbWUuY29sb3IucHJpbWFyeSwKICBhY2NlbnRDb2xvcjogdGhlbWUuY29sb3IuYWNjZW50LAogIGJnUGxhaW46IHRoZW1lLmNvbG9yLmJhY2tncm91bmQsCiAgYmdEaXNhYmxlZDogdGhlbWUuY29sb3IuYmFja2dyb3VuZERpc2FibGVkLAogIGZvbnRDb2xvcjogdGhlbWUuY29sb3IudGV4dCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIHRleHQ6ICcjNzU3NTc1JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgPC9TdHlsZVByb3ZpZGVyPgo=</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3M6ICcjOEJDMzRBJywKICAgIGZhaWx1cmU6ICcjRjQ0MzM2JywKICAgIHdhcm5pbmc6ICcjRkZDMTA3JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNlYXJjaFNjcmVlbiAvPgogICAgICAgICAgPC9Db250ZW50Pgo=</text>
+        <text encoding="base64">ICAgIHByaW1hcnk6ICcjMmI4NWE4JywKICAgIGFjY2VudDogJyNGRjk4MDAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvSGVhZGVyPgogICAgICAgICAgPENvbnRlbnQ+Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgdGhlbWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
