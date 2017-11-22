@@ -682,7 +682,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511211486735">
+      <file name="/Dummy.txt" timestamp="1511352471913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
@@ -1291,12 +1291,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1511352462590">
-        <mark key="'" line="0" column="28" />
-        <mark key="[" line="90" column="9" />
-        <mark key="]" line="90" column="10" />
-        <mark key="^" line="90" column="10" />
-        <mark key="." line="90" column="10" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1511358455108">
+        <mark key="'" line="4" column="27" />
+        <mark key="[" line="107" column="17" />
+        <mark key="]" line="107" column="53" />
+        <mark key="^" line="107" column="53" />
+        <mark key="." line="107" column="53" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_telegram.service" timestamp="1504623376289">
         <mark key="[" line="10" column="67" />
@@ -1568,7 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="14" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="101" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
       <jump line="13" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" />
@@ -1668,16 +1667,17 @@
       <jump line="145" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
       <jump line="147" column="12" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
       <jump line="113" column="13" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/native-base-theme/variables/commonColor.js" />
+      <jump line="4" column="27" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QWN0aXZpdHlJbmRpY2F0b3Ig</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGljb249e3sgbmFtZTogJ3BsYXktY2lyY2xlLW91dGxpbmUnIH19Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWN0aXZpdHlJbmRpY2F0b3Ig</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1686,31 +1686,31 @@
         <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3RoZW1lLmNhcmRTdHlsZX0+CiAgICAgICAgPFRleHQgc3R5bGU9e3RoZW1lLmNhcmRUaXRsZVN0eWxlfT4KICAgICAgICAgIHtfLnRvVXBwZXIobmFtZSl9CiAgICAgICAgPC9UZXh0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGljb249e3sgbmFtZTogJ3BsYXktY2lyY2xlLW91dGxpbmUnIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdGhlbWUgPSBnZXRUaGVtZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcj17dGhlbWUuY29sb3Iuc3VjY2Vzc30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGdldFRoZW1lIGZyb20gJy4uLy4uL25hdGl2ZS1iYXNlLXRoZW1lL2NvbXBvbmVudHMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRhaW5lclN0eWxlPXt7IG1hcmdpblRvcDogMTAgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0VGhlbWUgfSBmcm9tICdyZWFjdC1uYXRpdmUtbWF0ZXJpYWwta2l0JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIGJ1dHRvblN0eWxlPXt7CiAgICAgICAgICAgIGJvcmRlclJhZGl1czogMCwgbWFyZ2luTGVmdDogMCwgbWFyZ2luUmlnaHQ6IDAsIG1hcmdpbkJvdHRvbTogMCwKICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlPSJEaXNjb3ZlciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPENhcmQgdGl0bGU9e18udG9VcHBlcihuYW1lKX0gdGl0bGVTdHlsZT17c3R5bGVzLnRpdGxlRm91bmR9IGRpdmlkZXJTdHlsZT17c3R5bGVzLmRpdmlkZXJ9Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0VGhlbWUoewogIHByaW1hcnlDb2xvcjogdGhlbWUuY29sb3IucHJpbWFyeSwKICBhY2NlbnRDb2xvcjogdGhlbWUuY29sb3IuYWNjZW50LAogIGJnUGxhaW46IHRoZW1lLmNvbG9yLmJhY2tncm91bmQsCiAgYmdEaXNhYmxlZDogdGhlbWUuY29sb3IuYmFja2dyb3VuZERpc2FibGVkLAogIGZvbnRDb2xvcjogdGhlbWUuY29sb3IudGV4dCwKfSk7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTUtTcGlubmVyIH0gZnJvbSAicmVhY3QtbmF0aXZlLW1hdGVyaWFsLWtpdCI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0VGhlbWUoewogIHByaW1hcnlDb2xvcjogdGhlbWUuY29sb3IucHJpbWFyeSwKICBhY2NlbnRDb2xvcjogdGhlbWUuY29sb3IuYWNjZW50LAogIGJnUGxhaW46IHRoZW1lLmNvbG9yLmJhY2tncm91bmQsCiAgYmdEaXNhYmxlZDogdGhlbWUuY29sb3IuYmFja2dyb3VuZERpc2FibGVkLAogIGZvbnRDb2xvcjogdGhlbWUuY29sb3IudGV4dCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRleHQ6ICcjNzU3NTc1JywK</text>
+        <text encoding="base64">Y29uc3QgdGhlbWUgPSBnZXRUaGVtZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
