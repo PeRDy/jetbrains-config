@@ -449,11 +449,6 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/package.json" timestamp="1511113423220">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/schema.py" timestamp="1497563056541">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="7" />
@@ -924,11 +919,10 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1511214536460">
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="17" />
-        <mark key="." line="57" column="17" />
-        <mark key="^" line="57" column="17" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1511349071968">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
@@ -1675,8 +1669,8 @@
       <jump line="113" column="13" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/native-base-theme/variables/commonColor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KCl9Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -1694,28 +1688,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBicmFuZERhcms6ICIjMDAwIiwKICBicmFuZExpZ2h0OiAiI2Y0ZjRmNCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBicmFuZFdhcm5pbmc6ICIjZjBhZDRlIiwKICBicmFuZFNpZGViYXI6ICIjMjUyOTMyIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBicmFuZFN1Y2Nlc3M6ICIjNWNiODVjIiwKICBicmFuZERhbmdlcjogIiNkOTUzNGYiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBicmFuZFByaW1hcnk6IHBsYXRmb3JtID09PSAiaW9zIiA/ICIjMDA3YWZmIiA6ICIjM0Y1MUI1IiwKICBicmFuZEluZm86ICIjNjJCMUY2IiwK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNTYsCiAgICBiYWNrZ3JvdW5kQ29sb3I6IHRoZW1lLmNvbG9yLnByaW1hcnksCg==</text>
+        <text encoding="base64">ICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgPC9TdHlsZVByb3ZpZGVyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0b29sYmFyQW5kcm9pZDogewogICAgZWxldmF0aW9uOiA0LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNlYXJjaFNjcmVlbiAvPgogICAgICAgICAgPC9Db250ZW50Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogdGhlbWUuY29sb3IuYmFja2dyb3VuZCwKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvSGVhZGVyPgogICAgICAgICAgPENvbnRlbnQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
