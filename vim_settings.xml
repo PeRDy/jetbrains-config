@@ -1297,12 +1297,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1511362675480">
-        <mark key="'" line="90" column="14" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1511364604413">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="149" column="3" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_telegram.service" timestamp="1504623376289">
         <mark key="[" line="10" column="67" />
@@ -1574,9 +1574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="448" column="31" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-848954984/-337502517/transitions/core.py" />
-      <jump line="451" column="38" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-848954984/-337502517/transitions/core.py" />
       <jump line="456" column="45" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-848954984/-337502517/transitions/core.py" />
       <jump line="472" column="37" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-848954984/-337502517/transitions/core.py" />
       <jump line="473" column="45" filename="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-848954984/-337502517/transitions/core.py" />
@@ -1674,49 +1671,52 @@
       <jump line="21" column="3" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="90" column="14" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
+      <jump line="92" column="5" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJY29uIG5hbWU9InBsYXktY2lyY2xlLW91dGxpbmUiIC8+Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWRsIA==</text>
+        <text encoding="base64">IHN0eWxlPXt0aGVtZS5jYXJkQ29udGVudFN0eWxlfQ==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBjb250YWluZXI6IHsKICAgIGZsZXg6IDEsCiAgICBiYWNrZ3JvdW5kQ29sb3I6IHRoZW1lLmNvbG9yLmJhY2tncm91bmQsCiAgfSwKICBzdGF0dXNCYXJVbmRlcmxheTogewogICAgaGVpZ2h0OiAyNCwKICAgIGJhY2tncm91bmRDb2xvcjogdGhlbWUuY29sb3IucHJpbWFyeSwKICB9LAogIHRvb2xiYXJBbmRyb2lkOiB7CiAgICBlbGV2YXRpb246IDQsCiAgICBoZWlnaHQ6IDU2LAogICAgYmFja2dyb3VuZENvbG9yOiB0aGVtZS5jb2xvci5wcmltYXJ5LAogIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxDYXJkPgogICAgICAgIDxDYXJkLk1lZGlhIGltYWdlPgogICAgICAgICAgPFRleHQ+CiAgICAgICAgICAgIHtfLnRvVXBwZXIobmFtZSl9CiAgICAgICAgICA8L1RleHQ+CiAgICAgICAgPC9DYXJkLk1lZGlhPgogICAgICAgIDxDYXJkLkJvZHk+CiAgICAgICAgICA8VGV4dD4KICAgICAgICAgICAgUHJvZmlsZSBub3QgZm91bmQuCiAgICAgICAgICA8L1RleHQ+CiAgICAgICAgPC9DYXJkLkJvZHk+CiAgICAgIDwvQ2FyZD4KICAgICk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJY29uIG5hbWU9InBsYXktY2lyY2xlLW91dGxpbmUiIC8+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bWRsLlNwaW5uZXIgLz4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMCIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJ1bmRlZmluZWQiOiAiXjAuMS4wIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L0NhcmQuQm9keT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxJY29uIG5hbWU9InBsYXktY2lyY2xlLW91dGxpbmUiIC8+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8bWRsLlNwaW5uZXIgLz4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMCIsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPFRleHQ+e25hbWV9PC9UZXh0PgogICAgKTsK</text>
+        <text encoding="base64">ICAgICJ1bmRlZmluZWQiOiAiXjAuMS4wIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICBjb25zdCB7IG5hbWUgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
