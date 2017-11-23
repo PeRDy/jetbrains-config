@@ -13,8 +13,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.py</mask>
       <mask>*.py,*.html</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.de</mask>
+      <mask>*.d</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
