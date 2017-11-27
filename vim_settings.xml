@@ -903,10 +903,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" timestamp="1511822740119">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" timestamp="1511823362867">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/factories.py" timestamp="1501010206173">
         <mark key="[" line="28" column="72" />
@@ -2133,7 +2133,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTlBBVEg9JyRQWVRIT05QQVRIOiRXT1JLRElSJwo=</text>
+        <text encoding="base64">V09SS0RJUiAkV09SS0RJUgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2148,25 +2148,25 @@
         <text encoding="base64">ICAgIGxvb3AucnVuX3VudGlsX2NvbXBsZXRlKF9wcm9kdWNlKGt3YXJnc1sndG9waWMnXSwgbG9vcCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTlBBVEg9JyRQWVRIT05QQVRIOiRXT1JLRElSJwo=</text>
+        <text encoding="base64">V09SS0RJUiAkV09SS0RJUgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkSE9NRS8uY2FjaGUvcGlwLyoKCg==</text>
+        <text encoding="base64">RU5WIFBZVEhPTlBBVEg9JyRQWVRIT05QQVRIOiRXT1JLRElSJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC92YXIvdG1wLyogXAo=</text>
+        <text encoding="base64">ICAgICAgICAkSE9NRS8uY2FjaGUvcGlwLyoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDbGVhbiB1cApSVU4gcm0gLXJmIFwK</text>
+        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC92YXIvdG1wLyogXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
+        <text encoding="base64">IyBDbGVhbiB1cApSVU4gcm0gLXJmIFwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSByZXNvbHZhYmxlCg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgLSByZXNvbHZhYmxlCg==</text>
