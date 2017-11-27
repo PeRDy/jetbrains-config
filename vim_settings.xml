@@ -41,7 +41,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1509445381087">
+      <file name="/a.dummy" timestamp="1511814916335">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
@@ -71,12 +71,6 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" timestamp="1505046348520">
         <mark key="[" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" timestamp="1511811414235">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="10" />
@@ -97,6 +91,11 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/app.js" timestamp="1504353162169">
         <mark key="[" line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/requirements.txt" timestamp="1511814673870">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/README.rst" timestamp="1490051716655">
         <mark key="[" line="9" column="0" />
@@ -255,12 +254,10 @@
         <mark key="." line="76" column="5" />
         <mark key="^" line="76" column="5" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/run.py" timestamp="1511813521807">
-        <mark key="'" line="42" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="35" column="6" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/run.py" timestamp="1511814050526">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="25" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/manage.py" timestamp="1465207283742">
         <mark key="[" line="5" column="77" />
@@ -306,6 +303,12 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/urls.py" timestamp="1504874233264">
         <mark key="[" line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/settings/base.py" timestamp="1511814248712">
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt" timestamp="1500600630291">
         <mark key="[" line="1" column="7" />
@@ -692,10 +695,11 @@
         <mark key="]" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" timestamp="1511812798793">
-        <mark key="k" line="88" column="30" />
-        <mark key="[" line="77" column="3" />
-        <mark key="]" line="77" column="52" />
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" timestamp="1511814781061">
+        <mark key="'" line="75" column="4" />
+        <mark key="k" line="77" column="4" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="88" column="30" />
         <mark key="^" line="77" column="52" />
         <mark key="." line="77" column="52" />
       </file>
@@ -880,18 +884,23 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/conf.py" timestamp="1511814762113">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/systemd/miner_telegram.service" timestamp="1500737124266">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" timestamp="1511811323401">
-        <mark key="'" line="12" column="18" />
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="^" line="17" column="59" />
-        <mark key="." line="22" column="41" />
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" timestamp="1511814628495">
+        <mark key="'" line="10" column="30" />
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/recipes/factories.py" timestamp="1501010206173">
         <mark key="[" line="28" column="72" />
@@ -1086,6 +1095,9 @@
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/nose.py" timestamp="1491425191750">
         <mark key="[" line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/core/flights_task.py" timestamp="1511813763792">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
@@ -1170,6 +1182,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/constraints.txt" timestamp="1511814465756">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
@@ -1223,6 +1240,13 @@
         <mark key="]" line="60" column="70" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="41" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/settings.py" timestamp="1511814440349">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1505670248907">
         <mark key="'" line="252" column="0" />
@@ -1738,6 +1762,19 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511814855902">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/Dockerfile" timestamp="1511814522040">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/__init__.py" timestamp="1490367204024">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1983,11 +2020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/miner.py" />
-      <jump line="133" column="10" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="38" column="26" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/ether.py" />
-      <jump line="48" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" />
-      <jump line="53" column="32" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/status.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/ether.py" />
       <jump line="118" column="14" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/ether.py" />
       <jump line="110" column="16" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/ether.py" />
@@ -2083,66 +2115,70 @@
       <jump line="42" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/README.rst" />
       <jump line="103" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/README.rst" />
       <jump line="42" column="6" filename="$USER_HOME$/Desarrollo/knockout-assignment/run.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/settings.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/settings.py" />
+      <jump line="9" column="30" filename="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" />
+      <jump line="75" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
+      <jump line="25" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">R0FVR0UgPSAnZ2F1Z2UnCg==</text>
+        <text encoding="base64">ICAgICAgLSB3aXJlbW9jawo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>consumer</text>
+        <text>acceptance</text>
       </register>
       <register name="/" type="4">
-        <text>piksel</text>
+        <text>/srv/apps/$APP/app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxDYXJkPgogICAgICAgIDxDYXJkLk1lZGlhIGltYWdlPgogICAgICAgICAgPFRleHQ+CiAgICAgICAgICAgIHtfLnRvVXBwZXIobmFtZSl9CiAgICAgICAgICA8L1RleHQ+CiAgICAgICAgPC9DYXJkLk1lZGlhPgogICAgICAgIDxDYXJkLkJvZHk+CiAgICAgICAgICA8VGV4dD4KICAgICAgICAgICAgUHJvZmlsZSBub3QgZm91bmQuCiAgICAgICAgICA8L1RleHQ+CiAgICAgICAgPC9DYXJkLkJvZHk+CiAgICAgIDwvQ2FyZD4KICAgICk7CiAgfQo=</text>
+        <text encoding="base64">CiAgIyMgQ29uZmx1ZW50IFN0YWNrCiAga2Fma2E6CiAgICBpbWFnZTogY29uZmx1ZW50aW5jL2NwLWthZmthCiAgICBkZXBlbmRzX29uOgogICAgICAtIHpvb2tlZXBlcgogICAgICAtIHJlc29sdmFibGUKICAgIGxpbmtzOgogICAgICAtIHpvb2tlZXBlcgogICAgcG9ydHM6CiAgICAgIC0gIjkwOTI6OTAwMiIKICAgIGVudmlyb25tZW50OgogICAgICBLQUZLQV9aT09LRUVQRVJfQ09OTkVDVDogInpvb2tlZXBlcjo5MDAxIgogICAgICBLQUZLQV9BRFZFUlRJU0VEX0xJU1RFTkVSUzogIlBMQUlOVEVYVDovL2thZmthOjkwMDIiCiAgICAgIEtBRktBX0NSRUFURV9UT1BJQ1M6ICJmbGlnaHRzOjE6MSxwYXNzZW5nZXJzX2F2ZXJhZ2U6MToxLHBvcHVsYXRlZF9mbGlnaHQ6MToxIgoKICB6b29rZWVwZXI6CiAgICBpbWFnZTogY29uZmx1ZW50aW5jL2NwLXpvb2tlZXBlcgogICAgaG9zdG5hbWU6IHpvb2tlZXBlcgogICAgZGVwZW5kc19vbjoKICAgICAgLSByZXNvbHZhYmxlCiAgICBwb3J0czoKICAgICAgLSAiOTAwMTo5MDAxIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIFpPT0tFRVBFUl9DTElFTlRfUE9SVDogOTAwMQogICAgICBaT09LRUVQRVJfVElDS19USU1FOiAyMDAwCgogIHNjaGVtYS1yZWdpc3RyeToKICAgIGltYWdlOiBjb25mbHVlbnRpbmMvY3Atc2NoZW1hLXJlZ2lzdHJ5CiAgICBkZXBlbmRzX29uOgogICAgICAtIHpvb2tlZXBlcgogICAgICAtIGthZmthCiAgICAgIC0gcmVzb2x2YWJsZQogICAgbGlua3M6CiAgICAgIC0gem9va2VlcGVyCiAgICAgIC0ga2Fma2EKICAgIHBvcnRzOgogICAgICAtICI4MDgxOjkwMDMiCiAgICBlbnZpcm9ubWVudDoKICAgICAgU0NIRU1BX1JFR0lTVFJZX0hPU1RfTkFNRTogc2NoZW1hLXJlZ2lzdHJ5CiAgICAgIFNDSEVNQV9SRUdJU1RSWV9LQUZLQVNUT1JFX0NPTk5FQ1RJT05fVVJMOiAiem9va2VlcGVyOjkwMDEiCgogIGthZmthLXJlc3Q6CiAgICBpbWFnZTogY29uZmx1ZW50aW5jL2NwLWthZmthLXJlc3QKICAgIGRlcGVuZHNfb246CiAgICAgIC0gem9va2VlcGVyCiAgICAgIC0ga2Fma2EKICAgICAgLSBzY2hlbWEtcmVnaXN0cnkKICAgICAgLSByZXNvbHZhYmxlCiAgICBsaW5rczoKICAgICAgLSB6b29rZWVwZXIKICAgICAgLSBrYWZrYQogICAgICAtIHNjaGVtYS1yZWdpc3RyeQogICAgcG9ydHM6CiAgICAgIC0gIjgwODI6OTAwNCIKICAgIGVudmlyb25tZW50OgogICAgICBLQUZLQV9SRVNUX1pPT0tFRVBFUl9DT05ORUNUOiAiem9va2VlcGVyOjkwMDEiCiAgICAgIEtBRktBX1JFU1RfSE9TVF9OQU1FOiAia2Fma2EtcmVzdCIKCiAgIyMgRE5TIHJlc29sdXRpb24gc3VwcG9ydCBmb3IgZG9ja2VyIGhvc3RzIGZyb20gdGhlIGV4dGVybmFsIGhvc3QgbWFjaGluZS4KICByZXNvbHZhYmxlOgogICAgaW1hZ2U6IG1nb29kL3Jlc29sdmFibGUKICAgIGhvc3RuYW1lOiBkbnMKICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3RtcC9kb2NrZXIuc29jawogICAgICAtIC9ldGMvcmVzb2x2LmNvbmY6L3RtcC9yZXNvbHYuY29uZgoKbmV0d29ya3M6CiAgZGVmYXVsdDoKICAgIGV4dGVybmFsOgogICAgICBuYW1lOiBrbm9ja291dC1hc3NpZ25tZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R0FVR0UgPSAnZ2F1Z2UnCg==</text>
+        <text encoding="base64">ICAgICAgLSB3aXJlbW9jawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RkxPV0VSID0gJ2Zsb3dlcicK</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEFTS19ESVNQQVRDSEVSID0gJ3Rhc2tfZGlzcGF0Y2hlcicK</text>
+        <text encoding="base64">ICAgICAgLSBzY2hlZHVsZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWNjZXB0YW5jZSB0ZXN0cyBmb3IgQ29udGVudEtCIHRhc2sgZW5naW5lIGNhbiBiZSBydW4gdXNpbmc6OgoKICAuL21ha2UucHkgYWNjZXB0YW5jZV90ZXN0cyAtLWJ1aWxkCg==</text>
+        <text encoding="base64">ICAgICAgLSBjb25zdW1lcgogICAgICAtIHByb2R1Y2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWNjZXB0YW5jZSB0ZXN0cyBmb3IgQ29udGVudEtCIHRhc2sgZW5naW5lIGNhbiBiZSBydW4gdXNpbmc6OgoK</text>
+        <text encoding="base64">ICAgICAgLSB3aXJlbW9jawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuL21ha2UucHkgYnVpbGRfYWNjZXB0YW5jZV90ZXN0cwoK</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBzY2hlZHVsZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWxzbywgeW91IGNhbiByZS1idWlsZCB0aGUgYWNjZXB0YW5jZSB0ZXN0IHJ1bm5lciBpbiB0aGUgKmFjY2VwdGFuY2VfdGVzdCogY29tbWFuZCBieSBzZXR0aW5nIHRoZSBmbGFnICoqLS1idWlsZCoqLgo=</text>
+        <text encoding="base64">ICAgICAgLSBjb25zdW1lcgogICAgICAtIHByb2R1Y2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuL21ha2UucHkgYWNjZXB0YW5jZV90ZXN0cwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>piksel</last-search>
+      <last-search>/srv/apps/$APP/app</last-search>
       <last-offset />
-      <last-pattern>piksel</last-pattern>
-      <last-replace>$APP</last-replace>
-      <last-substitute>contentkb-task-engine</last-substitute>
+      <last-pattern>/srv/apps/$APP/app</last-pattern>
+      <last-replace>$WORKDIR</last-replace>
+      <last-substitute>/srv/apps/$APP/app</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loop</entry>
         <entry>requests</entry>
         <entry>state</entry>
         <entry>-</entry>
@@ -2162,9 +2198,9 @@
         <entry>content</entry>
         <entry>Piksel</entry>
         <entry>piksel</entry>
+        <entry>/srv/apps/$APP/app</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ether/storj/g</entry>
         <entry>%s/perdy-site/$APP/g</entry>
         <entry>s/16/32/g</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -2183,6 +2219,7 @@
         <entry>q</entry>
         <entry>%s/contentkb-task-engine/$APP/g</entry>
         <entry>wq</entry>
+        <entry>%s#/srv/apps/$APP/app#$WORKDIR#g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
