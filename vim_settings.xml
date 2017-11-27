@@ -1297,12 +1297,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1511364604413">
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1511455328779">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="^" line="149" column="3" />
-        <mark key="." line="163" column="0" />
+        <mark key="[" line="150" column="19" />
+        <mark key="]" line="150" column="19" />
+        <mark key="^" line="150" column="29" />
+        <mark key="." line="150" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_telegram.service" timestamp="1504623376289">
         <mark key="[" line="10" column="67" />
@@ -1676,14 +1676,14 @@
       <jump line="71" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>styles.card</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXt0aGVtZS5jYXJkQ29udGVudFN0eWxlfQ==</text>
+        <text>styles.card</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
