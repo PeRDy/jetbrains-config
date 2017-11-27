@@ -10,6 +10,7 @@
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
