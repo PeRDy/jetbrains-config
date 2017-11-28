@@ -56,10 +56,11 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" timestamp="1511890728685">
-        <mark key="[" line="71" column="18" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" timestamp="1511891482383">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="58" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/__main__.py" timestamp="1509108202576">
         <mark key="[" line="10" column="37" />
@@ -882,7 +883,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511822073881">
+      <file name="/Dummy.txt" timestamp="1511891637930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -2088,7 +2089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="894" column="32" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="889" column="59" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="887" column="18" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="775" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
@@ -2188,49 +2188,50 @@
       <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
       <jump line="54" column="20" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
       <jump line="2" column="7" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNlbGYubGlzdGVuX2ZsaWdodHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXZlcmFnZSBwYXNzZW5nZXJzIikK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>flight</text>
       </register>
       <register name="/" type="4">
         <text>self\(, \)\?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wLnJ1bl91bnRpbF9jb21wbGV0ZShzZWxmLl9zZW5kX2F2ZXJhZ2VfcGFzc2VuZ2Vycyhwcm9kdWNlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQXZlcmFnZSBwYXNzZW5nZXJzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNlbGYubGlzdGVuX2ZsaWdodHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib290c3RyYXBfc2VydmVycz1rYWZrYV9ib290c3RyYXBfc2VydmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBncm91cF9pZD0nZmxpZ2h0c190YXNrJywgYm9vdHN0cmFwX3NlcnZlcnM9a2Fma2FfYm9vdHN0cmFwX3NlcnZlcikKICAgICAgICBzZWxmLnByb2R1Y2VyID0gQUlPS2Fma2FQcm9kdWNlcihsb29wPXNlbGYubG9vcCwgdmFsdWVfc2VyaWFsaXplcj1sYW1iZGEgeDogc3RyKHgpLmVuY29kZSgndXRmLTgnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgICAgICBzZWxmLmNvbnN1bWVyID0gQUlPS2Fma2FDb25zdW1lcihzZWxmLkZMSUdIVFNfVE9QSUMsIGxvb3A9c2VsZi5sb29wLCB2YWx1ZV9kZXNlcmlhbGl6ZXI9anNvbi5sb2FkcywK</text>
+        <text encoding="base64">CiAgICAgICAgdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9c2VsZi5saXN0ZW5fZmxpZ2h0cykuc3RhcnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQgPSB0aHJlYWRpbmcuVGltZXIoNjAgKiA2MCAqIDI0LCBzZWxmLnNlbmRfcG9wdWxhdGVfZmxpZ2h0KQogICAgICAgIHRocmVhZC5kYWVtb24gPSBUcnVlCiAgICAgICAgdGhyZWFkLnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN1bWVyID0gQUlPS2Fma2FDb25zdW1lcihzZWxmLkZMSUdIVFNfVE9QSUMsIGxvb3A9c2VsZi5sb29wLCB2YWx1ZV9kZXNlcmlhbGl6ZXI9anNvbi5sb2FkcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBncm91cF9pZD0nZmxpZ2h0c190YXNrJywgYm9vdHN0cmFwX3NlcnZlcnM9a2Fma2FfYm9vdHN0cmFwX3NlcnZlcikK</text>
+        <text encoding="base64">ICAgICAgICB0LmRhZW1vbiA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQgPSB0aHJlYWRpbmcuVGltZXIoNjAsIHNlbGYuc2VuZF9hdmVyYWdlX3Bhc3NlbmdlcnMpCiAgICAgICAgdGhyZWFkLmRhZW1vbiA9IFRydWUKICAgICAgICB0aHJlYWQuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0LmRhZW1vbiA9IFRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxpZ2h0cyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNlbGYubGlzdGVuX2ZsaWdodHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
