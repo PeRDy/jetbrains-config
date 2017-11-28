@@ -28,7 +28,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511908100989">
+      <file name="/a.dummy" timestamp="1511909563581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
@@ -2018,6 +2018,9 @@
         <mark key="]" line="60" column="39" />
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/factories.py" timestamp="1511909567174">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_miner.service" timestamp="1504689135490">
         <mark key="[" line="10" column="70" />
