@@ -62,6 +62,9 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="58" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/schemas/flights.avpr" timestamp="1511893235509">
+        <mark key="[" line="34" column="24" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/__main__.py" timestamp="1509108202576">
         <mark key="[" line="10" column="37" />
         <mark key="]" line="9" column="39" />
@@ -272,14 +275,6 @@
         <mark key="]" line="76" column="5" />
         <mark key="." line="76" column="5" />
         <mark key="^" line="76" column="5" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/run.py" timestamp="1511826442760">
-        <mark key="'" line="66" column="17" />
-        <mark key="[" line="90" column="36" />
-        <mark key="m" line="92" column="12" />
-        <mark key="]" line="90" column="36" />
-        <mark key="." line="90" column="36" />
-        <mark key="^" line="90" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/manage.py" timestamp="1465207283742">
         <mark key="[" line="5" column="77" />
@@ -883,7 +878,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511891637930">
+      <file name="/Dummy.txt" timestamp="1511891916859">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1835,6 +1830,13 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1511893543735">
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="48" column="43" />
+        <mark key="^" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/Dockerfile" timestamp="1511826565198">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="8" column="21" />
@@ -2089,7 +2091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="889" column="59" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="887" column="18" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="775" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="772" column="69" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
@@ -2189,49 +2190,50 @@
       <jump line="54" column="20" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
       <jump line="2" column="7" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
       <jump line="3" column="10" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXZlcmFnZSBwYXNzZW5nZXJzIikK</text>
+        <text encoding="base64">CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>flight</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>self\(, \)\?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQXZlcmFnZSBwYXNzZW5nZXJzIikK</text>
+        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5taW51dGVfYmF0Y2ggPSBbXQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjbGVhbl9iYXRjaChzZWxmKToKICAgICAgICB3aXRoIHNlbGYubG9jazoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9c2VsZi5saXN0ZW5fZmxpZ2h0cykuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiTGlzdGVuIGZsaWdodHMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCkK</text>
+        <text encoding="base64">ICAgICAgICBsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0LmRhZW1vbiA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0LmRhZW1vbiA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIGRlZiBfZ2V0X2V2ZW50X2xvb3Aoc2VsZik6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdC4K</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgICAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgICAgICBsb29wID0gYXN5bmNpby5uZXdfZXZlbnRfbG9vcCgpCiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkKICAgICAgICAgICAgCiAgICAgICAgcmV0dXJuIGxvb3AK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNlbGYubGlzdGVuX2ZsaWdodHMpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKICAgICAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgICAgICBsb29wID0gYXN5bmNpby5uZXdfZXZlbnRfbG9vcCgpCiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkKICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
