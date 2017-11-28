@@ -989,6 +989,12 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/flights.avsc" timestamp="1511876586963">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/Repository.vue" timestamp="1498432935435">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -2158,13 +2164,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiIDogImVudW0iLAo=</text>
+        <text encoding="base64">ICAibWVzc2FnZXMiOiB7fQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>logs</text>
@@ -2173,31 +2179,31 @@
         <text encoding="base64">IyBLYWZrYQphaW9rYWZrYQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiIDogImVudW0iLAo=</text>
+        <text encoding="base64">ICAibWVzc2FnZXMiOiB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAibmFtZXNwYWNlIjogImtub2Nrb3V0LmFzc2lnbm1lbnQiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiaXRlbXMiIDogInN0cmluZyIKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgInR5cGUiIDogImVudW0iLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiIDogewogICAgICAgICJ0eXBlIiA6ICJhcnJheSIsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sIHsKICAgICAgIm5hbWUiIDogImdlbnJlIiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiIDogInNlcmllc190aXRsZSIsCiAgICAgICJ0eXBlIiA6IFsgInN0cmluZyIsICJudWxsIiBdCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiIDogImRpcmVjdG9yIiwKICAgICAgInR5cGUiIDogewogICAgICAgICJ0eXBlIiA6ICJhcnJheSIsCiAgICAgICAgIml0ZW1zIiA6ICJzdHJpbmciCiAgICAgIH0KICAgIH0sIHsKICAgICAgIm5hbWUiIDogImNhc3QiLAogICAgICAidHlwZSIgOiB7CiAgICAgICAgInR5cGUiIDogImFycmF5IiwKICAgICAgICAiaXRlbXMiIDogInN0cmluZyIKICAgICAgfQogICAgfSwgewogICAgICAibmFtZSIgOiAiY2hhcmFjdGVyIiwKICAgICAgInR5cGUiIDogewogICAgICAgICJ0eXBlIiA6ICJhcnJheSIsCiAgICAgICAgIml0ZW1zIiA6ICJzdHJpbmciCiAgICAgIH0KICAgIH0sIHsKICAgICAgIm5hbWUiIDogInNlcmllc19pZCIsCiAgICAgICJ0eXBlIiA6IFsgImludCIsICJudWxsIiBdCiAgICB9LCB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAiaXRlbXMiIDogInN0cmluZyIKICAgICAgfQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgInR5cGUiIDogewogICAgICAgICJ0eXBlIiA6ICJhcnJheSIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0sIHsKICAgICAgIm5hbWUiIDogImdlbnJlIiwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIm5hbWUiIDogInNlcmllc190aXRsZSIsCiAgICAgICJ0eXBlIiA6IFsgInN0cmluZyIsICJudWxsIiBdCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiIDogewo=</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiIDogImRpcmVjdG9yIiwKICAgICAgInR5cGUiIDogewogICAgICAgICJ0eXBlIiA6ICJhcnJheSIsCiAgICAgICAgIml0ZW1zIiA6ICJzdHJpbmciCiAgICAgIH0KICAgIH0sIHsKICAgICAgIm5hbWUiIDogImNhc3QiLAogICAgICAidHlwZSIgOiB7CiAgICAgICAgInR5cGUiIDogImFycmF5IiwKICAgICAgICAiaXRlbXMiIDogInN0cmluZyIKICAgICAgfQogICAgfSwgewogICAgICAibmFtZSIgOiAiY2hhcmFjdGVyIiwKICAgICAgInR5cGUiIDogewogICAgICAgICJ0eXBlIiA6ICJhcnJheSIsCiAgICAgICAgIml0ZW1zIiA6ICJzdHJpbmciCiAgICAgIH0KICAgIH0sIHsKICAgICAgIm5hbWUiIDogInNlcmllc19pZCIsCiAgICAgICJ0eXBlIiA6IFsgImludCIsICJudWxsIiBdCiAgICB9LCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
