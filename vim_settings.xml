@@ -28,16 +28,17 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511895575683">
+      <file name="/a.dummy" timestamp="1511908100989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
         <mark key="[" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/schemas/flights.avpr" timestamp="1511897116141">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/schemas/flights.avpr" timestamp="1511907950612">
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
@@ -1038,12 +1039,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1511898582445">
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1511908956231">
         <mark key="'" line="141" column="12" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="78" column="7" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="88" column="13" />
+        <mark key="]" line="88" column="13" />
+        <mark key="^" line="87" column="104" />
+        <mark key="." line="88" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/Dockerfile" timestamp="1511826565198">
         <mark key="[" line="18" column="22" />
@@ -1603,11 +1604,11 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/models/__init__.py" timestamp="1504958206855">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511895607055">
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511908134776">
         <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="67" />
-        <mark key="^" line="23" column="67" />
-        <mark key="." line="23" column="67" />
+        <mark key="]" line="23" column="74" />
+        <mark key="^" line="23" column="74" />
+        <mark key="." line="23" column="74" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/dist.js" timestamp="1489955055074">
         <mark key="[" line="4" column="0" />
@@ -2117,8 +2118,10 @@
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/schemas/flights.avpr" timestamp="1511879297854">
         <mark key="[" line="38" column="5" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/docker-compose.yml" timestamp="1511895592776">
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/docker-compose.yml" timestamp="1511908127172">
         <mark key="[" line="27" column="63" />
+        <mark key="]" line="27" column="63" />
+        <mark key="." line="27" column="63" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/nginx/Dockerfile" timestamp="1467209256885">
         <mark key="[" line="6" column="5" />
@@ -2243,46 +2246,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVtb3ZlIA==</text>
+        <text encoding="base64">YXZlcmFnZV9wYXNzZW5nZXJzX3NjaGVtYSA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVtb3ZlIA==</text>
+        <text encoding="base64">YXZlcmFnZV9wYXNzZW5nZXJzX3NjaGVtYSA=</text>
       </register>
       <register name="/" type="4">
         <text>self\(, \)\?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZsaWdodHNfc2NoZW1hID0gZ2V0X3NjaGVtYSgnZmxpZ2h0cy5hdnByJywgJ0ZsaWdodCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmF2ZXJhZ2VfcGFzc2VuZ2Vyc19zY2hlbWEgPSBnZXRfc2NoZW1hKCdmbGlnaHRzLmF2cHInLCAnZmxpZ2h0cy5hbmFseXplci5BdmVyYWdlUGFzc2VuZ2VycycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfc2VyaWFsaXplcihzZWxmKToKICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJlbmRfb3JpZ2luID0gbWF4KHNlbGYuX3Bhc3NlbmdlcnMsIGxhbWJkYSB4OiBzZWxmLl9wYXNzZW5nZXJzW3hdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1vc3RfcG9wdWxhdGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fbW9zdF9wb3B1bGF0ZWQgaXMgTm9uZSBvciBzZWxmLl9tb3N0X3BvcHVsYXRlZFsncGFzc2VuZ2VycyddIDwgZmxpZ2h0WydwYXNzZW5nZXJzJ106CiAgICAgICAgICAgICAgICBzZWxmLl9tb3N0X3BvcHVsYXRlZCA9IGZsaWdodAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKCcnKSkKICAgICAgICBzZWxmLnNjaGVtYSA9IGF2cm8uc2NoZW1hLlBhcnNlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfc2VyaWFsaXplcihzZWxmKToKICAgICAgICAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19wcm9kdWNlci5zZW5kX2FuZF93YWl0LmNhbGxfYXJnc19saXN0ID09IGV4cGVjdGVkX2NhbGxzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YXNrLmNhY2hlLl9mbGlnaHRzID0gW2ZsaWdodF8xLCBmbGlnaHRfMl0K</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKCcnKSkKICAgICAgICBzZWxmLnNjaGVtYSA9IGF2cm8uc2NoZW1hLlBhcnNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCgo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxscyA9IFsKICAgICAgICAgICAgY2FsbChGbGlnaHRzVGFzay5QQVNTRU5HRVJTX0FWRVJBR0VfVE9QSUMsIGF2ZXJhZ2VfcGFzc2VuZ2VycyksCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19wcm9kdWNlci5zZW5kX2FuZF93YWl0LmNhbGxfYXJnc19saXN0ID09IGV4cGVjdGVkX2NhbGxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
