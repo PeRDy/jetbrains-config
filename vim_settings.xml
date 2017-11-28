@@ -56,6 +56,12 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
         <mark key="[" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" timestamp="1511882974267">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="42" column="11" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/__main__.py" timestamp="1509108202576">
         <mark key="[" line="10" column="37" />
         <mark key="]" line="9" column="39" />
@@ -1059,9 +1065,9 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/run" timestamp="1511833525325">
-        <mark key="[" line="70" column="16" />
-        <mark key="]" line="70" column="16" />
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/run" timestamp="1511882880750">
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="98" column="27" />
         <mark key="^" line="69" column="29" />
         <mark key="." line="70" column="16" />
       </file>
@@ -1644,11 +1650,11 @@
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/bower.json" timestamp="1493151447245">
         <mark key="[" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/test_flights.py" timestamp="1511882258913">
-        <mark key="[" line="45" column="52" />
-        <mark key="]" line="45" column="82" />
-        <mark key="." line="45" column="52" />
-        <mark key="^" line="48" column="43" />
+      <file name="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/test_flights.py" timestamp="1511882808167">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="74" column="74" />
       </file>
       <file name="$USER_HOME$/Desarrollo/Sonar/sonar-api/requirements_base.txt" timestamp="1459508771767">
         <mark key="[" line="22" column="33" />
@@ -2185,47 +2191,47 @@
       <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, mock_producer, mock_consumer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG1zZy52YWx1ZSkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, mock_producer, mock_consumer</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>self\(, \)\?</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zID0gW2ZsaWdodF8xLCBmbGlnaHRfMiwgZmxpZ2h0XzNdCgogICAgICAgIGFzc2VydCBbZmxpZ2h0XzEsIGZsaWdodF8yLCBmbGlnaHRfM10gPT0gW2kgYXN5bmMgZm9yIGkgaW4gbW9ja19jb25zdW1lcl0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">YXdhaXQgY29uc3VtZXIuc3RhcnQoKQogICAgICAgIHRyeToKICAgICAgICAgICAgYXN5bmMgZm9yIG1zZyBpbiBjb25zdW1lcjoKICAgICAgICAgICAgICAgIHByaW50KG1zZy52YWx1ZSkKICAgICAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgICAgIHBhc3MKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBjb25zdW1lci5zdG9wKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG1zZy52YWx1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZQo=</text>
+        <text encoding="base64">CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUK</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IFtmbGlnaHRfMSwgZmxpZ2h0XzIsIGZsaWdodF8zXSA9PSBbaSBhc3luYyBmb3IgaSBpbiBtb2NrX2NvbnN1bWVyXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgndGFza3MuZmxpZ2h0cy5BSU9LYWZrYUNvbnN1bWVyJykK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgndGFza3MuZmxpZ2h0cy5BSU9LYWZrYUNvbnN1bWVyJykKICAgIEBwYXRjaCgndGFza3MuZmxpZ2h0cy5BSU9LYWZrYVByb2R1Y2VyJykK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgndGFza3MuZmxpZ2h0cy5BSU9LYWZrYUNvbnN1bWVyJywgbmV3X2NhbGxhYmxlPWthZmthX2NvbnN1bWVyKQogICAgQHBhdGNoKCd0YXNrcy5mbGlnaHRzLkFJT0thZmthUHJvZHVjZXInKQo=</text>
+        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0YXNrcy50ZXN0cy5maXh0dXJlcyBpbXBvcnQga2Fma2FfY29uc3VtZXIK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
