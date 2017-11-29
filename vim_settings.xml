@@ -919,8 +919,10 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/steps/kafka.py" timestamp="1511994022525">
-        <mark key="[" line="38" column="20" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/steps/kafka.py" timestamp="1511995975009">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/bower.json" timestamp="1493151447245">
         <mark key="[" line="4" column="34" />
@@ -2272,14 +2274,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfZGVzZXJpYWxpemVyPXBhcnRpYWwoc2VsZi5kZXNlcmlhbGl6ZSwgc2NoZW1hPXNlbGYuZmxpZ2h0c19zY2hlbWEpLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>value_serializer=partial(self.serialize, self.average_passengers_schema),</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>self\(, \)\?</text>
@@ -2288,25 +2290,25 @@
         <text encoding="base64">IyBQcm9kdWNlIG1lc3NhZ2VzIHVzaW5nIHNjaGVtYSA8c2NoZW1hPiBmcm9tIHByb3RvY29sIDxwcm90b2NvbD4gaW50byBLYWZrYSB0b3BpYyA8dG9waWM+IDx0YWJsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfZGVzZXJpYWxpemVyPXBhcnRpYWwoc2VsZi5kZXNlcmlhbGl6ZSwgc2NoZW1hPXNlbGYuZmxpZ2h0c19zY2hlbWEpLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfZGVzZXJpYWxpemVyPXBhcnRpYWwoc2VsZi5kZXNlcmlhbGl6ZSwgc2NoZW1hPXNlbGYuZmxpZ2h0c19zY2hlbWEpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBDcmVhdGUgYSBLYWZrYSBwcm9kdWNlci4KKiBQcm9kdWNlIG1lc3NhZ2Ugd2l0aCBzY2hlbWEgIkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIHRvcGljICJ0cmVuZF9vcmlnaW4iLgo=</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RXZlcnkgZGF5LCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGNvdW50cnkgZnJvbSB3aGljaCBtb3JlIHBhc3NlbmdlcnMgaGF2ZSBmbGlnaHRlZCBhbmQgc3RyZWFtIGl0IHRocm91Z2ggYSBLYWZrYSB0b3BpYy4KCg==</text>
+        <text encoding="base64">KiBDcmVhdGUgYSBLYWZrYSBwcm9kdWNlci4KKiBQcm9kdWNlIG1lc3NhZ2Ugd2l0aCBzY2hlbWEgIkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIHRvcGljICJ0cmVuZF9vcmlnaW4iLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RXZlcnkgbWludXRlLCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGF2ZXJhZ2UgcGFzc2VuZ2VycyBwZXIgZmxpZ2h0IGFuZCBzdHJlYW0gaXQgdGhyb3VnaCBhIEthZmthIHRvcGljLgo=</text>
+        <text encoding="base64">RXZlcnkgZGF5LCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGNvdW50cnkgZnJvbSB3aGljaCBtb3JlIHBhc3NlbmdlcnMgaGF2ZSBmbGlnaHRlZCBhbmQgc3RyZWFtIGl0IHRocm91Z2ggYSBLYWZrYSB0b3BpYy4KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">RXZlcnkgbWludXRlLCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGF2ZXJhZ2UgcGFzc2VuZ2VycyBwZXIgZmxpZ2h0IGFuZCBzdHJlYW0gaXQgdGhyb3VnaCBhIEthZmthIHRvcGljLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
