@@ -6,6 +6,7 @@
       <mapping ext="avsc" type="JSON" />
       <mapping ext="avpr" type="JSON" />
       <mapping ext="cpt" type="Markdown" />
+      <mapping ext="spec" type="Markdown" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
