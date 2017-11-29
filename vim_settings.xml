@@ -919,10 +919,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/steps/kafka.py" timestamp="1511995975009">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="12" />
-        <mark key="." line="40" column="12" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/steps/kafka.py" timestamp="1511996617729">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/bower.json" timestamp="1493151447245">
         <mark key="[" line="4" column="34" />
@@ -2275,13 +2276,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">KCksIA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">KCksIA==</text>
       </register>
       <register name="/" type="4">
         <text>self\(, \)\?</text>
