@@ -492,7 +492,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511891916859">
+      <file name="/Dummy.txt" timestamp="1511978399866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -709,12 +709,6 @@
         <mark key="]" line="52" column="23" />
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/telegraf/index.rst" timestamp="1509122301205">
         <mark key="[" line="34" column="0" />
@@ -1532,12 +1526,12 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" timestamp="1511976920178">
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" timestamp="1511979368381">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="98" />
-        <mark key="." line="0" column="50" />
-        <mark key="^" line="0" column="50" />
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/requirements.txt" timestamp="1511897963508">
         <mark key="[" line="8" column="12" />
@@ -1735,6 +1729,13 @@
         <mark key="]" line="27" column="67" />
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511978683015">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="121" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="33" column="2" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner.service" timestamp="1504623405275">
         <mark key="[" line="10" column="66" />
@@ -1975,6 +1976,12 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run.py" timestamp="1488285198849">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -2168,7 +2175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="762" column="69" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="760" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="525" column="66" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="523" column="25" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
@@ -2268,66 +2274,66 @@
       <jump line="76" column="7" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
       <jump line="141" column="12" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" />
+      <jump line="20" column="4" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDx0YWJsZT4=</text>
+        <text encoding="base64">cHJvZHVjZXIg</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDx0YWJsZT4=</text>
+        <text encoding="base64">cHJvZHVjZXIg</text>
       </register>
       <register name="/" type="4">
-        <text>self\(, \)\?</text>
+        <text>foo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBQcm9kdWNlIG1lc3NhZ2VzIHVzaW5nIHNjaGVtYSA8c2NoZW1hPiBmcm9tIHByb3RvY29sIDxwcm90b2NvbD4gaW50byBLYWZrYSB0b3BpYyA8dG9waWM+IDx0YWJsZT4K</text>
+        <text encoding="base64">KiBDcmVhdGUgYSBLYWZrYSBwcm9kdWNlciB3aXRoIHNjaGVtYSA8c2NoZW1hPiBmcm9tIHByb3RvY29sIDxwcm90b2NvbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">Ci8vICogUHJvZHVjZSBtZXNzYWdlcyB1c2luZyBzY2hlbWEgIkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIEthZmthIHRvcGljICJmbGlnaHRzIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiBDcmVhdGUgYSBLYWZrYSBwcm9kdWNlci4KKiBQcm9kdWNlIG1lc3NhZ2Ugd2l0aCBzY2hlbWEgIkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIHRvcGljICJ0cmVuZF9vcmlnaW4iLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RXZlcnkgZGF5LCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGNvdW50cnkgZnJvbSB3aGljaCBtb3JlIHBhc3NlbmdlcnMgaGF2ZSBmbGlnaHRlZCBhbmQgc3RyZWFtIGl0IHRocm91Z2ggYSBLYWZrYSB0b3BpYy4KCg==</text>
+        <text encoding="base64">ICAgIHwtLS0tLS0tLS0tfAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RXZlcnkgbWludXRlLCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGF2ZXJhZ2UgcGFzc2VuZ2VycyBwZXIgZmxpZ2h0IGFuZCBzdHJlYW0gaXQgdGhyb3VnaCBhIEthZmthIHRvcGljLgo=</text>
+        <text encoding="base64">KiBDcmVhdGUgYSBLYWZrYSBwcm9kdWNlci4KKiBQcm9kdWNlIG1lc3NhZ2Ugd2l0aCBzY2hlbWEgIkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIHRvcGljICJwYXNzZW5nZXJzX2F2ZXJhZ2UiLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
+        <text encoding="base64">KiBDcmVhdGUgYSBLYWZrYSBwcm9kdWNlci4KKiBQcm9kdWNlIG1lc3NhZ2Ugd2l0aCBzY2hlbWEgIkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIHRvcGljICJ0cmVuZF9vcmlnaW4iLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
+        <text encoding="base64">RXZlcnkgZGF5LCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGNvdW50cnkgZnJvbSB3aGljaCBtb3JlIHBhc3NlbmdlcnMgaGF2ZSBmbGlnaHRlZCBhbmQgc3RyZWFtIGl0IHRocm91Z2ggYSBLYWZrYSB0b3BpYy4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
+        <text encoding="base64">RXZlcnkgbWludXRlLCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGF2ZXJhZ2UgcGFzc2VuZ2VycyBwZXIgZmxpZ2h0IGFuZCBzdHJlYW0gaXQgdGhyb3VnaCBhIEthZmthIHRvcGljLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self\(, \)\?</last-search>
+      <last-search>foo</last-search>
       <last-offset />
-      <last-pattern>self\(, \)\?</last-pattern>
-      <last-replace />
-      <last-substitute>self\(, \)\?</last-substitute>
+      <last-pattern>foo</last-pattern>
+      <last-replace>bar</last-replace>
+      <last-substitute>foo</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>doc</entry>
         <entry>api</entry>
         <entry>offers</entry>
         <entry>contentkb-task-engine</entry>
@@ -2347,9 +2353,9 @@
         <entry>self\(, \)</entry>
         <entry>self\(, \)?</entry>
         <entry>self\(, \)\?</entry>
+        <entry>foo</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zLyA9XC5cKy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLyA9LlwrLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
@@ -2368,6 +2374,7 @@
         <entry>%s/self\(, \)//g</entry>
         <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
+        <entry encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
