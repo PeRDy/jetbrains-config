@@ -1438,8 +1438,10 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.md" timestamp="1511970830827">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.md" timestamp="1511976951608">
+        <mark key="[" line="17" column="89" />
+        <mark key="]" line="17" column="90" />
+        <mark key="." line="17" column="90" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/requirements.txt" timestamp="1497639309083">
         <mark key="[" line="2" column="12" />
@@ -1529,6 +1531,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" timestamp="1511976920178">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="98" />
+        <mark key="." line="0" column="50" />
+        <mark key="^" line="0" column="50" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/requirements.txt" timestamp="1511897963508">
         <mark key="[" line="8" column="12" />
@@ -2159,7 +2168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="766" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="762" column="69" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="760" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="525" column="66" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
@@ -2259,49 +2267,50 @@
       <jump line="68" column="98" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="76" column="7" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
       <jump line="141" column="12" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDx0YWJsZT4=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>max_populate_flight</text>
+        <text encoding="base64">IDx0YWJsZT4=</text>
       </register>
       <register name="/" type="4">
         <text>self\(, \)\?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aW1lc3RhbXAnOiBkYXRldGltZS51dGNub3coKS50aW1lc3RhbXAoKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">IyBQcm9kdWNlIG1lc3NhZ2VzIHVzaW5nIHNjaGVtYSA8c2NoZW1hPiBmcm9tIHByb3RvY29sIDxwcm90b2NvbD4gaW50byBLYWZrYSB0b3BpYyA8dG9waWM+IDx0YWJsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
+        <text encoding="base64">KiBDcmVhdGUgYSBLYWZrYSBwcm9kdWNlci4KKiBQcm9kdWNlIG1lc3NhZ2Ugd2l0aCBzY2hlbWEgIkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIHRvcGljICJ0cmVuZF9vcmlnaW4iLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
+        <text encoding="base64">RXZlcnkgZGF5LCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGNvdW50cnkgZnJvbSB3aGljaCBtb3JlIHBhc3NlbmdlcnMgaGF2ZSBmbGlnaHRlZCBhbmQgc3RyZWFtIGl0IHRocm91Z2ggYSBLYWZrYSB0b3BpYy4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
+        <text encoding="base64">RXZlcnkgbWludXRlLCB0aGUgYW5hbHl6ZXIgd2lsbCBjYWxjdWxhdGUgdGhlIGF2ZXJhZ2UgcGFzc2VuZ2VycyBwZXIgZmxpZ2h0IGFuZCBzdHJlYW0gaXQgdGhyb3VnaCBhIEthZmthIHRvcGljLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAncGFzc2VuZ2Vycyc6IDIwMCwKICAgICAgICAgICAgJ3RpbWVzdGFtcCc6IGRhdGV0aW1lLnV0Y25vdygpLnRpbWVzdGFtcCgpCg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFjdG9yeS5idWlsZChkaWN0LCBwYXNzZW5nZXJzPTE1MCwgIEZBQ1RPUllfQ0xBU1M9RmxpZ2h0RmFjdG9yeSkK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZSgnMjAxNy0xMS0yOCAwNjowMDowMCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xhbmRlZEF0JzogZGF0ZXRpbWUudXRjbm93KCkudGltZXN0YW1wKCksCiAgICAgICAgICAgICdvcmlnaW4nOiAnZnInCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
