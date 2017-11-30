@@ -443,6 +443,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/conftest.py" timestamp="1512056072080">
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/0001_initial.py" timestamp="1504965605814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="64" column="4" />
@@ -492,7 +498,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511891916859">
+      <file name="/Dummy.txt" timestamp="1512055983953">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1145,12 +1151,12 @@
         <mark key="^" line="76" column="50" />
         <mark key="." line="76" column="50" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/README.rst" timestamp="1512055106760">
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/README.rst" timestamp="1512055978714">
         <mark key="'" line="97" column="17" />
-        <mark key="[" line="122" column="31" />
-        <mark key="]" line="122" column="31" />
-        <mark key="." line="122" column="31" />
-        <mark key="^" line="122" column="31" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/run_tests.py" timestamp="1465205993605">
         <mark key="[" line="8" column="13" />
@@ -2307,19 +2313,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>AveragePassengers</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>AveragePassengers</text>
       </register>
       <register name="/" type="4">
-        <text>./make.py</text>
+        <text>schema</text>
       </register>
-      <register name="0" type="4">
-        <text>//</text>
+      <register name="0" type="2">
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhdmVyYWdlX3Bhc3NlbmdlcnNfc2NoZW1hKGZsaWdodHNfcHJvdG9jb2w6ICdhdnJvLnByb3RvY29sLlByb3RvY29sJykgLT4gJ2F2cm8uc2NoZW1hLlJlY29yZFNjaGVtYSc6CiAgICByZXR1cm4gZmxpZ2h0c19wcm90b2NvbC50eXBlX21hcFsnZmxpZ2h0cy5hbmFseXplci5BdmVyYWdlUGFzc2VuZ2VycyddCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJhd19tZXNzYWdlID0gaW5wdXQoKQo=</text>
@@ -2349,13 +2355,13 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s#./make.py#./make#g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>./make.py</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern>./make.py</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace>./make</last-replace>
       <last-substitute>./make.py</last-substitute>
       <last-dir>1</last-dir>
@@ -2363,7 +2369,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>start_</entry>
         <entry>format</entry>
         <entry>content</entry>
@@ -2383,6 +2388,7 @@
         <entry>ipdb</entry>
         <entry>pdb</entry>
         <entry>./make.py</entry>
+        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
@@ -2403,8 +2409,8 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zI14jLy8jZw==</entry>
-        <entry>w</entry>
         <entry>%s#./make.py#./make#g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
