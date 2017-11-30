@@ -1145,10 +1145,12 @@
         <mark key="^" line="76" column="50" />
         <mark key="." line="76" column="50" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/README.rst" timestamp="1512052045432">
-        <mark key="[" line="125" column="52" />
-        <mark key="]" line="127" column="44" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/README.rst" timestamp="1512055106760">
+        <mark key="'" line="97" column="17" />
+        <mark key="[" line="122" column="31" />
+        <mark key="]" line="122" column="31" />
+        <mark key="." line="122" column="31" />
+        <mark key="^" line="122" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/run_tests.py" timestamp="1465205993605">
         <mark key="[" line="8" column="13" />
@@ -2202,7 +2204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="77" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="27" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
       <jump line="0" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="133" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
@@ -2302,19 +2303,20 @@
       <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="51" column="10" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" />
+      <jump line="97" column="17" filename="$USER_HOME$/Desarrollo/flights-analyzer/README.rst" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGluZSA=</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGluZSA=</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text>./make.py</text>
       </register>
       <register name="0" type="4">
         <text>//</text>
@@ -2347,21 +2349,20 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s#./make.py#./make#g</text>
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search>./make.py</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
-      <last-replace>//</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>./make.py</last-pattern>
+      <last-replace>./make</last-replace>
+      <last-substitute>./make.py</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>piksel</entry>
         <entry>start</entry>
         <entry>start_</entry>
         <entry>format</entry>
@@ -2381,9 +2382,9 @@
         <entry>^</entry>
         <entry>ipdb</entry>
         <entry>pdb</entry>
+        <entry>./make.py</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy0vKi9n</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGFbJ2RhdGEnXS9kYXRhL2c=</entry>
@@ -2403,6 +2404,7 @@
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zI14jLy8jZw==</entry>
         <entry>w</entry>
+        <entry>%s#./make.py#./make#g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
