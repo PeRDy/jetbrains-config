@@ -66,12 +66,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1511915508805">
-        <mark key="'" line="68" column="98" />
-        <mark key="[" line="28" column="91" />
-        <mark key="]" line="28" column="91" />
-        <mark key="." line="28" column="51" />
-        <mark key="^" line="32" column="50" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1512011895146">
+        <mark key="'" line="47" column="8" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="74" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_base.py" timestamp="1509107796064">
         <mark key="[" line="82" column="41" />
@@ -928,10 +928,11 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/run" timestamp="1512000342833">
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/run" timestamp="1512007488277">
         <mark key="[" line="74" column="34" />
-        <mark key="]" line="88" column="8" />
-        <mark key="." line="88" column="8" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/bower.json" timestamp="1493151447245">
         <mark key="[" line="4" column="34" />
@@ -1046,11 +1047,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1512007188981">
-        <mark key="[" line="173" column="37" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-        <mark key="^" line="158" column="18" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1512011118427">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="12" />
+        <mark key="^" line="225" column="13" />
+        <mark key="." line="116" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/Dockerfile" timestamp="1511826565198">
         <mark key="[" line="18" column="22" />
@@ -1349,9 +1350,6 @@
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/steps/steps.py" timestamp="1511980063070">
-        <mark key="[" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1507571355917">
         <mark key="[" line="12" column="42" />
@@ -2044,8 +2042,9 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" timestamp="1512002303382">
-        <mark key="'" line="186" column="47" />
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" timestamp="1512009012977">
+        <mark key="'" line="365" column="25" />
+        <mark key="n" line="341" column="8" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run.py" timestamp="1486056999851">
         <mark key="[" line="0" column="0" />
@@ -2195,13 +2194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="47" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
-      <jump line="6" column="6" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
-      <jump line="1955" column="38" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
-      <jump line="3128" column="10" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
-      <jump line="3130" column="63" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
-      <jump line="4775" column="37" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
-      <jump line="6030" column="37" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/package-lock.json" />
       <jump line="47" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" />
       <jump line="59" column="77" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="27" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
@@ -2295,67 +2287,72 @@
       <jump line="171" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="182" column="38" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="186" column="47" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
+      <jump line="340" column="44" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
+      <jump line="341" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
+      <jump line="363" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
+      <jump line="364" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
+      <jump line="365" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzJdLnZhbHVlID0gZmxpZ2h0XzMK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, consumer: 'AIOKafkaConsumer'</text>
+        <text>Mock()] * 3</text>
       </register>
       <register name="/" type="4">
-        <text>schedule =</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWNlciA9IEFJT0thZmthUHJvZHVjZXIobG9vcD1sb29wLCBib290c3RyYXBfc2VydmVycz1zZWxmLmthZmthX2Jvb3RzdHJhcF9zZXJ2ZXJzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZV9zZXJpYWxpemVyPXBhcnRpYWwoc2VsZi5zZXJpYWxpemUsIHNjaGVtYT1zZWxmLmF2ZXJhZ2VfcGFzc2VuZ2Vyc19zY2hlbWEpKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2ZsaWdodF8xID0gTW9jaygpCiAgICAgICAgbW9ja19mbGlnaHRfMS52YWx1ZSA9IGZsaWdodF8xCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzJdLnZhbHVlID0gZmxpZ2h0XzMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgOnBhcmFtIHByb2R1Y2VyOiBLYWZrYSBwcm9kdWNlciBpbnN0YW5jZS4K</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzBdLnZhbHVlID0gZmxpZ2h0XzEKICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzFdLnZhbHVlID0gZmxpZ2h0XzIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgOnBhcmFtIGNvbnN1bWVyOiBLYWZrYSBjb25zdW1lciBpbnN0YW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBjb25zdW1lci5zdG9wKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcHJvZHVjZXI6IEthZmthIHByb2R1Y2VyIGluc3RhbmNlLgo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGxvb3ApCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBwcm9kdWNlci5zdG9wKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQoK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBwcm9kdWNlci5zdG9wKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzZW5nZXJzX3Byb2R1Y2VyID0gQUlPS2Fma2FQcm9kdWNlcihsb29wPWxvb3AsIGJvb3RzdHJhcF9zZXJ2ZXJzPXNlbGYua2Fma2FfYm9vdHN0cmFwX3NlcnZlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfc2VyaWFsaXplcj1wYXJ0aWFsKHNlbGYuc2VyaWFsaXplLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2hlbWE9c2VsZi5hdmVyYWdlX3Bhc3NlbmdlcnNfc2NoZW1hKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzZW5nZXJzX3Byb2R1Y2VyID0gQUlPS2Fma2FQcm9kdWNlcihsb29wPWxvb3AsIGJvb3RzdHJhcF9zZXJ2ZXJzPXNlbGYua2Fma2FfYm9vdHN0cmFwX3NlcnZlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfc2VyaWFsaXplcj1wYXJ0aWFsKHNlbGYuc2VyaWFsaXplLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>schedule =</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>schedule =</last-pattern>
-      <last-replace />
-      <last-substitute>self\(, \)\?</last-substitute>
+      <last-pattern>1</last-pattern>
+      <last-replace>3</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>offers</entry>
-        <entry>contentkb-task-engine</entry>
         <entry>Content</entry>
         <entry>Piksel</entry>
         <entry>/srv/apps/$APP/app</entry>
@@ -2374,10 +2371,10 @@
         <entry>self\(, \)\?</entry>
         <entry>schedule</entry>
         <entry>schedule =</entry>
+        <entry>every</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry encoding="base64">JzwsJz5zLyA9XC5cKy8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLyA9LlwrLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
@@ -2395,6 +2392,8 @@
         <entry>%s/self\(, \)//g</entry>
         <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
