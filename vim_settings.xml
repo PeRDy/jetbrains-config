@@ -922,17 +922,16 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/steps/kafka.py" timestamp="1511999759355">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="68" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/steps/kafka.py" timestamp="1512045432631">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/run" timestamp="1512007488277">
-        <mark key="[" line="74" column="34" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/run" timestamp="1512042936152">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/bower.json" timestamp="1493151447245">
         <mark key="[" line="4" column="34" />
@@ -1047,11 +1046,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1512011118427">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="12" />
-        <mark key="^" line="225" column="13" />
-        <mark key="." line="116" column="12" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1512043042670">
+        <mark key="[" line="212" column="25" />
+        <mark key="]" line="212" column="30" />
+        <mark key="^" line="212" column="30" />
+        <mark key="." line="212" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/Dockerfile" timestamp="1511826565198">
         <mark key="[" line="18" column="22" />
@@ -1145,6 +1144,9 @@
         <mark key="]" line="76" column="50" />
         <mark key="^" line="76" column="50" />
         <mark key="." line="76" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/README.rst" timestamp="1512045614218">
+        <mark key="[" line="103" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/run_tests.py" timestamp="1465205993605">
         <mark key="[" line="8" column="13" />
@@ -1631,11 +1633,10 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/models/__init__.py" timestamp="1504958206855">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511908134776">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="74" />
-        <mark key="^" line="23" column="74" />
-        <mark key="." line="23" column="74" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1512040629549">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/requirements_test.txt" timestamp="1511912025304">
         <mark key="[" line="14" column="12" />
@@ -1752,11 +1753,10 @@
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
-        <mark key="[" line="46" column="149" />
-        <mark key="]" line="21" column="154" />
-        <mark key="^" line="21" column="154" />
-        <mark key="." line="21" column="154" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1512045426757">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner.service" timestamp="1504623405275">
         <mark key="[" line="10" column="66" />
@@ -1979,6 +1979,12 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="74" column="74" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/run" timestamp="1512045278095">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="15" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/Sonar/sonar-api/requirements_base.txt" timestamp="1459508771767">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="22" column="33" />
@@ -2194,7 +2200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" />
       <jump line="59" column="77" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="27" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
       <jump line="0" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
@@ -2294,68 +2299,66 @@
       <jump line="365" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
+      <jump line="51" column="10" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzJdLnZhbHVlID0gZmxpZ2h0XzMK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Mock()] * 3</text>
-      </register>
-      <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2ZsaWdodF8xID0gTW9jaygpCiAgICAgICAgbW9ja19mbGlnaHRfMS52YWx1ZSA9IGZsaWdodF8xCg==</text>
+      <register name="/" type="4">
+        <text>pdb</text>
+      </register>
+      <register name="0" type="4">
+        <text>//</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzJdLnZhbHVlID0gZmxpZ2h0XzMK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzBdLnZhbHVlID0gZmxpZ2h0XzEKICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzFdLnZhbHVlID0gZmxpZ2h0XzIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIHwgdXMgICAgIHwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBjb25zdW1lci5zdG9wKCkK</text>
+        <text encoding="base64">ICAgIHwgYmFyMyAgICAgICAgIHwgQklHICAgICAgIHwgMjUgICAgICAgICB8IDE1MTE5NzgyNTggfCBlcyAgICAgfAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHwgYmFyMyAgICAgICAgIHwgQklHICAgICAgIHwgMjUgICAgICAgICB8IDE1MTE5NzgyNTggfCBlcyAgICAgfAoqIENvbnN1bWUgIjIiIG1lc3NhZ2VzIHVzaW5nIHNjaGVtYSAiZmxpZ2h0cy5hbmFseXplci5UcmVuZE9yaWdpbiIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBmcm9tIEthZmthIHRvcGljICJ0cmVuZF9vcmlnaW4iIHdpdGggdGltZW91dCAiMTIwIiBzZWNvbmRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBwcm9kdWNlci5zdG9wKCkK</text>
+        <text encoding="base64">ICAgIHwgYmFyMSAgICAgICAgIHwgU01BTEwgICAgIHwgNTAgICAgICAgICB8IDE1MTE5NzgyNDMgfCBlcyAgICAgfAogICAgfCBiYXIyICAgICAgICAgfCBCSUcgICAgICAgfCAxMDAgICAgICAgIHwgMTUxMTk3ODI1MyB8IHVzICAgICB8Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBwcm9kdWNlci5zdG9wKCkK</text>
+        <text encoding="base64">ICAgIHwgZmxpZ2h0TnVtYmVyIHwgcGxhbmVUeXBlIHwgcGFzc2VuZ2VycyB8IGxhbmRlZEF0ICAgfCBvcmlnaW4gfAogICAgfC0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS18LS0tLS0tLS18Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzZW5nZXJzX3Byb2R1Y2VyID0gQUlPS2Fma2FQcm9kdWNlcihsb29wPWxvb3AsIGJvb3RzdHJhcF9zZXJ2ZXJzPXNlbGYua2Fma2FfYm9vdHN0cmFwX3NlcnZlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfc2VyaWFsaXplcj1wYXJ0aWFsKHNlbGYuc2VyaWFsaXplLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2hlbWE9c2VsZi5hdmVyYWdlX3Bhc3NlbmdlcnNfc2NoZW1hKSkK</text>
+        <text encoding="base64">KiBXYWl0ICI5MCIgc2Vjb25kcwoqIFByb2R1Y2UgbWVzc2FnZXMgdXNpbmcgc2NoZW1hICJmbGlnaHRzLmFuYWx5emVyLkZsaWdodCIgZnJvbSBwcm90b2NvbCAiZmxpZ2h0cy5hdnByIiBpbnRvIEthZmthIHRvcGljICJmbGlnaHRzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzZW5nZXJzX3Byb2R1Y2VyID0gQUlPS2Fma2FQcm9kdWNlcihsb29wPWxvb3AsIGJvb3RzdHJhcF9zZXJ2ZXJzPXNlbGYua2Fma2FfYm9vdHN0cmFwX3NlcnZlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfc2VyaWFsaXplcj1wYXJ0aWFsKHNlbGYuc2VyaWFsaXplLAo=</text>
+        <text encoding="base64">ICAgIHwgNTAgICAgICAgICB8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
-      <last-replace>3</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>pdb</last-pattern>
+      <last-replace>//</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Content</entry>
-        <entry>Piksel</entry>
-        <entry>/srv/apps/$APP/app</entry>
         <entry>piksel</entry>
         <entry>start</entry>
         <entry>start_</entry>
@@ -2373,9 +2376,11 @@
         <entry>schedule =</entry>
         <entry>every</entry>
         <entry>1</entry>
+        <entry>^</entry>
+        <entry>ipdb</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyA9LlwrLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy0vKi9n</entry>
@@ -2394,6 +2399,7 @@
         <entry>%s/self\(, \)\?//g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
+        <entry encoding="base64">JzwsJz5zI14jLy8jZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
