@@ -1046,11 +1046,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1512006109018">
-        <mark key="[" line="232" column="39" />
-        <mark key="]" line="233" column="34" />
-        <mark key="." line="233" column="34" />
-        <mark key="^" line="233" column="34" />
+      <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" timestamp="1512007188981">
+        <mark key="[" line="173" column="37" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+        <mark key="^" line="158" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/Dockerfile" timestamp="1511826565198">
         <mark key="[" line="18" column="22" />
@@ -2295,46 +2295,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGxvb3ApCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>loop</text>
+        <text>, consumer: 'AIOKafkaConsumer'</text>
       </register>
       <register name="/" type="4">
         <text>schedule =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWNlciA9IEFJT0thZmthUHJvZHVjZXIobG9vcD1sb29wLCBib290c3RyYXBfc2VydmVycz1zZWxmLmthZmthX2Jvb3RzdHJhcF9zZXJ2ZXJzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZV9zZXJpYWxpemVyPXBhcnRpYWwoc2VsZi5zZXJpYWxpemUsIHNjaGVtYT1zZWxmLmF2ZXJhZ2VfcGFzc2VuZ2Vyc19zY2hlbWEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGxvb3ApCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQoK</text>
+        <text encoding="base64">CiAgICAgICAgOnBhcmFtIHByb2R1Y2VyOiBLYWZrYSBwcm9kdWNlciBpbnN0YW5jZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQoK</text>
+        <text encoding="base64">CiAgICAgICAgOnBhcmFtIGNvbnN1bWVyOiBLYWZrYSBjb25zdW1lciBpbnN0YW5jZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBzY2hlZHVsZS5ydW5fcGVuZGluZygpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcHJvZHVjZXI6IEthZmthIHByb2R1Y2VyIGluc3RhbmNlLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3luY2lvLnNldF9ldmVudF9sb29wKGxvb3ApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICBsb29wID0gZ2V0X2V2ZW50X2xvb3AoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
