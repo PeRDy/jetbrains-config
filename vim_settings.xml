@@ -377,6 +377,11 @@
       <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose.yml" timestamp="1502311853828">
         <mark key="[" line="72" column="29" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1513117022727">
+        <mark key="[" line="118" column="29" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -396,6 +401,12 @@
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="10" />
         <mark key="." line="18" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/README.rst" timestamp="1492352281481">
         <mark key="[" line="11" column="12" />
@@ -978,12 +989,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1511455328779">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="150" column="19" />
-        <mark key="]" line="150" column="19" />
-        <mark key="^" line="150" column="29" />
-        <mark key="." line="150" column="19" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513115292042">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="170" column="29" />
+        <mark key="]" line="170" column="32" />
+        <mark key="^" line="170" column="32" />
+        <mark key="." line="170" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
         <mark key="[" line="11" column="0" />
@@ -1305,12 +1316,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/__init__.py" timestamp="1504965558280">
         <mark key="[" line="0" column="0" />
@@ -2297,7 +2302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzJdLnZhbHVlID0gZmxpZ2h0XzMK</text>
+        <text encoding="base64">ICAgICAgICAgIDxGbGF0TGlzdAogICAgICAgICAgICBkYXRhPXtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKGl0ZW0gPT4gKHsga2V5OiBpdGVtIH0pKX0KICAgICAgICAgICAgcmVuZGVyPXtpdGVtID0+IHRoaXMucmVuZGVyU29jaWFsTmV0d29ya0l0ZW0oaXRlbS5rZXkpfQogICAgICAgICAgLz4K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2308,35 +2313,35 @@
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2ZsaWdodF8xID0gTW9jaygpCiAgICAgICAgbW9ja19mbGlnaHRfMS52YWx1ZSA9IGZsaWdodF8xCg==</text>
+      <register name="0" type="4">
+        <text>style={styles.socialNetworkList}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzJdLnZhbHVlID0gZmxpZ2h0XzMK</text>
+        <text encoding="base64">ICAgICAgICAgIDxGbGF0TGlzdAogICAgICAgICAgICBkYXRhPXtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKGl0ZW0gPT4gKHsga2V5OiBpdGVtIH0pKX0KICAgICAgICAgICAgcmVuZGVyPXtpdGVtID0+IHRoaXMucmVuZGVyU29jaWFsTmV0d29ya0l0ZW0oaXRlbS5rZXkpfQogICAgICAgICAgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzBdLnZhbHVlID0gZmxpZ2h0XzEKICAgICAgICBtb2NrX2NvbnN1bWVyLml0ZW1zWzFdLnZhbHVlID0gZmxpZ2h0XzIK</text>
+        <text encoding="base64">ICAgIC8vIGZsZXg6IDEsCiAgICAvLyBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywKICAgIC8vIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5zb2NpYWxOZXR3b3JrTGlzdH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBjb25zdW1lci5zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvRmxhdExpc3Q+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKG5hbWUgPT4gdGhpcy5yZW5kZXJTb2NpYWxOZXR3b3JrSXRlbShuYW1lKSl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBwcm9kdWNlci5zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnNvY2lhbE5ldHdvcmtMaXN0fT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhd2FpdCBwcm9kdWNlci5zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnNvY2lhbE5ldHdvcmtMaXN0fT4KICAgICAgICAgIHtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKG5hbWUgPT4gdGhpcy5yZW5kZXJTb2NpYWxOZXR3b3JrSXRlbShuYW1lKSl9CiAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzZW5nZXJzX3Byb2R1Y2VyID0gQUlPS2Fma2FQcm9kdWNlcihsb29wPWxvb3AsIGJvb3RzdHJhcF9zZXJ2ZXJzPXNlbGYua2Fma2FfYm9vdHN0cmFwX3NlcnZlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfc2VyaWFsaXplcj1wYXJ0aWFsKHNlbGYuc2VyaWFsaXplLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2hlbWE9c2VsZi5hdmVyYWdlX3Bhc3NlbmdlcnNfc2NoZW1hKSkK</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnNvY2lhbE5ldHdvcmtMaXN0fT4KICAgICAgICAgIHtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKG5hbWUgPT4gdGhpcy5yZW5kZXJTb2NpYWxOZXR3b3JrSXRlbShuYW1lKSl9CiAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzZW5nZXJzX3Byb2R1Y2VyID0gQUlPS2Fma2FQcm9kdWNlcihsb29wPWxvb3AsIGJvb3RzdHJhcF9zZXJ2ZXJzPXNlbGYua2Fma2FfYm9vdHN0cmFwX3NlcnZlcnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWVfc2VyaWFsaXplcj1wYXJ0aWFsKHNlbGYuc2VyaWFsaXplLAo=</text>
+        <text encoding="base64">ICAgIGNhcmRTdHlsZTogewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
