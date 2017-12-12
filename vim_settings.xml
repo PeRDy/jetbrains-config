@@ -377,10 +377,11 @@
       <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose.yml" timestamp="1502311853828">
         <mark key="[" line="72" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1513117022727">
-        <mark key="[" line="118" column="29" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1513117771022">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="42" column="14" />
+        <mark key="^" line="42" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -989,12 +990,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513115292042">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="170" column="29" />
-        <mark key="]" line="170" column="32" />
-        <mark key="^" line="170" column="32" />
-        <mark key="." line="170" column="32" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513118508446">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
         <mark key="[" line="11" column="0" />
@@ -1447,9 +1448,9 @@
         <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/package.json" timestamp="1511361563639">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/auth.py" timestamp="1505670827550">
         <mark key="[" line="14" column="0" />
@@ -2302,46 +2303,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGbGF0TGlzdAogICAgICAgICAgICBkYXRhPXtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKGl0ZW0gPT4gKHsga2V5OiBpdGVtIH0pKX0KICAgICAgICAgICAgcmVuZGVyPXtpdGVtID0+IHRoaXMucmVuZGVyU29jaWFsTmV0d29ya0l0ZW0oaXRlbS5rZXkpfQogICAgICAgICAgLz4K</text>
+        <text encoding="base64">aW1wb3J0IENhcmRDb250ZW50IGZyb20gInJlYWN0LW5hdGl2ZS1tYXRlcmlhbC1jYXJkcy9DYXJkQ29udGVudCI7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Mock()] * 3</text>
+        <text>Top</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>style={styles.socialNetworkList}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hcmdpblRvcDogMjAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGbGF0TGlzdAogICAgICAgICAgICBkYXRhPXtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKGl0ZW0gPT4gKHsga2V5OiBpdGVtIH0pKX0KICAgICAgICAgICAgcmVuZGVyPXtpdGVtID0+IHRoaXMucmVuZGVyU29jaWFsTmV0d29ya0l0ZW0oaXRlbS5rZXkpfQogICAgICAgICAgLz4K</text>
+        <text encoding="base64">aW1wb3J0IENhcmRDb250ZW50IGZyb20gInJlYWN0LW5hdGl2ZS1tYXRlcmlhbC1jYXJkcy9DYXJkQ29udGVudCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGZsZXg6IDEsCiAgICAvLyBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywKICAgIC8vIGp1c3RpZnlDb250ZW50OiAnZmxleC1zdGFydCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVGV4dD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5zb2NpYWxOZXR3b3JrTGlzdH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvRmxhdExpc3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0NhcmRUaXRsZT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKG5hbWUgPT4gdGhpcy5yZW5kZXJTb2NpYWxOZXR3b3JrSXRlbShuYW1lKSl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVGV4dD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnNvY2lhbE5ldHdvcmtMaXN0fT4K</text>
+        <text encoding="base64">ICAgIH0sCiAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnNvY2lhbE5ldHdvcmtMaXN0fT4KICAgICAgICAgIHtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKG5hbWUgPT4gdGhpcy5yZW5kZXJTb2NpYWxOZXR3b3JrSXRlbShuYW1lKSl9CiAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAxLAogICAgICB3aWR0aDogMiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLnNvY2lhbE5ldHdvcmtMaXN0fT4KICAgICAgICAgIHtTT0NJQUxfTkVUV09SS1NfTkFNRVMubWFwKG5hbWUgPT4gdGhpcy5yZW5kZXJTb2NpYWxOZXR3b3JrSXRlbShuYW1lKSl9CiAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgIHNoYWRvd1JhZGl1czogMiwKICAgIHNoYWRvd09mZnNldDogewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhcmRTdHlsZTogewo=</text>
+        <text encoding="base64">ICAgIHNoYWRvd0NvbG9yOiAncmdiYSgwLCAwLCAwLCAwLjEyKScsCiAgICBzaGFkb3dPcGFjaXR5OiAwLjgsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
