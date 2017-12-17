@@ -377,12 +377,6 @@
       <file name="$USER_HOME$/Desarrollo/perdy-site/docker-compose.yml" timestamp="1502311853828">
         <mark key="[" line="72" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/screens/SearchScreen.js" timestamp="1513117771022">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="42" column="14" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -743,10 +737,8 @@
         <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" timestamp="1511359682004">
-        <mark key="'" line="21" column="3" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
-        <mark key="^" line="21" column="3" />
         <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
@@ -990,12 +982,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513119966160">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="104" column="56" />
-        <mark key="]" line="104" column="56" />
-        <mark key="^" line="77" column="33" />
-        <mark key="." line="104" column="56" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513517831022">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
         <mark key="[" line="11" column="0" />
@@ -1448,9 +1438,9 @@
         <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/package.json" timestamp="1511361563639">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/auth.py" timestamp="1505670827550">
         <mark key="[" line="14" column="0" />
@@ -2009,6 +1999,10 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="126" column="32" />
       </file>
+      <file name="/SocialNetwork.js" timestamp="1513517698522">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="37" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_telegram.service" timestamp="1504623376289">
         <mark key="[" line="10" column="67" />
         <mark key="]" line="12" column="44" />
@@ -2302,8 +2296,8 @@
       <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnJlbmRlckNvdmVyZWRDYXJkKCk7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2315,34 +2309,34 @@
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPENhcmQ+CiAgICAgICAgPENhcmRUaXRsZQogICAgICAgICAgdGl0bGU9e18udG9VcHBlcihuYW1lKX0KICAgICAgICAvPgogICAgICAgIDxDYXJkQ29udGVudAogICAgICAgICAgdGV4dD17dXJsfQogICAgICAgIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFkbW9icyBmcm9tICcuLi9hZG1vYnMnOwppbXBvcnQgYW5hbHl0aWNzIGZyb20gJy4uL2FuYWx5dGljcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9DYXJkPgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnJlbmRlckNvdmVyZWRDYXJkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVGV4dD4KICAgICAgICA8L0NhcmQuQm9keT4K</text>
+        <text encoding="base64">ICAgICAgPC9DYXJkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZC5NZWRpYSBpbWFnZT4KICAgICAgICAgIDxUZXh0PgogICAgICAgICAgICB7Xy50b1VwcGVyKG5hbWUpfQogICAgICAgICAgPC9UZXh0PgogICAgICAgIDwvQ2FyZC5NZWRpYT4KICAgICAgICA8Q2FyZC5Cb2R5PgogICAgICAgICAgPFRleHQ+CiAgICAgICAgICAgIFByb2ZpbGUgbm90IGZvdW5kLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvVGV4dD4KICAgICAgICA8L0NhcmQuQm9keT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZC5NZWRpYSBpbWFnZT4KICAgICAgICAgIDxUZXh0PgogICAgICAgICAgICB7Xy50b1VwcGVyKG5hbWUpfQogICAgICAgICAgPC9UZXh0PgogICAgICAgIDwvQ2FyZC5NZWRpYT4KICAgICAgICA8Q2FyZC5Cb2R5PgogICAgICAgICAgPFRleHQ+CiAgICAgICAgICAgIFByb2ZpbGUgbm90IGZvdW5kLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17dGhlbWUuY2FyZFRpdGxlU3R5bGV9PgogICAgICAgICAge18udG9VcHBlcihuYW1lKX0K</text>
+        <text encoding="base64">ICAgICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQKICAgICAgPFZpZXcgc3R5bGU9e3RoZW1lLmNhcmRTdHlsZX0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17dGhlbWUuY2FyZFRpdGxlU3R5bGV9PgogICAgICAgICAge18udG9VcHBlcihuYW1lKX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQKICAgICAgPFZpZXcgc3R5bGU9e3RoZW1lLmNhcmRTdHlsZX0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pik7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0PkRpc2NvdmVyPC9UZXh0PgogICAgICAgIDwvTUtCdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9WaWV3Pik7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
