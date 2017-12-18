@@ -982,11 +982,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513535026462">
-        <mark key="[" line="94" column="10" />
-        <mark key="]" line="95" column="68" />
-        <mark key="^" line="95" column="68" />
-        <mark key="." line="95" column="68" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513598431022">
+        <mark key="[" line="95" column="13" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
         <mark key="[" line="11" column="0" />
@@ -2080,8 +2079,10 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="17" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/analytics.js" timestamp="1513533732109">
-        <mark key="[" line="19" column="16" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/analytics.js" timestamp="1513598481417">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/miner.service" timestamp="1500551856915">
         <mark key="[" line="7" column="17" />
@@ -2301,7 +2302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2FyZCwgQ2FyZEFjdGlvbiwgQ2FyZEJ1dHRvbiwgQ2FyZENvbnRlbnQsIENhcmRUaXRsZSB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1tYXRlcmlhbC1jYXJkcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2316,31 +2317,31 @@
         <text>Watch a video to discover social network</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2FyZCwgQ2FyZEFjdGlvbiwgQ2FyZEJ1dHRvbiwgQ2FyZENvbnRlbnQsIENhcmRUaXRsZSB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1tYXRlcmlhbC1jYXJkcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NhcmRBY3Rpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UHJvZ3Jlc3NCYXJBbmRyb2lkIGluZGV0ZXJtaW5hdGUgY29sb3I9e3RoZW1lLmNvbG9yLnByaW1hcnl9IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9yLmFjY2VudH0KICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2FyZCwgQ2FyZEFjdGlvbiwgQ2FyZEJ1dHRvbiwgQ2FyZENvbnRlbnQsIENhcmRUaXRsZSB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1tYXRlcmlhbC1jYXJkcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy5oYW5kbGVQcmVzc30KICAgICAgICAgICAgdGl0bGU9IkRpc2NvdmVyIgo=</text>
+        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZEFjdGlvbiBzZXBhcmF0b3I+CiAgICAgICAgICA8Q2FyZEJ1dHRvbgo=</text>
+        <text encoding="base64">ICAgICAgICA8L0NhcmRBY3Rpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9DYXJkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9yLmFjY2VudH0KICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy5oYW5kbGVQcmVzc30KICAgICAgICAgICAgdGl0bGU9IkRpc2NvdmVyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQKICAgICAgICAgIHRleHQ9IldhdGNoIGEgdmlkZW8gdG8gZGlzY292ZXIgc29jaWFsIG5ldHdvcmsiCg==</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZEFjdGlvbiBzZXBhcmF0b3I+CiAgICAgICAgICA8Q2FyZEJ1dHRvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
