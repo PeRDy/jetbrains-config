@@ -982,11 +982,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513599139753">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513602341013">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
         <mark key="[" line="11" column="0" />
@@ -2303,46 +2302,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0NhcmRBY3Rpb24+Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>CoveredCard</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>Watch a video to discover social network</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRleHQ9e3VybH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8UHJvZ3Jlc3NCYXJBbmRyb2lkIGluZGV0ZXJtaW5hdGUgY29sb3I9e3RoZW1lLmNvbG9yLnByaW1hcnl9IC8+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ2FyZCwgQ2FyZEFjdGlvbiwgQ2FyZEJ1dHRvbiwgQ2FyZENvbnRlbnQsIENhcmRUaXRsZSB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1tYXRlcmlhbC1jYXJkcyc7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRoZW1lIGZyb20gJy4uL3RoZW1lJzsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8L0NhcmRBY3Rpb24+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9yLmFjY2VudH0KICAgICAgICAgIC8+Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17KCkgPT4ge319CiAgICAgICAgICAgIHRpdGxlPSJTaG93Igo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8Q2FyZEFjdGlvbiBzZXBhcmF0b3I+CiAgICAgICAgICA8Q2FyZEJ1dHRvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQKICAgICAgICAgIHRleHQ9e3VybH0KICAgICAgICAvPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQKICAgICAgICAgIHRleHQ9IlByb2ZpbGUgbm90IGZvdW5kIgogICAgICAgIC8+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQKICAgICAgICAgIHRleHQ9CiAgICAgICAgLz4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy5oYW5kbGVQcmVzc30KICAgICAgICAgICAgdGl0bGU9IkRpc2NvdmVyIgo=</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZEltYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZEFjdGlvbiBzZXBhcmF0b3I+CiAgICAgICAgICA8Q2FyZEJ1dHRvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNvdXJjZT17eyB1cmk6ICdodHRwczovL2ltYWdlLmZsYXRpY29uLmNvbS9pY29ucy9wbmcvNTEyLzEyNC8xMjQwMTAucG5nJyB9fQogICAgICAgIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
