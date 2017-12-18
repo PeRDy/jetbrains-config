@@ -988,11 +988,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513608219862">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" timestamp="1513620214091">
+        <mark key="'" line="73" column="29" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
         <mark key="[" line="11" column="0" />
@@ -2224,7 +2224,6 @@
       <jump line="21" column="3" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="90" column="14" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="92" column="5" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="71" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="12" column="18" filename="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" />
@@ -2312,49 +2311,50 @@
       <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
+      <jump line="92" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMwMDAnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Normal</text>
       </register>
       <register name="/" type="4">
         <text>'.*'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgW25hbWVdOiBpbWFnZSA9ICdkZWZhdWx0JyB9ID0gaW1hZ2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQgc3R5bGU9e3N0eWxlcy5wcm9ncmVzc0JhckNvbnRhaW5lcn0+CiAgICAgICAgICA8UHJvZ3Jlc3NCYXJBbmRyb2lkCiAgICAgICAgICAgIGluZGV0ZXJtaW5hdGUKICAgICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9yLnByaW1hcnl9CiAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMucHJvZ3Jlc3NCYXJ9CiAgICAgICAgICAvPgogICAgICAgIDwvQ2FyZENvbnRlbnQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMwMDAnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEsCg==</text>
+        <text encoding="base64">ICB9LAp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRleHREZWNvcmF0aW9uTGluZTogJ25vbmUnLAo=</text>
+        <text encoding="base64">ICAgICAgY29sb3I6IHRoZW1lLmNvbG9yLndhcm5pbmcsCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMwMDAnLAogICAgY29sb3I6ICcjZmZmJywK</text>
+        <text encoding="base64">ICAgIH0sCiAgICBzdWJ0aXRsZVRleHQ6IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0b0NvcnJlY3Q9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgIHRpdGxlVGV4dDogewoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0b0NvcnJlY3Q9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICB9LAogIHRpdGxlTm90Rm91bmQ6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpbmVIZWlnaHQ6IDMwLAo=</text>
+        <text encoding="base64">CiAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNTAwLAo=</text>
+        <text encoding="base64">ICAgIH0sCiAgICBzdWJ0aXRsZVRleHQ6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyMwMDAnLAo=</text>
+        <text encoding="base64">ICAgIHRpdGxlVGV4dDogewoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2405,13 +2405,13 @@
         <entry>%s/contentkb-task-engine/$APP/g</entry>
         <entry>%s#/srv/apps/$APP/app#$WORKDIR#g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>%s/self\(, \)//g</entry>
         <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
