@@ -64,12 +64,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513627977523">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513629700650">
         <mark key="'" line="64" column="13" />
-        <mark key="[" line="212" column="12" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="214" column="16" />
+        <mark key="[" line="348" column="12" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="^" line="206" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1512011895146">
         <mark key="'" line="47" column="8" />
@@ -133,11 +133,11 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1513624102580">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
-        <mark key="^" line="60" column="30" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1513629457854">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="59" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/production.py" timestamp="1500924382203">
         <mark key="[" line="54" column="9" />
@@ -2323,60 +2323,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhdCA9IENoYXQuZ2V0KGlkPWNoYXRfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0ZXh0Wy0xXSA9PSAnLyc6CiAgICAgICAgICAgIHRleHQgPSB0ZXh0WzotMV0KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text encoding="base64">J10sIA==</text>
       </register>
       <register name="/" type="4">
         <text>self._api</text>
       </register>
-      <register name="0" type="4">
-        <text>try:
-            chat = Chat.get(id=chat_id)
-        except peewee.DoesNotExist:
-            update.message.reply_text('There is not a Barrenero API configured yet')
-
-            result = StartState.CHOICE_ROOT
-        else:
-            keyboard = [(i.id,) for i in chat.apis]
-            markup = ReplyKeyboardMarkup(keyboard, one_time_keyboard=True)
-
-            response_text = f'*APIs configured*\n' + '\n'.join([f'*{a.id}*: `{a.url}`' for a in chat.apis])
-
-            update.message.reply_text(response_text, parse_mode=ParseMode.MARKDOWN, reply_markup=markup)
-
-            result = StartState.CHOICE_REMOVE_API</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcignQ2Fubm90IHJlZ2lzdGVyIHVzZXIgaW4gQmFycmVuZXJvIEFQSScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhdCA9IENoYXQuZ2V0KGlkPWNoYXRfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0ZXh0Wy0xXSA9PSAnLyc6CiAgICAgICAgICAgIHRleHQgPSB0ZXh0WzotMV0KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJlc3VsdCA9IFN0YXJ0U3RhdGUuQ0hPSUNFX1JFTU9WRV9BUEkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuZ2V0KGlkPWNoYXRfaWQpCiAgICAgICAgICAgIGV4Y2VwdCBwZWV3ZWUuRG9lc05vdEV4aXN0OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuY3JlYXRlKGlkPWNoYXRfaWQsIGxhc3RfdHJhbnNhY3Rpb249Tm9uZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlLm1lc3NhZ2UucmVwbHlfdGV4dChyZXNwb25zZV90ZXh0LCBwYXJzZV9tb2RlPVBhcnNlTW9kZS5NQVJLRE9XTiwgcmVwbHlfbWFya3VwPW1hcmt1cCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfdGV4dCA9IGYnKkFQSXMgY29uZmlndXJlZCpcbicgKyAnXG4nLmpvaW4oW2YnKnthLmlkfSo6IGB7YS51cmx9YCcgZm9yIGEgaW4gY2hhdC5hcGlzXSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya3VwID0gUmVwbHlLZXlib2FyZE1hcmt1cChrZXlib2FyZCwgb25lX3RpbWVfa2V5Ym9hcmQ9VHJ1ZSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBrZXlib2FyZCA9IFsoaS5pZCwpIGZvciBpIGluIGNoYXQuYXBpc10K</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb25maWc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJlc3VsdCA9IFN0YXJ0U3RhdGUuQ0hPSUNFX1JPT1QK</text>
+        <text encoding="base64">ICAgIGlkID0gcGVld2VlLkludGVnZXJGaWVsZCh2ZXJib3NlX25hbWU9J2lkJywgcHJpbWFyeV9rZXk9VHJ1ZSwgaGVscF90ZXh0PSdUZWxlZ3JhbSBjaGF0IGlkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlLm1lc3NhZ2UucmVwbHlfdGV4dCgiSGVsbG8hIEJlZm9yZSB3ZSBjYW4gc3RhcnQgd29ya2luZyB3ZSdsbCBuZWVkIHRvIGNvbmZpZ3VyZSBzb21lIHBhcmFtZXRlcnMuXG4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1NlbGVjdCBhbiBvcHRpb24uJywgcmVwbHlfbWFya3VwPW1hcmt1cCkKCg==</text>
+        <text encoding="base64">ICAgIGlkID0gcGVld2VlLkludGVnZXJGaWVsZCh2ZXJib3NlX25hbWU9J2lkJywgcHJpbWFyeV9rZXk9VHJ1ZSwgaGVscF90ZXh0PSdUZWxlZ3JhbSBjaGF0IGlkJykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>Hello! Before we can start working we'll need to configure some parameters.\n&quot;
+                                  'S</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
