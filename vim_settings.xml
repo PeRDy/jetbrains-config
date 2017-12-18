@@ -31,10 +31,11 @@
       <file name="/a.dummy" timestamp="1511915856979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513623015875">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/schemas/flights.avpr" timestamp="1511907950612">
         <mark key="[" line="60" column="19" />
@@ -63,10 +64,11 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1506859881605">
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513624283476">
+        <mark key="'" line="64" column="13" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1512011895146">
         <mark key="'" line="47" column="8" />
@@ -130,11 +132,11 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1508580221972">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="8" column="60" />
-        <mark key="." line="8" column="60" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1513624102580">
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="30" />
+        <mark key="^" line="60" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/production.py" timestamp="1500924382203">
         <mark key="[" line="54" column="9" />
@@ -506,7 +508,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513622927481">
+      <file name="/Dummy.txt" timestamp="1513624244897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -2217,7 +2219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
       <jump line="0" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="133" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
       <jump line="135" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
@@ -2317,58 +2318,59 @@
       <jump line="76" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="92" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
+      <jump line="64" column="13" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBpID0gaHR0cDovL2JhcnJlbmVyby1hcGkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hcGkgPSBjb25maWdfZnJvbV9maWxlLmdldCgndGVsZWdyYW0nLCAnYXBpJywgZmFsbGJhY2s9J2h0dHA6Ly9sb2NhbGhvc3QnKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Normal</text>
+        <text>, f'token={self.token}'</text>
       </register>
       <register name="/" type="4">
-        <text>'.*'</text>
+        <text>self._api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQgc3R5bGU9e3N0eWxlcy5wcm9ncmVzc0JhckNvbnRhaW5lcn0+CiAgICAgICAgICA8UHJvZ3Jlc3NCYXJBbmRyb2lkCiAgICAgICAgICAgIGluZGV0ZXJtaW5hdGUKICAgICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9yLnByaW1hcnl9CiAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMucHJvZ3Jlc3NCYXJ9CiAgICAgICAgICAvPgogICAgICAgIDwvQ2FyZENvbnRlbnQ+Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLmlkCgogICAgZGVmIF9fcmVwcl9fKHNlbGYpOgogICAgICAgIGF0dHJzID0gW3NlbGYuaWQsIGYndG9rZW49e3NlbGYudG9rZW59J10KICAgICAgICBpZiBzZWxmLmxhc3RfdHJhbnNhY3Rpb246CiAgICAgICAgICAgIGF0dHJzLmFwcGVuZChmJ2xhc3RfdHJhbnNhY3Rpb249e3NlbGYubGFzdF90cmFuc2FjdGlvbn0nKQoKICAgICAgICBpZiBzZWxmLnN1cGVydXNlcjoKICAgICAgICAgICAgYXR0cnMuYXBwZW5kKCdzdXBlcnVzZXInKQoKICAgICAgICByZXR1cm4gZidDaGF0e3t7IiwgIi5qb2luKGF0dHJzKX19fScKCiAgICBkZWYgX19oYXNoX18oc2VsZik6CiAgICAgICAgcmV0dXJuIGhhc2goc2VsZi5pZCkKCgpkZWYgaW5pdGlhbGl6ZV9kYigpOgogICAgZGIuY29ubmVjdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBpID0gaHR0cDovL2JhcnJlbmVyby1hcGkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hcGkgPSBjb25maWdfZnJvbV9maWxlLmdldCgndGVsZWdyYW0nLCAnYXBpJywgZmFsbGJhY2s9J2h0dHA6Ly9sb2NhbGhvc3QnKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAp9Cg==</text>
+        <text encoding="base64">YXBpID0KICBodHRwOi8vYmFycmVuZXJvLWFwaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6IHRoZW1lLmNvbG9yLndhcm5pbmcsCiAgICB9LAo=</text>
+        <text encoding="base64">Y2xhc3MgQ2hhdChCYXNlTW9kZWwpOgogICAgaWQgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKHZlcmJvc2VfbmFtZT0naWQnLCBwcmltYXJ5X2tleT1UcnVlLCBoZWxwX3RleHQ9J1RlbGVncmFtIGNoYXQgaWQnKQogICAgbGFzdF90cmFuc2FjdGlvbiA9IHBlZXdlZS5DaGFyRmllbGQodmVyYm9zZV9uYW1lPSdsYXN0IHRyYW5zYWN0aW9uIGhhc2gnLCBudWxsPVRydWUsIGRlZmF1bHQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nTGFzdCB0cmFuc2FjdGlvbiBoYXNoJykKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5pZAoKICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICBhdHRycyA9IFtzZWxmLmlkXQogICAgICAgIGlmIHNlbGYubGFzdF90cmFuc2FjdGlvbjoKICAgICAgICAgICAgYXR0cnMuYXBwZW5kKGYnbGFzdF90cmFuc2FjdGlvbj17c2VsZi5sYXN0X3RyYW5zYWN0aW9ufScpCgogICAgICAgIHJldHVybiBmJ0NoYXR7e3siLCAiLmpvaW4oYXR0cnMpfX19JwoKICAgIGRlZiBfX2hhc2hfXyhzZWxmKToKICAgICAgICByZXR1cm4gaGFzaChzZWxmLmlkKQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICBzdWJ0aXRsZVRleHQ6IHsK</text>
+        <text encoding="base64">Y2xhc3MgQ2hhdChCYXNlTW9kZWwpOgogICAgaWQgPSBwZWV3ZWUuSW50ZWdlckZpZWxkKHZlcmJvc2VfbmFtZT0naWQnLCBwcmltYXJ5X2tleT1UcnVlLCBoZWxwX3RleHQ9J1RlbGVncmFtIGNoYXQgaWQnKQogICAgbGFzdF90cmFuc2FjdGlvbiA9IHBlZXdlZS5DaGFyRmllbGQodmVyYm9zZV9uYW1lPSdsYXN0IHRyYW5zYWN0aW9uIGhhc2gnLCBudWxsPVRydWUsIGRlZmF1bHQ9Tm9uZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nTGFzdCB0cmFuc2FjdGlvbiBoYXNoJykKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5pZAoKICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICBhdHRycyA9IFtzZWxmLmlkXQogICAgICAgIGlmIHNlbGYubGFzdF90cmFuc2FjdGlvbjoKICAgICAgICAgICAgYXR0cnMuYXBwZW5kKGYnbGFzdF90cmFuc2FjdGlvbj17c2VsZi5sYXN0X3RyYW5zYWN0aW9ufScpCgogICAgICAgIHJldHVybiBmJ0NoYXR7e3siLCAiLmpvaW4oYXR0cnMpfX19JwoKICAgIGRlZiBfX2hhc2hfXyhzZWxmKToKICAgICAgICByZXR1cm4gaGFzaChzZWxmLmlkKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRpdGxlVGV4dDogewoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN1cGVydXNlcjoKICAgICAgICAgICAgYXR0cnMuYXBwZW5kKCdzdXBlcnVzZXInKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LAogIHRpdGxlTm90Rm91bmQ6IHsK</text>
+        <text encoding="base64">ICAgICAgICBhdHRycyA9IFtzZWxmLmlkLCBmJ3Rva2VuPXtzZWxmLnRva2VufSddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxhc3RfdHJhbnNhY3Rpb246CiAgICAgICAgICAgIGF0dHJzLmFwcGVuZChmJ2xhc3RfdHJhbnNhY3Rpb249e3NlbGYubGFzdF90cmFuc2FjdGlvbn0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICBzdWJ0aXRsZVRleHQ6IHsK</text>
+        <text encoding="base64">ICAgIGRiLmNvbm5lY3QoKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'.*'</last-search>
+      <last-search>self._api</last-search>
       <last-offset />
-      <last-pattern>'.*'</last-pattern>
+      <last-pattern>self._api</last-pattern>
       <last-replace>require(\0)</last-replace>
       <last-substitute>'.*'</last-substitute>
       <last-dir>1</last-dir>
@@ -2376,7 +2378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Piksel</entry>
         <entry>/srv/apps/$APP/app</entry>
         <entry>piksel</entry>
         <entry>start</entry>
@@ -2396,6 +2397,7 @@
         <entry>every</entry>
         <entry>1</entry>
         <entry>'.*'</entry>
+        <entry>self._api</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
