@@ -64,12 +64,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513629700650">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513634174808">
         <mark key="'" line="64" column="13" />
-        <mark key="[" line="348" column="12" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="191" column="0" />
-        <mark key="^" line="206" column="11" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="." line="361" column="0" />
+        <mark key="^" line="365" column="38" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1512011895146">
         <mark key="'" line="47" column="8" />
@@ -2323,7 +2323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0ZXh0Wy0xXSA9PSAnLyc6CiAgICAgICAgICAgIHRleHQgPSB0ZXh0WzotMV0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGF0X2lkID0gdXBkYXRlLm1lc3NhZ2UuY2hhdF9pZAoK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2338,32 +2338,31 @@
         <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcignQ2Fubm90IHJlZ2lzdGVyIHVzZXIgaW4gQmFycmVuZXJvIEFQSScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0ZXh0Wy0xXSA9PSAnLyc6CiAgICAgICAgICAgIHRleHQgPSB0ZXh0WzotMV0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGF0X2lkID0gdXBkYXRlLm1lc3NhZ2UuY2hhdF9pZAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuZ2V0KGlkPWNoYXRfaWQpCiAgICAgICAgICAgIGV4Y2VwdCBwZWV3ZWUuRG9lc05vdEV4aXN0OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuY3JlYXRlKGlkPWNoYXRfaWQsIGxhc3RfdHJhbnNhY3Rpb249Tm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0YXJ0U3RhdGUuQ0hPSUNFX1JPT1QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcignQ2Fubm90IHJlZ2lzdGVyIHVzZXIgaW4gQmFycmVuZXJvIEFQSScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hhdC5jcmVhdGUoaWQ9Y2hhdF9pZCwgdG9rZW49Y29uZmlnWyd0b2tlbiddLCBzdXBlcnVzZXI9Y29uZmlnWydzdXBlcnVzZXInXSwgbGFzdF90cmFuc2FjdGlvbj1Ob25lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSBzZWxmLl9nZXRfdG9rZW5fb3JfcmVnaXN0ZXIoY2hhdF9pZCkKICAgICAgICBpZiBjb25maWc6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb25maWc6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0ZXh0Wy0xXSA9PSAnLyc6CiAgICAgICAgICAgIHRleHQgPSB0ZXh0WzotMV0KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkID0gcGVld2VlLkludGVnZXJGaWVsZCh2ZXJib3NlX25hbWU9J2lkJywgcHJpbWFyeV9rZXk9VHJ1ZSwgaGVscF90ZXh0PSdUZWxlZ3JhbSBjaGF0IGlkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuZ2V0KGlkPWNoYXRfaWQpCiAgICAgICAgICAgIGV4Y2VwdCBwZWV3ZWUuRG9lc05vdEV4aXN0OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuY3JlYXRlKGlkPWNoYXRfaWQsIGxhc3RfdHJhbnNhY3Rpb249Tm9uZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkID0gcGVld2VlLkludGVnZXJGaWVsZCh2ZXJib3NlX25hbWU9J2lkJywgcHJpbWFyeV9rZXk9VHJ1ZSwgaGVscF90ZXh0PSdUZWxlZ3JhbSBjaGF0IGlkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Hello! Before we can start working we'll need to configure some parameters.\n&quot;
-                                  'S</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
