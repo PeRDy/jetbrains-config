@@ -31,8 +31,10 @@
       <file name="/a.dummy" timestamp="1511915856979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1507456692650">
-        <mark key="[" line="3" column="32" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513623015875">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/schemas/flights.avpr" timestamp="1511907950612">
         <mark key="[" line="60" column="19" />
@@ -109,6 +111,12 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/src/App.vue" timestamp="1504346376285">
         <mark key="[" line="29" column="0" />
@@ -403,12 +411,6 @@
         <mark key="]" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/README.rst" timestamp="1492352281481">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
@@ -504,7 +506,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511891916859">
+      <file name="/Dummy.txt" timestamp="1513622927481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1805,6 +1807,9 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
+      <file name="/Python Console" timestamp="1513622927392">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/index.android.js" timestamp="1504440491953">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
@@ -2315,7 +2320,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBpID0gaHR0cDovL2JhcnJlbmVyby1hcGkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2330,31 +2335,31 @@
         <text encoding="base64">ICAgICAgICA8Q2FyZENvbnRlbnQgc3R5bGU9e3N0eWxlcy5wcm9ncmVzc0JhckNvbnRhaW5lcn0+CiAgICAgICAgICA8UHJvZ3Jlc3NCYXJBbmRyb2lkCiAgICAgICAgICAgIGluZGV0ZXJtaW5hdGUKICAgICAgICAgICAgY29sb3I9e3RoZW1lLmNvbG9yLnByaW1hcnl9CiAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMucHJvZ3Jlc3NCYXJ9CiAgICAgICAgICAvPgogICAgICAgIDwvQ2FyZENvbnRlbnQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBpID0gaHR0cDovL2JhcnJlbmVyby1hcGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9LAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6IHRoZW1lLmNvbG9yLndhcm5pbmcsCiAgICB9LAo=</text>
+        <text encoding="base64">ICB9LAp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICBzdWJ0aXRsZVRleHQ6IHsK</text>
+        <text encoding="base64">ICAgICAgY29sb3I6IHRoZW1lLmNvbG9yLndhcm5pbmcsCiAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpdGxlVGV4dDogewoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9LAogIHRpdGxlTm90Rm91bmQ6IHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICB9LAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0sCiAgICBzdWJ0aXRsZVRleHQ6IHsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRpdGxlVGV4dDogewoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9LAogIHRpdGxlTm90Rm91bmQ6IHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICB9LAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0sCiAgICBzdWJ0aXRsZVRleHQ6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
