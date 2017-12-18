@@ -64,12 +64,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513634174808">
-        <mark key="'" line="64" column="13" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="." line="361" column="0" />
-        <mark key="^" line="365" column="38" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513635119623">
+        <mark key="'" line="357" column="38" />
+        <mark key="[" line="289" column="33" />
+        <mark key="]" line="289" column="13" />
+        <mark key="." line="289" column="13" />
+        <mark key="^" line="289" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1512011895146">
         <mark key="'" line="47" column="8" />
@@ -782,12 +782,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1505670248907">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1513637551565">
         <mark key="'" line="252" column="0" />
-        <mark key="[" line="284" column="50" />
-        <mark key="]" line="283" column="54" />
-        <mark key="." line="283" column="54" />
-        <mark key="^" line="283" column="54" />
+        <mark key="[" line="15" column="97" />
+        <mark key="]" line="15" column="95" />
+        <mark key="." line="15" column="95" />
+        <mark key="^" line="15" column="95" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/requirements.txt.py" timestamp="1500557258028">
         <mark key="[" line="0" column="0" />
@@ -853,6 +853,12 @@
         <mark key="]" line="75" column="8" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="104" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" timestamp="1513636004445">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="93" column="16" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/LICENSE" timestamp="1486483920480">
         <mark key="[" line="1" column="16" />
@@ -1287,6 +1293,12 @@
         <mark key="." line="37" column="47" />
         <mark key="^" line="37" column="47" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/uwsgi.ini" timestamp="1513636929171">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/migrations/0001_initial.py" timestamp="1498417190516">
         <mark key="[" line="106" column="59" />
         <mark key="]" line="0" column="0" />
@@ -1359,10 +1371,10 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1507571355917">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1513636084356">
+        <mark key="[" line="10" column="81" />
+        <mark key="]" line="10" column="81" />
+        <mark key="." line="10" column="81" />
         <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/static/scss/home.scss" timestamp="1467368490694">
@@ -1430,11 +1442,11 @@
         <mark key="." line="78" column="46" />
         <mark key="^" line="77" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1504914864980">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="51" column="34" />
-        <mark key="^" line="51" column="34" />
-        <mark key="." line="51" column="34" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1513636961974">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/base.py" timestamp="1504952907783">
         <mark key="[" line="0" column="0" />
@@ -1673,6 +1685,12 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/requirements.txt" timestamp="1513635937663">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/test_main.py" timestamp="1490367325255">
         <mark key="[" line="8" column="12" />
@@ -2063,10 +2081,6 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" timestamp="1512009012977">
-        <mark key="'" line="365" column="25" />
-        <mark key="n" line="341" column="8" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run.py" timestamp="1486056999851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
@@ -2220,7 +2234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="133" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
       <jump line="135" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
       <jump line="137" column="12" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
@@ -2320,58 +2333,59 @@
       <jump line="23" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="92" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="64" column="13" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="357" column="38" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGF0X2lkID0gdXBkYXRlLm1lc3NhZ2UuY2hhdF9pZAoK</text>
+      <register name="&quot;" type="4">
+        <text>api</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J10sIA==</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
-        <text>self._api</text>
+        <text>raise from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcignQ2Fubm90IHJlZ2lzdGVyIHVzZXIgaW4gQmFycmVuZXJvIEFQSScpCg==</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAvdG1wLyogXAogICAgICAgIC92YXIvdG1wLyogXAogICAgICAgIC92YXIvbGliL2FwdC9saXN0cy8qIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvcGFydGlhbC8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvKi5iaW4KCiMgSW5zdGFsbCBkb2NrZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGF0X2lkID0gdXBkYXRlLm1lc3NhZ2UuY2hhdF9pZAoK</text>
+        <text encoding="base64">c2hvdy1jb25maWcgPSB0cnVlCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0YXJ0U3RhdGUuQ0hPSUNFX1JPT1QK</text>
+        <text encoding="base64">ZW5hYmxlLW1ldHJpY3MgPSB0cnVlCm1lbW9yeS1yZXBvcnQgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcignQ2Fubm90IHJlZ2lzdGVyIHVzZXIgaW4gQmFycmVuZXJvIEFQSScpCg==</text>
+        <text encoding="base64">IyBzdGF0cyBhbmQgbW9uaXJvdGluZwpzdGF0cy1odHRwID0gdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hhdC5jcmVhdGUoaWQ9Y2hhdF9pZCwgdG9rZW49Y29uZmlnWyd0b2tlbiddLCBzdXBlcnVzZXI9Y29uZmlnWydzdXBlcnVzZXInXSwgbGFzdF90cmFuc2FjdGlvbj1Ob25lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSBzZWxmLl9nZXRfdG9rZW5fb3JfcmVnaXN0ZXIoY2hhdF9pZCkKICAgICAgICBpZiBjb25maWc6Cg==</text>
+        <text encoding="base64">CltkZXZlbG9wbWVudF0KaW5pID0gOmJhc2UKd29ya2VycyA9IDIKCltzYW5kYm94XQppbmkgPSA6YmFzZQp3b3JrZXJzID0gMgoKW2ludGVncmF0aW9uXQppbmkgPSA6YmFzZQp3b3JrZXJzID0gMgoKW2V1dzFzaGFyZWRdCmluaSA9IDpiYXNlCndvcmtlcnMgPSAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0ZXh0Wy0xXSA9PSAnLyc6CiAgICAgICAgICAgIHRleHQgPSB0ZXh0WzotMV0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuZ2V0KGlkPWNoYXRfaWQpCiAgICAgICAgICAgIGV4Y2VwdCBwZWV3ZWUuRG9lc05vdEV4aXN0OgogICAgICAgICAgICAgICAgY2hhdCA9IENoYXQuY3JlYXRlKGlkPWNoYXRfaWQsIGxhc3RfdHJhbnNhY3Rpb249Tm9uZSkK</text>
+        <text encoding="base64">CiMgSW5zdGFsbCBkb2NrZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXItY2UgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self._api</last-search>
+      <last-search>raise from</last-search>
       <last-offset />
-      <last-pattern>self._api</last-pattern>
+      <last-pattern>raise from</last-pattern>
       <last-replace>require(\0)</last-replace>
       <last-substitute>'.*'</last-substitute>
       <last-dir>1</last-dir>
@@ -2379,7 +2393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>/srv/apps/$APP/app</entry>
         <entry>piksel</entry>
         <entry>start</entry>
         <entry>start_</entry>
@@ -2399,6 +2412,7 @@
         <entry>1</entry>
         <entry>'.*'</entry>
         <entry>self._api</entry>
+        <entry>raise from</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
