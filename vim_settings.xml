@@ -41,7 +41,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1513690201737">
+      <file name="/a.dummy" timestamp="1513690442786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/README.rst" timestamp="1493148145295">
@@ -85,6 +85,13 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" timestamp="1505046348520">
         <mark key="[" line="22" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" timestamp="1513691520307">
+        <mark key="'" line="250" column="54" />
+        <mark key="[" line="249" column="50" />
+        <mark key="]" line="249" column="55" />
+        <mark key="." line="249" column="55" />
+        <mark key="^" line="249" column="55" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -784,6 +791,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/api.py" timestamp="1513691340357">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
@@ -1944,6 +1957,12 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/bot.py" timestamp="1513691916296">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/flights_analyzer/conf.py" timestamp="1512000986434">
         <mark key="[" line="22" column="52" />
       </file>
@@ -2085,39 +2104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="12" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
-      <jump line="113" column="13" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/native-base-theme/variables/commonColor.js" />
-      <jump line="4" column="27" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="21" column="3" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/App.js" />
-      <jump line="5" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="90" column="14" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="12" column="18" filename="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="62" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/README.rst" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/README.rst" />
-      <jump line="42" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/README.rst" />
-      <jump line="103" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/README.rst" />
-      <jump line="42" column="6" filename="$USER_HOME$/Desarrollo/knockout-assignment/run.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/settings.py" />
-      <jump line="5" column="12" filename="$USER_HOME$/Desarrollo/knockout-assignment/knockout_assignment/settings.py" />
-      <jump line="9" column="30" filename="$USER_HOME$/Desarrollo/knockout-assignment/Dockerfile" />
-      <jump line="25" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
-      <jump line="62" column="15" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="80" column="77" filename="$USER_HOME$/Desarrollo/knockout-assignment/run.py" />
-      <jump line="61" column="17" filename="$USER_HOME$/Desarrollo/knockout-assignment/run.py" />
-      <jump line="108" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="118" column="11" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="23" column="17" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="66" column="67" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="69" column="102" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="74" column="61" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="73" column="31" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
-      <jump line="152" column="21" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="171" column="50" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="179" column="2" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="87" column="60" filename="$USER_HOME$/Desarrollo/knockout-assignment/make.py" />
@@ -2185,66 +2171,98 @@
       <jump line="365" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="369" column="67" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="433" column="47" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="155" column="19" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="412" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="364" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="362" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="356" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="354" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="352" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="345" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="337" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="331" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="329" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="322" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="318" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="316" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="315" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="314" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="313" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="312" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="311" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="310" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="304" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="303" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="297" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="294" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="292" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="291" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="283" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="285" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="284" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="249" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="250" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
+      <jump line="251" column="54" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfaWRsZSA9IGNvbmZpZ19mcm9tX2ZpbGUuZ2V0aW50KCd0ZWxlZ3JhbScsICdtYXhfaWRsZScsIGZhbGxiYWNrPU5vbmUpCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIFN0YXJ0U3RhdGUuQ0hPSUNFX1JPT1QK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>chat</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfc3RvcmpfYWxsX3N0YXR1c19xdWVyeShzZWxmLCBjaGF0OiAnQ2hhdCcpOgogICAgICAgIHBheWxvYWQgPSB7fQogICAgICAgIGZvciBhcGkgaW4gY2hhdC5hcGlzOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICB1cmwgPSBmJ3thcGkudXJsfS9hcGkvdjEvc3RvcmonCiAgICAgICAgICAgICAgICBoZWFkZXJzID0geydBdXRob3JpemF0aW9uJzogZidUb2tlbiB7YXBpLnRva2VufSd9CiAgICAgICAgICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLmdldCh1cmw9dXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkKICAgICAgICAgICAgICAgIHBheWxvYWRbYXBpLm5hbWVdID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgICAgIGV4Y2VwdCByZXF1ZXN0cy5IVFRQRXJyb3I6CiAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcihmJ0Nhbm5vdCByZXRyaWV2ZSBTdG9yaiBzdGF0dXMgZnJvbSBBUEkgIiVzIicsIGFwaS5uYW1lKQogICAgICAgICAgICAgICAgcGF5bG9hZFthcGkubmFtZV0gPSBOb25lCgogICAgICAgIHJldHVybiBwYXlsb2FkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lPXNlbGYudG1wX2NvbmZpZ1tjaGF0X2lkXVsndXNlcm5hbWUnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXhfaWRsZSA9IGNvbmZpZ19mcm9tX2ZpbGUuZ2V0aW50KCd0ZWxlZ3JhbScsICdtYXhfaWRsZScsIGZhbGxiYWNrPU5vbmUpCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIFN0YXJ0U3RhdGUuQ0hPSUNFX1JPT1QK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgIEZJTklTSCA9ICdGaW5pc2gnCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IC0gQml0Y29pbjogYDFKdGoybTY1RE4yVXNVenhYaHIzNTV4MzhUNnBQR2hxaUFgCiAtIFBheVBhbDogYGJhcnJlbmVyb2JvdEBnbWFpbC5jb21gCg==</text>
+        <text encoding="base64">ICAgIENVUlJFTlRfQ0hBTkdFUyA9ICdTaG93IGN1cnJlbnQgY2hhbmdlcycKICAgIERPTkUgPSAnRG9uZSEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SGVscCB1cyBkb25hdGluZyB0byBzdXBwb3J0IHRoaXMgcHJvamVjdDoKIC0gRXRoZXI6IGAweDU2NmQ0MWI5MjVlZDFkOWY2NDM3NDhkNjUyZjRlNjY1OTNjYmE5YzlgCg==</text>
+        <text encoding="base64">ICAgIFdBTExFVCA9ICdXYWxsZXQnCiAgICBTVVBFUlVTRVIgPSAnU3VwZXJ1c2VyJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L3dhbGxldCAtIEV0aGVyZXVtIFdhbGxldCBiYWxhbmNlLgoK</text>
+        <text encoding="base64">ICAgIFVTRVJOQU1FID0gJ1VzZXJuYW1lJwogICAgUEFTU1dPUkQgPSAnUGFzc3dvcmQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L2V0aGVyIC0gRXRoZXIgTWluZXIgaW5mby4KL3N0b3JqIC0gU3RvcmogTWluZXIgaW5mby4K</text>
+        <text encoding="base64">ICAgIFVSTCA9ICdBUEkgVVJMJwogICAgTkFNRSA9ICdBUEkgTmFtZScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CipTZXJ2aWNlcyoK</text>
+        <text encoding="base64">ICAgIFJFTU9WRV9BUEkgPSAnUmVtb3ZlIEFQSScKICAgIENVUlJFTlRfQ09ORklHID0gJ1Nob3cgY3VycmVudCBjb25maWcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KkJhcnJlbmVybyoKL21pbmVyIC0gQmFycmVuZXJvJ3MgY3VycmVudCBzdGF0dXMuCg==</text>
+        <text encoding="base64">Y2xhc3MgU3RhcnRPcHRpb25zKEVudW0pOgogICAgQUREX0FQSSA9ICdBZGQgQVBJJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
-      <last-replace>require(\0)</last-replace>
-      <last-substitute>'.*'</last-substitute>
+      <last-pattern>username</last-pattern>
+      <last-replace>api_password</last-replace>
+      <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>start_</entry>
         <entry>format</entry>
         <entry>content</entry>
@@ -2264,11 +2282,9 @@
         <entry>self._api</entry>
         <entry>raise from</entry>
         <entry>error</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3JkL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLy0vKi9n</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGFbJ2RhdGEnXS9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGFcWydkYXRhJ1xdL2RhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JqX3N0YXR1c19tYWNoaW5lL2V0aGVyX3N0YXR1c19tYWNoaW5lL2c=</entry>
@@ -2286,6 +2302,9 @@
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
