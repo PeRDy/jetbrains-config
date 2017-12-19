@@ -64,12 +64,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513646665248">
-        <mark key="'" line="434" column="47" />
-        <mark key="[" line="309" column="17" />
-        <mark key="]" line="295" column="26" />
-        <mark key="." line="295" column="26" />
-        <mark key="^" line="295" column="26" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513647080230">
+        <mark key="'" line="436" column="47" />
+        <mark key="[" line="334" column="45" />
+        <mark key="]" line="334" column="45" />
+        <mark key="." line="334" column="45" />
+        <mark key="^" line="333" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1512011895146">
         <mark key="'" line="47" column="8" />
@@ -2347,14 +2347,14 @@
       <jump line="433" column="47" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWdleEhhbmRsZXIoZidee1N0YXJ0T3B0aW9ucy5ET05FLnZhbHVlfSQnLCBzZWxmLnN0YXJ0KSwK</text>
+      <register name="&quot;" type="4">
+        <text>n_cols</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>add_api</text>
+        <text>n_cols</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
