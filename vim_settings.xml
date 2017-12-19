@@ -325,11 +325,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1513638255136">
-        <mark key="[" line="95" column="93" />
-        <mark key="]" line="95" column="96" />
-        <mark key="^" line="95" column="96" />
-        <mark key="." line="95" column="96" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1513643597419">
+        <mark key="[" line="95" column="96" />
+        <mark key="]" line="95" column="92" />
+        <mark key="^" line="95" column="92" />
+        <mark key="." line="95" column="92" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/commands/tox.py" timestamp="1491425163457">
         <mark key="[" line="13" column="30" />
@@ -791,9 +791,9 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1513641145045">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1513643584649">
         <mark key="'" line="251" column="0" />
-        <mark key="[" line="150" column="0" />
+        <mark key="[" line="15" column="96" />
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="15" column="95" />
@@ -2390,7 +2390,7 @@
         <text encoding="base64">ICAgICAgICBDTElOTkVSX0RFRkFVTFRfQVJHUyA9IHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2444,8 +2444,8 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
