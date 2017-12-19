@@ -86,12 +86,12 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/migrations/0001_initial.py" timestamp="1505046348520">
         <mark key="[" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" timestamp="1513691520307">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" timestamp="1513695041679">
         <mark key="'" line="250" column="54" />
-        <mark key="[" line="249" column="50" />
-        <mark key="]" line="249" column="55" />
-        <mark key="." line="249" column="55" />
-        <mark key="^" line="249" column="55" />
+        <mark key="[" line="301" column="54" />
+        <mark key="]" line="299" column="26" />
+        <mark key="." line="299" column="26" />
+        <mark key="^" line="299" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -2249,7 +2249,7 @@
         <text encoding="base64">Y2xhc3MgU3RhcnRPcHRpb25zKEVudW0pOgogICAgQUREX0FQSSA9ICdBZGQgQVBJJwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2301,10 +2301,10 @@
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
