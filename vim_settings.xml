@@ -64,12 +64,12 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513635119623">
-        <mark key="'" line="357" column="38" />
-        <mark key="[" line="289" column="33" />
-        <mark key="]" line="289" column="13" />
-        <mark key="." line="289" column="13" />
-        <mark key="^" line="289" column="13" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" timestamp="1513646665248">
+        <mark key="'" line="434" column="47" />
+        <mark key="[" line="309" column="17" />
+        <mark key="]" line="295" column="26" />
+        <mark key="." line="295" column="26" />
+        <mark key="^" line="295" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" timestamp="1512011895146">
         <mark key="'" line="47" column="8" />
@@ -133,8 +133,8 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1513629457854">
-        <mark key="[" line="36" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1513645264903">
+        <mark key="[" line="8" column="61" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="59" column="30" />
@@ -503,7 +503,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="/dummy.sql" timestamp="1513642396764">
+      <file name="/dummy.sql" timestamp="1513645760687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/apollo-client.js" timestamp="1504884181586">
@@ -2245,10 +2245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="28" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
-      <jump line="135" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
-      <jump line="137" column="12" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
-      <jump line="145" column="19" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
       <jump line="147" column="12" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/node_modules/native-base/index.d.ts" />
       <jump line="113" column="13" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/native-base-theme/variables/commonColor.js" />
       <jump line="4" column="27" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
@@ -2345,58 +2341,62 @@
       <jump line="92" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="64" column="13" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
       <jump line="357" column="38" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="317" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="365" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="369" column="67" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
+      <jump line="433" column="47" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5taWRkbGV3YXJlLlNlc3Npb25BdXRoZW50aWNhdGlvbk1pZGRsZXdhcmUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWdleEhhbmRsZXIoZidee1N0YXJ0T3B0aW9ucy5ET05FLnZhbHVlfSQnLCBzZWxmLnN0YXJ0KSwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>add_api</text>
       </register>
       <register name="/" type="4">
-        <text>raise from</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAndXdzZ2knOiAnLS1pbmkgL3Nydi9hcHBzL2JhcnJlbmVyby1hcGkvYXBwL3V3c2dpLmluaScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWdleEhhbmRsZXIoZidee1N0YXJ0T3B0aW9ucy5ET05FLnZhbHVlfSQnLCBzZWxmLmFkZF9hcGkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5taWRkbGV3YXJlLlNlc3Npb25BdXRoZW50aWNhdGlvbk1pZGRsZXdhcmUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZWdleEhhbmRsZXIoZidee1N0YXJ0T3B0aW9ucy5ET05FLnZhbHVlfSQnLCBzZWxmLnN0YXJ0KSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJy0tYXBwLXR5cGUgd3NnaSAnCiAgICAgICAgICAgICAgICAgICAgICctLXN0YXJ0dXAtZmlsZSBiYXJyZW5lcm9fYXBpL3dzZ2kucHknLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAncGFzc2VuZ2VyJzogJy0tZW52aXJvbm1lbnQgcHJvZHVjdGlvbiAnCiAgICAgICAgICAgICAgICAgICAgICctLWxvZy1maWxlIC9zcnYvYXBwcy9iYXJyZW5lcm8tYXBpL2xvZ3MvcGFzc2VuZ2VyLmxvZyAnCiAgICAgICAgICAgICAgICAgICAgICctLXB5dGhvbiBweXRob24zLjYgJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHBlZXdlZS5Eb2VzTm90RXhpc3Q6CiAgICAgICAgICAgICAgICBjaGF0ID0gQ2hhdC5jcmVhdGUoaWQ9Y2hhdF9pZCwgbGFzdF90cmFuc2FjdGlvbj1Ob25lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJy0tc3RhcnR1cC1maWxlIGJhcnJlbmVyb19hcGkvd3NnaS5weScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJy0tcHl0aG9uIHB5dGhvbjMuNiAnCiAgICAgICAgICAgICAgICAgICAgICctLWFwcC10eXBlIHdzZ2kgJwo=</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5taWRkbGV3YXJlLlNlc3Npb25BdXRoZW50aWNhdGlvbk1pZGRsZXdhcmUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncGFzc2VuZ2VyJzogJy0tZW52aXJvbm1lbnQgZGV2ZWxvcG1lbnQgJwogICAgICAgICAgICAgICAgICAgICAnLS1sb2ctZmlsZSAvc3J2L2FwcHMvYmFycmVuZXJvLWFwaS9sb2dzL3Bhc3Nlbmdlci5sb2cgJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJy0tYXBwLXR5cGUgd3NnaSAnCiAgICAgICAgICAgICAgICAgICAgICctLXN0YXJ0dXAtZmlsZSBiYXJyZW5lcm9fYXBpL3dzZ2kucHknLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">ICAgICAgICAncGFzc2VuZ2VyJzogJy0tZW52aXJvbm1lbnQgcHJvZHVjdGlvbiAnCiAgICAgICAgICAgICAgICAgICAgICctLWxvZy1maWxlIC9zcnYvYXBwcy9iYXJyZW5lcm8tYXBpL2xvZ3MvcGFzc2VuZ2VyLmxvZyAnCiAgICAgICAgICAgICAgICAgICAgICctLXB5dGhvbiBweXRob24zLjYgJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncnVuc2VydmVyJzogJzAuMC4wLjA6ODAwMCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJy0tc3RhcnR1cC1maWxlIGJhcnJlbmVyb19hcGkvd3NnaS5weScsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDTElOTkVSX0RFRkFVTFRfQVJHUyA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgJy0tcHl0aG9uIHB5dGhvbjMuNiAnCiAgICAgICAgICAgICAgICAgICAgICctLWFwcC10eXBlIHdzZ2kgJwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>raise from</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>raise from</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>require(\0)</last-replace>
       <last-substitute>'.*'</last-substitute>
       <last-dir>1</last-dir>
@@ -2404,7 +2404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>piksel</entry>
         <entry>start</entry>
         <entry>start_</entry>
         <entry>format</entry>
@@ -2424,6 +2423,7 @@
         <entry>'.*'</entry>
         <entry>self._api</entry>
         <entry>raise from</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1x3XCsvJ1wwJy9n</entry>
@@ -2444,8 +2444,8 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
