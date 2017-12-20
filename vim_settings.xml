@@ -683,8 +683,8 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/docker-compose.yml" timestamp="1504888839306">
         <mark key="[" line="12" column="57" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/ether.py" timestamp="1513788319411">
-        <mark key="[" line="78" column="32" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/ether.py" timestamp="1513788660369">
+        <mark key="[" line="78" column="59" />
         <mark key="]" line="78" column="46" />
         <mark key="^" line="78" column="46" />
         <mark key="." line="78" column="46" />
@@ -1189,11 +1189,11 @@
         <mark key="^" line="163" column="45" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1513702454993">
-        <mark key="'" line="74" column="80" />
-        <mark key="[" line="161" column="35" />
-        <mark key="]" line="161" column="35" />
-        <mark key="." line="161" column="35" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1513788529155">
+        <mark key="'" line="71" column="80" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/miner_telegram.py" timestamp="1500558375500">
         <mark key="[" line="13" column="26" />
@@ -1350,9 +1350,9 @@
         <mark key="." line="65" column="33" />
         <mark key="^" line="65" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1513643584649">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1513788636739">
         <mark key="'" line="251" column="0" />
-        <mark key="[" line="15" column="96" />
+        <mark key="[" line="268" column="50" />
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="15" column="95" />
@@ -1377,12 +1377,12 @@
         <mark key="." line="46" column="31" />
         <mark key="^" line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1513784537099">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="86" column="30" />
-        <mark key="]" line="94" column="51" />
-        <mark key="." line="94" column="51" />
-        <mark key="^" line="94" column="51" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1513789384458">
+        <mark key="'" line="51" column="20" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="32" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="/Python Console" timestamp="1513622927392">
         <mark key="[" line="0" column="0" />
@@ -1545,10 +1545,10 @@
         <mark key="^" line="36" column="107" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/ether/nanopool.py" timestamp="1513783634588">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/ether/nanopool.py" timestamp="1513788856052">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/utils.py" timestamp="1512005976423">
         <mark key="[" line="21" column="0" />
@@ -2253,47 +2253,47 @@
       <jump line="74" column="80" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Status</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyaWVzIC09IDEK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Status</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>finally</text>
       </register>
-      <register name="0" type="4">
-        <text>%Y-%m-%d %H:%M:%S'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyaWVzIC09IDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2V0aGVyLycsIGV0aGVyLlN0YXR1cy5hc192aWV3KCksIG5hbWU9J3N0YXR1cycpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ2V0aGVyLycsIGluY2x1ZGUoZXRoZXJfcGF0dGVybnMpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50ID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoKCdzdGF0dXMvJywgZXRoZXIuU3RhdHVzLmFzX3ZpZXcoKSwgbmFtZT0nc3RhdHVzJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50ID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoKCduYW5vcG9vbC8nLCBldGhlci5OYW5vcG9vbC5hc192aWV3KCksIG5hbWU9J25hbm9wb29sJyksCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLnZpZXdzLmV0aGVyLm5hbm9wb29sIGltcG9ydCAqICAjIG5vcWEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50ID0gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hhc2hyYXRlJzogc2VsZi5faGFzaHJhdGUoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbm9wb29sJzogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgV29ya2VyKHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXIpOgogICAgaWQgPSBzZXJpYWxpemVycy5DaGFyRmllbGQobGFiZWw9XygnV29ya2VyIG5hbWUnKSkKICAgIGhhc2hyYXRlID0gc2VyaWFsaXplcnMuRmxvYXRGaWVsZChsYWJlbD1fKCdDdXJyZW50IGhhc2hyYXRlJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
