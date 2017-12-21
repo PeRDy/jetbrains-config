@@ -36,6 +36,12 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/run" timestamp="1513877930240">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="90" column="45" />
+        <mark key="." line="90" column="45" />
+        <mark key="^" line="90" column="45" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
         <mark key="]" line="139" column="10" />
@@ -168,10 +174,12 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/urls.py" timestamp="1513874064032">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/urls.py" timestamp="1513878223625">
+        <mark key="'" line="17" column="36" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/supervisor/supervisord.conf" timestamp="1467214711657">
         <mark key="[" line="3" column="1" />
@@ -355,8 +363,8 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/core/urls.py" timestamp="1513873994995">
-        <mark key="[" line="0" column="16" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/core/urls.py" timestamp="1513878166549">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/__main__.py" timestamp="1487620591508">
         <mark key="[" line="2" column="5" />
@@ -390,6 +398,9 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/urls.py" timestamp="1513878155879">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/README.rst" timestamp="1492352281481">
         <mark key="[" line="11" column="12" />
@@ -1315,12 +1326,12 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/Dockerfile" timestamp="1513876532533">
-        <mark key="[" line="30" column="69" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/Dockerfile" timestamp="1513877690472">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
         <mark key="m" line="24" column="0" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/navbar.html" timestamp="1491429463796">
         <mark key="[" line="25" column="45" />
@@ -1761,11 +1772,11 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="120" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/docker-compose.yml" timestamp="1513875568103">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="9" column="37" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/docker-compose.yml" timestamp="1513878399019">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="3" column="35" />
-        <mark key="." line="9" column="37" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/ether/nanopool.py" timestamp="1513788856052">
         <mark key="[" line="25" column="0" />
@@ -2068,7 +2079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="23" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="47" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="62" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
@@ -2168,66 +2178,66 @@
       <jump line="74" column="80" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" />
       <jump line="61" column="32" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/trazabilidad/requirements.txt" />
+      <jump line="17" column="36" filename="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnY2MgXAo=</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>python \</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>url(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAndXdzZ2knOiAnLS1pbmkgdXdzZ2kuaW5pJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnY2MgXAo=</text>
+        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnY2MgXAo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscy51dGlscyBpbXBvcnQgc3QK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpSVU4gYXB0LWdldCB1cGRhdGUgJiYgXAogICAgYXB0LWdldCBpbnN0YWxsIC15IFwKICAgICAgICBsb2NhbGVzIFwKICAgICAgICBsb2NhbGVzLWFsbApFTlYgTEFORz0nZXNfRVMuVVRGLTgnIExBTkdVQUdFPSdlc19FUy5VVEYtODplcycgTENfQUxMPSdlc19FUy5VVEYtOCcKCiPCoEluc3RhbGwgYnVpbGQgcmVxdWlyZW1lbnRzClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgLXkgXAogICAgICAgIGJ1aWxkLWVzc2VudGlhbCBcCiAgICAgICAgYXB0LXRyYW5zcG9ydC1odHRwcyBcCiAgICAgICAgZ2l0IFwKICAgICAgICBjdXJsIFwKICAgICAgICBweXRob24zLXBpbAoKIyBJbnN0YWxsIHN5c3RlbSByZXF1aXJlbWVudHMKUlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBcCiAgICAgICAgbGlicHEtZGV2IFwKICAgICAgICBwYXNzZW5nZXIKCiMgQ3JlYXRlIHByb2plY3QgZGlycwpSVU4gbWtkaXIgLXAgL3Nydi9hcHBzL2Nvb2tpZnktYXBpL2xvZ3MKV09SS0RJUiAvc3J2L2FwcHMvY29va2lmeS1hcGkKCiMgSW5zdGFsbCBwaXAgcmVxdWlyZW1lbnRzCkNPUFkgcmVxdWlyZW1lbnRzLnR4dCBjb25zdHJhaW50cy50eHQgL3Nydi9hcHBzL2Nvb2tpZnktYXBpLwpSVU4gcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcCAmJiBcCiAgICBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dAoKIyBDbGVhbiB1cApSVU4gYXB0LWdldCBjbGVhbiAmJiBcCiAgICBhcHQtZ2V0IHB1cmdlIC0tYXV0by1yZW1vdmUgLXkgXAogICAgICAgIGJ1aWxkLWVzc2VudGlhbCBcCiAgICAgICAgYXB0LXRyYW5zcG9ydC1odHRwcyAmJiBcCiAgICBybSAtcmYgJEhPTUUvLmNhY2hlL3BpcC8qIFwKICAgICAgICAvdG1wLyogXAogICAgICAgIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL3Bhc3Nlbmdlci5saXN0IFwKICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzL3BhcnRpYWwvKi5kZWIgXAogICAgICAgIC92YXIvY2FjaGUvYXB0LyouYmluCgojIENvcHkgYXBwbGljYXRpb24KQ09QWSAuIC9zcnYvYXBwcy9jb29raWZ5LWFwaS8KCkVOVFJZUE9JTlQgWyIuL3J1biJdCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBidWlsZCgpICsgW2NtZF0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjIFBpbGxvdyBkZXBlbmRlbmNpZXMK</text>
+        <text encoding="base64">ICAgIGNtZCArPSBbJy0tYWRkcmVzcycsIG9zLmVudmlyb25bJ0FQUF9IT1NUJ10sICctLXBvcnQnLCBvcy5lbnZpcm9uWydBUFBfUE9SVCddXQogICAgY21kICs9IGFyZ3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBweTItcGlwIFwK</text>
+        <text encoding="base64">ZGVmIHBhc3NlbmdlcigqYXJncywgKiprd2FyZ3MpIC0+IExpc3RbTGlzdFtzdHJdXToKICAgIGNtZCA9IFtQQVNTRU5HRVIsICdzdGFydCddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzdWRvIFwK</text>
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlNIRUxMLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnUnVuIHByb2R1Y3Rpb24gc2VydmVyJ30pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAjIGRldiBkZXBlbmRlbmNpZXMK</text>
+        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCBweXRob24zLWRldiBidWlsZC1iYXNlIGxpbnV4LWhlYWRlcnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBvcGVuc3NsIFwK</text>
+        <text encoding="base64">ICAgICAgICBweXRob24tZGV2IFwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>url(</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
-      <last-replace>data[&quot;nanopool&quot;]</last-replace>
-      <last-substitute>data</last-substitute>
+      <last-pattern>url(</last-pattern>
+      <last-replace>path(</last-replace>
+      <last-substitute>url(</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resolvable</entry>
         <entry>depends</entry>
         <entry>eng</entry>
         <entry>env</entry>
@@ -2247,9 +2257,9 @@
         <entry>response_text</entry>
         <entry>finally</entry>
         <entry>data</entry>
+        <entry>url(</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N0b3JqX3N0YXR1c19tYWNoaW5lL2V0aGVyX3N0YXR1c19tYWNoaW5lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NoYXJlZC9kZWx0YS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
@@ -2269,6 +2279,7 @@
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
