@@ -1918,11 +1918,9 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="17" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models.py" timestamp="1513882040543">
-        <mark key="[" line="7" column="83" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models.py" timestamp="1513948452915">
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1511810927457">
         <mark key="[" line="0" column="0" />
@@ -2232,7 +2230,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGFzeW5jaW8uVGltZW91dEVycm9yOgogICAgICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbignVGltZW91dCcpCiAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbnMgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2247,31 +2245,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGFzeW5jaW8uVGltZW91dEVycm9yOgogICAgICAgICAgICAgICAgbG9nZ2VyLmV4Y2VwdGlvbignVGltZW91dCcpCiAgICAgICAgICAgICAgICB0cmFuc2FjdGlvbnMgPSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgICAgICBsb29wID0gYXN5bmNpby5uZXdfZXZlbnRfbG9vcCgpCiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgUnVudGltZUVycm9yOgogICAgICAgICAgICBsb29wID0gYXN5bmNpby5uZXdfZXZlbnRfbG9vcCgpCiAgICAgICAgICAgIGFzeW5jaW8uc2V0X2V2ZW50X2xvb3AobG9vcCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkYXRhIGlzIE5vbmU6CiAgICAgICAgICAgIGRhdGEgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBpZiBkYXRhIGlzIE5vbmU6CiAgICAgICAgICAgIGRhdGEgPSB7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gTm9uZQogICAgICAgIHJldHJpZXMgPSAzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyaWVzIC09IDEK</text>
+        <text encoding="base64">ICAgICAgICBwYXltZW50ID0gTm9uZQogICAgICAgIHJldHJpZXMgPSAzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
