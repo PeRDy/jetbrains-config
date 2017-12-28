@@ -27,7 +27,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1514480105567">
+      <file name="/a.dummy" timestamp="1514483804187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/gurumelo/run_storj.py" timestamp="1508577319808">
@@ -313,12 +313,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/recipe.py" timestamp="1514482524144">
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/recipe.py" timestamp="1514484290747">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="24" column="31" />
+        <mark key="[" line="54" column="11" />
+        <mark key="]" line="54" column="83" />
+        <mark key="^" line="54" column="83" />
+        <mark key="." line="54" column="83" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_footer.scss" timestamp="1490221555755">
         <mark key="[" line="4" column="0" />
@@ -2100,19 +2100,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Allergen</text>
+        <text>)</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Allergen</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>url(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKF8oJ25hbWUnKSwgbWF4X2xlbmd0aD0yMDAsIGhlbHBfdGV4dD1fKCdOYW1lJykpCgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYubmFtZQoKICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gZidBbGxlcmdlbjx7c2VsZi5uYW1lfT4nCiAgICAKCg==</text>
+        <text encoding="base64">ICAgIHBvcnRpb24gPSBtb2RlbHMuUG9zaXRpdmVTbWFsbEludGVnZXJGaWVsZChfKCdwb3J0aW9uIChncmFtcyknKSwgaGVscF90ZXh0PV8oJ1BvcnRpb24gKGdyYW1zKScpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
