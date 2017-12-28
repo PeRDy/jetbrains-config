@@ -27,6 +27,9 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1514480105567">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/gurumelo/run_storj.py" timestamp="1508577319808">
         <mark key="[" line="39" column="81" />
         <mark key="]" line="39" column="52" />
@@ -309,6 +312,12 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/recipe.py" timestamp="1514481057561">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="18" column="65" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_footer.scss" timestamp="1490221555755">
         <mark key="[" line="4" column="0" />
@@ -1544,6 +1553,12 @@
         <mark key="^" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/__init__.py" timestamp="1514480183870">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/run" timestamp="1512007488277">
         <mark key="[" line="74" column="34" />
         <mark key="]" line="46" column="0" />
@@ -1785,6 +1800,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="76" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/menu.py" timestamp="1514480187547">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/configuration.rst" timestamp="1507582816915">
         <mark key="[" line="33" column="0" />
@@ -2080,20 +2098,20 @@
       <jump line="9" column="36" filename="$USER_HOME$/Desarrollo/trazabilidad/recipes/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluZ3JlZGllbnRzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChJbmdyZWRpZW50LCB0aHJvdWdoPUluZ3JlZGllbnRRdWFudGl0eSwgdmVyYm9zZV9uYW1lPV8oJ3JlY2lwZScpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9XygnTGlzdCBvZiBpbmdyZWRpZW50cycpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpY2Ug</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Allergen</text>
+        <text encoding="base64">cHJpY2Ug</text>
       </register>
       <register name="/" type="4">
         <text>url(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLm5hbWUKCiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmV0dXJuIGYnQWxsZXJnZW48e3NlbGYubmFtZX0+JwoK</text>
+        <text encoding="base64">ICAgIHByaWNlID0gbW9kZWxzLkZsb2F0RmllbGQoXygncHJpY2UnKSwgaGVscF90ZXh0PV8oJ3ByaWNlIChrZy4pJykpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGluZ3JlZGllbnRzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChJbmdyZWRpZW50LCB0aHJvdWdoPUluZ3JlZGllbnRRdWFudGl0eSwgdmVyYm9zZV9uYW1lPV8oJ3JlY2lwZScpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9XygnTGlzdCBvZiBpbmdyZWRpZW50cycpKQo=</text>
