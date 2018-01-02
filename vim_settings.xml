@@ -451,6 +451,12 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/routes.json" timestamp="1514905081849">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run_ci.py" timestamp="1486057004672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2151,7 +2157,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2205,8 +2211,8 @@
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RleHQvc3RhdHVzX21lc3NhZ2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
