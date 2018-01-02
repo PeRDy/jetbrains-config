@@ -844,6 +844,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/.gitignore" timestamp="1514912584696">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/apollo-client.js" timestamp="1504884181586">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="33" />
@@ -866,6 +872,9 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1514912342200">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
         <mark key="[" line="12" column="25" />
@@ -1153,8 +1162,8 @@
         <mark key="^" line="45" column="24" />
         <mark key="." line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/.dockerignore" timestamp="1514909212827">
-        <mark key="[" line="1" column="13" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/.dockerignore" timestamp="1514912546915">
+        <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
@@ -1778,10 +1787,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/wallet.py" timestamp="1513942962213">
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/index.android.js" timestamp="1504439044732">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="17" column="48" />
@@ -2218,7 +2223,6 @@
         <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
         <entry>%s/contentkb-task-engine/$APP/g</entry>
         <entry>%s#/srv/apps/$APP/app#$WORKDIR#g</entry>
-        <entry>q</entry>
         <entry>%s/self\(, \)//g</entry>
         <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
@@ -2232,6 +2236,7 @@
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
