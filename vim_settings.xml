@@ -326,6 +326,12 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/flask.py" timestamp="1515000857209">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="5" column="83" />
+        <mark key="^" line="5" column="83" />
+        <mark key="." line="5" column="83" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/items.py" timestamp="1497115790815">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -504,11 +510,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/package.json" timestamp="1514998318464">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-        <mark key="^" line="12" column="47" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/package.json" timestamp="1515000949217">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/setup.py" timestamp="1453065841303">
         <mark key="[" line="78" column="45" />
@@ -569,10 +575,6 @@
         <mark key="]" line="7" column="58" />
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/utils.py" timestamp="1513942559178">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="61" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Honors.vue" timestamp="1505985090107">
         <mark key="[" line="66" column="48" />
@@ -707,6 +709,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisord.cfg" timestamp="1515000773080">
+        <mark key="[" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" timestamp="1511832859497">
         <mark key="[" line="27" column="28" />
@@ -941,6 +946,12 @@
         <mark key="]" line="2" column="56" />
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515000917578">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -1180,11 +1191,11 @@
         <mark key="^" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/uwsgi.ini" timestamp="1514997548452">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="8" column="9" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/uwsgi.ini" timestamp="1514999775050">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/utils.py" timestamp="1513945011345">
         <mark key="[" line="30" column="25" />
@@ -1234,11 +1245,11 @@
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/nginx.conf" timestamp="1514998275730">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/nginx.conf" timestamp="1514999786077">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -1520,8 +1531,11 @@
         <mark key="^" line="4" column="59" />
         <mark key="." line="4" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/flask.py" timestamp="1514909913142">
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/flask.py" timestamp="1515000260956">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run/base.py" timestamp="1509107488446">
         <mark key="[" line="90" column="69" />
@@ -1930,10 +1944,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="/ether.py" timestamp="1514075140443">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="53" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/docker-compose-production.yml" timestamp="1513875416176">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="6" column="22" />
@@ -2041,11 +2051,11 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/Dockerfile" timestamp="1514994243072">
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/Dockerfile" timestamp="1515000478659">
         <mark key="[" line="12" column="16" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/config.babel.js" timestamp="1500119322886">
         <mark key="[" line="58" column="36" />
