@@ -320,6 +320,12 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="59" />
+        <mark key="^" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/.dockerignore" timestamp="1511821820090">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="8" column="9" />
@@ -825,6 +831,12 @@
         <mark key="." line="36" column="9" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/nginx.conf" timestamp="1515003923471">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/mixins.py" timestamp="1453244972475">
         <mark key="[" line="98" column="7" />
         <mark key="]" line="98" column="7" />
@@ -947,11 +959,11 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515000917578">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -1470,6 +1482,12 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/server.py" timestamp="1515003312193">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/utils.py" timestamp="1512005976423">
         <mark key="[" line="21" column="0" />
@@ -2051,11 +2069,11 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/Dockerfile" timestamp="1515000478659">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="33" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/Dockerfile" timestamp="1515004027172">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="32" column="52" />
+        <mark key="." line="32" column="52" />
+        <mark key="^" line="32" column="52" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/config.babel.js" timestamp="1500119322886">
         <mark key="[" line="58" column="36" />
@@ -2065,7 +2083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="9" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="21" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="35" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
@@ -2165,66 +2182,66 @@
       <jump line="17" column="36" filename="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/urls.py" />
       <jump line="9" column="36" filename="$USER_HOME$/Desarrollo/trazabilidad/recipes/urls.py" />
       <jump line="8" column="31" filename="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/recipe.py" />
+      <jump line="17" column="52" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cm9vdCA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>wsgi</text>
+        <text encoding="base64">cm9vdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>url(</text>
+        <text>'build'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJkZXYiOiAicmVhY3Qtc2VydmVyIHN0YXJ0IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnlfZmlsZXMgJHVyaTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb290IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvb3QgL3Nydi9hcHBzL3RyYXphYmlsaWRhZC9hcHAvOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W2RldmVsb3BtZW50XQppbmkgPSA6YmFzZQp3b3JrZXJzID0gMgoKW3NhbmRib3hdCmluaSA9IDpiYXNlCndvcmtlcnMgPSAyCgpbaW50ZWdyYXRpb25dCmluaSA9IDpiYXNlCndvcmtlcnMgPSAyCgpbZXV3MXNoYXJlZF0KaW5pID0gOmJhc2UKd29ya2VycyA9IDIK</text>
+        <text encoding="base64">CiAgICBsb2NhdGlvbiAvc3RhdGljIHsKICAgICAgICB0cnlfZmlsZXMgJHVyaTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W2RldmVsb3BtZW50XQppbmkgPSA6YmFzZQp3b3JrZXJzID0gMgoKW3NhbmRib3hdCmluaSA9IDpiYXNlCndvcmtlcnMgPSAyCgpbaW50ZWdyYXRpb25dCmluaSA9IDpiYXNlCndvcmtlcnMgPSAyCgpbZXV3MXNoYXJlZF0KaW5pID0gOmJhc2UKd29ya2VycyA9IDIK</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLzxwYXRoOnBhdGg+JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9ndG8yID0gL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkvYXBwL3V3c2dpX2Vyci5sb2cKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbmRfZnJvbV9kaXJlY3RvcnkoQlVJTERfUEFUSCwgJ2luZGV4Lmh0bWwnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBMb2dnaW5nCmxvZ3RvID0gL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkvYXBwL3V3c2dpX291dC5sb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbmRfZnJvbV9kaXJlY3RvcnkoQlVJTERfUEFUSCwgcGF0aCkKICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9ndG8yID0gL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkvYXBwL3V3c2dpX2Vyci5sb2cK</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMob3MucGF0aC5qb2luKEJVSUxEX1BBVEgsIHBhdGgpKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9ndG8yID0gL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkvYXBwL3V3c2dpX2Vyci5sb2cK</text>
+        <text encoding="base64">ICAgIGlmIHBhdGggPT0gIiI6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>url(</last-search>
+      <last-search>'build'</last-search>
       <last-offset />
-      <last-pattern>url(</last-pattern>
-      <last-replace>path(</last-replace>
-      <last-substitute>url(</last-substitute>
+      <last-pattern>'build'</last-pattern>
+      <last-replace>BUILD_PATH</last-replace>
+      <last-substitute>'build'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>depends</entry>
         <entry>eng</entry>
         <entry>env</entry>
         <entry>logs</entry>
@@ -2244,9 +2261,9 @@
         <entry>finally</entry>
         <entry>data</entry>
         <entry>url(</entry>
+        <entry>'build'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NoYXJlZC9kZWx0YS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
         <entry>%s/contentkb-task-engine/$APP/g</entry>
@@ -2263,8 +2280,9 @@
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RleHQvc3RhdHVzX21lc3NhZ2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>%s/'build'/BUILD_PATH/g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
