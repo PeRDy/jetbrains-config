@@ -516,11 +516,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/package.json" timestamp="1515000949217">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/package.json" timestamp="1515004616874">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/setup.py" timestamp="1453065841303">
         <mark key="[" line="78" column="45" />
@@ -867,11 +867,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/.gitignore" timestamp="1514912584696">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="20" column="4" />
-        <mark key="." line="20" column="4" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/.gitignore" timestamp="1515004916888">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/apollo-client.js" timestamp="1504884181586">
         <mark key="[" line="5" column="30" />
@@ -2069,8 +2069,8 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/Dockerfile" timestamp="1515004027172">
-        <mark key="[" line="29" column="16" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/Dockerfile" timestamp="1515004579054">
+        <mark key="[" line="35" column="18" />
         <mark key="]" line="32" column="52" />
         <mark key="." line="32" column="52" />
         <mark key="^" line="32" column="52" />
@@ -2186,13 +2186,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cm9vdCA=</text>
+        <text>production</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cm9vdCA=</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text>'build'</text>
