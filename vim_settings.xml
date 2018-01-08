@@ -1302,6 +1302,13 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" timestamp="1515419269983">
+        <mark key="'" line="115" column="21" />
+        <mark key="[" line="113" column="61" />
+        <mark key="]" line="113" column="61" />
+        <mark key="^" line="114" column="19" />
+        <mark key="." line="113" column="61" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
         <mark key="]" line="21" column="154" />
@@ -2182,8 +2189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
-      <jump line="55" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
       <jump line="4" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
       <jump line="14" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
       <jump line="20" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
@@ -2282,22 +2287,24 @@
       <jump line="5" column="5" filename="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/{{cookiecutter.app_slug}}/settings/development.py" />
       <jump line="5" column="1" filename="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/{{cookiecutter.app_slug}}/settings/production.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/{{cookiecutter.app_slug}}/settings/tests.py" />
+      <jump line="114" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" />
+      <jump line="115" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{}</text>
+        <text>d</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>trazabilidad</text>
+        <text>delta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IGFpb2h0dHAuQ2xpZW50UmVzcG9uc2VFcnJvcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWx0YSA9IGYne25vZGVbImRlbHRhIl06ZH0gbXMnIGlmIG5vZGVbJ2RlbHRhJ10gaXMgbm90IE5vbmUgZWxzZSAnVW5rbm93bicK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2331,17 +2338,16 @@
       </register>
     </registers>
     <search>
-      <last-search>trazabilidad</last-search>
+      <last-search>delta</last-search>
       <last-offset />
-      <last-pattern>trazabilidad</last-pattern>
-      <last-replace>{{ cookiecutter.app_slug }}</last-replace>
-      <last-substitute>trazabilidad</last-substitute>
+      <last-pattern>delta</last-pattern>
+      <last-replace>version</last-replace>
+      <last-substitute>delta</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
         <entry>logs</entry>
         <entry>self\(, \)</entry>
         <entry>self\(, \)?</entry>
@@ -2361,10 +2367,9 @@
         <entry>url(</entry>
         <entry>'build'</entry>
         <entry>trazabilidad</entry>
+        <entry>delta</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/contentkb-task-engine/$APP/g</entry>
-        <entry>%s#/srv/apps/$APP/app#$WORKDIR#g</entry>
         <entry>%s/self\(, \)//g</entry>
         <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
@@ -2382,6 +2387,8 @@
         <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL2RlbHRhL3JlcHV0YXRpb24vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2RlbHRhL3ZlcnNpb24vZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
