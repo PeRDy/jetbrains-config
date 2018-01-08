@@ -2136,11 +2136,12 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" timestamp="1509190496864">
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" timestamp="1515419747734">
+        <mark key="'" line="51" column="17" />
+        <mark key="[" line="52" column="81" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="50" column="48" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/install.sh" timestamp="1467129967898">
         <mark key="[" line="12" column="0" />
@@ -2189,7 +2190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
       <jump line="14" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
       <jump line="20" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="95" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
@@ -2289,66 +2289,66 @@
       <jump line="4" column="0" filename="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/{{cookiecutter.app_slug}}/settings/tests.py" />
       <jump line="114" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" />
       <jump line="115" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" />
+      <jump line="50" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXB1dGF0aW9uJzogaW50KGFwaV9zdG9yal9yZXNwb25zZS5nZXQoJ3JlcHV0YXRpb24nLCAtMSkpLAogICAgICAgICAgICAgICAgJ3ZlcnNpb24nOiBhcGlfc3RvcmpfcmVzcG9uc2UuZ2V0KCd1c2VyQWdlbnQnLCAnTm9uZScpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>api_storj_response</text>
       </register>
       <register name="/" type="4">
-        <text>delta</text>
+        <text>response_time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWx0YSA9IGYne25vZGVbImRlbHRhIl06ZH0gbXMnIGlmIG5vZGVbJ2RlbHRhJ10gaXMgbm90IE5vbmUgZWxzZSAnVW5rbm93bicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNwb25zZV90aW1lJzogbm9kZVsncmVzcG9uc2VfdGltZSddIGlmIG5vZGVbJ3Jlc3BvbnNlX3RpbWUnXSBpcyBub3QgTm9uZSBlbHNlIC0xLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXB1dGF0aW9uJzogaW50KGFwaV9zdG9yal9yZXNwb25zZS5nZXQoJ3JlcHV0YXRpb24nLCAtMSkpLAogICAgICAgICAgICAgICAgJ3ZlcnNpb24nOiBhcGlfc3RvcmpfcmVzcG9uc2UuZ2V0KCd1c2VyQWdlbnQnLCAnTm9uZScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEByZXRyeSgzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd2ZXJzaW9uJzogbm9kZVsndmVyc2lvbiddIGlmIG5vZGVbJ3ZlcnNpb24nXSBpcyBub3QgTm9uZSBlbHNlIC0xLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9IGYne3NldHRpbmdzLlNUT1JKX0FQSVsidXJsIl19Y29udGFjdHMve25vZGVbImlkIl19LycKICAgICAgICAgICAgICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQodXJsKSBhcyByZXNwb25zZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgICAgICAgICAgICAgICAgICBzdG9yal9hcGkgPSByZXNwb25zZS5qc29uKCkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgYWlvaHR0cC5DbGllbnRSZXNwb25zZUVycm9yOgogICAgICAgICAgICAgICAgICAgICAgICBzdG9yal9hcGkgPSB7fQogICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBub2RlIGluIGpzb24ubG9hZHMocmVzdWx0LnN0ZG91dCk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VyaWFsaXplciA9IHNlbGYuc2VyaWFsaXplcl9jbGFzcyhzdGF0dXMsIG1hbnk9VHJ1ZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5zZXJpYWxpemVyX2NsYXNzKHN0YXR1cywgbWFueT1UcnVlKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBzZWxmLl9zdG9yal9zdGF0dXMoKQoK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEByZXRyeSgzKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9IGYne3NldHRpbmdzLlNUT1JKX0FQSVsidXJsIl19Y29udGFjdHMve25vZGVbImlkIl19LycKICAgICAgICAgICAgICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQodXJsKSBhcyByZXNwb25zZToKICAgICAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgICAgICAgICAgICAgICAgICBzdG9yal9hcGkgPSByZXNwb25zZS5qc29uKCkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgYWlvaHR0cC5DbGllbnRSZXNwb25zZUVycm9yOgogICAgICAgICAgICAgICAgICAgICAgICBzdG9yal9hcGkgPSB7fQogICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBub2RlIGluIGpzb24ubG9hZHMocmVzdWx0LnN0ZG91dCk6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgc2VyaWFsaXplciA9IHNlbGYuc2VyaWFsaXplcl9jbGFzcyhzdGF0dXMsIG1hbnk9VHJ1ZSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyID0gc2VsZi5zZXJpYWxpemVyX2NsYXNzKHN0YXR1cywgbWFueT1UcnVlKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>delta</last-search>
+      <last-search>response_time</last-search>
       <last-offset />
-      <last-pattern>delta</last-pattern>
-      <last-replace>version</last-replace>
-      <last-substitute>delta</last-substitute>
+      <last-pattern>response_time</last-pattern>
+      <last-replace>reputation</last-replace>
+      <last-substitute>response_time</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logs</entry>
         <entry>self\(, \)</entry>
         <entry>self\(, \)?</entry>
         <entry>self\(, \)\?</entry>
@@ -2368,10 +2368,9 @@
         <entry>'build'</entry>
         <entry>trazabilidad</entry>
         <entry>delta</entry>
+        <entry>response_time</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/self\(, \)//g</entry>
-        <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
@@ -2390,6 +2389,8 @@
         <entry encoding="base64">JzwsJz5zL2RlbHRhL3JlcHV0YXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RlbHRhL3ZlcnNpb24vZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvdmVyc2lvbi9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
