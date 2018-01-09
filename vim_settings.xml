@@ -518,6 +518,9 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/public/index.html" timestamp="1515531636311">
+        <mark key="[" line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/storj.json" timestamp="1504733169668">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="14" />
@@ -659,10 +662,10 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/App.js" timestamp="1515530691146">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/App.js" timestamp="1515533003197">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/core/urls.py" timestamp="1513880806605">
         <mark key="[" line="7" column="17" />
@@ -727,11 +730,11 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/screens/Login.js" timestamp="1515530497584">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/screens/Login.js" timestamp="1515532525863">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -2334,28 +2337,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIH0K</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImFwcC1oZWFkZXIiPgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0idGl0bGUiPldoYXQgdGhlIEZvbzwvaDE+CiAgICAgICAgPC9oZWFkZXI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJhcHAtaW50cm8iPgogICAgICAgICAgV2hhdCB0aGUgYmFyCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTG9naW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImFwcC1oZWFkZXIiPgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0idGl0bGUiPldoYXQgdGhlIEZvbzwvaDE+CiAgICAgICAgPC9oZWFkZXI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJhcHAtaW50cm8iPgogICAgICAgICAgV2hhdCB0aGUgYmFyCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTG9naW47Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8cCBjbGFzc05hbWU9ImFwcC1pbnRybyI+CiAgICAgICAgICBXaGF0IHRoZSBiYXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRpdGxlIj5XaGF0IHRoZSBGb288L2gxPgogICAgICAgIDwvaGVhZGVyPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImFwcC1oZWFkZXIiPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
