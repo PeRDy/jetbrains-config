@@ -612,6 +612,11 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/contentkb/contentkb-api/docker-compose.yml" timestamp="1515509600432">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/.dockerignore" timestamp="1513874907189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -699,12 +704,12 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" timestamp="1515508050550">
+      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" timestamp="1515510324783">
         <mark key="'" line="131" column="7" />
-        <mark key="[" line="151" column="24" />
-        <mark key="]" line="151" column="25" />
-        <mark key="^" line="132" column="15" />
-        <mark key="." line="151" column="25" />
+        <mark key="[" line="158" column="28" />
+        <mark key="]" line="158" column="33" />
+        <mark key="." line="158" column="33" />
+        <mark key="^" line="158" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/bower.json" timestamp="1490219207451">
         <mark key="[" line="20" column="22" />
@@ -2309,94 +2314,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@tag('utils', 'mid')
-    def test_top_bounded(self):
-        d = TopBoundedDict(2)
-        self.assertEqual(len(d), 0)
-        
-        d[1] = 1
-        self.assertEqual(len(d), 1)
-        self.assertTrue(1 in d)
-        
-        d[2] = 2
-        self.assertEqual(len(d), 2)
-        self.assertTrue(1 in d)
-        self.assertTrue(2 in d)
-        
-        d[3] = 3
-        self.assertEqual(len(d), 2)
-        self.assertFalse(1 in d)
-        self.assertTrue(2 in d)
-        self.assertTrue(3 in d)
-
-        d[1] = 1
-        self.assertEqual(len(d), 2)
-        self.assertFalse(1 in d)
-        self.assertTrue(2 in d)
-        self.assertTrue(3 in d)</text>
+        <text>top</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>@tag('utils', 'mid')
-    def test_top_bounded(self):
-        d = TopBoundedDict(2)
-        self.assertEqual(len(d), 0)
-        
-        d[1] = 1
-        self.assertEqual(len(d), 1)
-        self.assertTrue(1 in d)
-        
-        d[2] = 2
-        self.assertEqual(len(d), 2)
-        self.assertTrue(1 in d)
-        self.assertTrue(2 in d)
-        
-        d[3] = 3
-        self.assertEqual(len(d), 2)
-        self.assertFalse(1 in d)
-        self.assertTrue(2 in d)
-        self.assertTrue(3 in d)
-
-        d[1] = 1
-        self.assertEqual(len(d), 2)
-        self.assertFalse(1 in d)
-        self.assertTrue(2 in d)
-        self.assertTrue(3 in d)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIE5vbmUgaWYgZW1wdHkKICAgICAgICBzZWxmLmFzc2VydElzTm9uZShkLnRvcCgpKQogICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkKSwgMCkKCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b3AgPSBzZWxmLnRvcCgpCgo=</text>
+        <text encoding="base64">Cm5ldHdvcmtzOgogIGRlZmF1bHQ6CiAgICBleHRlcm5hbDoKICAgICAgbmFtZTogY29udGVudGtiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoKS5fX3NldGl0ZW1fXyhrZXksIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3NldGl0ZW1fXyhzZWxmLCBrZXksIHZhbHVlKToKICAgICAgICBzdXBlcigpLl9fc2V0aXRlbV9fKGtleSwgdmFsdWUpCgo=</text>
+        <text encoding="base64">ICAgIGhvc3RuYW1lOiBhcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gY21wOiBDb21wYXJpc29uIGZ1bmN0aW9uIHRvIGRpc2NhcmQgaXRlbXMgb3ZlciB0aGUgYm91bmRzLgo=</text>
+        <text encoding="base64">ICAgIGhvc3RuYW1lOiBwb3N0Z3Jlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
