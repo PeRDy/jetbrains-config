@@ -699,6 +699,13 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" timestamp="1515508050550">
+        <mark key="'" line="131" column="7" />
+        <mark key="[" line="151" column="24" />
+        <mark key="]" line="151" column="25" />
+        <mark key="^" line="132" column="15" />
+        <mark key="." line="151" column="25" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/bower.json" timestamp="1490219207451">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="22" />
@@ -1807,8 +1814,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/utils/collections.py" timestamp="1515505491672">
-        <mark key="^" line="90" column="73" />
+      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/utils/collections.py" timestamp="1515507610129">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="122" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_telegram.service" timestamp="1504623376289">
         <mark key="[" line="10" column="67" />
@@ -2196,7 +2206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/docker-compose-acceptance.yml" />
       <jump line="20" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="95" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="96" column="1" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
@@ -2296,60 +2305,109 @@
       <jump line="114" column="20" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" />
       <jump line="115" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" />
       <jump line="50" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" />
+      <jump line="131" column="7" filename="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBpdGVtcyA9IGxpc3Qoc2VsZi5pdGVtcygpKQogICAgICAgIGl0ZW1zLmFwcGVuZCgoa2V5LCB2YWx1ZSkp</text>
+        <text>@tag('utils', 'mid')
+    def test_top_bounded(self):
+        d = TopBoundedDict(2)
+        self.assertEqual(len(d), 0)
+        
+        d[1] = 1
+        self.assertEqual(len(d), 1)
+        self.assertTrue(1 in d)
+        
+        d[2] = 2
+        self.assertEqual(len(d), 2)
+        self.assertTrue(1 in d)
+        self.assertTrue(2 in d)
+        
+        d[3] = 3
+        self.assertEqual(len(d), 2)
+        self.assertFalse(1 in d)
+        self.assertTrue(2 in d)
+        self.assertTrue(3 in d)
+
+        d[1] = 1
+        self.assertEqual(len(d), 2)
+        self.assertFalse(1 in d)
+        self.assertTrue(2 in d)
+        self.assertTrue(3 in d)</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>iter</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>response_time</text>
+        <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXNwb25zZV90aW1lJzogbm9kZVsncmVzcG9uc2VfdGltZSddIGlmIG5vZGVbJ3Jlc3BvbnNlX3RpbWUnXSBpcyBub3QgTm9uZSBlbHNlIC0xLAo=</text>
+      <register name="0" type="4">
+        <text>@tag('utils', 'mid')
+    def test_top_bounded(self):
+        d = TopBoundedDict(2)
+        self.assertEqual(len(d), 0)
+        
+        d[1] = 1
+        self.assertEqual(len(d), 1)
+        self.assertTrue(1 in d)
+        
+        d[2] = 2
+        self.assertEqual(len(d), 2)
+        self.assertTrue(1 in d)
+        self.assertTrue(2 in d)
+        
+        d[3] = 3
+        self.assertEqual(len(d), 2)
+        self.assertFalse(1 in d)
+        self.assertTrue(2 in d)
+        self.assertTrue(3 in d)
+
+        d[1] = 1
+        self.assertEqual(len(d), 2)
+        self.assertFalse(1 in d)
+        self.assertTrue(2 in d)
+        self.assertTrue(3 in d)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBpdGVtcyA9IGxpc3Qoc2VsZi5pdGVtcygpKQogICAgICAgIGl0ZW1zLmFwcGVuZCgoa2V5LCB2YWx1ZSkp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFJMb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX2xvY2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9sb2NrID0gUkxvY2soKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXB1dGF0aW9uJzogaW50KGFwaV9zdG9yal9yZXNwb25zZS5nZXQoJ3JlcHV0YXRpb24nLCAtMSkpLAogICAgICAgICAgICAgICAgJ3ZlcnNpb24nOiBhcGlfc3RvcmpfcmVzcG9uc2UuZ2V0KCd1c2VyQWdlbnQnLCAnTm9uZScpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd2ZXJzaW9uJzogbm9kZVsndmVyc2lvbiddIGlmIG5vZGVbJ3ZlcnNpb24nXSBpcyBub3QgTm9uZSBlbHNlIC0xLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0b3AgPSBzZWxmLnRvcCgpCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoKS5fX3NldGl0ZW1fXyhrZXksIHZhbHVlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX3NldGl0ZW1fXyhzZWxmLCBrZXksIHZhbHVlKToKICAgICAgICBzdXBlcigpLl9fc2V0aXRlbV9fKGtleSwgdmFsdWUpCgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEByZXRyeSgzKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gY21wOiBDb21wYXJpc29uIGZ1bmN0aW9uIHRvIGRpc2NhcmQgaXRlbXMgb3ZlciB0aGUgYm91bmRzLgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>response_time</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>response_time</last-pattern>
-      <last-replace>reputation</last-replace>
-      <last-substitute>response_time</last-substitute>
+      <last-pattern>1</last-pattern>
+      <last-replace>3</last-replace>
+      <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -2363,7 +2421,6 @@
         <entry>schedule</entry>
         <entry>schedule =</entry>
         <entry>every</entry>
-        <entry>1</entry>
         <entry>'.*'</entry>
         <entry>self._api</entry>
         <entry>raise from</entry>
@@ -2375,6 +2432,7 @@
         <entry>url(</entry>
         <entry>'build'</entry>
         <entry>trazabilidad</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>%s/contentkb-task-engine/$APP/g</entry>
@@ -2383,7 +2441,6 @@
         <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
@@ -2396,6 +2453,7 @@
         <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
