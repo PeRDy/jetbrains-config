@@ -662,10 +662,11 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/App.js" timestamp="1515533003197">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/App.js" timestamp="1515539505185">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/core/urls.py" timestamp="1513880806605">
         <mark key="[" line="7" column="17" />
@@ -730,11 +731,10 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/screens/Login.js" timestamp="1515532525863">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad-web/src/screens/Login.js" timestamp="1515539787397">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -2318,47 +2318,47 @@
       <jump line="4" column="0" filename="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/{{cookiecutter.app_slug}}/settings/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">fSA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXJ2ZXIg</text>
+        <text encoding="base64">fSA=</text>
       </register>
       <register name="/" type="4">
         <text>trazabilidad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPExvZ2luPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzc05hbWU9e3RoaXMucHJvcHMuY2xhc3Nlcy50ZXh0RmllbGR9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aXRsZTogewogICAgY29sb3I6IHRoZW1lLnBhbGV0dGUucHJpbWFyeSwKICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgfQo=</text>
+        <text encoding="base64">ICBzdGF0dXM6IHsKICAgIGRhbmdlcjogJ29yYW5nZScsCiAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMK</text>
+        <text encoding="base64">ICAgICAgPC9NdWlUaGVtZVByb3ZpZGVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTG9naW4K</text>
+        <text encoding="base64">ICAgICAgPE11aVRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9HcmlkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzc05hbWU9ImFwcC1pbnRybyI+CiAgICAgICAgICBXaGF0IHRoZSBiYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEdyaWQgaXRlbSBzdHlsZT17eyBwYWRkaW5nOiAwIH19Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRpdGxlIj5XaGF0IHRoZSBGb288L2gxPgogICAgICAgIDwvaGVhZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduSXRlbXM9InN0cmV0Y2giCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImFwcCI+CiAgICAgICAgPGhlYWRlciBjbGFzc05hbWU9ImFwcC1oZWFkZXIiPgo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93WDogJ2hpZGRlbicsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
