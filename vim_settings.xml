@@ -1016,10 +1016,10 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/machine_learning/models/mixins/tfidf.py" timestamp="1515583358356">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/Development/contentkb/contentkb-api/machine_learning/models/mixins/tfidf.py" timestamp="1515584141735">
+        <mark key="[" line="129" column="67" />
+        <mark key="]" line="129" column="67" />
+        <mark key="." line="129" column="67" />
         <mark key="^" line="127" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
@@ -2319,14 +2319,14 @@
       <jump line="131" column="7" filename="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnZlcnQgc2ltcyBpbnRvIHNvcnRlZCBwcmVkX3Njb3JlcyBbKGRiX2lkLCBzY29yZSldCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RGljdFtpbnQsIA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text encoding="base64">RGljdFtpbnQsIA==</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
