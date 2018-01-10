@@ -489,7 +489,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515590019605">
+      <file name="/Dummy.txt" timestamp="1515592217515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
@@ -647,8 +647,10 @@
         <mark key="^" line="67" column="13" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/scoring.py" timestamp="1515581313968">
-        <mark key="[" line="32" column="44" />
+      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/scoring.py" timestamp="1515592211986">
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="48" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
@@ -2385,14 +2387,14 @@
       <jump line="131" column="7" filename="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbGlkYXRvcnM9W21hY2hpbmVfbGVhcm5pbmcudmFsaWRhdG9ycy5kb2MydmVjLkRvYzJWZWNGaWxlVmFsaWRhdG9yKCldLAo=</text>
+      <register name="&quot;" type="4">
+        <text>_by_key</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>_by_key</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
