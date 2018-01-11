@@ -308,6 +308,12 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/setup.cfg" timestamp="1487708914688">
         <mark key="[" line="58" column="12" />
         <mark key="]" line="57" column="51" />
@@ -337,6 +343,11 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1515671259346">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_footer.scss" timestamp="1490221555755">
         <mark key="[" line="4" column="0" />
@@ -515,6 +526,13 @@
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1515670823271">
+        <mark key="'" line="283" column="0" />
+        <mark key="[" line="138" column="35" />
+        <mark key="]" line="138" column="35" />
+        <mark key="^" line="134" column="32" />
+        <mark key="." line="138" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/navbar.html" timestamp="1491429463796">
         <mark key="[" line="25" column="45" />
@@ -771,12 +789,6 @@
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisord.cfg" timestamp="1515000773080">
         <mark key="[" line="9" column="56" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" timestamp="1511832859497">
         <mark key="[" line="27" column="28" />
@@ -1308,6 +1320,9 @@
         <mark key="]" line="25" column="11" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1515670272177">
+        <mark key="[" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
@@ -2239,7 +2254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="95" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="96" column="1" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="169" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
@@ -2339,58 +2353,59 @@
       <jump line="115" column="21" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" />
       <jump line="50" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" />
       <jump line="131" column="7" filename="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" />
+      <jump line="267" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0K</text>
+      <register name="&quot;" type="4">
+        <text>refresh</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5kaWdvIA==</text>
+        <text>refresh</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>REST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vbmUgaWYgZW1wdHkKICAgICAgICBzZWxmLmFzc2VydElzTm9uZShkLnRvcCgpKQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhdGgocidsb2dpbi9yZWZyZXNoJywgcmVmcmVzaF9qd3RfdG9rZW4pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWIgaWNvbj17PFBlcnNvblBpbkljb24gLz59IGxhYmVsPSJORUFSQlkiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0FVRElFTkNFJzogTm9uZSwKICAgICAgICAnSldUX0lTU1VFUic6IE5vbmUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0xFRVdBWSc6IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX1ZFUklGWSc6IFRydWUsCiAgICAgICAgJ0pXVF9WRVJJRllfRVhQSVJBVElPTic6IFRydWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkKSwgMCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0FMR09SSVRITSc6ICdIUzI1NicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX1BVQkxJQ19LRVknOiBOb25lLAogICAgICAgICdKV1RfUFJJVkFURV9LRVknOiBOb25lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cm5ldHdvcmtzOgogIGRlZmF1bHQ6CiAgICBleHRlcm5hbDoKICAgICAgbmFtZTogY29udGVudGtiCg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0dFVF9VU0VSX1NFQ1JFVF9LRVknOiBOb25lLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX1NFQ1JFVF9LRVknOiBzZXR0aW5ncy5TRUNSRVRfS0VZLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>REST</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>REST</last-pattern>
       <last-replace>3</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -2398,7 +2413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>env</entry>
         <entry>logs</entry>
         <entry>self\(, \)</entry>
         <entry>self\(, \)?</entry>
@@ -2418,6 +2432,7 @@
         <entry>'build'</entry>
         <entry>trazabilidad</entry>
         <entry>1</entry>
+        <entry>REST</entry>
       </history-search>
       <history-cmd>
         <entry>%s/contentkb-task-engine/$APP/g</entry>
