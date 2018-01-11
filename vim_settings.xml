@@ -645,10 +645,10 @@
         <mark key="^" line="67" column="13" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/src/pages/Login.js" timestamp="1515667543250">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/src/pages/Login.js" timestamp="1515685863241">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="17" />
+        <mark key="." line="54" column="17" />
         <mark key="^" line="107" column="13" />
       </file>
       <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/scoring.py" timestamp="1515496019011">
@@ -1672,6 +1672,12 @@
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/.eslintrc.json" timestamp="1515667252213">
         <mark key="[" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/src/App.js" timestamp="1515685842569">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/Dockerfile" timestamp="1515673576930">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="11" />
@@ -2376,14 +2382,14 @@
       <jump line="131" column="7" filename="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RVhQT1NFIDgwMDAK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>requirements</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
