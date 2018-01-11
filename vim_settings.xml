@@ -527,12 +527,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1515681264744">
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1515682635164">
         <mark key="'" line="283" column="0" />
-        <mark key="[" line="138" column="35" />
-        <mark key="]" line="129" column="9" />
+        <mark key="[" line="136" column="67" />
+        <mark key="]" line="136" column="67" />
         <mark key="^" line="129" column="9" />
-        <mark key="." line="129" column="9" />
+        <mark key="." line="136" column="67" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/navbar.html" timestamp="1491429463796">
         <mark key="[" line="25" column="45" />
@@ -2362,13 +2362,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>refresh</text>
+        <text>)</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>refresh</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>REST</text>
