@@ -245,6 +245,9 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/__init__.py" timestamp="1515686190799">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/gurumelo/.gitlab-ci.yml" timestamp="1508631411980">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="6" column="37" />
@@ -417,6 +420,9 @@
         <mark key="." line="130" column="22" />
         <mark key="^" line="129" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1515687663927">
+        <mark key="[" line="28" column="74" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/core/flights_task.py" timestamp="1511825872173">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="12" />
@@ -536,8 +542,8 @@
         <mark key="]" line="42" column="7" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1515158962284">
-        <mark key="[" line="21" column="54" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1515686389157">
+        <mark key="[" line="32" column="23" />
         <mark key="]" line="19" column="30" />
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
@@ -1517,6 +1523,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/menu.py" timestamp="1515689155627">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/supervisord.conf" timestamp="1514998125913">
         <mark key="[" line="9" column="32" />
         <mark key="]" line="9" column="33" />
@@ -1789,6 +1801,12 @@
         <mark key="]" line="130" column="7" />
         <mark key="^" line="130" column="7" />
         <mark key="." line="130" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" timestamp="1515689561182">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/js/topics_best_segments.js" timestamp="1465662897670">
         <mark key="[" line="12" column="71" />
@@ -2270,8 +2288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="96" column="1" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="169" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="170" column="50" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="177" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
@@ -2370,72 +2386,67 @@
       <jump line="50" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" />
       <jump line="131" column="7" filename="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" />
       <jump line="267" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMuUkVTVF9GUkFNRVdPUktbJ0RFRkFVTFRfQVVUSEVOVElDQVRJT05fQ0xBU1NFUyddICs9ICgKICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLmF1dGhlbnRpY2F0aW9uLlNlc3Npb25BdXRoZW50aWNhdGlvbicsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCduYW1lJywpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>REST</text>
+        <text>, 'recipe'</text>
       </register>
       <register name="0" type="4">
-        <text>cls.REST_FRAMEWORK['DEFAULT_AUTHENTICATION_CLASSES'] += (
-            'rest_framework.authentication.SessionAuthentication',
-        )
-        cls.REST_FRAMEWORK['DEFAULT_RENDERER_CLASSES'] += (
-            'rest_framework.renderers.JSONRenderer',
-            'rest_framework.renderers.BrowsableAPIRenderer',
-        )</text>
+        <text>('foodstuff', 'recipe', 'quantity')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMuUkVTVF9GUkFNRVdPUktbJ0RFRkFVTFRfQVVUSEVOVElDQVRJT05fQ0xBU1NFUyddICs9ICgKICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLmF1dGhlbnRpY2F0aW9uLlNlc3Npb25BdXRoZW50aWNhdGlvbicsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCduYW1lJywpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnJlbmRlcmVycy5Ccm93c2FibGVBUElSZW5kZXJlcicsCg==</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCduYW1lJywpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGxpc3RfZWRpdGFibGUgPSAoJ25hbWUnLCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMuUkVTVF9GUkFNRVdPUksgPSB7CiAgICAgICAgICAgICdERUZBVUxUX0FVVEhFTlRJQ0FUSU9OX0NMQVNTRVMnOiAoCiAgICAgICAgICAgICAgICAncmVzdF9mcmFtZXdvcmsuYXV0aGVudGljYXRpb24uVG9rZW5BdXRoZW50aWNhdGlvbicsCiAgICAgICAgICAgICksCiAgICAgICAgICAgICdERUZBVUxUX1JFTkRFUkVSX0NMQVNTRVMnOiAoCiAgICAgICAgICAgICAgICAncmVzdF9mcmFtZXdvcmsucmVuZGVyZXJzLkpTT05SZW5kZXJlcicsCg==</text>
+        <text encoding="base64">ICAgIGxpc3RfZWRpdGFibGUgPSAoJ25hbWUnLCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxpc3RfZWRpdGFibGUgPSAoJ2RhdGUnLCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMuUkVTVF9GUkFNRVdPUktbJ0RFRkFVTFRfQVVUSEVOVElDQVRJT05fQ0xBU1NFUyddID0gXAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbi5Ub2tlbkF1dGhlbnRpY2F0aW9uJywK</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCdxdWFudGl0eScsICdmb29kc3R1ZmYnLCAncmVjaXBlJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCdkYXRlJywgJ25hbWUnLCAncG9ydGlvbnMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgID0gKCduYW1lJywgJ3ByaWNlJywgJ3BvcnRpb24nLCAncmVkdWN0aW9uJywgJ3Byb3RlaW5zJywgJ2xpcGlkcycsICdoeWRyYXRlcycsICdraWxvY2Fsb3JpZXMnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>REST</last-search>
+      <last-search>, 'recipe'</last-search>
       <last-offset />
-      <last-pattern>REST</last-pattern>
-      <last-replace>3</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>, 'recipe'</last-pattern>
+      <last-replace />
+      <last-substitute>, 'recipe'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logs</entry>
         <entry>self\(, \)</entry>
         <entry>self\(, \)?</entry>
         <entry>self\(, \)\?</entry>
@@ -2455,9 +2466,9 @@
         <entry>trazabilidad</entry>
         <entry>1</entry>
         <entry>REST</entry>
+        <entry>, 'recipe'</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/contentkb-task-engine/$APP/g</entry>
         <entry>%s#/srv/apps/$APP/app#$WORKDIR#g</entry>
         <entry>%s/self\(, \)//g</entry>
         <entry>%s/self\(, \)?//g</entry>
@@ -2477,6 +2488,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
