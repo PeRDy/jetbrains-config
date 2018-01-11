@@ -54,8 +54,11 @@
         <mark key="." line="29" column="33" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/webpack.base.js" timestamp="1515671703038">
-        <mark key="[" line="58" column="22" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/webpack.base.js" timestamp="1515673408541">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
@@ -176,13 +179,6 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/urls.py" timestamp="1513880012950">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="7" column="31" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/supervisor/supervisord.conf" timestamp="1467214711657">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="4" column="34" />
@@ -242,6 +238,11 @@
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/server/nginx.conf" timestamp="1515673446626">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/Dockerfile" timestamp="1511998245268">
         <mark key="[" line="12" column="0" />
@@ -377,13 +378,6 @@
         <mark key="]" line="117" column="30" />
         <mark key="." line="117" column="30" />
         <mark key="^" line="117" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" timestamp="1515510324783">
-        <mark key="'" line="131" column="7" />
-        <mark key="[" line="158" column="28" />
-        <mark key="]" line="158" column="33" />
-        <mark key="." line="158" column="33" />
-        <mark key="^" line="158" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -743,13 +737,6 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" timestamp="1515419269983">
-        <mark key="'" line="115" column="21" />
-        <mark key="[" line="113" column="61" />
-        <mark key="]" line="113" column="61" />
-        <mark key="^" line="114" column="19" />
-        <mark key="." line="113" column="61" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="29" column="0" />
@@ -925,8 +912,10 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/package.json" timestamp="1515667265100">
-        <mark key="[" line="1" column="18" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/package.json" timestamp="1515673485815">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/SkillList.vue" timestamp="1498583281216">
         <mark key="[" line="6" column="16" />
@@ -1182,13 +1171,6 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" timestamp="1515419747734">
-        <mark key="'" line="51" column="17" />
-        <mark key="[" line="52" column="81" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="50" column="48" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="3" column="8" />
@@ -1344,13 +1326,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/recipe.py" timestamp="1514486314324">
-        <mark key="'" line="8" column="31" />
-        <mark key="[" line="65" column="59" />
-        <mark key="]" line="66" column="111" />
-        <mark key="^" line="66" column="111" />
-        <mark key="." line="66" column="111" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
@@ -1697,8 +1672,11 @@
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/.eslintrc.json" timestamp="1515667252213">
         <mark key="[" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/Dockerfile" timestamp="1515671761210">
-        <mark key="[" line="3" column="20" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-web/Dockerfile" timestamp="1515673576930">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="7" />
+        <mark key="^" line="39" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511908134776">
         <mark key="[" line="23" column="63" />
@@ -2399,46 +2377,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RVhQT1NFIDgwMDAK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5kaWdvIA==</text>
+        <text>requirements</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vbmUgaWYgZW1wdHkKICAgICAgICBzZWxmLmFzc2VydElzTm9uZShkLnRvcCgpKQogICAgICAgIAo=</text>
+        <text encoding="base64">RVhQT1NFIDgwMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbCI6ICJeNi4yMy4wIiwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgcmVuZGVyTG9naW4oKSB7CiAgICByZXR1cm4gW107CiAgfQoKICByZW5kZXJSZWdpc3RlcigpIHsKICAgIHJldHVybiBbCiAgICAgIDxHcmlkIGl0ZW0geHM9ezEyfSBrZXk9InJlZ2lzdGVyLXVzZXIiPgogICAgICAgIDxUZXh0RmllbGQKICAgICAgICAgIGlkPSJ1c2VyIgogICAgICAgICAgbGFiZWw9IlVzdWFyaW8iCiAgICAgICAgICBtYXJnaW49Im5vcm1hbCIKICAgICAgICAgIGNsYXNzTmFtZT17dGhpcy5wcm9wcy5jbGFzc2VzLnRleHRGaWVsZH0KICAgICAgICAvPgogICAgICA8L0dyaWQ+LAogICAgICA8R3JpZCBpdGVtIHhzPXsxMn0ga2V5PSJyZWdpc3Rlci1wYXNzd29yZCI+CiAgICAgICAgPFRleHRGaWVsZAogICAgICAgICAgaWQ9InBhc3N3b3JkIgogICAgICAgICAgbGFiZWw9IkNvbnRyYXNlw7FhIgogICAgICAgICAgdHlwZT0icGFzc3dvcmQiCiAgICAgICAgICBhdXRvQ29tcGxldGU9ImN1cnJlbnQtcGFzc3dvcmQiCiAgICAgICAgICBtYXJnaW49Im5vcm1hbCIKICAgICAgICAgIGNsYXNzTmFtZT17dGhpcy5wcm9wcy5jbGFzc2VzLnRleHRGaWVsZH0KICAgICAgICAvPgogICAgICA8L0dyaWQ+LAogICAgICA8R3JpZCBpdGVtIGNvbnRhaW5lciBqdXN0aWZ5PSJmbGV4LWVuZCIgYWxpZ249ImZsZXgtZW5kIiBrZXk9InJlZ2lzdGVyLWJ1dHRvbiI+CiAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgIDxCdXR0b24gcmFpc2VkIGNvbG9yPSJwcmltYXJ5Ij4KICAgICAgICAgICAgUmVnaXN0cmFyc2UKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvR3JpZD4KICAgICAgPC9HcmlkPiwKICAgIF07CiAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Q09QWSAuICRXT1JLRElSLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLnRhYlNlbGVjdGVkID09PSAwICYmIHRoaXMucmVuZGVyTG9naW4oKX0KICAgICAgICAgIHt0aGlzLnByb3BzLnRhYlNlbGVjdGVkID09PSAxICYmIHRoaXMucmVuZGVyUmVnaXN0ZXIoKX0K</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PEdyaWQgaXRlbSB4cz17MTJ9IGtleT0ibG9naW4tdXNlciI+CiAgICAgICAgPFRleHRGaWVsZAogICAgICAgICAgaWQ9InVzZXIiCiAgICAgICAgICBsYWJlbD0iVXN1YXJpbyIKICAgICAgICAgIG1hcmdpbj0ibm9ybWFsIgogICAgICAgICAgY2xhc3NOYW1lPXt0aGlzLnByb3BzLmNsYXNzZXMudGV4dEZpZWxkfQogICAgICAgIC8+CiAgICAgIDwvR3JpZD4sCiAgICAgIDxHcmlkIGl0ZW0geHM9ezEyfSBrZXk9ImxvZ2luLXBhc3N3b3JkIj4KICAgICAgICA8VGV4dEZpZWxkCiAgICAgICAgICBpZD0icGFzc3dvcmQiCiAgICAgICAgICBsYWJlbD0iQ29udHJhc2XDsWEiCiAgICAgICAgICB0eXBlPSJwYXNzd29yZCIKICAgICAgICAgIGF1dG9Db21wbGV0ZT0iY3VycmVudC1wYXNzd29yZCIKICAgICAgICAgIG1hcmdpbj0ibm9ybWFsIgogICAgICAgICAgY2xhc3NOYW1lPXt0aGlzLnByb3BzLmNsYXNzZXMudGV4dEZpZWxkfQogICAgICAgIC8+CiAgICAgIDwvR3JpZD4sCiAgICAgIDxHcmlkIGl0ZW0gY29udGFpbmVyIGp1c3RpZnk9ImZsZXgtZW5kIiBhbGlnbj0iZmxleC1lbmQiIGtleT0ibG9naW4tYnV0dG9uIj4KICAgICAgICA8R3JpZCBpdGVtPgogICAgICAgICAgPEJ1dHRvbiByYWlzZWQgY29sb3I9InByaW1hcnkiPgogICAgICAgICAgICBBY2NlZGVyCiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L0dyaWQ+CiAgICAgIDwvR3JpZD4s</text>
+      <register name="4" type="2">
+        <text encoding="base64">V09SS0RJUiAkV09SS0RJUgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">VGFicwogICAgICAgICAgdmFsdWU9e3RoaXMucHJvcHMudGFiU2VsZWN0ZWR9CiAgICAgICAgICBmdWxsV2lkdGgKICAgICAgICAgIGluZGljYXRvckNvbG9yPSJwcmltYXJ5IgogICAgICAgICAgdGV4dENvbG9yPSJwcmltYXJ5IgogICAgICAgICAgb25DaGFuZ2U9e3RoaXMub25UYWJDaGFuZ2V9CiAgICAgICAgPgogICAgICAgICAgPFRhYiBpY29uPXs8VnBuS2V5PnNob3BwaW5nX2NhcnQ8L1ZwbktleT59IGxhYmVsPSJBY2NlZGVyIiAvPgogICAgICAgICAgPFRhYiBpY29uPXs8QXNzaWdubWVudD5sb2NhbF9mbG9yaXN0PC9Bc3NpZ25tZW50Pn0gbGFiZWw9IlJlZ2lzdHJhcnNlIiAvPgogICAgICAgIDwvVGFicz4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBTZXQgdXAgbmdpbnggY29uZmlnCkNPUFkgc2VydmVyL25naW54LmNvbmYgL2V0Yy9uZ2lueC9jb25mLmQvZGVmYXVsdC5jb25mCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWIgaWNvbj17PFBlcnNvblBpbkljb24gLz59IGxhYmVsPSJORUFSQlkiIC8+Cg==</text>
+        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24geWFybi5sb2NrICRXT1JLRElSLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
