@@ -527,12 +527,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1515682635164">
-        <mark key="'" line="283" column="0" />
-        <mark key="[" line="136" column="67" />
-        <mark key="]" line="136" column="67" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1515684888228">
+        <mark key="'" line="282" column="0" />
+        <mark key="[" line="138" column="9" />
+        <mark key="]" line="140" column="0" />
         <mark key="^" line="129" column="9" />
-        <mark key="." line="136" column="67" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/navbar.html" timestamp="1491429463796">
         <mark key="[" line="25" column="45" />
@@ -2361,8 +2361,8 @@
       <jump line="267" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2380,28 +2380,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnSldUX0FVRElFTkNFJzogTm9uZSwKICAgICAgICAnSldUX0lTU1VFUic6IE5vbmUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnSldUX0xFRVdBWSc6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0FVRElFTkNFJzogTm9uZSwKICAgICAgICAnSldUX0lTU1VFUic6IE5vbmUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnSldUX1ZFUklGWSc6IFRydWUsCiAgICAgICAgJ0pXVF9WRVJJRllfRVhQSVJBVElPTic6IFRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0xFRVdBWSc6IDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnSldUX0FMR09SSVRITSc6ICdIUzI1NicsCg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX1ZFUklGWSc6IFRydWUsCiAgICAgICAgJ0pXVF9WRVJJRllfRVhQSVJBVElPTic6IFRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnSldUX1BVQkxJQ19LRVknOiBOb25lLAogICAgICAgICdKV1RfUFJJVkFURV9LRVknOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0FMR09SSVRITSc6ICdIUzI1NicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnSldUX0dFVF9VU0VSX1NFQ1JFVF9LRVknOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAnSldUX1BVQkxJQ19LRVknOiBOb25lLAogICAgICAgICdKV1RfUFJJVkFURV9LRVknOiBOb25lLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnSldUX1NFQ1JFVF9LRVknOiBzZXR0aW5ncy5TRUNSRVRfS0VZLAo=</text>
+        <text encoding="base64">ICAgICAgICAnSldUX0dFVF9VU0VSX1NFQ1JFVF9LRVknOiBOb25lLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnSldUX1NFQ1JFVF9LRVknOiBzZXR0aW5ncy5TRUNSRVRfS0VZLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
