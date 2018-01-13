@@ -1872,11 +1872,10 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/status.py" timestamp="1505669167298">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="46" column="31" />
-        <mark key="." line="46" column="31" />
-        <mark key="^" line="46" column="31" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/status.py" timestamp="1515878249410">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="51" column="103" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1515417409000">
         <mark key="[" line="75" column="0" />
@@ -2395,8 +2394,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmlzX3N1cGVydXNlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>services_status = subprocess.run(shlex.split(f&quot;docker ps -f='barrenero-miner' --format='{str_format}'&quot;),
+                                         stdout=subprocess.PIPE, universal_newlines=True).stdout.strip()</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2411,31 +2411,31 @@
         <text>('foodstuff', 'recipe', 'quantity')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmlzX3N1cGVydXNlcgo=</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNlcnZpY2VzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCduYW1lJywpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCduYW1lJywpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpc3RfZWRpdGFibGUgPSAoJ25hbWUnLCkK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpc3RfZWRpdGFibGUgPSAoJ25hbWUnLCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyX2Zvcm1hdCA9ICd7eyJuYW1lIjogInt7e3suTmFtZXN9fX19IiwgInN0YXR1cyI6ICJhY3RpdmUifX0nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpc3RfZWRpdGFibGUgPSAoJ2RhdGUnLCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzID0gc3VicHJvY2Vzcy5ydW4oc2hsZXguc3BsaXQoZiJkb2NrZXIgcHMgLWY9J2JhcnJlbmVyby1taW5lcicgLS1mb3JtYXQ9J3tzdHJfZm9ybWF0fSciKSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHVuaXZlcnNhbF9uZXdsaW5lcz1UcnVlKS5zdGRvdXQuc3RyaXAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmlzX3N1cGVydXNlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCdxdWFudGl0eScsICdmb29kc3R1ZmYnLCAncmVjaXBlJykK</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCduYW1lJywpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCdkYXRlJywgJ25hbWUnLCAncG9ydGlvbnMnKQo=</text>
+        <text encoding="base64">ICAgIG9yZGVyaW5nID0gKCduYW1lJywpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</text>
