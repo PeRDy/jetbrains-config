@@ -1559,9 +1559,9 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/ether.py" timestamp="1515416862850">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="54" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/ether.py" timestamp="1515881166867">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="118" />
         <mark key="^" line="78" column="46" />
         <mark key="." line="78" column="46" />
       </file>
@@ -2396,8 +2396,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVsdGFzID0gWyh4MlswXSAtIHgxWzBdKS5zZWNvbmRzIDwgc2V0dGluZ3MuRVRIRVJfTUFYX0lETEUgZm9yIHgxLCB4MiBpbiB6aXAodmFsdWVzWzotMV0sIHZhbHVlc1sxOl0pXQ==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2409,7 +2409,7 @@
         <text>, 'recipe'</text>
       </register>
       <register name="0" type="4">
-        <text>('foodstuff', 'recipe', 'quantity')</text>
+        <text encoding="base64">ZGVsdGFzID0gWyh4MlswXSAtIHgxWzBdKS5zZWNvbmRzIDwgc2V0dGluZ3MuRVRIRVJfTUFYX0lETEUgZm9yIHgxLCB4MiBpbiB6aXAodmFsdWVzWzotMV0sIHZhbHVlc1sxOl0pXQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
