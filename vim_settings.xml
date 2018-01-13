@@ -291,11 +291,10 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1513703982073">
-        <mark key="[" line="99" column="22" />
-        <mark key="]" line="99" column="49" />
-        <mark key="^" line="99" column="49" />
-        <mark key="." line="99" column="49" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1515880023191">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/flights.avpr" timestamp="1511878778366">
         <mark key="[" line="21" column="19" />
@@ -504,7 +503,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515608786774">
+      <file name="/Dummy.txt" timestamp="1515880038165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
@@ -764,8 +763,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1515878735821">
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1515880265038">
         <mark key="[" line="285" column="20" />
+        <mark key="]" line="287" column="40" />
+        <mark key="^" line="287" column="40" />
+        <mark key="." line="287" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/__init__.py" timestamp="1513787204655">
         <mark key="[" line="1" column="0" />
@@ -2394,8 +2396,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWluZXJzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2410,34 +2412,34 @@
         <text>('foodstuff', 'recipe', 'quantity')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMudXBkYXRlKFt7J25hbWUnOiB2LCAnc3RhdHVzJzogJ2FjdGl2ZSd9IGZvciBzIGluIHNlcnZpY2VzXQo=</text>
+        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMgPSBbeyduYW1lJzogc2VydmljZSwgJ3N0YXR1cyc6ICdpbmFjdGl2ZSd9IGZvciBzZXJ2aWNlIGluIHNldHRpbmdzLk1JTkVSUy52YWx1ZXMoKV0K</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnMudXBkYXRlKFt7J25hbWUnOiB2LCAnc3RhdHVzJzogJ2FjdGl2ZSd9IGZvciBzIGluIHNlcnZpY2VzXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnNfc3RhdHVzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnMgPSBbeyduYW1lJzogc2VydmljZSwgJ3N0YXR1cyc6ICdpbmFjdGl2ZSd9IGZvciBzZXJ2aWNlIGluIHNldHRpbmdzLk1JTkVSUy52YWx1ZXMoKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNlcnZpY2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnNfc3RhdHVzID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNlcnZpY2VzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyX2Zvcm1hdCA9ICd7eyJuYW1lIjogInt7e3suTmFtZXN9fX19IiwgInN0YXR1cyI6ICJhY3RpdmUifX0nCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzID0gc3VicHJvY2Vzcy5ydW4oc2hsZXguc3BsaXQoZiJkb2NrZXIgcHMgLWY9J2JhcnJlbmVyby1taW5lcicgLS1mb3JtYXQ9J3tzdHJfZm9ybWF0fSciKSwgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHVuaXZlcnNhbF9uZXdsaW5lcz1UcnVlKS5zdGRvdXQuc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyX2Zvcm1hdCA9ICd7eyJuYW1lIjogInt7e3suTmFtZXN9fX19IiwgInN0YXR1cyI6ICJhY3RpdmUifX0nCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2484,7 +2486,6 @@
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>%s/'build'/BUILD_PATH/g</entry>
-        <entry>wq</entry>
         <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry>q</entry>
@@ -2493,6 +2494,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvdmVyc2lvbi9n</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
