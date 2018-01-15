@@ -652,11 +652,11 @@
         <mark key="^" line="163" column="45" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/barrenero/barrenero-api/README.rst" timestamp="1516028335044">
-        <mark key="[" line="46" column="71" />
-        <mark key="]" line="52" column="109" />
-        <mark key="^" line="48" column="10" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Development/barrenero/barrenero-api/README.rst" timestamp="1516030533199">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="41" column="10" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/miner_telegram.py" timestamp="1500558375500">
         <mark key="[" line="13" column="26" />
@@ -1815,10 +1815,10 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/README.rst" timestamp="1516028395361">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/README.rst" timestamp="1516030500696">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1514075155025">
         <mark key="[" line="73" column="61" />
@@ -2435,7 +2435,7 @@
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">LiA=</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -2465,25 +2465,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Mi4gQ29uZmlndXJlIGFwaSBwYXJhbWV0ZXJzIGluICoqIGZpbGUuIFBhcmFtZXRlcnMgZXhwbGFpbmVkIGJlbG93Lgo=</text>
+        <text encoding="base64">ICAgIC4uIGNvZGU6OiBjb25zb2xlCgogICAgICAgIHN1ZG8gLi9tYWtlIGluc3RhbGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UXVpY2sgc3RhcnQKLS0tLS0tLS0tLS0KMS4gSW5zdGFsbCBzZXJ2aWNlczoKICAgIAogICAgLi4gY29kZTo6IGNvbnNvbGUKCiAgICAgICAgc3VkbyAuL21ha2UgaW5zdGFsbCAtdSA8aW5mbHV4ZGJfdXNlcm5hbWU+IC1wIDxpbmZsdXhkYl9wYXNzd29yZD4gPGluZmx1eGRiX3VybD4gPGluZmx1eGRiX2RhdGFiYXNlPgoKMi4gTW92ZSB0byBpbnN0YWxsYXRpb24gZm9sZGVyOgoKICAgIC4uIGNvZGU6OiBjb25zb2xlCgogICAgICAgIGNkIC91c3IvbG9jYWwvbGliL2JhcnJlbmVyby9iYXJyZW5lcm8tdGVsZWdyYWYvCgozLiBCdWlsZCB0aGUgc2VydmljZToKCiAgICAuLiBjb2RlOjogY29uc29sZQoKICAgICAgICAuL21ha2UgYnVpbGQKCjQuIFJlYm9vdCBvciByZXN0YXJ0IFN5c3RlbWQgdW5pdDoKCiAgICAuLiBjb2RlOjogY29uc29sZQoKICAgICAgICBzdWRvIHNlcnZpY2UgYmFycmVuZXJvX3RlbGVncmFmIHJlc3RhcnQKClJ1biBtYW51YWxseQotLS0tLS0tLS0tLS0KCkFzIHdlbGwgYXMgdXNpbmcgc3lzdGVtZCBzZXJ2aWNlcyB5b3UgY2FuIHJ1biBtaW5lcnMgbWFudWFsbHkgdXNpbmc6CgouLiBjb2RlOjogY29uc29sZQoKICAgIC4vbWFrZSBydW4K</text>
+        <text encoding="base64">MS4gSW5zdGFsbCBzZXJ2aWNlczoKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ClN5c3RlbWQKLS0tLS0tLQoKVGhlIHByb2plY3QgcHJvdmlkZXMgYSBzZXJ2aWNlIGZpbGUgZm9yIFN5c3RlbWQgdGhhdCB3aWxsIGJlIGluc3RhbGxlZC4gVGhlc2Ugc2VydmljZSBmaWxlcyBnaXZlcyBhIHJlbGlhYmxlIHdheSB0byBydW4KZWFjaCBtaW5lciwgYXMgd2VsbCBhcyBvdmVyY2xvY2tpbmcgc2NyaXB0cy4KClRvIGNoZWNrIGEgbWluZXIgc2VydmljZSBzdGF0dXM6CgouLiBjb2RlOjogY29uc29sZQoKICAgIHNlcnZpY2UgYmFycmVuZXJvX3RlbGVncmFmIHN0YXR1cw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">MS4gSW5zdGFsbCBzZXJ2aWNlczoKCiAgICAuLiBjb2RlOjogY29uc29sZQoKICAgICAgICBzdWRvIC4vbWFrZSBpbnN0YWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBQeXRob24gMy41IG9yIG5ld2VyLiBEb3dubG9hZCBgaGVyZSA8aHR0cHM6Ly93d3cucHl0aG9uLm9yZy8+YF8uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlcm5hbWUgPSB7eyB0ZWxlZ3JhZi5pbmZsdXhkYl91c2VybmFtZSB9fQpwYXNzd29yZCA9IHt7IHRlbGVncmFmLmluZmx1eGRiX3Bhc3N3b3JkIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YWJhc2UgPSB7eyB0ZWxlZ3JhZi5pbmZsdXhkYl9kYXRhYmFzZSB9fQp1c2VybmFtZSA9IHt7IHRlbGVncmFmLmluZmx1eGRiX3VzZXJuYW1lIH19Cg==</text>
+        <text encoding="base64">Mi4gQ29uZmlndXJlIGFwaSBwYXJhbWV0ZXJzIGluICoqIGZpbGUuIFBhcmFtZXRlcnMgZXhwbGFpbmVkIGJlbG93Lgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</text>
