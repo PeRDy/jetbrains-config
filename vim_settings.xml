@@ -2026,13 +2026,13 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516044492407">
-        <mark key="'" line="214" column="15" />
-        <mark key="i" line="246" column="16" />
-        <mark key="[" line="255" column="35" />
-        <mark key="]" line="255" column="12" />
-        <mark key="." line="255" column="12" />
-        <mark key="^" line="236" column="8" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516045569653">
+        <mark key="'" line="277" column="0" />
+        <mark key="i" line="253" column="16" />
+        <mark key="[" line="293" column="15" />
+        <mark key="]" line="277" column="0" />
+        <mark key="^" line="276" column="9" />
+        <mark key="." line="277" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/package.json" timestamp="1515082082021">
         <mark key="[" line="2" column="19" />
@@ -2294,11 +2294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="178" column="2" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="86" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="92" column="5" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="93" column="1" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="36" column="12" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="97" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="31" column="39" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
@@ -2394,66 +2389,70 @@
       <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
       <jump line="236" column="37" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
       <jump line="208" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="41" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="42" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="43" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="234" column="44" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="274" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>settings</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBbY21kXQogICAgZm9yIHNlcnZpY2UgaW4ga3dhcmdzWydzZXJ2aWNlJ106CiAgICAgICAgcmVzdGFydF9zZXJ2aWNlKHNlcnZpY2UsIGt3YXJnc1sncGF0aCddKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>shlex.shlex('docker restart') + kwargs['service']]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1sndGVsZWdyYW0nXSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLS1wYXRoJywpLCB7J2hlbHAnOiAnQmFycmVuZXJvIGNvbmZpZyBmdWxsIHBhdGgnLCAnZGVmYXVsdCc6ICcvZXRjL2JhcnJlbmVyby8nfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbY21kXQogICAgZm9yIHNlcnZpY2UgaW4ga3dhcmdzWydzZXJ2aWNlJ106CiAgICAgICAgcmVzdGFydF9zZXJ2aWNlKHNlcnZpY2UsIGt3YXJnc1sncGF0aCddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3NlcnZpY2UoJ3RlbGVncmFmJywgYmFycmVuZXJvX2FwaV90b2tlbiwgaW5mbHV4ZGJfdXJsLCBpbmZsdXhkYl9kYXRhYmFzZSwgKippbnN0YWxsX2t3YXJncykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLS1wYXRoJywpLCB7J2hlbHAnOiAnQmFycmVuZXJvIGZ1bGwgcGF0aCcsICdkZWZhdWx0JzogJy91c3IvbG9jYWwvbGliJ30pLCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbmZsdXhkYl9wYXNzd29yZCc6IGluZmx1eGRiX3Bhc3N3b3JkLAogICAgICAgICAgICB9KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFsbF9rd2FyZ3MudXBkYXRlKHsKICAgICAgICAgICAgICAgICdpbmZsdXhkYl91c2VybmFtZSc6IGluZmx1eGRiX3VzZXJuYW1lLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgaW5mbHV4ZGJfdXNlcm5hbWU6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsX2t3YXJncyA9IHsKICAgICAgICAgICAgJ3BhdGgnOiBiYXJyZW5lcm9fcGF0aCwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3NlcnZpY2UoJ3RlbGVncmFtJywgYm90X3Rva2VuLCBwYXRoPWJhcnJlbmVyb19wYXRoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciBzZXJ2aWNlIGluIGt3YXJnc1snc2VydmljZSddOgogICAgICAgIGJ1aWxkX3NlcnZpY2Uoc2VydmljZSwga3dhcmdzWydwYXRoJ10sIGt3YXJnc1snbm9fY2FjaGUnXSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QHN1cGVydXNlcgpkZWYgYnVpbGQoKmFyZ3MsICoqa3dhcmdzKToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgcGFyc2VyX29wdHM9eydoZWxwJzogJ0J1aWxkIEJhcnJlbmVybyBzZXJ2aWNlcyd9KQpAZG9uYXRlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLS1uby1jYWNoZScsKSwgeydoZWxwJzogJ0Z1bGwgYnVpbGQgd2l0aG91dCB1c2luZyBjYWNoZScsICdhY3Rpb24nOiAnc3RvcmVfdHJ1ZSd9KSwKICAgICAgICAgICAgICAgKCgnLS1wYXRoJywpLCB7J2hlbHAnOiAnQmFycmVuZXJvIGZ1bGwgcGF0aCcsICdkZWZhdWx0JzogJy91c3IvbG9jYWwvbGliJ30pLCksCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnaW5mbHV4ZGJfdXNlcm5hbWUnOiBpbnB1dCgnSW5mbHV4REIgVXNlcm5hbWUnKSwKICAgICAgICAnaW5mbHV4ZGJfcGFzc3dvcmQnOiBpbnB1dCgnSW5mbHV4REIgUGFzc3dvcmQnKSwK</text>
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlBZVEhPTiwKICAgICAgICAgYXJncz0oKCgnc2VydmljZScsKSwgeydoZWxwJzogJ1NlcnZpY2VzIHRvIGJ1aWxkJywgJ25hcmdzJzogJysnLCAnY2hvaWNlcyc6IHR1cGxlKFNFUlZJQ0VTLmtleXMoKSl9KSwK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyA9Lyc6L2c=</text>
+        <text encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhZi9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ID0=</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ID0=</last-pattern>
-      <last-replace>':</last-replace>
-      <last-substitute encoding="base64">ID0=</last-substitute>
+      <last-pattern>api</last-pattern>
+      <last-replace>telegraf</last-replace>
+      <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self\(, \)?</entry>
         <entry>self\(, \)\?</entry>
         <entry>schedule</entry>
         <entry>schedule =</entry>
@@ -2473,11 +2472,9 @@
         <entry>delta</entry>
         <entry>response_time</entry>
         <entry encoding="base64">ID0=</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
-        <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</entry>
@@ -2495,6 +2492,9 @@
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyA9Lyc6L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
+        <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhZi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
