@@ -21,7 +21,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1514487270797">
+      <file name="/a.dummy" timestamp="1516054305518">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -281,6 +281,13 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1515684888228">
+        <mark key="'" line="282" column="0" />
+        <mark key="[" line="138" column="9" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="129" column="9" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="18" />
@@ -381,6 +388,13 @@
         <mark key="]" line="117" column="30" />
         <mark key="." line="117" column="30" />
         <mark key="^" line="117" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" timestamp="1515510324783">
+        <mark key="'" line="131" column="7" />
+        <mark key="[" line="158" column="28" />
+        <mark key="]" line="158" column="33" />
+        <mark key="." line="158" column="33" />
+        <mark key="^" line="158" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -694,6 +708,11 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/miner/nvidia.py" timestamp="1516054164499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/.dockerignore" timestamp="1514912546915">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="5" />
@@ -745,6 +764,13 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" timestamp="1515419269983">
+        <mark key="'" line="115" column="21" />
+        <mark key="[" line="113" column="61" />
+        <mark key="]" line="113" column="61" />
+        <mark key="^" line="114" column="19" />
+        <mark key="." line="113" column="61" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="29" column="0" />
@@ -762,6 +788,9 @@
         <mark key="]" line="287" column="40" />
         <mark key="^" line="287" column="40" />
         <mark key="." line="287" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/nvidia.cfg.j2" timestamp="1516054474987">
+        <mark key="[" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/__init__.py" timestamp="1513787204655">
         <mark key="[" line="1" column="0" />
@@ -1386,11 +1415,12 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_nvidia.py" timestamp="1516049538827">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_nvidia.py" timestamp="1516054188482">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/configuration.rst" timestamp="1507581451104">
         <mark key="[" line="48" column="14" />
@@ -1693,6 +1723,12 @@
         <mark key="]" line="98" column="7" />
         <mark key="^" line="98" column="7" />
         <mark key="." line="98" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/docker-compose.yml" timestamp="1516055456344">
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="28" column="64" />
+        <mark key="." line="28" column="64" />
+        <mark key="^" line="28" column="64" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/loader.py" timestamp="1496362379514">
         <mark key="[" line="15" column="0" />
@@ -2053,13 +2089,11 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516048933489">
-        <mark key="'" line="183" column="60" />
-        <mark key="i" line="292" column="16" />
-        <mark key="[" line="163" column="94" />
-        <mark key="]" line="163" column="94" />
-        <mark key="." line="163" column="94" />
-        <mark key="^" line="183" column="60" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516055343684">
+        <mark key="i" line="221" column="16" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/package.json" timestamp="1515082082021">
         <mark key="[" line="2" column="19" />
@@ -2321,7 +2355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
       <jump line="54" column="20" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
       <jump line="2" column="7" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
       <jump line="3" column="10" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
@@ -2421,49 +2454,50 @@
       <jump line="272" column="35" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
       <jump line="48" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
       <jump line="183" column="60" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_nvidia.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vblwK</text>
+      <register name="&quot;" type="4">
+        <text>api</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y21ha2Ug</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL3Bhc3Nlbmdlci5saXN0IFwKICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzL3BhcnRpYWwvKi5kZWIgXAogICAgICAgIC92YXIvY2FjaGUvYXB0LyouYmluCgo=</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL2xvZy9iYXJyZW5lcm8vOi9zcnYvYXBwcy9iYXJyZW5lcm8tYXBpL2xvZ3MvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vblwK</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL2xvZy9iYXJyZW5lcm8vdGVsZWdyYWYvOi9zcnYvYXBwcy9iYXJyZW5lcm8tYXBpL2xvZ3MvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZC1lc3NlbnRpYWwgXAo=</text>
+        <text encoding="base64">ICAgICAgICAncmVzdGFydCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJpZG4xMS1kZXYgXAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbbGlzdChzaGxleC5zaGxleCgnZG9ja2VyIHJlc3RhcnQnKSkgKyBrd2FyZ3NbJ3NlcnZpY2UnXV0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJsIFwK</text>
+        <text encoding="base64">CkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5TSEVMTCwKICAgICAgICAgYXJncz0oKCgnc2VydmljZScsKSwgeydoZWxwJzogJ1NlcnZpY2VzIHRvIHJlc3RhcnQnLCAnbmFyZ3MnOiAnKycsICdjaG9pY2VzJzogU0VSVklDRVN9KSwpLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnUmVzdGFydCBCYXJyZW5lcm8gc2VydmljZXMnfSkKQGRvbmF0ZQpAc3VwZXJ1c2VyCmRlZiByZXN0YXJ0KCphcmdzLCAqKmt3YXJncyk6Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQgXAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmRlZiBpbnN0YWxsX3NlcnZpY2Uoc2VydmljZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgIHNlcnZpY2VfcGF0aCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MuZ2V0Y3dkKCksIFNFUlZJQ0VTW3NlcnZpY2VdWyduYW1lJ10pKQoKICAgICMgQ2xvbmUgb3IgdXBkYXRlCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoc2VydmljZV9wYXRoKToKICAgICAgICBsb2dnZXIuaW5mbygnRG93bmxvYWRpbmcgQmFycmVuZXJvICVzJywgc2VydmljZSkKICAgICAgICBzZXJ2aWNlX3JlcG8gPSBSZXBvLmNsb25lX2Zyb20oU0VSVklDRVNbc2VydmljZV1bJ3VybCddLCBzZXJ2aWNlX3BhdGgpCiAgICAgICAgc2VydmljZV9yZXBvLmhlYWRzLm1hc3Rlci5zZXRfdHJhY2tpbmdfYnJhbmNoKHNlcnZpY2VfcmVwby5yZW1vdGVzLm9yaWdpbi5yZWZzLm1hc3RlcikKICAgIGVsc2U6CiAgICAgICAgbG9nZ2VyLmluZm8oJ1VwZGF0aW5nIEJhcnJlbmVybyAlcycsIHNlcnZpY2UpCiAgICAgICAgc2VydmljZV9yZXBvID0gUmVwbyhzZXJ2aWNlX3BhdGgpCiAgICAgICAgc2VydmljZV9yZXBvLnJlbW90ZXMub3JpZ2luLmZldGNoKCkKICAgICAgICBzZXJ2aWNlX3JlcG8uaGVhZHMubWFzdGVyLnNldF90cmFja2luZ19icmFuY2goc2VydmljZV9yZXBvLnJlbW90ZXMub3JpZ2luLnJlZnMubWFzdGVyKQogICAgICAgIHNlcnZpY2VfcmVwby5yZW1vdGVzLm9yaWdpbi5wdWxsKCkKCiAgICAjIFJ1biBpbnN0YWxsYXRpb24KICAgIG9zLmNoZGlyKHNlcnZpY2VfcGF0aCkKICAgIGNtZF9hcmdzID0gJyAnLmpvaW4oYXJncykKICAgIGNtZF9rd2FyZ3MgPSAnICcuam9pbihbJy0te309e30nLmZvcm1hdChrLCB2KSBpZiB2IGlzIG5vdCBOb25lIGVsc2UgJy0te30nLmZvcm1hdChrKSBmb3IgaywgdiBpbiBrd2FyZ3MuaXRlbXMoKV0pCiAgICBjbWQgPSAnLi9tYWtlIGluc3RhbGwge30ge30nLmZvcm1hdChjbWRfa3dhcmdzLCBjbWRfYXJncykKICAgIHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KGNtZCkpCgoKZGVmIHVwZGF0ZV9zZXJ2aWNlKHNlcnZpY2UsIHBhdGgpOgogICAgc2VydmljZV9wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihwYXRoLCAnYmFycmVuZXJvJywgU0VSVklDRVNbc2VydmljZV1bJ25hbWUnXSkpCgogICAgIyBDaGVjayBpZiBzZXJ2aWNlIGFscmVhZHkgZXhpc3RzIGFuZCB1cGRhdGUgaXQKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhzZXJ2aWNlX3BhdGgpOgogICAgICAgIGxvZ2dlci5pbmZvKCdCYXJyZW5lcm8gJXMgaXMgbm90IGluc3RhbGxlZCcsIHNlcnZpY2UpCiAgICBlbHNlOgogICAgICAgIGxvZ2dlci5pbmZvKCdVcGRhdGluZyBCYXJyZW5lcm8gJXMnLCBzZXJ2aWNlKQogICAgICAgIHNlcnZpY2VfcmVwbyA9IFJlcG8oc2VydmljZV9wYXRoKQogICAgICAgIHNlcnZpY2VfcmVwby5yZW1vdGVzLm9yaWdpbi5mZXRjaCgpCiAgICAgICAgc2VydmljZV9yZXBvLmhlYWRzLm1hc3Rlci5zZXRfdHJhY2tpbmdfYnJhbmNoKHNlcnZpY2VfcmVwby5yZW1vdGVzLm9yaWdpbi5yZWZzLm1hc3RlcikKICAgICAgICBzZXJ2aWNlX3JlcG8ucmVtb3Rlcy5vcmlnaW4ucHVsbCgpCgoKZGVmIHJlc3RhcnRfc2VydmljZShzZXJ2aWNlLCBwYXRoKToKICAgIHNlcnZpY2VfcGF0aCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ocGF0aCwgJ2JhcnJlbmVybycsIFNFUlZJQ0VTW3NlcnZpY2VdWyduYW1lJ10pKQoKICAgICMgQ2hlY2sgaWYgc2VydmljZSBhbHJlYWR5IGV4aXN0cyBhbmQgdXBkYXRlIGl0CiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoc2VydmljZV9wYXRoKToKICAgICAgICBsb2dnZXIuaW5mbygnQmFycmVuZXJvICVzIGlzIG5vdCBpbnN0YWxsZWQnLCBzZXJ2aWNlKQogICAgZWxzZToKICAgICAgICBsb2dnZXIuaW5mbygnVXBkYXRpbmcgQmFycmVuZXJvICVzJywgc2VydmljZSkKICAgICAgICBvcy5jaGRpcihzZXJ2aWNlX3BhdGgpCiAgICAgICAgc3VicHJvY2Vzcy5ydW4oc2hsZXguc3BsaXQoJy4vbWFrZSByZXN0YXJ0JykpCgoKZGVmIGJ1aWxkX3NlcnZpY2Uoc2VydmljZSwgcGF0aCwgbm9fY2FjaGUpOgogICAgc2VydmljZV9wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihwYXRoLCAnYmFycmVuZXJvJywgU0VSVklDRVNbc2VydmljZV1bJ25hbWUnXSkpCgogICAgIyBDaGVjayBpZiBzZXJ2aWNlIGFscmVhZHkgZXhpc3RzIGFuZCB1cGRhdGUgaXQKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhzZXJ2aWNlX3BhdGgpOgogICAgICAgIGxvZ2dlci5pbmZvKCdCYXJyZW5lcm8gJXMgaXMgbm90IGluc3RhbGxlZCcsIHNlcnZpY2UpCiAgICBlbHNlOgogICAgICAgIGxvZ2dlci5pbmZvKCdVcGRhdGluZyBCYXJyZW5lcm8gJXMnLCBzZXJ2aWNlKQogICAgICAgIG9zLmNoZGlyKHNlcnZpY2VfcGF0aCkKICAgICAgICBjbWQgPSBzaGxleC5zcGxpdCgnLi9tYWtlIGJ1aWxkJykKICAgICAgICBpZiBub19jYWNoZToKICAgICAgICAgICAgY21kLmFwcGVuZCgnLS1uby1jYWNoZScpCiAgICAgICAgc3VicHJvY2Vzcy5ydW4oY21kKQoKCkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5QWVRIT04sCiAgICAgICAgIGFyZ3M9KCgoJ3NlcnZpY2UnLCksIHsnaGVscCc6ICdTZXJ2aWNlcyB0byB1cGRhdGUnLCAnbmFyZ3MnOiAnKycsICdjaG9pY2VzJzogU0VSVklDRVN9KSwKICAgICAgICAgICAgICAgKCgnLS1wYXRoJywpLCB7J2hlbHAnOiAnQmFycmVuZXJvIGZ1bGwgcGF0aCcsICdkZWZhdWx0JzogJy91c3IvbG9jYWwvbGliJ30pLCksCiAgICAgICAgIHBhcnNlcl9vcHRzPXsnaGVscCc6ICdVcGRhdGUgQmFycmVuZXJvIHNlcnZpY2VzJ30pCkBkb25hdGUKQHN1cGVydXNlcgpkZWYgdXBkYXRlKCphcmdzLCAqKmt3YXJncyk6CiAgICBmb3Igc2VydmljZSBpbiBrd2FyZ3NbJ3NlcnZpY2UnXToKICAgICAgICB1cGRhdGVfc2VydmljZShzZXJ2aWNlLCBrd2FyZ3NbJ3BhdGgnXSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGJvb2xfaW5wdXQoJ0RvIHlvdSB3YW50IHRvIGluc3RhbGwgTnZpZGlhIE92ZXJjbG9jayBzZXJ2aWNlPycpOgogICAgICAgIGNvbmZpZ1snbWluZXInXVsnbnZpZGlhJ10gPSBkZWZhdWx0X2lucHV0KAogICAgICAgICAgICAnV2hpY2ggTnZpZGlhIGdyYXBoaWNzIGNhcmQgd2FudCB0byBvdmVyY2xvY2s/JywgZGVmYXVsdD0nMCwxLDIsMyw0Jykuc3BsaXQoJywnKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1ha2UgaW5zdGFsbCAmJiBcCiAgICBybSAtcmYgL3Nydi9hcHBzL2V0aG1pbmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGxvZ2dpbmcuY29uZmlnCmltcG9ydCBvcwppbXBvcnQgc2hsZXgKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHRpbWUKZnJvbSBjb25maWdwYXJzZXIgaW1wb3J0IENvbmZpZ1BhcnNlcgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNtYWtlIC4uIC1ERVRIQVNIQ1VEQT1PTiAtREVUSEFTSENMPU9GRiAmJiBcCiAgICBjbWFrZSAtLWJ1aWxkIC4gJiYgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V09SS0RJUiAvc3J2L2FwcHMvZXRobWluZXIKUlVOIG1rZGlyIGJ1aWxkOyBjZCBidWlsZCAmJiBcCg==</text>
+        <text encoding="base64">ZnJvbSBtaW5lci5udmlkaWEgaW1wb3J0IE52aWRpYVR1bmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
