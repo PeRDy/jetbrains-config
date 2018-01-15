@@ -95,12 +95,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/src/App.vue" timestamp="1504346376285">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -294,6 +288,7 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1515880023191">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
+        <mark key="^" line="99" column="49" />
         <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/flights.avpr" timestamp="1511878778366">
@@ -769,6 +764,9 @@
         <mark key="^" line="287" column="40" />
         <mark key="." line="287" column="40" />
       </file>
+      <file name="$USER_HOME$/Development/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1516012710967">
+        <mark key="'" line="30" column="34" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/__init__.py" timestamp="1513787204655">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1168,8 +1166,8 @@
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" timestamp="1515417674982">
         <mark key="[" line="59" column="104" />
         <mark key="]" line="63" column="16" />
-        <mark key="." line="63" column="16" />
         <mark key="^" line="47" column="26" />
+        <mark key="." line="63" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/settings/tests.py" timestamp="1513874754307">
         <mark key="[" line="11" column="0" />
@@ -1354,6 +1352,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1515671259346">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="17" />
@@ -1518,6 +1522,11 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="36" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/barrenero/barrenero-api/make" timestamp="1516012683892">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/requirements.txt" timestamp="1497639309083">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="3" column="5" />
@@ -1649,6 +1658,11 @@
         <mark key="]" line="59" column="24" />
         <mark key="." line="59" column="24" />
         <mark key="^" line="54" column="13" />
+      </file>
+      <file name="$USER_HOME$/Development/barrenero/barrenero-api/templates/env.jinja2" timestamp="1516012374052">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/public/index.html" timestamp="1515608811406">
         <mark key="[" line="21" column="11" />
@@ -1878,6 +1892,7 @@
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
+        <mark key="^" line="46" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/nanopool.py" timestamp="1515417409000">
         <mark key="[" line="75" column="0" />
@@ -2294,7 +2309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="170" column="50" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="177" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="178" column="2" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
@@ -2394,58 +2408,59 @@
       <jump line="267" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" />
       <jump line="12" column="4" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
+      <jump line="30" column="34" filename="$USER_HOME$/Development/barrenero/barrenero-api/barrenero_api/settings/base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVsdGFzID0gWyh4MlswXSAtIHgxWzBdKS5zZWNvbmRzIDwgc2V0dGluZ3MuRVRIRVJfTUFYX0lETEUgZm9yIHgxLCB4MiBpbiB6aXAodmFsdWVzWzotMV0sIHZhbHVlc1sxOl0pXQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwaV9zdXBlcnVzZXInOiBrd2FyZ3NbXSwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWluZXJzIA==</text>
+        <text>your_encripted_password</text>
       </register>
       <register name="/" type="4">
-        <text>, 'recipe'</text>
+        <text>SUPERUSER</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVsdGFzID0gWyh4MlswXSAtIHgxWzBdKS5zZWNvbmRzIDwgc2V0dGluZ3MuRVRIRVJfTUFYX0lETEUgZm9yIHgxLCB4MiBpbiB6aXAodmFsdWVzWzotMV0sIHZhbHVlc1sxOl0pXQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwaV9zdXBlcnVzZXInOiBrd2FyZ3NbXSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMudXBkYXRlKFt7J25hbWUnOiB2LCAnc3RhdHVzJzogJ2FjdGl2ZSd9IGZvciBzIGluIHNlcnZpY2VzXQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAjIENyZWF0ZSBTeXN0ZW1kIHVuaXQKICAgIGxvZ2dlci5pbmZvKCJbQmFycmVuZXJvIEFQSV0gQ3JlYXRlIFN5c3RlbWQgdW5pdCBhbmQgZW5hYmxlIGl0IikKICAgIHdpdGggb3BlbignL2V0Yy9zeXN0ZW1kL3N5c3RlbS9iYXJyZW5lcm9fYXBpLnNlcnZpY2UnLCAndycpIGFzIGY6CiAgICAgICAgZi53cml0ZShqMl9lbnYuZ2V0X3RlbXBsYXRlKCdiYXJyZW5lcm9fYXBpLnNlcnZpY2UuamluamEyJykucmVuZGVyKHN5c3RlbWRfajJfY29udGV4dCkpCiAgICBzdWJwcm9jZXNzLnJ1bihzaGxleC5zcGxpdCgnc3lzdGVtY3RsIGVuYWJsZSBiYXJyZW5lcm9fYXBpLnNlcnZpY2UnKSkKICAgIHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KCdzeXN0ZW1jdGwgZGFlbW9uLXJlbG9hZCcpKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMgPSBbeyduYW1lJzogc2VydmljZSwgJ3N0YXR1cyc6ICdpbmFjdGl2ZSd9IGZvciBzZXJ2aWNlIGluIHNldHRpbmdzLk1JTkVSUy52YWx1ZXMoKV0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAjIENyZWF0ZSBTeXN0ZW1kIHVuaXQKICAgIGxvZ2dlci5pbmZvKCJbQmFycmVuZXJvIEFQSV0gQ3JlYXRlIFN5c3RlbWQgdW5pdCBhbmQgZW5hYmxlIGl0IikKICAgIHdpdGggb3BlbignL2V0Yy9zeXN0ZW1kL3N5c3RlbS9iYXJyZW5lcm9fYXBpLnNlcnZpY2UnLCAndycpIGFzIGY6CiAgICAgICAgZi53cml0ZShqMl9lbnYuZ2V0X3RlbXBsYXRlKCdiYXJyZW5lcm9fYXBpLnNlcnZpY2UuamluamEyJykucmVuZGVyKHN5c3RlbWRfajJfY29udGV4dCkpCiAgICBzdWJwcm9jZXNzLnJ1bihzaGxleC5zcGxpdCgnc3lzdGVtY3RsIGVuYWJsZSBiYXJyZW5lcm9fYXBpLnNlcnZpY2UnKSkKICAgIHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KCdzeXN0ZW1jdGwgZGFlbW9uLXJlbG9hZCcpKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnNfc3RhdHVzID0gCg==</text>
+        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNlcnZpY2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnMudXBkYXRlKFt7J25hbWUnOiB2LCAnc3RhdHVzJzogJ2FjdGl2ZSd9IGZvciBzIGluIHNlcnZpY2VzXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnMgPSBbeyduYW1lJzogc2VydmljZSwgJ3N0YXR1cyc6ICdpbmFjdGl2ZSd9IGZvciBzZXJ2aWNlIGluIHNldHRpbmdzLk1JTkVSUy52YWx1ZXMoKV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnNfc3RhdHVzID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IFtdCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNlcnZpY2VzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyX2Zvcm1hdCA9ICd7eyJuYW1lIjogInt7e3suTmFtZXN9fX19IiwgInN0YXR1cyI6ICJhY3RpdmUifX0nCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>, 'recipe'</last-search>
+      <last-search>SUPERUSER</last-search>
       <last-offset />
-      <last-pattern>, 'recipe'</last-pattern>
+      <last-pattern>SUPERUSER</last-pattern>
       <last-replace />
       <last-substitute>, 'recipe'</last-substitute>
       <last-dir>1</last-dir>
@@ -2453,13 +2468,11 @@
     </search>
     <history>
       <history-search>
-        <entry>self\(, \)</entry>
         <entry>self\(, \)?</entry>
         <entry>self\(, \)\?</entry>
         <entry>schedule</entry>
         <entry>schedule =</entry>
         <entry>every</entry>
-        <entry>1</entry>
         <entry>'.*'</entry>
         <entry>self._api</entry>
         <entry>raise from</entry>
@@ -2471,13 +2484,17 @@
         <entry>url(</entry>
         <entry>'build'</entry>
         <entry>trazabilidad</entry>
-        <entry>delta</entry>
-        <entry>response_time</entry>
+        <entry>1</entry>
+        <entry>REST</entry>
+        <entry>, 'recipe'</entry>
+        <entry>SUPERUSER</entry>
       </history-search>
       <history-cmd>
+        <entry>%s#/srv/apps/$APP/app#$WORKDIR#g</entry>
+        <entry>%s/self\(, \)//g</entry>
+        <entry>%s/self\(, \)?//g</entry>
         <entry>%s/self\(, \)\?//g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
@@ -2486,15 +2503,13 @@
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>%s/'build'/BUILD_PATH/g</entry>
+        <entry>wq</entry>
         <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz5zL2RlbHRhL3JlcHV0YXRpb24vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2RlbHRhL3ZlcnNpb24vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvdmVyc2lvbi9n</entry>
-        <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</entry>
-        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
