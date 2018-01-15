@@ -2036,11 +2036,12 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516041291332">
-        <mark key="[" line="201" column="20" />
-        <mark key="]" line="201" column="12" />
-        <mark key="." line="201" column="12" />
-        <mark key="^" line="201" column="73" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516042609911">
+        <mark key="i" line="226" column="16" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="24" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="199" column="3" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/package.json" timestamp="1515082082021">
         <mark key="[" line="2" column="19" />
@@ -2404,61 +2405,58 @@
       <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHlvdSB3YW50IHRvIGluc3RhbGwgTnZpZGlhIE92ZXJjbG9jayBzZXJ2aWNl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZ1snbWluZXInXSA9IHt9Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHlvdSB3YW50IHRvIGluc3RhbGwgTnZpZGlhIE92ZXJjbG9jayBzZXJ2aWNl</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text>, 'recipe'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2NsaScpCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1snbWluZXInXSA9IHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVtYWlsID0gZGVmYXVsdF9pbnB1dCgnSW50cm9kdWNlIHlvdXIgZW1haWwnLCBkZWZhdWx0PSd5b3VyQGVtYWlsLmNvbScpCg==</text>
+        <text encoding="base64">ICAgICAgICBib3RfdG9rZW4gPSBpbnB1dCgnUmVnaXN0ZXIgeW91ciBib3QgaW4gVGVsZWdyYW0gKGh0dHBzOi8vY29yZS50ZWxlZ3JhbS5vcmcvYm90cyNjcmVhdGluZy1hLW5ldy1ib3QpIGFuZCAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ludHJvZHVjZSB0aGUgdG9rZW4gZ2VuZXJhdGVkOiAnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3NlcnZpY2UoJ2FwaScsIHBhdGg9YmFycmVuZXJvX3BhdGgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{%- if nvidia -%}
-[nvidia]
-graphic_cards = {{ nvidia|join(',') }}
-compute_mode = 0
-persistent_mode = 1
-max_power = 100
-{% for i in nvidia %}
-[nvidia:{{ i }}]
-powermizer_mode = 1
-graphics_clock_offset = 100
-memory_transfer_rate_offset = 700
-fan_control = 1
-fan_speed = 80
-{% endfor %}
-{% endif -%}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W2V0aGVyXQpiaW4gPSBldGhtaW5lcgphcmdzID0gLVUgLS1jdWRhLXBhcmFsbGVsLWhhc2ggNCAtLWZhcm0tcmVjaGVjayAyMDAKcG9vbF9wcmltYXJ5ID0gZXRoLWV1MS5uYW5vcG9vbC5vcmc6OTk5OQpwb29sX3NlY29uZGFyeSA9IGV0aC1ldTIubmFub3Bvb2wub3JnOjk5OTkKd2FsbGV0ID0gMHg1NjZkNDFiOTI1ZWQxZDlmNjQzNzQ4ZDY1MmY0ZTY2NTkzY2JhOWM5CndvcmtlciA9IFdvcmtlck5hbWUKZW1haWwgPSB5b3VAZW1haWwuY29tCg==</text>
+        <text encoding="base64">ICAgIHBhdGggPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgZW5kaWYgLSV9Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">eyUtIGlmIG52aWRpYSAtJX0K</text>
+      <register name="6" type="4">
+        <text>config['miner'] = {}
+
+        if bool_input('Do you want to install Nvidia Overclock service?'):
+            config['miner']['nvidia'] = default_input('Which Nvidia graphics card want to overclock?', default='0,1,2')
+
+        if bool_input('Do you want to install Ether Miner?'):
+            config['miner']['ether'] = {
+                'worker', default_input('Worker name', default='Barrenero')
+            }
+            
+        print('If you want to user Storj miner, put your node config in {}'.format(
+            os.path.join(barrenero_path, 'barrenero-miner', 'storj.json')))</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBudmlkaWE6CiAgICAgICAgICAgIGluc3RhbGxfa3dhcmdzWydudmlkaWEnXSA9IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMudXBkYXRlKFt7J25hbWUnOiB2LCAnc3RhdHVzJzogJ2FjdGl2ZSd9IGZvciBzIGluIHNlcnZpY2VzXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BhdGgnOiBiYXJyZW5lcm9fcGF0aAogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMgPSBbeyduYW1lJzogc2VydmljZSwgJ3N0YXR1cyc6ICdpbmFjdGl2ZSd9IGZvciBzZXJ2aWNlIGluIHNldHRpbmdzLk1JTkVSUy52YWx1ZXMoKV0K</text>
+        <text encoding="base64">CiAgICAgICAgaW5zdGFsbF9rd2FyZ3MgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
