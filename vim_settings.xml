@@ -565,6 +565,10 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/make" timestamp="1516040479840">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="33" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="17" />
@@ -1194,13 +1198,6 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" timestamp="1515419747734">
-        <mark key="'" line="51" column="17" />
-        <mark key="[" line="52" column="81" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="50" column="48" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="3" column="8" />
@@ -1406,6 +1403,12 @@
         <mark key="]" line="10" column="81" />
         <mark key="." line="10" column="81" />
         <mark key="^" line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/barrenero-miner/ether.cfg.jinja2" timestamp="1516041060153">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/static/scss/home.scss" timestamp="1467368490694">
         <mark key="[" line="314" column="0" />
@@ -1701,6 +1704,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/barrenero-miner/nvidia/setup.cfg.jinja2" timestamp="1516040800842">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511908134776">
         <mark key="[" line="23" column="63" />
@@ -2028,11 +2036,11 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1507581508241">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="11" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516041291332">
+        <mark key="[" line="201" column="20" />
+        <mark key="]" line="201" column="12" />
+        <mark key="." line="201" column="12" />
+        <mark key="^" line="201" column="73" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/package.json" timestamp="1515082082021">
         <mark key="[" line="2" column="19" />
@@ -2397,46 +2405,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVsdGFzID0gWyh4MlswXSAtIHgxWzBdKS5zZWNvbmRzIDwgc2V0dGluZ3MuRVRIRVJfTUFYX0lETEUgZm9yIHgxLCB4MiBpbiB6aXAodmFsdWVzWzotMV0sIHZhbHVlc1sxOl0pXQ==</text>
+        <text encoding="base64">IHlvdSB3YW50IHRvIGluc3RhbGwgTnZpZGlhIE92ZXJjbG9jayBzZXJ2aWNl</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWluZXJzIA==</text>
+        <text encoding="base64">IHlvdSB3YW50IHRvIGluc3RhbGwgTnZpZGlhIE92ZXJjbG9jayBzZXJ2aWNl</text>
       </register>
       <register name="/" type="4">
         <text>, 'recipe'</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVsdGFzID0gWyh4MlswXSAtIHgxWzBdKS5zZWNvbmRzIDwgc2V0dGluZ3MuRVRIRVJfTUFYX0lETEUgZm9yIHgxLCB4MiBpbiB6aXAodmFsdWVzWzotMV0sIHZhbHVlc1sxOl0pXQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2NsaScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
+        <text encoding="base64">ICAgIGVtYWlsID0gZGVmYXVsdF9pbnB1dCgnSW50cm9kdWNlIHlvdXIgZW1haWwnLCBkZWZhdWx0PSd5b3VyQGVtYWlsLmNvbScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMudXBkYXRlKFt7J25hbWUnOiB2LCAnc3RhdHVzJzogJ2FjdGl2ZSd9IGZvciBzIGluIHNlcnZpY2VzXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnMgPSBbeyduYW1lJzogc2VydmljZSwgJ3N0YXR1cyc6ICdpbmFjdGl2ZSd9IGZvciBzZXJ2aWNlIGluIHNldHRpbmdzLk1JTkVSUy52YWx1ZXMoKV0K</text>
+      <register name="3" type="4">
+        <text>{%- if nvidia -%}
+[nvidia]
+graphic_cards = {{ nvidia|join(',') }}
+compute_mode = 0
+persistent_mode = 1
+max_power = 100
+{% for i in nvidia %}
+[nvidia:{{ i }}]
+powermizer_mode = 1
+graphics_clock_offset = 100
+memory_transfer_rate_offset = 700
+fan_control = 1
+fan_speed = 80
+{% endfor %}
+{% endif -%}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5lcnNfc3RhdHVzID0gCg==</text>
+        <text encoding="base64">W2V0aGVyXQpiaW4gPSBldGhtaW5lcgphcmdzID0gLVUgLS1jdWRhLXBhcmFsbGVsLWhhc2ggNCAtLWZhcm0tcmVjaGVjayAyMDAKcG9vbF9wcmltYXJ5ID0gZXRoLWV1MS5uYW5vcG9vbC5vcmc6OTk5OQpwb29sX3NlY29uZGFyeSA9IGV0aC1ldTIubmFub3Bvb2wub3JnOjk5OTkKd2FsbGV0ID0gMHg1NjZkNDFiOTI1ZWQxZDlmNjQzNzQ4ZDY1MmY0ZTY2NTkzY2JhOWM5CndvcmtlciA9IFdvcmtlck5hbWUKZW1haWwgPSB5b3VAZW1haWwuY29tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHNlcnZpY2VzCg==</text>
+        <text encoding="base64">eyUgZW5kaWYgLSV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
+        <text encoding="base64">eyUtIGlmIG52aWRpYSAtJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZV9uYW1lLCBzZXJ2aWNlIGluIHNldHRpbmdzLlNZU1RFTURfU0VSVklDRVMuaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgIGZsYWdzLmFwcGVuZCgnLXYgL3J1bi9zeXN0ZW1kOi9ydW4vc3lzdGVtZCcpCiAgICBmbGFncy5hcHBlbmQoJy12IC9iaW4vc3lzdGVtY3RsOi9iaW4vc3lzdGVtY3RsJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnMudXBkYXRlKFt7J25hbWUnOiB2LCAnc3RhdHVzJzogJ2FjdGl2ZSd9IGZvciBzIGluIHNlcnZpY2VzXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyX2Zvcm1hdCA9ICd7eyJuYW1lIjogInt7e3suTmFtZXN9fX19IiwgInN0YXR1cyI6ICJhY3RpdmUifX0nCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5lcnMgPSBbeyduYW1lJzogc2VydmljZSwgJ3N0YXR1cyc6ICdpbmFjdGl2ZSd9IGZvciBzZXJ2aWNlIGluIHNldHRpbmdzLk1JTkVSUy52YWx1ZXMoKV0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
