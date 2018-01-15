@@ -841,9 +841,9 @@
         <mark key="." line="1" column="45" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/README.rst" timestamp="1509122321279">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="54" column="46" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/README.rst" timestamp="1516049395546">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="112" />
         <mark key="^" line="36" column="107" />
         <mark key="." line="36" column="27" />
       </file>
@@ -1082,6 +1082,12 @@
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/dockerfiles/nvidia/Dockerfile" timestamp="1516050152460">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="48" column="3" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/index.android.js" timestamp="1504439044732">
         <mark key="[" line="5" column="21" />
@@ -1370,8 +1376,8 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_nvidia.py" timestamp="1504736994756">
-        <mark key="[" line="0" column="22" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_nvidia.py" timestamp="1516049538827">
+        <mark key="[" line="21" column="17" />
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
         <mark key="^" line="18" column="32" />
@@ -1434,11 +1440,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1507477468595">
-        <mark key="[" line="10" column="110" />
-        <mark key="]" line="10" column="109" />
-        <mark key="^" line="10" column="109" />
-        <mark key="." line="10" column="109" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1516049410009">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="104" />
+        <mark key="^" line="41" column="20" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/v1.py" timestamp="1513641229550">
         <mark key="[" line="3" column="11" />
@@ -1493,11 +1499,10 @@
         <mark key="." line="78" column="46" />
         <mark key="^" line="77" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1513638839127">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/Dockerfile" timestamp="1516050200529">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/base.py" timestamp="1504952907783">
         <mark key="[" line="0" column="0" />
@@ -1754,6 +1759,12 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/miner/nvidia.cfg.j2" timestamp="1516048833220">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1507904937076">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -1802,6 +1813,11 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/run_ether.py" timestamp="1516049498020">
+        <mark key="[" line="99" column="95" />
+        <mark key="]" line="99" column="95" />
+        <mark key="." line="99" column="95" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1514075155025">
         <mark key="[" line="73" column="61" />
         <mark key="]" line="73" column="62" />
@@ -1812,12 +1828,6 @@
         <mark key="]" line="130" column="7" />
         <mark key="^" line="130" column="7" />
         <mark key="." line="130" column="7" />
-      </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" timestamp="1515689561182">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/js/topics_best_segments.js" timestamp="1465662897670">
         <mark key="[" line="12" column="71" />
@@ -2032,13 +2042,13 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516047828345">
-        <mark key="'" line="307" column="0" />
-        <mark key="i" line="283" column="16" />
-        <mark key="[" line="243" column="53" />
-        <mark key="]" line="243" column="53" />
-        <mark key="." line="243" column="53" />
-        <mark key="^" line="241" column="3" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516048933489">
+        <mark key="'" line="183" column="60" />
+        <mark key="i" line="292" column="16" />
+        <mark key="[" line="163" column="94" />
+        <mark key="]" line="163" column="94" />
+        <mark key="." line="163" column="94" />
+        <mark key="^" line="183" column="60" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/package.json" timestamp="1515082082021">
         <mark key="[" line="2" column="19" />
@@ -2300,9 +2310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="12" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
-      <jump line="97" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="31" column="39" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
       <jump line="54" column="20" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
       <jump line="2" column="7" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
@@ -2400,52 +2407,55 @@
       <jump line="43" column="4" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
       <jump line="234" column="44" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
       <jump line="274" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="272" column="35" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="48" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="183" column="60" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGVtcGxhdGUgaW4gb3MubGlzdGRpcihvcy5wYXRoLmpvaW4oUEFUSCwgJ3RlbXBsYXRlcycsIHNlcnZpY2UpKToKICAgICAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihjb25maWdbJ2NvbW1vbiddWydwYXRoJ10sIHNlcnZpY2UsIHRlbXBsYXRlKSwgJ3cnKSBhcyBmOgogICAgICAgICAgICAgICAgZi53cml0ZShqMl9lbnYuZ2V0X3RlbXBsYXRlKG9zLnBhdGguam9pbihzZXJ2aWNlLCB0ZW1wbGF0ZSkpLnJlbmRlcihjb25maWcpKQo=</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyogXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnbWluZXInIGluIGt3YXJnc1snc2VydmljZSddOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsb2dzJzogb3MucGF0aC4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqMl9lbnYgPSBqaW5qYTIuRW52aXJvbm1lbnQobG9hZGVyPWppbmphMi5GaWxlU3lzdGVtTG9hZGVyKG9zLnBhdGguam9pbihQQVRILCAndGVtcGxhdGVzJykpKQogICAgICAgIGZvciBzZXJ2aWNlIGluIFtTRVJWSUNFU1trXSBmb3IgayBpbiBjb25maWcgaWYgayBpbiBTRVJWSUNFU106CiAgICAgICAgICAgIGZvciB0ZW1wbGF0ZSBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihQQVRILCAndGVtcGxhdGVzJywgc2VydmljZSkpOgogICAgICAgICAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihrd2FyZ3NbJ3BhdGgnXSwgc2VydmljZSwgdGVtcGxhdGUpLCAndycpIGFzIGY6CiAgICAgICAgICAgICAgICAgICAgZi53cml0ZShqMl9lbnYuZ2V0X3RlbXBsYXRlKG9zLnBhdGguam9pbihzZXJ2aWNlLCB0ZW1wbGF0ZSkpLnJlbmRlcihjb25maWcpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbY21kXQogICAgZm9yIHNlcnZpY2UgaW4ga3dhcmdzWydzZXJ2aWNlJ106CiAgICAgICAgcmVzdGFydF9zZXJ2aWNlKHNlcnZpY2UsIGt3YXJnc1sncGF0aCddKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLS1wYXRoJywpLCB7J2hlbHAnOiAnQmFycmVuZXJvIGZ1bGwgcGF0aCcsICdkZWZhdWx0JzogJy91c3IvbG9jYWwvbGliJ30pLCksCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9wYXNzZW5nZXIubGlzdCBcCiAgICAgICAgL3Zhci90bXAvKiBcCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyogXAogICAgICAgIC90bXAvKiBcCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBDbGVhbiB1cApSVU4gYXB0LWdldCBjbGVhbiAmJiBcCiAgICBhcHQtZ2V0IHB1cmdlIC0tYXV0by1yZW1vdmUgLXkgXAogICAgICAgIGJ1aWxkLWVzc2VudGlhbCBcCiAgICAgICAgYXB0LXRyYW5zcG9ydC1odHRwcyBcCiAgICAgICAgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24gXAogICAgICAgIGNtYWtlICYmIFwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyBJbnN0YWxsIHB5dGhvbjMuNgpSVU4gYWRkLWFwdC1yZXBvc2l0b3J5IC15IHBwYTpqb25hdGhvbmYvcHl0aG9uLTMuNiAmJiBcCiAgICBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgLXkgcHl0aG9uMy42IHB5dGhvbjMtcGlwCg==</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhZi9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2493,7 +2503,6 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2RlbHRhL3JlcHV0YXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RlbHRhL3ZlcnNpb24vZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvdmVyc2lvbi9n</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</entry>
         <entry>wq</entry>
@@ -2501,6 +2510,7 @@
         <entry encoding="base64">JzwsJz5zL2FwaS9taW5lci9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhbS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS90ZWxlZ3JhZi9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
