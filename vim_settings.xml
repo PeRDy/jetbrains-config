@@ -209,6 +209,9 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/barrenero-miner/nvidia.cfg.jinja2" timestamp="1516044337705">
+        <mark key="[" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/.dockerignore" timestamp="1511821820090">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="8" column="9" />
@@ -278,13 +281,6 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1515684888228">
-        <mark key="'" line="282" column="0" />
-        <mark key="[" line="138" column="9" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="129" column="9" />
-        <mark key="." line="140" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="18" />
@@ -338,6 +334,9 @@
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/barrenero-telegraf/setup.cfg.jinja2" timestamp="1516043708023">
+        <mark key="[" line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Honors.vue" timestamp="1505985090107">
         <mark key="[" line="66" column="48" />
         <mark key="]" line="28" column="33" />
@@ -382,13 +381,6 @@
         <mark key="]" line="117" column="30" />
         <mark key="." line="117" column="30" />
         <mark key="^" line="117" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" timestamp="1515510324783">
-        <mark key="'" line="131" column="7" />
-        <mark key="[" line="158" column="28" />
-        <mark key="]" line="158" column="33" />
-        <mark key="." line="158" column="33" />
-        <mark key="^" line="158" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -748,13 +740,6 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/storj.py" timestamp="1515419269983">
-        <mark key="'" line="115" column="21" />
-        <mark key="[" line="113" column="61" />
-        <mark key="]" line="113" column="61" />
-        <mark key="^" line="114" column="19" />
-        <mark key="." line="113" column="61" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="29" column="0" />
@@ -937,6 +922,11 @@
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
         <mark key="^" line="35" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/barrenero-api/setup.cfg.jinja2" timestamp="1516044371833">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/SkillList.vue" timestamp="1498583281216">
         <mark key="[" line="6" column="16" />
@@ -1404,8 +1394,8 @@
         <mark key="." line="10" column="81" />
         <mark key="^" line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/barrenero-miner/ether.cfg.jinja2" timestamp="1516041060153">
-        <mark key="[" line="5" column="28" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/templates/barrenero-miner/ether.cfg.jinja2" timestamp="1516044331293">
+        <mark key="[" line="6" column="13" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="27" />
@@ -2036,12 +2026,13 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516042609911">
-        <mark key="i" line="226" column="16" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="24" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="199" column="3" />
+      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1516044492407">
+        <mark key="'" line="214" column="15" />
+        <mark key="i" line="246" column="16" />
+        <mark key="[" line="255" column="35" />
+        <mark key="]" line="255" column="12" />
+        <mark key="." line="255" column="12" />
+        <mark key="^" line="236" column="8" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/package.json" timestamp="1515082082021">
         <mark key="[" line="2" column="19" />
@@ -2303,8 +2294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="9" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="170" column="50" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="177" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="178" column="2" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="86" column="4" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
@@ -2403,77 +2392,67 @@
       <jump line="267" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" />
       <jump line="12" column="4" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" />
+      <jump line="236" column="37" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
+      <jump line="208" column="15" filename="$USER_HOME$/Desarrollo/barrenero/barrenero/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1snbWluZXInXSA9IHt9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>settings</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>settings</text>
       </register>
       <register name="/" type="4">
-        <text>, 'recipe'</text>
+        <text encoding="base64">ID0=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ1snbWluZXInXSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ1sndGVsZWdyYW0nXSA9IHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3RfdG9rZW4gPSBpbnB1dCgnUmVnaXN0ZXIgeW91ciBib3QgaW4gVGVsZWdyYW0gKGh0dHBzOi8vY29yZS50ZWxlZ3JhbS5vcmcvYm90cyNjcmVhdGluZy1hLW5ldy1ib3QpIGFuZCAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ludHJvZHVjZSB0aGUgdG9rZW4gZ2VuZXJhdGVkOiAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3NlcnZpY2UoJ2FwaScsIHBhdGg9YmFycmVuZXJvX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3NlcnZpY2UoJ3RlbGVncmFmJywgYmFycmVuZXJvX2FwaV90b2tlbiwgaW5mbHV4ZGJfdXJsLCBpbmZsdXhkYl9kYXRhYmFzZSwgKippbnN0YWxsX2t3YXJncykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbmZsdXhkYl9wYXNzd29yZCc6IGluZmx1eGRiX3Bhc3N3b3JkLAogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFsbF9rd2FyZ3MudXBkYXRlKHsKICAgICAgICAgICAgICAgICdpbmZsdXhkYl91c2VybmFtZSc6IGluZmx1eGRiX3VzZXJuYW1lLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgaW5mbHV4ZGJfdXNlcm5hbWU6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>config['miner'] = {}
-
-        if bool_input('Do you want to install Nvidia Overclock service?'):
-            config['miner']['nvidia'] = default_input('Which Nvidia graphics card want to overclock?', default='0,1,2')
-
-        if bool_input('Do you want to install Ether Miner?'):
-            config['miner']['ether'] = {
-                'worker', default_input('Worker name', default='Barrenero')
-            }
-            
-        print('If you want to user Storj miner, put your node config in {}'.format(
-            os.path.join(barrenero_path, 'barrenero-miner', 'storj.json')))</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsX2t3YXJncyA9IHsKICAgICAgICAgICAgJ3BhdGgnOiBiYXJyZW5lcm9fcGF0aCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudmlkaWE6CiAgICAgICAgICAgIGluc3RhbGxfa3dhcmdzWydudmlkaWEnXSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWxsX3NlcnZpY2UoJ3RlbGVncmFtJywgYm90X3Rva2VuLCBwYXRoPWJhcnJlbmVyb19wYXRoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BhdGgnOiBiYXJyZW5lcm9fcGF0aAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaW5zdGFsbF9rd2FyZ3MgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnaW5mbHV4ZGJfdXNlcm5hbWUnOiBpbnB1dCgnSW5mbHV4REIgVXNlcm5hbWUnKSwKICAgICAgICAnaW5mbHV4ZGJfcGFzc3dvcmQnOiBpbnB1dCgnSW5mbHV4REIgUGFzc3dvcmQnKSwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zLyA9Lyc6L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>, 'recipe'</last-search>
+      <last-search encoding="base64">ID0=</last-search>
       <last-offset />
-      <last-pattern>, 'recipe'</last-pattern>
-      <last-replace />
-      <last-substitute>, 'recipe'</last-substitute>
+      <last-pattern encoding="base64">ID0=</last-pattern>
+      <last-replace>':</last-replace>
+      <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self\(, \)</entry>
         <entry>self\(, \)?</entry>
         <entry>self\(, \)\?</entry>
         <entry>schedule</entry>
@@ -2493,9 +2472,9 @@
         <entry>trazabilidad</entry>
         <entry>delta</entry>
         <entry>response_time</entry>
+        <entry encoding="base64">ID0=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/self\(, \)\?//g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
@@ -2515,6 +2494,7 @@
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvdmVyc2lvbi9n</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RpbWUvcmVwdXRhdGlvbi9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLyA9Lyc6L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
