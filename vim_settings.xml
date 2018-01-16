@@ -21,9 +21,6 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1516100265082">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="27" />
@@ -256,9 +253,6 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/admin/__init__.py" timestamp="1515686190799">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/gurumelo/.gitlab-ci.yml" timestamp="1508631411980">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="6" column="37" />
@@ -422,17 +416,11 @@
         <mark key="." line="130" column="22" />
         <mark key="^" line="129" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1515687663927">
-        <mark key="[" line="28" column="74" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/core/flights_task.py" timestamp="1511825872173">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="12" />
         <mark key="^" line="29" column="12" />
         <mark key="." line="29" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/uwsgi.ini" timestamp="1515158559645">
-        <mark key="[" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero/lib/nvidia_tuning.py" timestamp="1516099907419">
         <mark key="[" line="54" column="71" />
@@ -469,6 +457,11 @@
         <mark key="." line="109" column="40" />
         <mark key="^" line="109" column="40" />
       </file>
+      <file name="$USER_HOME$/Development/souft/huerteo/huerteo-api/requirements.txt" timestamp="1516118523482">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/scss/base.scss" timestamp="1499272542532">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="31" />
@@ -504,9 +497,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1516025457419">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
         <mark key="[" line="12" column="25" />
@@ -662,9 +652,6 @@
         <mark key="^" line="67" column="13" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/scoring.py" timestamp="1515496019011">
-        <mark key="[" line="32" column="44" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
@@ -742,8 +729,9 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1515670272177">
-        <mark key="[" line="22" column="19" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1516118521982">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
@@ -971,10 +959,9 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/production.py" timestamp="1515685608376">
-        <mark key="[" line="43" column="56" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/production.py" timestamp="1516118596277">
+        <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
-        <mark key="^" line="45" column="8" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/__init__.py" timestamp="1514480183870">
@@ -1674,9 +1661,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisord.cfg" timestamp="1515000773080">
-        <mark key="[" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" timestamp="1511832859497">
         <mark key="[" line="27" column="28" />
@@ -2393,9 +2377,6 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/public/manifest.json" timestamp="1515082402228">
-        <mark key="[" line="2" column="35" />
-      </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/Dockerfile" timestamp="1516113284217">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="37" />
@@ -2524,7 +2505,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoJ0pvc8OpIEFudG9uaW8gUGVyZGlndWVybyBMw7NwZXonLCAncGVyZHkuaGhAZ21haWwuY29tJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2536,34 +2517,34 @@
         <text>telegram</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnREVGQVVMVF9SRU5ERVJFUl9DTEFTU0VTJzogKAogICAgICAgICAgICAncmVzdF9mcmFtZXdvcmsucmVuZGVyZXJzLkpTT05SZW5kZXJlcicsCiAgICAgICAgKSwK</text>
+        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1qd3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJ0pvc8OpIEFudG9uaW8gUGVyZGlndWVybyBMw7NwZXonLCAncGVyZHkuaGhAZ21haWwuY29tJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnJlbmRlcmVycy5KU09OUmVuZGVyZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICBjbHMuUkVTVF9GUkFNRVdPUktbJ0RFRkFVTFRfUkVOREVSRVJfQ0xBU1NFUyddID0gKAogICAgICAgICAgICAncmVzdF9mcmFtZXdvcmsucmVuZGVyZXJzLkpTT05SZW5kZXJlcicsCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoJ0pvc8OpIEFudG9uaW8gUGVyZGlndWVybyBMw7NwZXonLCAncGVyZHkuaGhAZ21haWwuY29tJyksCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnJlbmRlcmVycy5KU09OUmVuZGVyZXInLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5yZW5kZXJlcnMuSlNPTlJlbmRlcmVyJywKICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5yZW5kZXJlcnMuQnJvd3NhYmxlQVBJUmVuZGVyZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnJlbmRlcmVycy5KU09OUmVuZGVyZXInLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSwKICAgICAgICAgICAgJ0RFRkFVTFRfUkVOREVSRVJfQ0xBU1NFUyc6ICgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbi5Ub2tlbkF1dGhlbnRpY2F0aW9uJywKICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbi5TZXNzaW9uQXV0aGVudGljYXRpb24nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5yZW5kZXJlcnMuSlNPTlJlbmRlcmVyJywKICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5yZW5kZXJlcnMuQnJvd3NhYmxlQVBJUmVuZGVyZXInLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMuUkVTVF9GUkFNRVdPUksgPSB7CiAgICAgICAgICAgICdERUZBVUxUX0FVVEhFTlRJQ0FUSU9OX0NMQVNTRVMnOiAoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSwKICAgICAgICAgICAgJ0RFRkFVTFRfUkVOREVSRVJfQ0xBU1NFUyc6ICgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
