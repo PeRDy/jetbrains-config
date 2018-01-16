@@ -1815,11 +1815,12 @@
         <mark key="^" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" timestamp="1516133088475">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="40" />
-        <mark key="^" line="79" column="10" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" timestamp="1516135934046">
+        <mark key="'" line="98" column="20" />
+        <mark key="[" line="75" column="10" />
+        <mark key="]" line="75" column="32" />
+        <mark key="." line="75" column="10" />
+        <mark key="^" line="60" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/ExperienceList.vue" timestamp="1500385502901">
         <mark key="[" line="45" column="9" />
@@ -2265,11 +2266,11 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1516132916699">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="21" column="80" />
-        <mark key="^" line="21" column="80" />
-        <mark key="." line="21" column="80" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1516133972762">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/index.js" timestamp="1515612636359">
         <mark key="[" line="4" column="32" />
@@ -2303,8 +2304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="12" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
-      <jump line="97" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="31" column="39" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
       <jump line="54" column="20" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/flights.py" />
@@ -2403,52 +2402,54 @@
       <jump line="104" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="94" column="16" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="82" column="15" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
+      <jump line="4" column="37" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
+      <jump line="95" column="20" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDYXJkVGl0bGU+SHVlcnRlbzwvQ2FyZFRpdGxlPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGtleT0icmVnaXN0ZXItY2hhbmdlIg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IGtleT0icmVnaXN0ZXItY2hhbmdlIg==</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7IHRoaXMucmVuZGVyTG9naW4oKSB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgPENhcmQ+CiAgICAgICAgPENhcmRCb2R5PgogICAgICAgICAgPENhcmRUaXRsZT5IdWVydGVvPC9DYXJkVGl0bGU+CiAgICAgICAgICA8Rm9ybT4KICAgICAgICAgICAgPEZvcm1Hcm91cD4KICAgICAgICAgICAgICA8TGFiZWwgZm9yPSJlbWFpbCI+RW1haWw8L0xhYmVsPgogICAgICAgICAgICAgIDxJbnB1dCB0eXBlPSJlbWFpbCIgbmFtZT0iZW1haWwiIGlkPSJlbWFpbCIgcGxhY2Vob2xkZXI9InR1QGVtYWlsLmNvbSIgLz4KICAgICAgICAgICAgPC9Gb3JtR3JvdXA+CiAgICAgICAgICAgIDxGb3JtR3JvdXA+CiAgICAgICAgICAgICAgPExhYmVsIGZvcj0icGFzc3dvcmQiPkNvbnRyYXNlw7FhPC9MYWJlbD4KICAgICAgICAgICAgICA8SW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9InBhc3N3b3JkIiBpZD0icGFzc3dvcmQiIHBsYWNlaG9sZGVyPSJDb250cmFzZcOxYSIgLz4KICAgICAgICAgICAgPC9Gb3JtR3JvdXA+CiAgICAgICAgICAgIDxCdXR0b24gY2xhc3NOYW1lPSJmbG9hdC1yaWdodCI+UmVnaXN0cmFyc2U8L0J1dHRvbj4KICAgICAgICAgIDwvRm9ybT4KICAgICAgICA8L0NhcmRCb2R5PgogICAgICA8L0NhcmQ+LAogICAgICA8Q2FyZD4KICAgICAgICA8Q2FyZEJvZHk+CiAgICAgICAgICDCv1RpZW5lcyB1bmEgY3VlbnRhPyA8YSBvbkNsaWNrPXt0aGlzLm9uTW9kZUNoYW5nZSgnbG9naW4nKX0+RW50cmFyPC9hPgogICAgICAgIDwvQ2FyZEJvZHk+CiAgICAgIDwvQ2FyZD4s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDYXJkVGl0bGU+SHVlcnRlbzwvQ2FyZFRpdGxlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L1Jvdz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5hdiB0YWJzPgogICAgICAgICAgICAgIDxOYXZJdGVtPgogICAgICAgICAgICAgICAgPE5hdkxpbmsKICAgICAgICAgICAgICAgICAgYWN0aXZlPXt0aGlzLnByb3BzLnRhYlNlbGVjdGVkID09PSAnMSd9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMub25UYWJDaGFuZ2UoJzEnKX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgQWNjZWRlcgogICAgICAgICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICAgICAgIDwvTmF2SXRlbT4KICAgICAgICAgICAgICA8TmF2SXRlbT4KICAgICAgICAgICAgICAgIDxOYXZMaW5rCiAgICAgICAgICAgICAgICAgIGFjdGl2ZT17dGhpcy5wcm9wcy50YWJTZWxlY3RlZCA9PT0gJzInfQogICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLm9uVGFiQ2hhbmdlKCcyJyl9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIFJlZ2lzdHJhcnNlCiAgICAgICAgICAgICAgICA8L05hdkxpbms+CiAgICAgICAgICAgICAgPC9OYXZJdGVtPgogICAgICAgICAgICA8L05hdj4K</text>
+        <text encoding="base64">ICAgICAgICA8Um93Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5hdiB0YWJzPgogICAgICAgICAgICAgIDxOYXZJdGVtPgogICAgICAgICAgICAgICAgPE5hdkxpbmsKICAgICAgICAgICAgICAgICAgYWN0aXZlPXt0aGlzLnByb3BzLnRhYlNlbGVjdGVkID09PSAnMSd9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMub25UYWJDaGFuZ2UoJzEnKX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgQWNjZWRlcgogICAgICAgICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICAgICAgIDwvTmF2SXRlbT4KICAgICAgICAgICAgICA8TmF2SXRlbT4KICAgICAgICAgICAgICAgIDxOYXZMaW5rCiAgICAgICAgICAgICAgICAgIGFjdGl2ZT17dGhpcy5wcm9wcy50YWJTZWxlY3RlZCA9PT0gJzInfQogICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB0aGlzLm9uVGFiQ2hhbmdlKCcyJyl9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIFJlZ2lzdHJhcnNlCiAgICAgICAgICAgICAgICA8L05hdkxpbms+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17c3R5bGVzLmNhcmR9PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy50b2dnbGUoJzInKTsKICAgICAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3NuYW1lcyh7IGFjdGl2ZTogdGhpcy5zdGF0ZS5hY3RpdmVUYWIgPT09ICcyJyB9KX0KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy5tb2RlU2VsZWN0ZWQgPT09ICdsb2dpbicgJiYgdGhpcy5yZW5kZXJMb2dpbigpfQogICAgICAgIHt0aGlzLnByb3BzLm1vZGVTZWxlY3RlZCA9PT0gJ3JlZ2lzdGVyJyAmJiB0aGlzLnJlbmRlclJlZ2lzdGVyKCl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3NuYW1lcyh7IGFjdGl2ZTogdGhpcy5zdGF0ZS5hY3RpdmVUYWIgPT09ICcxJyB9KX0K</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvcFR5cGVzIH0gZnJvbSAncHJvcC10eXBlcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17dGhpcy5wcm9wcy5jbGFzc2VzLnRleHRGaWVsZH0KICAgICAgICAvPgogICAgICA8L0dyaWQ+LAogICAgICA8R3JpZCBpdGVtIGNvbnRhaW5lciBqdXN0aWZ5PSJmbGV4LWVuZCIgYWxpZ249ImZsZXgtZW5kIiBrZXk9InJlZ2lzdGVyLWJ1dHRvbiI+CiAgICAgICAgPEdyaWQgaXRlbT4KICAgICAgICAgIDxCdXR0b24gcmFpc2VkIGNvbG9yPSJwcmltYXJ5Ij4KICAgICAgICAgICAgUmVnaXN0cmFyc2UKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvR3JpZD4KICAgICAgPC9HcmlkPiwKICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0iZmxvYXQtcmlnaHQiPkFjY2VkZXI8L0J1dHRvbj4KICAgICAgPC9Gb3JtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbCiAgICAgIDxHcmlkIGl0ZW0geHM9ezEyfSBrZXk9InJlZ2lzdGVyLXVzZXIiPgogICAgICAgIDxUZXh0RmllbGQKICAgICAgICAgIGlkPSJ1c2VyIgogICAgICAgICAgbGFiZWw9IlVzdWFyaW8iCiAgICAgICAgICBtYXJnaW49Im5vcm1hbCIKICAgICAgICAgIGNsYXNzTmFtZT17dGhpcy5wcm9wcy5jbGFzc2VzLnRleHRGaWVsZH0KICAgICAgICAvPgogICAgICA8L0dyaWQ+LAogICAgICA8R3JpZCBpdGVtIHhzPXsxMn0ga2V5PSJyZWdpc3Rlci1wYXNzd29yZCI+CiAgICAgICAgPFRleHRGaWVsZAogICAgICAgICAgaWQ9InBhc3N3b3JkIgogICAgICAgICAgbGFiZWw9IkNvbnRyYXNlw7FhIgogICAgICAgICAgdHlwZT0icGFzc3dvcmQiCiAgICAgICAgICBhdXRvQ29tcGxldGU9ImN1cnJlbnQtcGFzc3dvcmQiCiAgICAgICAgICBtYXJnaW49Im5vcm1hbCIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxJbnB1dCB0eXBlPSJwYXNzd29yZCIgbmFtZT0icGFzc3dvcmQiIGlkPSJwYXNzd29yZCIgcGxhY2Vob2xkZXI9IkNvbnRyYXNlw7FhIiAvPgogICAgICAgIDwvRm9ybUdyb3VwPgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzEvMi9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2500,10 +2501,10 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3JkL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
