@@ -946,12 +946,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/barrenero/barrenero/make" timestamp="1516103550116">
-        <mark key="'" line="208" column="8" />
-        <mark key="[" line="112" column="38" />
-        <mark key="]" line="112" column="38" />
-        <mark key="^" line="111" column="79" />
-        <mark key="." line="112" column="38" />
+      <file name="$USER_HOME$/Development/barrenero/barrenero/make" timestamp="1516109200534">
+        <mark key="'" line="213" column="39" />
+        <mark key="[" line="191" column="68" />
+        <mark key="]" line="191" column="80" />
+        <mark key="." line="191" column="80" />
+        <mark key="^" line="191" column="80" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/topic_by_channel.html" timestamp="1465661970282">
         <mark key="[" line="19" column="0" />
@@ -2125,6 +2125,12 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="12" />
       </file>
+      <file name="$USER_HOME$/Development/barrenero/barrenero/templates/config/api/setup.cfg.j2" timestamp="1516109341630">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/make" timestamp="1507581508241">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="27" column="11" />
@@ -2413,8 +2419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="1" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
-      <jump line="36" column="12" filename="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" />
       <jump line="97" column="3" filename="$USER_HOME$/Desarrollo/knockout-assignment/.gitignore" />
       <jump line="31" column="39" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/fixtures.py" />
@@ -2513,67 +2517,67 @@
       <jump line="8" column="1" filename="$USER_HOME$/Development/barrenero/barrenero-telegraf/templates/setup.cfg.jinja2" />
       <jump line="61" column="0" filename="$USER_HOME$/Development/barrenero/barrenero/make" />
       <jump line="201" column="8" filename="$USER_HOME$/Development/barrenero/barrenero/make" />
+      <jump line="196" column="94" filename="$USER_HOME$/Development/barrenero/barrenero/make" />
+      <jump line="202" column="39" filename="$USER_HOME$/Development/barrenero/barrenero/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>os.path.splitext(template)[0]</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWluZXIg</text>
+        <text>os.path.splitext(template)[0]</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>telegram</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0b3JhZ2UnOiBkZWZhdWx0X2lucHV0KCdTdG9yYWdlIHBhdGgnLCBkZWZhdWx0PScvc3RvcmFnZS9zdG9yai8nKSwgCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oY29uZmlnWydjb21tb24nXVsncGF0aCddLCAnYXBpJyksIGV4aXN0X29rPVRydWUpCiAgICAgICAgZm9yIHRlbXBsYXRlIGluIG9zLmxpc3RkaXIob3MucGF0aC5qb2luKFBBVEgsICd0ZW1wbGF0ZXMnLCAnY29uZmlnJywgJ2FwaScpKToKICAgICAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihjb25maWdbJ2NvbW1vbiddWydwYXRoJ10sICdhcGknLCBvcy5wYXRoLnNwbGl0ZXh0KHRlbXBsYXRlKVswXSksICd3JykgYXMgZjoKICAgICAgICAgICAgICAgIGYud3JpdGUoajJfZW52LmdldF90ZW1wbGF0ZShvcy5wYXRoLmpvaW4oJ2FwaScsIHRlbXBsYXRlKSkucmVuZGVyKGNvbmZpZykpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoajJfZW52LmdldF90ZW1wbGF0ZShvcy5wYXRoLmpvaW4oc2VydmljZSwgdGVtcGxhdGUpKS5yZW5kZXIoY29uZmlnKSkKCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBhY2NvdW50KHNlbGYpOgogICAgICAgIGlmIG5vdCBzZWxmLl9hY2NvdW50OgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzZWxmLl9hY2NvdW50ID0gc2VsZi5jb25maWcuZ2V0KCdldGhlcicsICd3YWxsZXQnKQoKICAgICAgICAgICAgICAgIGlmIHNlbGYuX2FjY291bnRbOjJdICE9ICcweCc6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5fYWNjb3VudCA9ICcweCcgKyBzZWxmLl9hY2NvdW50CiAgICAgICAgICAgIGV4Y2VwdCBQZXJtaXNzaW9uRXJyb3I6CiAgICAgICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRXJyb3IoJ0Nhbm5vdCBhY2Nlc3MgdG8gd2FsbGV0IGFjY291bnQnKQoKICAgICAgICByZXR1cm4gc2VsZi5fYWNjb3VudA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgdGVtcGxhdGUgaW4gb3MubGlzdGRpcihvcy5wYXRoLmpvaW4oUEFUSCwgJ3RlbXBsYXRlcycsICdjb25maWcnLCBzZXJ2aWNlKSk6CiAgICAgICAgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oY29uZmlnWydjb21tb24nXVsncGF0aCddLCBzZXJ2aWNlLCBvcy5wYXRoLnNwbGl0ZXh0KHRlbXBsYXRlKVswXSksICd3JykgYXMgZjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnX2ZpbGVzID0gc2VsZi5jb25maWcuZ2V0KCdzdG9yaicsICdub2RlcycpCgo=</text>
+        <text encoding="base64">ICAgIGZvciBzZXJ2aWNlIGluIFtrIGZvciBrIGluIGNvbmZpZyBpZiBrIGluIFNFUlZJQ0VTXToKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oY29uZmlnWydjb21tb24nXVsncGF0aCddLCBzZXJ2aWNlKSwgZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZW1haWw6CiAgICAgICAgICAgICAgICB3b3JrZXIgKz0gZicve2VtYWlsfScK</text>
+        <text encoding="base64">ICAgICMgR2VuZXJhdGUgY29uZmlnIGZpbGVzIGZvciBtaW5lciBzZXJ2aWNlCiAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oY29uZmlnWydjb21tb24nXVsncGF0aCddLCAnbWluZXInKSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIGZvciB0ZW1wbGF0ZSBpbiBvcy5saXN0ZGlyKG9zLnBhdGguam9pbihQQVRILCAndGVtcGxhdGVzJywgJ2NvbmZpZycsICdhcGknKSk6CiAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihjb25maWdbJ2NvbW1vbiddWydwYXRoJ10sICdhcGknLCBvcy5wYXRoLnNwbGl0ZXh0KHRlbXBsYXRlKVswXSksICd3JykgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShqMl9lbnYuZ2V0X3RlbXBsYXRlKG9zLnBhdGguam9pbignYXBpJywgdGVtcGxhdGUpKS5yZW5kZXIoY29uZmlnKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWwgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ2VtYWlsJywgZmFsbGJhY2s9Tm9uZSkKICAgICAgICAgICAgd29ya2VyID0gZid7c2VsZi5hY2NvdW50fS57d29ya2VyX25hbWV9Jwo=</text>
+        <text encoding="base64">ICAgIGlmICdtaW5lcicgaW4gY29uZmlnOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9vbF9zZWNvbmRhcnkgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3Bvb2xfc2Vjb25kYXJ5JykKICAgICAgICAgICAgd29ya2VyX25hbWUgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3dvcmtlcicsIGZhbGxiYWNrPSdXb3JrZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJncyA9IHNlbGYuY29uZmlnLmdldCgnZXRoZXInLCAnYXJncycsIGZhbGxiYWNrPScnKQogICAgICAgICAgICBwb29sX3ByaW1hcnkgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3Bvb2xfcHJpbWFyeScpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBhY2NvdW50KHNlbGYpOgogICAgICAgIGlmIG5vdCBzZWxmLl9hY2NvdW50OgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzZWxmLl9hY2NvdW50ID0gc2VsZi5jb25maWcuZ2V0KCdldGhlcicsICd3YWxsZXQnKQoKICAgICAgICAgICAgICAgIGlmIHNlbGYuX2FjY291bnRbOjJdICE9ICcweCc6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5fYWNjb3VudCA9ICcweCcgKyBzZWxmLl9hY2NvdW50CiAgICAgICAgICAgIGV4Y2VwdCBQZXJtaXNzaW9uRXJyb3I6CiAgICAgICAgICAgICAgICByYWlzZSBQZXJtaXNzaW9uRXJyb3IoJ0Nhbm5vdCBhY2Nlc3MgdG8gd2FsbGV0IGFjY291bnQnKQoKICAgICAgICByZXR1cm4gc2VsZi5fYWNjb3VudA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm9kZXMgPSBzdG9yai5qc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnX2ZpbGVzID0gc2VsZi5jb25maWcuZ2V0KCdzdG9yaicsICdub2RlcycpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d29ya2VyID0ge3sgbWluZXIuZXRoZXIud29ya2VyIH19CmVtYWlsID0ge3sgY29tbW9uLmVtYWlsIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZW1haWw6CiAgICAgICAgICAgICAgICB3b3JrZXIgKz0gZicve2VtYWlsfScK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</text>
+        <text encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>telegram</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
-      <last-replace>password</last-replace>
-      <last-substitute>url</last-substitute>
+      <last-pattern>telegram</last-pattern>
+      <last-replace>api</last-replace>
+      <last-substitute>telegram</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self\(, \)\?</entry>
-        <entry>schedule</entry>
         <entry>schedule =</entry>
         <entry>every</entry>
         <entry>'.*'</entry>
@@ -2592,10 +2596,10 @@
         <entry>, 'recipe'</entry>
         <entry>SUPERUSER</entry>
         <entry>url</entry>
+        <entry>telegraf</entry>
+        <entry>telegram</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/self\(, \)\?//g</entry>
-        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
@@ -2614,6 +2618,8 @@
         <entry encoding="base64">JzwsJz5zL3VybC9kYXRhYmFzZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3VybC91c2VybmFtZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3RlbGVncmFmL3RlbGVncmFtL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
