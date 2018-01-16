@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
