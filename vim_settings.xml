@@ -283,6 +283,11 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1516118319895">
+        <mark key="[" line="157" column="4" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="18" />
@@ -555,6 +560,11 @@
         <mark key="]" line="19" column="53" />
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/Development/souft/huerteo/huerteo-api/huerteo_api/settings/base.py" timestamp="1516118266321">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="118" column="10" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/.env" timestamp="1505431462624">
         <mark key="[" line="2" column="23" />
@@ -1384,9 +1394,9 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1515671259346">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="17" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1516118046520">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="90" />
         <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero/templates/lib/nvidia_tuning.py.j2" timestamp="1516101610293">
@@ -1459,6 +1469,11 @@
         <mark key="]" line="314" column="0" />
         <mark key="^" line="311" column="17" />
         <mark key="." line="314" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/souft/huerteo/huerteo-api/huerteo_api/urls.py" timestamp="1516118048969">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="90" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/app.json" timestamp="1513606406742">
         <mark key="[" line="23" column="3" />
@@ -1785,6 +1800,12 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/souft/huerteo/huerteo-api/huerteo_api/settings/development.py" timestamp="1516118196644">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="55" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/Repository.vue" timestamp="1498432935435">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -1927,10 +1948,11 @@
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/development.py" timestamp="1515685477966">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/development.py" timestamp="1516118259772">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="55" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/storj.py" timestamp="1515416403809">
         <mark key="[" line="16" column="98" />
@@ -2501,50 +2523,50 @@
       <jump line="18" column="37" filename="$USER_HOME$/Development/barrenero/barrenero-miner/run_storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGFlbW9uX2NvbW1hbmQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAoJ0pvc8OpIEFudG9uaW8gUGVyZGlndWVybyBMw7NwZXonLCAncGVyZHkuaGhAZ21haWwuY29tJyksCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGFlbW9uX2NvbW1hbmQg</text>
+        <text>Souft</text>
       </register>
       <register name="/" type="4">
         <text>telegram</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYWVtb25fY29tbWFuZCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAnREVGQVVMVF9SRU5ERVJFUl9DTEFTU0VTJzogKAogICAgICAgICAgICAncmVzdF9mcmFtZXdvcmsucmVuZGVyZXJzLkpTT05SZW5kZXJlcicsCiAgICAgICAgKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hY2NvdW50ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAoJ0pvc8OpIEFudG9uaW8gUGVyZGlndWVybyBMw7NwZXonLCAncGVyZHkuaGhAZ21haWwuY29tJyksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VVNFUiByb290Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnJlbmRlcmVycy5KU09OUmVuZGVyZXInLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aW0gXAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">XAogICAgICAgIHB5My1waXAg</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0b3Jqc2hhcmUgLS12ZXJzaW9uCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vZGUgLS12ZXJzaW9uICYmIFwKICAgIG5wbSAtLXZlcnNpb24gJiYgXAogICAgcHl0aG9uIC0tdmVyc2lvbiAmJiBcCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vZGUgLS12ZXJzaW9uICYmIFwKICAgIG5wbSAtLXZlcnNpb24gJiYgXAogICAgcHl0aG9uIC0tdmVyc2lvbiAmJiBcCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnJlbmRlcmVycy5KU09OUmVuZGVyZXInLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKQogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5yZW5kZXJlcnMuSlNPTlJlbmRlcmVyJywKICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5yZW5kZXJlcnMuQnJvd3NhYmxlQVBJUmVuZGVyZXInLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKSwKICAgICAgICAgICAgJ0RFRkFVTFRfUkVOREVSRVJfQ0xBU1NFUyc6ICgK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbi5Ub2tlbkF1dGhlbnRpY2F0aW9uJywKICAgICAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbi5TZXNzaW9uQXV0aGVudGljYXRpb24nLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBjbGlubmVyLnJ1biBpbXBvcnQgTWFpbgo=</text>
+        <text encoding="base64">ICAgICAgICBjbHMuUkVTVF9GUkFNRVdPUksgPSB7CiAgICAgICAgICAgICdERUZBVUxUX0FVVEhFTlRJQ0FUSU9OX0NMQVNTRVMnOiAoCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2593,13 +2615,13 @@
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9kYXRhYmFzZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3VybC91c2VybmFtZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFmL3RlbGVncmFtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
