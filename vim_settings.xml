@@ -247,11 +247,19 @@
         <mark key="." line="30" column="45" />
         <mark key="^" line="31" column="51" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/2.7/alpine-3.7/Dockerfile" timestamp="1516207244103">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/runtests.py" timestamp="1488202505665">
         <mark key="[" line="24" column="96" />
         <mark key="]" line="24" column="81" />
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516206603089">
+        <mark key="[" line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
         <mark key="[" line="8" column="29" />
@@ -394,6 +402,12 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/README.rst" timestamp="1516206800517">
+        <mark key="[" line="16" column="114" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/core/urls.py" timestamp="1513880806605">
         <mark key="[" line="7" column="17" />
@@ -973,12 +987,12 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/make" timestamp="1516205580776">
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/make" timestamp="1516207707001">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="97" column="62" />
-        <mark key="]" line="98" column="57" />
-        <mark key="." line="98" column="57" />
-        <mark key="^" line="98" column="57" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/docker-compose-base.yml" timestamp="1467128616612">
         <mark key="[" line="8" column="25" />
@@ -1367,6 +1381,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/3.6/alpine-3.7/Dockerfile" timestamp="1516207248850">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="10" />
@@ -1396,8 +1415,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/templates/Dockerfile.j2" timestamp="1516188186401">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/templates/Dockerfile.j2" timestamp="1516207223704">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="70" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/Dockerfile" timestamp="1502056036019">
         <mark key="[" line="12" column="20" />
@@ -2010,10 +2030,10 @@
         <mark key="^" line="45" column="24" />
         <mark key="." line="12" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-2-alpine.j2" timestamp="1516205730043">
-        <mark key="[" line="113" column="13" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-2-alpine.j2" timestamp="1516207231161">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news_challenge/settings/base.py" timestamp="1465560194807">
         <mark key="[" line="115" column="0" />
@@ -2473,6 +2493,11 @@
         <mark key="]" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-3-alpine.j2" timestamp="1516207239335">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/.landscape.yml" timestamp="1453065976614">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="2" column="17" />
@@ -2666,7 +2691,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iSm9zw6kgQW50b25pbyBQZXJkaWd1ZXJvIDxqb3NlLnBlcmRpZ3Vlcm9AcGlrc2VsLmNvbT4iCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2678,7 +2703,7 @@
         <text>\[\(.*\)\]=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIHB5dGhvbjoyLWFscGluZQo=</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iSm9zw6kgQW50b25pbyBQZXJkaWd1ZXJvIDxqb3NlLnBlcmRpZ3Vlcm9AcGlrc2VsLmNvbT4iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
