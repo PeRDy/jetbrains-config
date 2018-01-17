@@ -312,10 +312,10 @@
         <mark key="^" line="99" column="49" />
         <mark key="." line="99" column="49" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-alpine.j2" timestamp="1516187931682">
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-alpine.j2" timestamp="1516196803850">
         <mark key="'" line="23" column="80" />
-        <mark key="[" line="98" column="23" />
-        <mark key="]" line="98" column="36" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="42" />
         <mark key="." line="98" column="36" />
         <mark key="^" line="98" column="36" />
       </file>
@@ -1056,6 +1056,12 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/pipeline.gocd.yaml" timestamp="1516196564629">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="23" column="24" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="20" column="24" />
@@ -1102,6 +1108,11 @@
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/tags.yml" timestamp="1516195434881">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
         <mark key="[" line="11" column="0" />
@@ -2434,11 +2445,11 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/make" timestamp="1516194636440">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="38" />
-        <mark key="." line="40" column="38" />
-        <mark key="^" line="40" column="38" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/make" timestamp="1516196978985">
+        <mark key="'" line="21" column="6" />
+        <mark key="[" line="46" column="68" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/.landscape.yml" timestamp="1453065976614">
         <mark key="[" line="22" column="23" />
@@ -2530,7 +2541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/fixtures.py" />
       <jump line="68" column="98" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="76" column="7" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
@@ -2630,66 +2640,66 @@
       <jump line="24" column="84" filename="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-alpine.j2" />
       <jump line="23" column="80" filename="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-alpine.j2" />
       <jump line="24" column="0" filename="$USER_HOME$/Development/piksel/dockerfiles/alpine/make" />
+      <jump line="20" column="6" filename="$USER_HOME$/Development/piksel/dockerfiles/alpine/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PYTHON</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBwcmludC5wcHJpbnQoY29tbWFuZHMpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>PYTHON</text>
+        <text encoding="base64">YnVpbGQg</text>
       </register>
       <register name="/" type="4">
-        <text>%%</text>
+        <text>jinja2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlBZVEhPTiwgcGFyc2VyX29wdHM9eydoZWxwJzogJ0dlbmVyYXRlIGEgbmV3IERvY2tlcmZpbGUnfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZHMuYXBwZW5kKHNobGV4LnNwbGl0KCdkb2NrZXIgYnVpbGQgLWYge30gLXQge30nLmZvcm1hdChkb2NrZXJmaWxlLCB0YWcpKSArIGJ1aWxkX2FyZ3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ2NsaScpCg==</text>
+        <text encoding="base64">ICAgIHBwcmludC5wcHJpbnQoY29tbWFuZHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZHMuYXBwZW5kKHNobGV4LnNwbGl0KCdkb2NrZXIgYnVpbGQgLWYge30gLXQge30nLmZvcm1hdChkb2NrZXJmaWxlLCB0YWcpKSArIGJ1aWxkX2FyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpbXBvcnRsaWIK</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kcyArPSBbCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqaW5qYTIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNpdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydGxpYi5yZWxvYWQoc2l0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpbXBvcnRsaWIK</text>
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlNIRUxMLCBwYXJzZXJfb3B0cz17J2hlbHAnOiAnUHVzaCBhbGwgRG9ja2VyZmlsZSd9KQpkZWYgYnVpbGQoKmFyZ3MsICoqa3dhcmdzKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNpdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzaXRlCg==</text>
+        <text encoding="base64">ICAgICAgLSBkZXBsb3k6CiAgICAgICAgICBjbGVhbl93b3Jrc3BhY2U6IHRydWUKICAgICAgICAgIGpvYnM6CiAgICAgICAgICAgIGRvY2tlcl9kZXBsb3k6CiAgICAgICAgICAgICAgZWxhc3RpY19wcm9maWxlX2lkOiBzbWFsbAogICAgICAgICAgICAgIHRhc2tzOgogICAgICAgICAgICAgICAgLSBleGVjOgogICAgICAgICAgICAgICAgICAgIGNvbW1hbmQ6IG1ha2UKICAgICAgICAgICAgICAgICAgICBhcmd1bWVudHM6CiAgICAgICAgICAgICAgICAgICAgICAtIGNpLWRlcGxveQogICAgICAgICAgICAgICAgICAgIHdvcmtpbmdfZGlyZWN0b3J5OiBzb3VyY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>%%</last-search>
+      <last-search>jinja2</last-search>
       <last-offset />
-      <last-pattern>%%</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>jinja2</last-pattern>
+      <last-replace>yaml</last-replace>
+      <last-substitute>jinja2</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>every</entry>
         <entry>'.*'</entry>
         <entry>self._api</entry>
         <entry>raise from</entry>
@@ -2709,9 +2719,9 @@
         <entry>telegraf</entry>
         <entry>telegram</entry>
         <entry>%%</entry>
+        <entry>jinja2</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycuKicvcmVxdWlyZShcMCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</entry>
@@ -2731,6 +2741,7 @@
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFmL3RlbGVncmFtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
