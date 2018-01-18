@@ -255,11 +255,11 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516273795849">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516275246424">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="27" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
         <mark key="[" line="8" column="29" />
@@ -978,9 +978,9 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/make" timestamp="1516271658367">
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/make" timestamp="1516274561083">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="17" column="41" />
+        <mark key="[" line="88" column="9" />
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="41" />
       </file>
@@ -2675,49 +2675,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlbGFzdGljX3Byb2ZpbGVfaWQ6IG1lZGl1bQogICAgICAgICAgICAgIHRhc2tzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LSBidWlsZDoKICAgICAgICAgIGNsZWFuX3dvcmtzcGFjZTogdHJ1ZQogICAgICAgICAgam9iczoKICAgICAgICAgICAgZG9ja2VyX2J1aWxkOgogICAgICAgICAgICAgIGVsYXN0aWNfcHJvZmlsZV9pZDogbWVkaXVtCiAgICAgICAgICAgICAgdGFza3M6CiAgICAgICAgICAgICAgICAtIGV4ZWM6CiAgICAgICAgICAgICAgICAgICAgY29tbWFuZDogL2Jpbi9zaAogICAgICAgICAgICAgICAgICAgIHdvcmtpbmdfZGlyZWN0b3J5OiBzb3VyY2UKICAgICAgICAgICAgICAgICAgICBhcmd1bWVudHM6CiAgICAgICAgICAgICAgICAgICAgICAtICItYyIKICAgICAgICAgICAgICAgICAgICAgIC0gPi0KICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIHJ1biAtdiBgcHdkYDovYXBwLyAtdyAvYXBwIHB5dGhvbjphbHBpbmUgLi9tYWtlIGJ1aWxk</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZXhlYzoKICAgICAgICAgICAgICAgICAgICBjb21tYW5kOiBweXRob24zCiAgICAgICAgICAgICAgICAgICAgd29ya2luZ19kaXJlY3Rvcnk6IHNvdXJjZQogICAgICAgICAgICAgICAgICAgIGFyZ3VtZW50czoKICAgICAgICAgICAgICAgICAgICAgIC0gLW0KICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgogICAgICAgICAgICAgICAgICAgICAgLSAuZW52CiAgICAgICAgICAgICAgICAtIGV4ZWM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlbGFzdGljX3Byb2ZpbGVfaWQ6IG1lZGl1bQogICAgICAgICAgICAgIHRhc2tzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGpvYnM6CiAgICAgICAgICAgIGRvY2tlcl9idWlsZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBidWlsZF9hbmRfcHVzaDoKICAgICAgICAgIGNsZWFuX3dvcmtzcGFjZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZXhlYzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBpcC5tYWluKFsnaW5zdGFsbCcsICctcXEnLCAnY2xpbm5lciduamEyJywgJ3B5eWFtbCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIHJ1biBkb2NrZXJmaWxlcy9weXRob246bGF0ZXN0IGJ1aWxkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbHMoKVsneWFtbCddID0gaW1wb3J0bGliLmltcG9ydF9tb2R1bGUoJ3lhbWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gIi1jIgogICAgICAgICAgICAgICAgICAgICAgLSA+LQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbHMoKVsnamluamEyJ10gPSBpbXBvcnRsaWIuaW1wb3J0X21vZHVsZSgnamluamEyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIGJ1aWxkIC10IGRvY2tlcmZpbGVzL3B5dGhvbjpsYXRlc3QgLgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqaW5qYTIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Pi0KICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIGJ1aWxkIC10IGRvY2tlcmZpbGVzL3B5dGhvbjpsYXRlc3QgLg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2759,7 +2759,6 @@
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>%s/'build'/BUILD_PATH/g</entry>
-        <entry>wq</entry>
         <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry>q</entry>
@@ -2773,6 +2772,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
