@@ -255,11 +255,10 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516275922831">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="30" column="40" />
-        <mark key="^" line="30" column="40" />
-        <mark key="." line="30" column="40" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516281291309">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
         <mark key="[" line="8" column="29" />
@@ -978,10 +977,10 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/make" timestamp="1516274561083">
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/make" timestamp="1516281522470">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="88" column="9" />
-        <mark key="]" line="17" column="41" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="45" column="14" />
         <mark key="." line="17" column="41" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/docker-compose-base.yml" timestamp="1467128616612">
@@ -1066,11 +1065,11 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/pipeline.gocd.yaml" timestamp="1516276464212">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/pipeline.gocd.yaml" timestamp="1516281324895">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
         <mark key="[" line="13" column="0" />
@@ -2477,11 +2476,11 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/make" timestamp="1516199782775">
-        <mark key="'" line="21" column="6" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/make" timestamp="1516281533286">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-3-alpine.j2" timestamp="1516207239335">
         <mark key="[" line="1" column="0" />
@@ -2675,46 +2674,82 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gY2xpbm5lci5jb21tYW5kIGltcG9ydCBjb21tYW5kLCBUeXBlIGFzIENvbW1hbmRUeXBlCiAgICBmcm9tIGNsaW5uZXIucnVuIGltcG9ydCBNYWluCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZXhlYzoKICAgICAgICAgICAgICAgICAgICBjb21tYW5kOiBweXRob24zCiAgICAgICAgICAgICAgICAgICAgd29ya2luZ19kaXJlY3Rvcnk6IHNvdXJjZQogICAgICAgICAgICAgICAgICAgIGFyZ3VtZW50czoKICAgICAgICAgICAgICAgICAgICAgIC0gLW0KICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgogICAgICAgICAgICAgICAgICAgICAgLSAuZW52CiAgICAgICAgICAgICAgICAtIGV4ZWM6Cg==</text>
+      <register name="0" type="4">
+        <text>try:
+    from clinner.command import command, Type as CommandType
+    from clinner.run import Main
+except ImportError:
+    import importlib
+    import pip
+
+    print('Installing dependencies: Clinner')
+    pip.main(['install', '-qq', 'clinner'])
+
+    globals()['clinner'] = importlib.import_module('clinner')
+    from clinner.command import command, Type as CommandType
+    from clinner.run import Main
+
+try:
+    import jinja2
+except ImportError:
+    import importlib
+    import pip
+
+    print('Installing dependencies: Jinja2')
+    pip.main(['install', '-qq', 'jinja2'])
+
+    globals()['jinja2'] = importlib.import_module('jinja2')
+    import jinja2
+
+try:
+    import yaml
+except ImportError:
+    import importlib
+    import pip
+
+    print('Installing dependencies: PyYAML')
+    pip.main(['install', '-qq', 'pyyaml'])
+
+    globals()['yaml'] = importlib.import_module('yaml')
+    import yaml</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gY2xpbm5lci5jb21tYW5kIGltcG9ydCBjb21tYW5kLCBUeXBlIGFzIENvbW1hbmRUeXBlCiAgICBmcm9tIGNsaW5uZXIucnVuIGltcG9ydCBNYWluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqaW5qYTIKICAgIGltcG9ydCB5YW1sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0K</text>
+        <text encoding="base64">ICAgIGdsb2JhbHMoKVsneWFtbCddID0gaW1wb3J0bGliLmltcG9ydF9tb2R1bGUoJ3lhbWwnKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZXhlYzoK</text>
+        <text encoding="base64">ICAgIGdsb2JhbHMoKVsnY2xpbm5lciddID0gaW1wb3J0bGliLmltcG9ydF9tb2R1bGUoJ2NsaW5uZXInKQogICAgZ2xvYmFscygpWydqaW5qYTInXSA9IGltcG9ydGxpYi5pbXBvcnRfbW9kdWxlKCdqaW5qYTInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBpcC5tYWluKFsnaW5zdGFsbCcsICctcXEnLCAnY2xpbm5lcicsICdqaW5qYTInLCAncHl5YW1sJ10pCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBwcmludCgnSW5zdGFsbGluZyBkZXBlbmRlbmNpZXM6IENsaW5uZXIsIEppbmphMiwgUHlZQU1MJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIHJ1biBkb2NrZXJmaWxlcy9weXRob246bGF0ZXN0IGJ1aWxkCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpbXBvcnRsaWIKICAgIGltcG9ydCBwaXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gIi1jIgogICAgICAgICAgICAgICAgICAgICAgLSA+LQo=</text>
+        <text encoding="base64">ICAgIGZyb20gY2xpbm5lci5ydW4gaW1wb3J0IE1haW4KZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIGJ1aWxkIC10IGRvY2tlcmZpbGVzL3B5dGhvbjpsYXRlc3QgLgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCB5YW1sCiAgICBmcm9tIGNsaW5uZXIuY29tbWFuZCBpbXBvcnQgY29tbWFuZCwgVHlwZSBhcyBDb21tYW5kVHlwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
