@@ -255,11 +255,11 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516275246424">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="40" />
-        <mark key="^" line="27" column="40" />
-        <mark key="." line="27" column="40" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516275922831">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
         <mark key="[" line="8" column="29" />
@@ -1066,11 +1066,11 @@
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/pipeline.gocd.yaml" timestamp="1516208728242">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/pipeline.gocd.yaml" timestamp="1516276464212">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
         <mark key="[" line="13" column="0" />
@@ -2675,7 +2675,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgo=</text>
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2690,31 +2690,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZXhlYzoKICAgICAgICAgICAgICAgICAgICBjb21tYW5kOiBweXRob24zCiAgICAgICAgICAgICAgICAgICAgd29ya2luZ19kaXJlY3Rvcnk6IHNvdXJjZQogICAgICAgICAgICAgICAgICAgIGFyZ3VtZW50czoKICAgICAgICAgICAgICAgICAgICAgIC0gLW0KICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgogICAgICAgICAgICAgICAgICAgICAgLSAuZW52CiAgICAgICAgICAgICAgICAtIGV4ZWM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgo=</text>
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gdmVudgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZXhlYzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gZXhlYzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIHJ1biBkb2NrZXJmaWxlcy9weXRob246bGF0ZXN0IGJ1aWxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gIi1jIgogICAgICAgICAgICAgICAgICAgICAgLSA+LQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIHJ1biBkb2NrZXJmaWxlcy9weXRob246bGF0ZXN0IGJ1aWxkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIGJ1aWxkIC10IGRvY2tlcmZpbGVzL3B5dGhvbjpsYXRlc3QgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gIi1jIgogICAgICAgICAgICAgICAgICAgICAgLSA+LQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Pi0KICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIGJ1aWxkIC10IGRvY2tlcmZpbGVzL3B5dGhvbjpsYXRlc3QgLg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIGJ1aWxkIC10IGRvY2tlcmZpbGVzL3B5dGhvbjpsYXRlc3QgLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
