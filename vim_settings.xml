@@ -255,10 +255,11 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516272314029">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/pipeline.gocd.yaml" timestamp="1516273795849">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
         <mark key="[" line="8" column="29" />
@@ -477,6 +478,9 @@
         <mark key="[" line="54" column="71" />
         <mark key="]" line="54" column="71" />
         <mark key="." line="54" column="71" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/requirements.txt" timestamp="1516273461211">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/tests_cache.py" timestamp="1452281579743">
         <mark key="[" line="20" column="22" />
@@ -1197,6 +1201,9 @@
         <mark key="]" line="33" column="92" />
         <mark key="^" line="33" column="70" />
         <mark key="." line="33" column="71" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/Dockerfile" timestamp="1516273321883">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/make" timestamp="1509125960232">
         <mark key="[" line="114" column="0" />
@@ -2668,7 +2675,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbGFzdGljX3Byb2ZpbGVfaWQ6IG1lZGl1bQogICAgICAgICAgICAgIHRhc2tzOgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2679,35 +2686,35 @@
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB5YW1sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LSBidWlsZDoKICAgICAgICAgIGNsZWFuX3dvcmtzcGFjZTogdHJ1ZQogICAgICAgICAgam9iczoKICAgICAgICAgICAgZG9ja2VyX2J1aWxkOgogICAgICAgICAgICAgIGVsYXN0aWNfcHJvZmlsZV9pZDogbWVkaXVtCiAgICAgICAgICAgICAgdGFza3M6CiAgICAgICAgICAgICAgICAtIGV4ZWM6CiAgICAgICAgICAgICAgICAgICAgY29tbWFuZDogL2Jpbi9zaAogICAgICAgICAgICAgICAgICAgIHdvcmtpbmdfZGlyZWN0b3J5OiBzb3VyY2UKICAgICAgICAgICAgICAgICAgICBhcmd1bWVudHM6CiAgICAgICAgICAgICAgICAgICAgICAtICItYyIKICAgICAgICAgICAgICAgICAgICAgIC0gPi0KICAgICAgICAgICAgICAgICAgICAgICAgZG9ja2VyIHJ1biAtdiBgcHdkYDovYXBwLyAtdyAvYXBwIHB5dGhvbjphbHBpbmUgLi9tYWtlIGJ1aWxk</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbGFzdGljX3Byb2ZpbGVfaWQ6IG1lZGl1bQogICAgICAgICAgICAgIHRhc2tzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGpvYnM6CiAgICAgICAgICAgIGRvY2tlcl9idWlsZDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBpcC5tYWluKFsnaW5zdGFsbCcsICctcXEnLCAnY2xpbm5lciduamEyJywgJ3B5eWFtbCddKQo=</text>
+        <text encoding="base64">ICAgICAgLSBidWlsZF9hbmRfcHVzaDoKICAgICAgICAgIGNsZWFuX3dvcmtzcGFjZTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbHMoKVsneWFtbCddID0gaW1wb3J0bGliLmltcG9ydF9tb2R1bGUoJ3lhbWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAogICAgICAgICAgLSBSRUFETUUucnN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbHMoKVsnamluamEyJ10gPSBpbXBvcnRsaWIuaW1wb3J0X21vZHVsZSgnamluamEyJykK</text>
+        <text encoding="base64">ICAgICAgICBibGFja2xpc3Q6CiAgICAgICAgICAtIHBpcGVsaW5lLmdvY2QueWFtbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqaW5qYTIK</text>
+        <text encoding="base64">ICAgIHBpcC5tYWluKFsnaW5zdGFsbCcsICctcXEnLCAnY2xpbm5lciduamEyJywgJ3B5eWFtbCddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JraW5nX2RpcmVjdG9yeTogc291cmNlCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbHMoKVsneWFtbCddID0gaW1wb3J0bGliLmltcG9ydF9tb2R1bGUoJ3lhbWwnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gYnVpbGQK</text>
+        <text encoding="base64">ICAgIGdsb2JhbHMoKVsnamluamEyJ10gPSBpbXBvcnRsaWIuaW1wb3J0X21vZHVsZSgnamluamEyJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0gYnVpbGQKICAgICAgICAgICAgICAgICAgICB3b3JraW5nX2RpcmVjdG9yeTogc291cmNlCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqaW5qYTIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</text>
