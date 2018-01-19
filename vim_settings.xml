@@ -100,6 +100,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/src/App.vue" timestamp="1504346376285">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -337,6 +343,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/piksel/alpine/README.rst" timestamp="1516355436803">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/RepositoryList.vue" timestamp="1500386157487">
         <mark key="[" line="60" column="47" />
         <mark key="]" line="62" column="15" />
@@ -484,6 +496,11 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/piksel/alpine/3.6/Dockerfile" timestamp="1516354985793">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/nvidia.py" timestamp="1500581177224">
         <mark key="[" line="51" column="29" />
@@ -682,6 +699,12 @@
         <mark key="^" line="41" column="10" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/piksel/alpine/templates/Dockerfile.j2" timestamp="1516354971961">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="123" />
+        <mark key="^" line="1" column="121" />
+        <mark key="." line="1" column="121" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/miner_telegram.py" timestamp="1500558375500">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="16" column="9" />
@@ -786,9 +809,6 @@
         <mark key="]" line="287" column="40" />
         <mark key="^" line="287" column="40" />
         <mark key="." line="287" column="40" />
-      </file>
-      <file name="$USER_HOME$/Development/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1516012710967">
-        <mark key="'" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/__init__.py" timestamp="1513787204655">
         <mark key="[" line="1" column="0" />
@@ -1398,12 +1418,6 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1515671259346">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="17" />
@@ -1805,6 +1819,11 @@
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/piksel/alpine/3.7/Dockerfile" timestamp="1516354990531">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/requirements.txt" timestamp="1513640001612">
         <mark key="[" line="2" column="12" />
@@ -2486,7 +2505,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OlZlcnNpb246IDEuMC4wCjpTdGF0dXM6IGZpbmFsCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2498,34 +2517,34 @@
         <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09CkJhcnJlbmVybyBUZWxlZ3JhbQo9PT09PT09PT09PT09PT09PT0KClRlbGVncmFtIGJvdCBmb3IgQmFycmVuZXJvIHRoYXQgc2VydmVzIGluZm9ybWF0aW9uIGFuZCBwcm92aWRlcyBpbnRlcmFjdGl2ZSBtZXRob2RzIHRocm91Z2ggQmFycmVuZXJvIEFQSS4KCjpWZXJzaW9uOiAxLjAuMAo6U3RhdHVzOiBQcm9kdWN0aW9uL1N0YWJsZQo6QXV0aG9yOiBKb3PDqSBBbnRvbmlvIFBlcmRpZ3Vlcm8gTMOzcGV6CgpUaGlzIGJvdCBwcm92aWRlcyBhIHJlYWwgdGltZSBpbnRlcmFjdGlvbiB3aXRoIEJhcnJlbmVybyB0aHJvdWdoIGl0cyBBUEksIGFsbG93aW5nIGEgc2ltcGxlIHdheSB0byByZWdpc3RlciBhbiB1c2VyIGluIHRoZSBBUEkgYW5kIGxpbmsgaXQgdG8gYSBUZWxlZ3JhbSBjaGF0LiAKT25jZSB0aGUgcmVnaXN0cmF0aW9uIGlzIGRvbmUsIGl0J3MgcG9zc2libGUgdG8gcXVlcnkgZm9yIEJhcnJlbmVybyBzdGF0dXMsIHJlc3RhcnQgc2VydmljZXMgYW5kIHBlcmZvcm1zIGFueSBhY3Rpb24gYWxsb3dlZCBpbiB0aGUgQVBJLgoKRnVsbCBgZG9jdW1lbnRhdGlvbiA8aHR0cDovL2JhcnJlbmVyby5yZWFkdGhlZG9jcy5pbz5gXyBmb3IgQmFycmVuZXJvIHByb2plY3QuCgpIZWxwIHVzIERvbmF0aW5nCi0tLS0tLS0tLS0tLS0tLS0KClRoaXMgcHJvamVjdCBpcyBmcmVlIGFuZCBvcGVuIHNvdXJjZWQsIHlvdSBjYW4gdXNlIGl0LCBzcHJlYWQgdGhlIHdvcmQsIGNvbnRyaWJ1dGUgdG8gdGhlIGNvZGViYXNlIGFuZCBoZWxwIHVzIGRvbmF0aW5nOgoKOkV0aGVyOiAweDU2NmQ0MWI5MjVlZDFkOWY2NDM3NDhkNjUyZjRlNjY1OTNjYmE5YzkKOkJpdGNvaW46IDFKdGoybTY1RE4yVXNVenhYaHIzNTV4MzhUNnBQR2hxaUEKOlBheVBhbDogYmFycmVuZXJvYm90QGdtYWlsLmNvbQoKUmVxdWlyZW1lbnRzCi0tLS0tLS0tLS0tLQoKKiBEb2NrZXIuIGBPZmZpY2lhbCBkb2NzIDxodHRwczovL2RvY3MuZG9ja2VyLmNvbS9lbmdpbmUvaW5zdGFsbGF0aW9uLz5gXy4KClF1aWNrIHN0YXJ0Ci0tLS0tLS0tLS0tCjEuIFJlZ2lzdGVyIGEgbmV3IHRlbGVncmFtIGJvdCBmb2xsb3dpbmcgYHRoZXNlIGluc3RydWN0aW9ucyA8aHR0cHM6Ly9jb3JlLnRlbGVncmFtLm9yZy9ib3RzI2NyZWF0aW5nLWEtbmV3LWJvdD5gXyBhbmQgc2F2ZSB0aGUgdG9rZW4gdG8gdXNlIGl0IHdoZW4gaW5zdGFsbGluZy4KCjIuIFJ1biB0aGUgc2VydmljZToKCiAgICAuLiBjb2RlOjogY29uc29sZQoKICAgICAgICBkb2NrZXIgcnVuIC12IC9ldGMvYmFycmVuZXJvL2JhcnJlbmVyby10ZWxlZ3JhbS86L2V0Yy9iYXJyZW5lcm8vYmFycmVuZXJvLXRlbGVncmFtLyBwZXJkeS9iYXJyZW5lcm8tdGVsZWdyYW06bGF0ZXN0IC4KCjMuIEFkZCB0aGUgYm90IHRvIHlvdXIgVGVsZWdyYW0gY2hhdCBhbmQgY29uZmlndXJlIGl0IHVzaW5nIGAvc3RhcnRgIGNvbW1hbmQuCg==</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iSm9zw6kgQW50b25pbyBQZXJkaWd1ZXJvIDxqb3NlLnBlcmRpZ3Vlcm9AcGlrc2VsLmNvbT4sIEp1bGnDoW4gTWFydMOtbmV6IEFzZW5qbyA8anVsaWFuLm1hcnRpbmV6QHBpa3NlbC5jb20+Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OlZlcnNpb246IDEuMC4wCjpTdGF0dXM6IGZpbmFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iSm9zw6kgQW50b25pbyBQZXJkaWd1ZXJvIDxqb3NlLnBlcmRpZ3Vlcm9AcGlrc2VsLmNvbT4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBQeUJ1aWxkZXIKdGFyZ2V0LwoKIyBKdXB5dGVyIE5vdGVib29rCi5pcHluYl9jaGVja3BvaW50cwoKIyBweWVudgoucHl0aG9uLXZlcnNpb24KCiMgY2VsZXJ5IGJlYXQgc2NoZWR1bGUgZmlsZQpjZWxlcnliZWF0LXNjaGVkdWxlCgojIGRvdGVudgouZW52Cgo=</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iSm9zw6kgQW50b25pbyBQZXJkaWd1ZXJvIDxqb3NlLnBlcmRpZ3Vlcm9AcGlrc2VsLmNvbT4iCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyB2aXJ0dWFsZW52Ci52ZW52CnZlbnYvCkVOVi8K</text>
+      <register name="4" type="4">
+        <text encoding="base64">LCB3aXRoIHRoZSBnb2FsIG9mIGhhdmluZyBhIApzaW5nbGUgTWF0ZXJpYWwgaW4gR29DRCB0aGF0IHRyaWdnZXJzIHRoZSBidWlsZCBvZiBhbGwgaW1hZ2VzIGJhc2VkIG9uIA==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBCYXJyZW5lcm8gc2VydmljZXMKYmFycmVuZXJvLSovCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBQeUJ1aWxkZXIKdGFyZ2V0LwoKIyBKdXB5dGVyIE5vdGVib29rCi5pcHluYl9jaGVja3BvaW50cwoKIyBweWVudgoucHl0aG9uLXZlcnNpb24KCiMgY2VsZXJ5IGJlYXQgc2NoZWR1bGUgZmlsZQpjZWxlcnliZWF0LXNjaGVkdWxlCgojIGRvdGVudgouZW52Cgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBJREVBCi5pZGVhLwo=</text>
+        <text encoding="base64">IyB2aXJ0dWFsZW52Ci52ZW52CnZlbnYvCkVOVi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgbWluZXItZXRoZXI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</text>
