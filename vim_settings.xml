@@ -980,12 +980,6 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/python/make" timestamp="1516281522470">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="17" column="41" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/docker-compose-base.yml" timestamp="1467128616612">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="9" column="17" />
@@ -1315,6 +1309,12 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516569331572">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="6" />
+        <mark key="." line="34" column="6" />
+        <mark key="^" line="34" column="6" />
+      </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-api/Dockerfile" timestamp="1516026605944">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -1486,12 +1486,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="34" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516567554622">
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516569323893">
         <mark key="'" line="34" column="4" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="56" column="5" />
+        <mark key="^" line="56" column="5" />
+        <mark key="." line="56" column="5" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Recommendation.vue" timestamp="1498583198834">
         <mark key="[" line="5" column="0" />
@@ -2709,14 +2709,14 @@
       <jump line="34" column="4" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBweXRob24zLjYtZGV2IFwKICAgICAgICBweXRob24zLXBpcCBcCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3Rvcmog</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>-ubuntu17.04</text>
+        <text encoding="base64">c3Rvcmog</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
