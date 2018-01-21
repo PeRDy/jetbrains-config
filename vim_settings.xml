@@ -1486,9 +1486,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="34" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516565440914">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516567554622">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="26" column="48" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Recommendation.vue" timestamp="1498583198834">
         <mark key="[" line="5" column="0" />
@@ -1845,10 +1848,10 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1516565453535">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1516567854753">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-api/templates/env.jinja2" timestamp="1516013567078">
         <mark key="[" line="3" column="47" />
@@ -2604,7 +2607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="12" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/flights.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" />
       <jump line="66" column="17" filename="$USER_HOME$/Desarrollo/flights-analyzer/run" />
       <jump line="6" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/run" />
@@ -2704,10 +2706,11 @@
       <jump line="36" column="47" filename="$USER_HOME$/Development/piksel/dockerfiles/python/make" />
       <jump line="60" column="0" filename="$USER_HOME$/Development/piksel/dockerfiles/python/make" />
       <jump line="14" column="28" filename="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-alpine.j2" />
+      <jump line="34" column="4" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBhcGkK</text>
+        <text encoding="base64">ICAgICAgICBweXRob24zLjYtZGV2IFwKICAgICAgICBweXRob24zLXBpcCBcCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2719,34 +2722,34 @@
         <text>\[\(.*\)\]=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBiYXJyZW5lcm8tYXBpCg==</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIC90bXAvKiBcCiAgICAgICAgL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvcGFzc2VuZ2VyLmxpc3QgXAogICAgICAgIC92YXIvdG1wLyogXAogICAgICAgIC92YXIvbGliL2FwdC9saXN0cy8qIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvcGFydGlhbC8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvKi5iaW4KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBhcGkK</text>
+        <text encoding="base64">ICAgICAgICBweXRob24zLjYtZGV2IFwKICAgICAgICBweXRob24zLXBpcCBcCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5WIExBTkc9J2VzX0VTLlVURi04JyBMQU5HVUFHRT0nZXNfRVMuVVRGLTg6ZXMnIExDX0FMTD0nZXNfRVMuVVRGLTgnCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbGVzIFwKICAgICAgICBsb2NhbGVzLWFsbAo=</text>
+        <text encoding="base64">ICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBcCg==</text>
+        <text encoding="base64">ICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RlJPTSBudmlkaWEvY3VkYTo5LjEtZGV2ZWwK</text>
+        <text encoding="base64">ICAgICAgICAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9wYXNzZW5nZXIubGlzdCBcCiAgICAgICAgL3Zhci90bXAvKiBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbWFrZSAmJiBcCiAgICAgICAgL3RtcC8qIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2FjdGl2ZShzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5tb2RlbC5zdGF0ZSA9PSBTdGF0dXNTdGF0ZS5BQ1RJVkUK</text>
+        <text encoding="base64">ICAgICAgICBhcHQtdHJhbnNwb3J0LWh0dHBzIFwKICAgICAgICBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbiBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLS1hdXRvLXJlbW92ZSAteSBcCiAgICAgICAgYnVpbGQtZXNzZW50aWFsIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDbGVhbiB1cApSVU4gYXB0LWdldCBjbGVhbiAmJiBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
