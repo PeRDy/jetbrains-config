@@ -1399,6 +1399,9 @@
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516659907496">
+        <mark key="[" line="27" column="4" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/requirements.txt" timestamp="1511875358883">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="8" column="11" />
@@ -1489,12 +1492,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="34" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516657285106">
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516659978017">
         <mark key="'" line="39" column="4" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="17" />
+        <mark key="." line="57" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Recommendation.vue" timestamp="1498583198834">
         <mark key="[" line="5" column="0" />
@@ -1888,6 +1891,12 @@
         <mark key="]" line="12" column="60" />
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/Dockerfile" timestamp="1516660006333">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/README.rst" timestamp="1500557128798">
         <mark key="[" line="36" column="8" />
@@ -2727,47 +2736,47 @@
       <jump line="34" column="4" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text encoding="base64">cHl0aG9uMy42IC1tIA==</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIGxvY2FsZXMKUlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBsb2NhbGVzIGxvY2FsZXMtYWxsCkVOViBMQU5HPSdlc19FUy5VVEYtOCcgTEFOR1VBR0U9J2VzX0VTLlVURi04OmVzJyBMQ19BTEw9J2VzX0VTLlVURi04JyBQWVRIT05JT0VOQ09ESU5HPSd1dGYtOCcKCg==</text>
+        <text encoding="base64">UlVOIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBybSAtcmYgJEhPTUUvLmNhY2hlL3BpcC8qCgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyoK</text>
+        <text encoding="base64">UlVOIHBpcDMgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0ICYmIFwKICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHBpcCByZXF1aXJlbWVudHMKQ09QWSByZXF1aXJlbWVudHMudHh0IGNvbnN0cmFpbnRzLnR4dCAvc3J2L2FwcHMvJEFQUC8K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">UlVOIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBweXRob24zLjYtZGV2IFwKICAgICAgICBweXRob24zLXBpcCBcCg==</text>
+        <text encoding="base64">IyBJbnN0YWxsIHBpcCByZXF1aXJlbWVudHMKQ09QWSByZXF1aXJlbWVudHMudHh0IGNvbnN0cmFpbnRzLnR4dCAvc3J2L2FwcHMvJEFQUC8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
+        <text encoding="base64">ICAgICAgICBweXRob24zLjYtZGV2IFwKICAgICAgICBweXRob24zLXBpcCBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
