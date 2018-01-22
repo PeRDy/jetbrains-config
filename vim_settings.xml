@@ -1326,6 +1326,9 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/barrenero_api/settings/production.py" timestamp="1516658431464">
+        <mark key="[" line="23" column="15" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/run_tests.py" timestamp="1452276794082">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="2" column="0" />
@@ -1663,6 +1666,11 @@
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/barrenero_api/settings/development.py" timestamp="1516658424229">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/factories.py" timestamp="1513879798671">
         <mark key="[" line="1" column="0" />
@@ -2713,14 +2721,14 @@
       <jump line="34" column="4" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIGxvY2FsZXMKUlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBsb2NhbGVzIGxvY2FsZXMtYWxsCkVOViBMQU5HPSdlc19FUy5VVEYtOCcgTEFOR1VBR0U9J2VzX0VTLlVURi04OmVzJyBMQ19BTEw9J2VzX0VTLlVURi04JyBQWVRIT05JT0VOQ09ESU5HPSd1dGYtOCcKCg==</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3Rvcmog</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
