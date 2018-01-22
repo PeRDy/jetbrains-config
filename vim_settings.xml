@@ -2225,6 +2225,12 @@
         <mark key="." line="56" column="29" />
         <mark key="^" line="56" column="29" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" timestamp="1516663146132">
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+        <mark key="." line="58" column="30" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/systemd/barrenero_telegram.service" timestamp="1507454991300">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
@@ -2792,7 +2798,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2846,8 +2852,8 @@
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
