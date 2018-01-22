@@ -1309,8 +1309,8 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516569331572">
-        <mark key="[" line="34" column="5" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516657300762">
+        <mark key="[" line="36" column="15" />
         <mark key="]" line="34" column="6" />
         <mark key="." line="34" column="6" />
         <mark key="^" line="34" column="6" />
@@ -1486,12 +1486,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="34" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516573318510">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="56" column="5" />
-        <mark key="." line="56" column="5" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516657285106">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Recommendation.vue" timestamp="1498583198834">
         <mark key="[" line="5" column="0" />
@@ -1851,11 +1851,11 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1516573881192">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="24" column="48" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1516657232667">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-api/templates/env.jinja2" timestamp="1516013567078">
         <mark key="[" line="3" column="47" />
@@ -2714,7 +2714,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSB7eyBjb21tb24ubG9ncyB9fTovc3J2L2FwcHMvYmFycmVuZXJvLWFwaS9sb2dzLwo=</text>
+        <text encoding="base64">IyBJbnN0YWxsIGxvY2FsZXMKUlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBsb2NhbGVzIGxvY2FsZXMtYWxsCkVOViBMQU5HPSdlc19FUy5VVEYtOCcgTEFOR1VBR0U9J2VzX0VTLlVURi04OmVzJyBMQ19BTEw9J2VzX0VTLlVURi04JyBQWVRIT05JT0VOQ09ESU5HPSd1dGYtOCcKCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2726,7 +2726,7 @@
         <text>\[\(.*\)\]=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSB7eyBjb21tb24ubG9ncyB9fTovc3J2L2FwcHMvYmFycmVuZXJvLWFwaS9sb2dzLwo=</text>
+        <text encoding="base64">IyBJbnN0YWxsIGxvY2FsZXMKUlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBsb2NhbGVzIGxvY2FsZXMtYWxsCkVOViBMQU5HPSdlc19FUy5VVEYtOCcgTEFOR1VBR0U9J2VzX0VTLlVURi04OmVzJyBMQ19BTEw9J2VzX0VTLlVURi04JyBQWVRIT05JT0VOQ09ESU5HPSd1dGYtOCcKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
