@@ -1701,6 +1701,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/uwsgi.ini" timestamp="1516659334234">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/.env" timestamp="1497007709506">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="58" />
@@ -2764,7 +2770,7 @@
         <text encoding="base64">ICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2818,8 +2824,8 @@
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
