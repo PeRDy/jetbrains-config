@@ -1404,8 +1404,11 @@
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516659907496">
-        <mark key="[" line="27" column="4" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="49" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/requirements.txt" timestamp="1511875358883">
         <mark key="[" line="0" column="7" />
@@ -2747,13 +2750,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/local/lib/barrenero</text>
+        <text>etc</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>/local/lib/barrenero</text>
+        <text>etc</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
