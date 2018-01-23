@@ -404,10 +404,6 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/README.md" timestamp="1516491451224">
-        <mark key="[" line="33" column="77" />
-        <mark key="]" line="33" column="124" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/__main__.py" timestamp="1487620591508">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="19" />
@@ -782,10 +778,6 @@
         <mark key="]" line="25" column="11" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="11" />
-      </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1516118521982">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
@@ -1421,10 +1413,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/templates/Dockerfile.j2" timestamp="1516207223704">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="70" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/miner/Dockerfile" timestamp="1502056036019">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
@@ -1528,8 +1516,11 @@
         <mark key="]" line="58" column="69" />
         <mark key="." line="58" column="69" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1516653734675">
-        <mark key="[" line="180" column="25" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1516664599038">
+        <mark key="[" line="269" column="31" />
+        <mark key="]" line="269" column="55" />
+        <mark key="^" line="269" column="55" />
+        <mark key="." line="269" column="55" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
@@ -1566,6 +1557,9 @@
         <mark key="]" line="48" column="15" />
         <mark key="^" line="23" column="16" />
         <mark key="." line="48" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/miner/storj.py" timestamp="1516665176195">
+        <mark key="[" line="25" column="68" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_nvidia_tuning.service" timestamp="1504623126470">
         <mark key="[" line="8" column="34" />
@@ -1977,11 +1971,11 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" timestamp="1516654279098">
-        <mark key="[" line="31" column="2" />
-        <mark key="]" line="31" column="59" />
-        <mark key="." line="31" column="59" />
-        <mark key="^" line="31" column="59" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" timestamp="1516664350797">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegram/setup.cfg.j2" timestamp="1516463306098">
         <mark key="[" line="1" column="0" />
@@ -2755,20 +2749,20 @@
       <jump line="34" column="4" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>etc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRhaW5lcl9uYW1lOiBiYXJyZW5lcm8tdGVsZWdyYWYK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>etc</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBybSAtcmYgJEhPTUUvLmNhY2hlL3BpcC8qCgo=</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lcl9uYW1lOiBiYXJyZW5lcm8tdGVsZWdyYWYK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2798,7 +2792,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2852,8 +2846,8 @@
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
