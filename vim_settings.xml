@@ -2151,6 +2151,12 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/filters/metadata.py" timestamp="1516881078263">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/index.android.js" timestamp="1504440491953">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
@@ -2746,20 +2752,20 @@
       <jump line="55" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/factories.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIyBHZW5lcmF0ZWQgYnkgRGphbmdvIDEuMTEuMSBvbiAyMDE4LTAxLTIzIDEwOjU2Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_id</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, 'wip'</text>
+        <text>_id</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBpbnN0YW5jZTogSW5zdGFuY2UgdGhhdCBwZXJmb3JtcyB1cGxvYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Nlcmllc19pZCc6IFsnZXhhY3QnLCAnY29udGFpbnMnLCAnb3ZlcmxhcCddLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIyBHZW5lcmF0ZWQgYnkgRGphbmdvIDEuMTEuMSBvbiAyMDE4LTAxLTIzIDEwOjU2Cg==</text>
