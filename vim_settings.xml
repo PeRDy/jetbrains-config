@@ -21,7 +21,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1516705045958">
+      <file name="/a.dummy" timestamp="1516888260041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -621,6 +621,12 @@
         <mark key="]" line="2" column="56" />
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" timestamp="1516888313198">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -2753,13 +2759,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_id</text>
+        <text>build-base</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>_id</text>
+        <text>build-base</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
@@ -2768,31 +2774,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3Nlcmllc19pZCc6IFsnZXhhY3QnLCAnY29udGFpbnMnLCAnb3ZlcmxhcCddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIyBHZW5lcmF0ZWQgYnkgRGphbmdvIDEuMTEuMSBvbiAyMDE4LTAxLTIzIDEwOjU2Cg==</text>
+        <text encoding="base64">UlVOIGNob3duIHB5dGhvbjpweXRob24gLVIgL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRTdGF0dXNDb2RlKHJlc3BvbnNlLCA0MjIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXN1bHQgPSBbKG0sICldICAjIEEgZGVzY3JpcHRpb24gcGVyIGRhdGEgc291cmNlIGZpZWxkCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiMgQ2xlYW4gdXAKUlVOIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSBcCiAgICAgICAgZysrICYmIFwKICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3RtcC8qIFwKICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAkSE9NRS8uY2FjaGUvcGlwLyo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxleHQgPSBmaWxlbmFtZQogICAgICAgIGZpbGVuYW1lID0gJycK</text>
+        <text encoding="base64">RU5WIFBZVEhPTlBBVEg9JyRQWVRIT05QQVRIOi9zcnYvYXBwcy9jb250ZW50a2ItYXBpL2FwcCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSwgZmlsZXh0ID0gZmlsZW5hbWUucnNwbGl0KCcuJywgMSkK</text>
+        <text encoding="base64">ICAgICAgICBnKysgXAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lID0gZid7cHJlZml4fV97bW9kZWxfbmFtZX17ZmlsZW5hbWV9JwogICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICBnaXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0Z3Jlc3FsLWNsaWVudCBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
