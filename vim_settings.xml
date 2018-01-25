@@ -622,11 +622,11 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" timestamp="1516888313198">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="0" column="14" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" timestamp="1516889904722">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -2758,8 +2758,8 @@
       <jump line="55" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/factories.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>build-base</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcGVuYmxhcyBcCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2774,31 +2774,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3Nlcmllc19pZCc6IFsnZXhhY3QnLCAnY29udGFpbnMnLCAnb3ZlcmxhcCddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIGNob3duIHB5dGhvbjpweXRob24gLVIgL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkK</text>
+        <text encoding="base64">ICAgICAgICBvcGVuYmxhcyBcCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">UlVOIGNob3duIHB5dGhvbjpweXRob24gLVIgL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiMgQ2xlYW4gdXAKUlVOIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSBcCiAgICAgICAgZysrICYmIFwKICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3RtcC8qIFwKICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAkSE9NRS8uY2FjaGUvcGlwLyo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJtIC1yZiAkCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">RU5WIFBZVEhPTlBBVEg9JyRQWVRIT05QQVRIOi9zcnYvYXBwcy9jb250ZW50a2ItYXBpL2FwcCcK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBnKysgXAoK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0Z3Jlc3FsLWNsaWVudCBcCg==</text>
+        <text encoding="base64">ICAgICAgICBnaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
