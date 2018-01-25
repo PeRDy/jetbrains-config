@@ -622,11 +622,10 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" timestamp="1516891404103">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
-        <mark key="^" line="24" column="15" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" timestamp="1516892419573">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -2656,9 +2655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/kafka.cpt" />
-      <jump line="66" column="17" filename="$USER_HOME$/Desarrollo/flights-analyzer/run" />
-      <jump line="6" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/run" />
       <jump line="168" column="34" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="171" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="182" column="38" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
@@ -2756,68 +2752,68 @@
       <jump line="60" column="0" filename="$USER_HOME$/Development/piksel/dockerfiles/python/make" />
       <jump line="14" column="28" filename="$USER_HOME$/Development/piksel/dockerfiles/python/templates/Dockerfile-alpine.j2" />
       <jump line="55" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/factories.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" />
+      <jump line="23" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuYmxhcyBcCg==</text>
+        <text encoding="base64">ICAgICAgICBnKysgXAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>build-base</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\[\(.*\)\]=</text>
+        <text encoding="base64">IFxcJA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Nlcmllc19pZCc6IFsnZXhhY3QnLCAnY29udGFpbnMnLCAnb3ZlcmxhcCddLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuYmxhcyBcCg==</text>
+        <text encoding="base64">ICAgICAgICBnKysgXAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGNob3duIHB5dGhvbjpweXRob24gLVIgL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkK</text>
+        <text encoding="base64">ICAgICAgICBnaXQgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnKysgXAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiMgQ2xlYW4gdXAKUlVOIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSBcCiAgICAgICAgZysrICYmIFwKICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3RtcC8qIFwKICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAkSE9NRS8uY2FjaGUvcGlwLyo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBnY2MgZ2ZvcnRyYW4gcHl0aG9uIHB5dGhvbi1kZXYgcHktcGlwIGJ1aWxkLWJhc2Ugd2dldCBmcmVldHlwZS1kZXYgbGlicG5nLWRldiBvcGVuYmxhcy1kZXYgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAkCg==</text>
+        <text encoding="base64">ICAgICAgICBvcGVuYmxhcyBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5WIFBZVEhPTlBBVEg9JyRQWVRIT05QQVRIOi9zcnYvYXBwcy9jb250ZW50a2ItYXBpL2FwcCcK</text>
+        <text encoding="base64">UlVOIGNob3duIHB5dGhvbjpweXRob24gLVIgL3Nydi9hcHBzL2NvbnRlbnRrYi1hcGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnKysgXAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiMgQ2xlYW4gdXAKUlVOIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSBcCiAgICAgICAgZysrICYmIFwKICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3RtcC8qIFwKICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAkSE9NRS8uY2FjaGUvcGlwLyo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQK</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyBcXCQvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>\[\(.*\)\]=</last-search>
+      <last-search encoding="base64">IFxcJA==</last-search>
       <last-offset />
-      <last-pattern>\[\(.*\)\]=</last-pattern>
-      <last-replace encoding="base64">ICAgICdcMSc6IA==</last-replace>
-      <last-substitute>\[\(.*\)\]=</last-substitute>
+      <last-pattern encoding="base64">IFxcJA==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IFxcJA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self._api</entry>
-        <entry>raise from</entry>
-        <entry>error</entry>
         <entry>username</entry>
         <entry>response_text</entry>
         <entry>finally</entry>
@@ -2835,11 +2831,11 @@
         <entry>%%</entry>
         <entry>jinja2</entry>
         <entry>\[\(.*\)\]=</entry>
+        <entry encoding="base64">ICAq</entry>
+        <entry encoding="base64">IFwv</entry>
+        <entry encoding="base64">IFxcJA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</entry>
-        <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RleHQvc3RhdHVzX21lc3NhZ2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>%s/'build'/BUILD_PATH/g</entry>
@@ -2857,6 +2853,9 @@
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLyAgKi8gL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyBcLy9n</entry>
+        <entry encoding="base64">JzwsJz5zLyBcXCQvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
