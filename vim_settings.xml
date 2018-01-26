@@ -1747,6 +1747,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-337502517/rest_framework/pagination.py" timestamp="1516977223037" />
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/base.py" timestamp="1504952907783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -2842,7 +2843,7 @@
         <text>console</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text>warn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgXywgcHJvcHMgaW4gKChrLCB2KSBmb3IgKGssIHYpIGluIGNscy5MT0dHSU5HWydsb2dnZXJzJ10uaXRlbXMoKSBpZiB2WydsZXZlbCddICE9ICdJTkZPJyk6Cg==</text>
@@ -2879,9 +2880,9 @@
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search>warn</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern>warn</last-pattern>
       <last-replace>path</last-replace>
       <last-substitute>url</last-substitute>
       <last-dir>1</last-dir>
@@ -2889,9 +2890,6 @@
     </search>
     <history>
       <history-search>
-        <entry>response_text</entry>
-        <entry>finally</entry>
-        <entry>data</entry>
         <entry>url(</entry>
         <entry>'build'</entry>
         <entry>trazabilidad</entry>
@@ -2909,6 +2907,9 @@
         <entry encoding="base64">IFxcJA==</entry>
         <entry>url</entry>
         <entry>app</entry>
+        <entry>warning</entry>
+        <entry>watn</entry>
+        <entry>warn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
