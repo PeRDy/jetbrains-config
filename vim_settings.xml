@@ -59,6 +59,13 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" timestamp="1516965202191">
+        <mark key="'" line="70" column="67" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="11" />
@@ -912,6 +919,13 @@
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/factories.py" timestamp="1516628784292">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="72" column="7" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Experiences.vue" timestamp="1504883149885">
         <mark key="[" line="70" column="0" />
@@ -2067,6 +2081,11 @@
         <mark key="]" line="54" column="43" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1516964753833">
+        <mark key="[" line="61" column="14" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -2548,6 +2567,12 @@
         <mark key="]" line="78" column="23" />
         <mark key="." line="78" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/docker-compose.yml" timestamp="1516965986649">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="43" column="35" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/miner.service" timestamp="1500551856915">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="31" />
@@ -2691,14 +2716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="182" column="38" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="186" column="47" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="340" column="44" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="341" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="363" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="364" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="365" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
@@ -2791,58 +2808,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" />
       <jump line="23" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" />
       <jump line="16" column="73" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/base.py" />
+      <jump line="73" column="33" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="72" column="42" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="80" column="42" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="87" column="42" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="52" column="66" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="58" column="68" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="64" column="71" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="70" column="67" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(graphene.AbstractType)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>(graphene.AbstractType)</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcGF0aCwgaW5jbHVkZQo=</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lcl9uYW1lOiAiY29udGVudGtiLWFwaSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGdyYXBoZW5lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZi51cmxzIGltcG9ydCBpbmNsdWRlLCB1cmwK</text>
+        <text encoding="base64">Cm5ldHdvcmtzOgogIGRlZmF1bHQ6CiAgICBleHRlcm5hbDoKICAgICAgbmFtZTogY29udGVudGtiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZi51cmxzIGltcG9ydCBpbmNsdWRlLCB1cmwK</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGNvbnRlbnRrYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZi51cmxzIGltcG9ydCBpbmNsdWRlCg==</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGNvbnRlbnRrYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnKysgXAo=</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGNvbnRlbnRrYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQgXAo=</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOiBjb250ZW50a2IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnKysgXAo=</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOiBjb250ZW50a2IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnY2MgZ2ZvcnRyYW4gcHl0aG9uIHB5dGhvbi1kZXYgcHktcGlwIGJ1aWxkLWJhc2Ugd2dldCBmcmVldHlwZS1kZXYgbGlicG5nLWRldiBvcGVuYmxhcy1kZXYgXAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuYmxhcyBcCg==</text>
+        <text encoding="base64">ZGVmIHVuaXRfdGVzdHMoKmFyZ3MsICoqa3dhcmdzKToKICAgIGNtZCA9IHNobGV4LnNwbGl0KCdkb2NrZXItY29tcG9zZSBydW4gYXBpIC1zIGNvbnRlbnRrYl9hcGkuc2V0dGluZ3M6VW5pdFRlc3RzIC0tc2tpcC1jaGVjayAtLXF1aWV0IHVuaXRfdGVzdHMnKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3VybC9wYXRoL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>path</last-replace>
       <last-substitute>url</last-substitute>
       <last-dir>1</last-dir>
@@ -2850,7 +2875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>username</entry>
         <entry>response_text</entry>
         <entry>finally</entry>
         <entry>data</entry>
@@ -2870,6 +2894,7 @@
         <entry encoding="base64">IFwv</entry>
         <entry encoding="base64">IFxcJA==</entry>
         <entry>url</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
