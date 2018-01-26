@@ -939,6 +939,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/uwsgi.ini" timestamp="1516968883557">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero/templates/docker-compose.yml" timestamp="1516099121655">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="9" column="25" />
@@ -1577,6 +1583,11 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="125" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/development.py" timestamp="1516968563032">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/items.py" timestamp="1497115790815">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -2081,10 +2092,12 @@
         <mark key="]" line="54" column="43" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1516964753833">
-        <mark key="[" line="61" column="14" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1516968558268">
+        <mark key="'" line="469" column="8" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="177" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -2716,8 +2729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
       <jump line="92" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
@@ -2816,52 +2827,54 @@
       <jump line="58" column="68" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
       <jump line="64" column="71" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
       <jump line="70" column="67" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/make.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" />
+      <jump line="471" column="8" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGFyYWtpcmkgPSA2MAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcl9uYW1lOiAiY29udGVudGtiLWFwaSIK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgXywgcHJvcHMgaW4gKChrLCB2KSBmb3IgKGssIHYpIGluIGNscy5MT0dHSU5HWydsb2dnZXJzJ10uaXRlbXMoKSBpZiB2WydsZXZlbCddICE9ICdJTkZPJyk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGFyYWtpcmkgPSA2MAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cm5ldHdvcmtzOgogIGRlZmF1bHQ6CiAgICBleHRlcm5hbDoKICAgICAgbmFtZTogY29udGVudGtiCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBfLCBwcm9wcyBpbiAoKGssIHYpIGZvciAoaywgdikgaW4gY2xzLkxPR0dJTkdbJ2xvZ2dlcnMnXS5pdGVtcygpIGlmIHZbJ2xldmVsJ10gIT0gJ0lORk8nKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGNvbnRlbnRrYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGNvbnRlbnRrYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdXQVJOSU5HJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGNvbnRlbnRrYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOiBjb250ZW50a2IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZSwKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOiBjb250ZW50a2IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAgICAgJ2xldmVsJzogJ1dBUk5JTkcnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBEaXNhYmxlIGFubm95aW5nIGxvZ2dpbmc6ICgncGF0dGVybicgcGFja2FnZSBub3QgZm91bmQpCiAgICAgICAgICAgICdzdW1tYSc6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHVuaXRfdGVzdHMoKmFyZ3MsICoqa3dhcmdzKToKICAgIGNtZCA9IHNobGV4LnNwbGl0KCdkb2NrZXItY29tcG9zZSBydW4gYXBpIC1zIGNvbnRlbnRrYl9hcGkuc2V0dGluZ3M6VW5pdFRlc3RzIC0tc2tpcC1jaGVjayAtLXF1aWV0IHVuaXRfdGVzdHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3VybC9wYXRoL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2909,7 +2922,6 @@
         <entry encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFmL3RlbGVncmFtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
         <entry>wq</entry>
@@ -2917,6 +2929,7 @@
         <entry encoding="base64">JzwsJz5zLyBcLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyBcXCQvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9wYXRoL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
