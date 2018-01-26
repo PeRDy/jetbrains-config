@@ -1488,12 +1488,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="34" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516674222022">
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-ether" timestamp="1516675469062">
         <mark key="'" line="39" column="4" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="29" />
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="63" column="12" />
         <mark key="^" line="57" column="17" />
-        <mark key="." line="57" column="17" />
+        <mark key="." line="63" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Recommendation.vue" timestamp="1498583198834">
         <mark key="[" line="5" column="0" />
@@ -2752,13 +2752,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ether</text>
+        <text encoding="base64">InB5dGhvbjMuNiIsIA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>ether</text>
+        <text encoding="base64">InB5dGhvbjMuNiIsIA==</text>
       </register>
       <register name="/" type="4">
         <text>\[\(.*\)\]=</text>
