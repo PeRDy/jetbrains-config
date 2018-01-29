@@ -463,11 +463,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/api/iam.js" timestamp="1517229323595">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/api/iam.js" timestamp="1517241560732">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/0001_initial.py" timestamp="1504965605814">
         <mark key="[" line="0" column="0" />
@@ -2046,11 +2046,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="42" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517229257469">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="36" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517241079485">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="40" />
-        <mark key="." line="1" column="36" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/login/__main__.py" timestamp="1509106008604">
         <mark key="[" line="14" column="6" />
@@ -2205,11 +2205,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" timestamp="1517236817093">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="8" column="39" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="8" column="39" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" timestamp="1517241399535">
+        <mark key="[" line="24" column="51" />
+        <mark key="^" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/App.js" timestamp="1516129751639">
         <mark key="[" line="0" column="0" />
@@ -2299,11 +2297,12 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" timestamp="1517236720233">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="94" column="7" />
-        <mark key="]" line="94" column="7" />
-        <mark key="." line="94" column="7" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" timestamp="1517240221753">
+        <mark key="'" line="29" column="1" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+        <mark key="^" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/hashcode_pizza/app.py" timestamp="1487704912524">
         <mark key="[" line="32" column="0" />
@@ -2354,9 +2353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="38" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="186" column="47" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
-      <jump line="340" column="44" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="341" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="363" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="364" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
@@ -2454,52 +2450,55 @@
       <jump line="8" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="91" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="3" column="19" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/index.js" />
+      <jump line="24" column="25" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
+      <jump line="101" column="41" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
+      <jump line="29" column="1" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.isRequired</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc2VsZWN0TG9naW4gfSBmcm9tICdkdWNrcy9sb2dpbic7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>.isRequired</text>
+        <text>../</text>
       </register>
       <register name="/" type="4">
         <text>components/molecules/login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvbkxvZ2luQ2xpY2soKSB7CiAgICB0aGlzLnByb3BzLmZldGNoTG9naW4oKTsKICB9Cgo=</text>
+        <text encoding="base64">ICB5aWVsZCB0YWtlTGF0ZXN0KFVTRVJfTE9HSU5fRkVUQ0gsIGxvZ2luKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L0Zvcm0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2VsZWN0TG9naW4gfSBmcm9tICdkdWNrcy9sb2dpbic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9ImZsb2F0LXJpZ2h0Ij5SZWdpc3RyYXJzZTwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICBzZWxlY3RVc2VyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25FbWFpbENoYW5nZSA9IHRoaXMub25FbWFpbENoYW5nZS5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdjb21wb25lbnRzL21vbGVjdWxlcy9sb2dpbi9Td2l0Y2hhYmxlTG9naW5SZWdpc3Rlcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFN3aXRjaCBmcm9tICdjb21wb25lbnRzL21vbGVjdWxlcy9sb2dpbi9Td2l0Y2gnOwo=</text>
+        <text encoding="base64">ICAgICAgICA8L0Zvcm0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJlc2xpbnQtaW1wb3J0LXJlc29sdmVyLXdlYnBhY2siOiAiXjAuOC40IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9ImZsb2F0LXJpZ2h0Ij5SZWdpc3RyYXJzZTwvQnV0dG9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHRoaXMub25FbWFpbENoYW5nZSA9IHRoaXMub25FbWFpbENoYW5nZS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICdjb21wb25lbnRzL21vbGVjdWxlcy9sb2dpbi9Td2l0Y2hhYmxlTG9naW5SZWdpc3Rlcic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHVzZXJuYW1lLCBwYXNzd29yZCB9ID0gcGF5bG9hZDsK</text>
+        <text encoding="base64">aW1wb3J0IFN3aXRjaCBmcm9tICdjb21wb25lbnRzL21vbGVjdWxlcy9sb2dpbi9Td2l0Y2gnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zI2NvbXBvbmVudHMvbW9sZWN1bGVzL2xvZ2luIy4jZw==</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2547,7 +2546,6 @@
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3JkL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
@@ -2555,6 +2553,7 @@
         <entry encoding="base64">JzwsJz5zL1VzZXJuYW1lL1Bhc3N3b3JkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXJuYW1lL0VtYWlsL2c=</entry>
         <entry encoding="base64">JzwsJz5zI2NvbXBvbmVudHMvbW9sZWN1bGVzL2xvZ2luIy4jZw==</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
