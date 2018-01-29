@@ -96,11 +96,11 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/docker-compose-production.yml" timestamp="1517247519522">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/docker-compose-production.yml" timestamp="1517263221311">
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="55" />
         <mark key="^" line="3" column="27" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="8" column="55" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/state_machine.py" timestamp="1516491705064">
         <mark key="[" line="41" column="0" />
@@ -1625,11 +1625,11 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/uwsgi.ini" timestamp="1517246414822">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/uwsgi.ini" timestamp="1517263238072">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/core/schema.py" timestamp="1515151505120">
         <mark key="[" line="2" column="0" />
@@ -3135,14 +3135,14 @@
       <jump line="29" column="1" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aXBkYgo=</text>
+      <register name="&quot;" type="4">
+        <text>passenger</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>passenger</text>
       </register>
       <register name="/" type="4">
         <text>scrapy</text>
