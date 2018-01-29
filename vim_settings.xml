@@ -70,6 +70,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/api.js" timestamp="1517226912956">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="5" column="15" />
@@ -2377,7 +2383,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCB7IHVzZXJuYW1lLCBwYXNzd29yZCB9ID0gcGF5bG9hZDsK</text>
+        <text encoding="base64">ICAgICAgLndpdGhDcmVkZW50aWFscygpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -2388,8 +2394,8 @@
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgPENhcmQ+CiAgICAgICAgPENhcmRCb2R5PgogICAgICAgICAgPENhcmRUaXRsZT5IdWVydGVvPC9DYXJkVGl0bGU+CiAgICAgICAgICA8Rm9ybT4KICAgICAgICAgICAgPEZvcm1Hcm91cD4KICAgICAgICAgICAgICA8TGFiZWwgZm9yPSJlbWFpbCI+RW1haWw8L0xhYmVsPgogICAgICAgICAgICAgIDxJbnB1dCB0eXBlPSJlbWFpbCIgbmFtZT0iZW1haWwiIGlkPSJlbWFpbCIgcGxhY2Vob2xkZXI9InR1QGVtYWlsLmNvbSIgLz4KICAgICAgICAgICAgPC9Gb3JtR3JvdXA+CiAgICAgICAgICAgIDxGb3JtR3JvdXA+CiAgICAgICAgICAgICAgPExhYmVsIGZvcj0icGFzc3dvcmQiPkNvbnRyYXNlw7FhPC9MYWJlbD4KICAgICAgICAgICAgICA8SW5wdXQgdHlwZT0icGFzc3dvcmQiIG5hbWU9InBhc3N3b3JkIiBpZD0icGFzc3dvcmQiIHBsYWNlaG9sZGVyPSJDb250cmFzZcOxYSIgLz4KICAgICAgICAgICAgPC9Gb3JtR3JvdXA+CiAgICAgICAgICAgIDxCdXR0b24gY2xhc3NOYW1lPSJmbG9hdC1yaWdodCI+UmVnaXN0cmFyc2U8L0J1dHRvbj4KICAgICAgICAgIDwvRm9ybT4KICAgICAgICA8L0NhcmRCb2R5PgogICAgICA8L0NhcmQ+LAogICAgICA8Q2FyZD4KICAgICAgICA8Q2FyZEJvZHk+CiAgICAgICAgICDCv1RpZW5lcyB1bmEgY3VlbnRhPyA8YSBvbkNsaWNrPXt0aGlzLm9uTW9kZUNoYW5nZSgnbG9naW4nKX0+RW50cmFyPC9hPgogICAgICAgIDwvQ2FyZEJvZHk+CiAgICAgIDwvQ2FyZD4s</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLndpdGhDcmVkZW50aWFscygpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zdCB7IHVzZXJuYW1lLCBwYXNzd29yZCB9ID0gcGF5bG9hZDsK</text>
