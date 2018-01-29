@@ -1,7 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping pattern="Rockerfile" type="Dockerfile" />
       <mapping ext="j2" type="Jinja2" />
+      <mapping pattern="make" type="Python" />
+      <mapping pattern="run" type="Python" />
+      <mapping pattern=".gitexcludes" type="Git file" />
     </extensionMap>
   </component>
 </application>
