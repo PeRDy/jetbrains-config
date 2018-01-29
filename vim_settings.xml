@@ -21,9 +21,6 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1514487270797">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="27" />
@@ -72,9 +69,6 @@
         <mark key="]" line="12" column="24" />
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/api.js" timestamp="1516740069107">
-        <mark key="[" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
@@ -446,9 +440,6 @@
         <mark key="^" line="29" column="12" />
         <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/uwsgi.ini" timestamp="1515158559645">
-        <mark key="[" line="4" column="35" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/tests_cache.py" timestamp="1452281579743">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="22" />
@@ -514,9 +505,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1515608786774">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-app/{{cookiecutter.project_slug}}/{{cookiecutter.project_slug}}/app.py" timestamp="1486485500285">
         <mark key="[" line="12" column="25" />
@@ -662,11 +650,10 @@
         <mark key="^" line="67" column="13" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/Dockerfile" timestamp="1515613149830">
-        <mark key="[" line="27" column="16" />
-      </file>
-      <file name="$USER_HOME$/Development/contentkb/contentkb-api/core/scoring.py" timestamp="1515496019011">
-        <mark key="[" line="32" column="44" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/Dockerfile" timestamp="1517226290159">
+        <mark key="[" line="37" column="7" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="8" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
@@ -769,9 +756,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="55" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1515416471398">
-        <mark key="[" line="291" column="50" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/__init__.py" timestamp="1513787204655">
         <mark key="[" line="1" column="0" />
@@ -1592,9 +1576,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisord.cfg" timestamp="1515000773080">
-        <mark key="[" line="9" column="56" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" timestamp="1511832859497">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="49" />
@@ -2073,9 +2054,6 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="74" column="74" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/index.js" timestamp="1516740000738">
-        <mark key="[" line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/Sonar/sonar-api/requirements_base.txt" timestamp="1459508771767">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="22" column="33" />
@@ -2158,12 +2136,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" timestamp="1516740154003">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/App.js" timestamp="1516129751639">
         <mark key="[" line="0" column="0" />
@@ -2276,20 +2248,11 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1516738798118">
-        <mark key="[" line="16" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/index.js" timestamp="1515612636359">
-        <mark key="[" line="4" column="32" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/nginx/Dockerfile" timestamp="1467209256885">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/public/manifest.json" timestamp="1515082402228">
-        <mark key="[" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/core/templates/core/base/base.html" timestamp="1493151645502">
         <mark key="[" line="15" column="45" />
