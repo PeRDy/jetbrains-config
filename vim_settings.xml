@@ -113,6 +113,13 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/src/apollo-client.js" timestamp="1517355235215">
+        <mark key="'" line="5" column="44" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="5" column="15" />
@@ -2239,9 +2246,9 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/webpack.config.js" timestamp="1517351272748">
-        <mark key="[" line="99" column="28" />
-        <mark key="]" line="101" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/webpack.config.js" timestamp="1517355255373">
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="92" column="90" />
         <mark key="^" line="97" column="73" />
         <mark key="." line="101" column="0" />
       </file>
@@ -2350,6 +2357,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="25" column="9" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/src/components/Profile.vue" timestamp="1517355318864">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" timestamp="1516461589041">
         <mark key="[" line="51" column="58" />
@@ -3155,7 +3168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="365" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
@@ -3255,10 +3267,11 @@
       <jump line="29" column="1" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/login.js" />
       <jump line="3" column="9" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/user.js" />
+      <jump line="5" column="44" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/src/apollo-client.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3345,7 +3358,6 @@
         <entry>%s/'build'/BUILD_PATH/g</entry>
         <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3JkL2c=</entry>
@@ -3355,6 +3367,7 @@
         <entry encoding="base64">JzwsJz5zI2NvbXBvbmVudHMvbW9sZWN1bGVzL2xvZ2luIy4jZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIucHJvamVjdF9zbHVnIH19L2c=</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
