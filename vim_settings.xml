@@ -2613,6 +2613,12 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="120" column="44" />
       </file>
+      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/.env" timestamp="1517328049339">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/docker-compose.yml" timestamp="1513879606314">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -2798,11 +2804,11 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1517325551952">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="48" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="208" column="17" />
+      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1517328524192">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="16" column="104" />
+        <mark key="." line="154" column="28" />
+        <mark key="^" line="202" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run.py" timestamp="1488285198849">
         <mark key="[" line="73" column="0" />
@@ -3173,7 +3179,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REpBTkdPX0FQUF9MT0dfRElSPS9zcnYvYXBwcy90cmF6YWJpbGlkYWQtYXBpL2xvZ3MKREpBTkdPX0NPUlNfV0hJVEVMSVNUPTEyNy4wLjAuMTo4MDAwLGxvY2FsaG9zdDo4MDAwCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3184,35 +3190,35 @@
       <register name="/" type="4">
         <text>scrapy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnd3d3LnBlcmR5LnRvcCcsCg==</text>
+      <register name="0" type="4">
+        <text>/srv/apps/trazabilidad-api/logs</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgJzEyNy4wLjAuMTo4MDAwJywKICAgICAgICAnbG9jYWxob3N0OjgwMDAnLAogICAgKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RyYXphYmlsaWRhZF9hcGknOiB7CiAgICAgICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnYmFzZV9maWxlJywgJ21haWxfYWRtaW5zJ10sCiAgICAgICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyc6IHsKICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdyb290X2ZpbGUnLCAnbWFpbF9hZG1pbnMnXSwKICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyYXphYmlsaWRhZF9hcGknOiB7CiAgICAgICAgICAgICAgICAnaGFuZGxlcnMnOiBbJ2NvbnNvbGUnLCAnYmFzZV9maWxlJywgJ21haWxfYWRtaW5zJ10sCiAgICAgICAgICAgICAgICAnbGV2ZWwnOiAnSU5GTycsCiAgICAgICAgICAgICAgICAncHJvcGFnYXRlJzogRmFsc2UsCiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29ya19qd3Qudmlld3MgaW1wb3J0IG9idGFpbl9qd3RfdG9rZW4sIHJlZnJlc2hfand0X3Rva2VuLCB2ZXJpZnlfand0X3Rva2VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJyc6IHsKICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZScsICdyb290X2ZpbGUnLCAnbWFpbF9hZG1pbnMnXSwKICAgICAgICAgICAgICAgICdsZXZlbCc6ICdJTkZPJywKICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhdGgocidsb2dpbi92ZXJpZnkvJywgdmVyaWZ5X2p3dF90b2tlbiksCiAgICBwYXRoKHInbG9naW4vcmVmcmVzaC8nLCByZWZyZXNoX2p3dF90b2tlbiksCiAgICBwYXRoKHInbG9naW4vJywgb2J0YWluX2p3dF90b2tlbiksCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29ya19qd3Qudmlld3MgaW1wb3J0IG9idGFpbl9qd3RfdG9rZW4sIHJlZnJlc2hfand0X3Rva2VuLCB2ZXJpZnlfand0X3Rva2VuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB3aGl0ZW5vaXNlLmRqYW5nbyBpbXBvcnQgRGphbmdvV2hpdGVOb2lzZQo=</text>
+        <text encoding="base64">ICAgIHBhdGgocidsb2dpbi92ZXJpZnkvJywgdmVyaWZ5X2p3dF90b2tlbiksCiAgICBwYXRoKHInbG9naW4vcmVmcmVzaC8nLCByZWZyZXNoX2p3dF90b2tlbiksCiAgICBwYXRoKHInbG9naW4vJywgb2J0YWluX2p3dF90b2tlbiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXBkYgo=</text>
+        <text encoding="base64">ZnJvbSB3aGl0ZW5vaXNlLmRqYW5nbyBpbXBvcnQgRGphbmdvV2hpdGVOb2lzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHN5Y29wZzIK</text>
+        <text encoding="base64">aXBkYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGphbmdvLWNvcnMtaGVhZGVycwo=</text>
+        <text encoding="base64">cHN5Y29wZzIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
