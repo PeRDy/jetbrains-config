@@ -527,10 +527,10 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/Dockerfile" timestamp="1517349537202">
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/Dockerfile" timestamp="1517350301319">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
         <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/ExperienceList.vue" timestamp="1498584148787">
@@ -2234,10 +2234,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/webpack.config.js" timestamp="1517347190021">
-        <mark key="[" line="42" column="18" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/webpack.config.js" timestamp="1517350569598">
+        <mark key="[" line="95" column="10" />
+        <mark key="]" line="92" column="90" />
+        <mark key="." line="92" column="90" />
+        <mark key="^" line="92" column="90" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/website/wsgi.py" timestamp="1487708364547">
         <mark key="[" line="11" column="0" />
@@ -3246,14 +3247,14 @@
       <jump line="3" column="9" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RU5WIE5PREVfU0FTU19QTEFURk9STSBhbHBpbmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiYgbnBtIHJlYnVpbGQgbm9kZS1zYXNzIC0tZm9yY2UgJiYgbnBtIGNhY2hlIGNsZWFuIC0tZm9yY2U=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">JiYgbnBtIHJlYnVpbGQgbm9kZS1zYXNzIC0tZm9yY2UgJiYgbnBtIGNhY2hlIGNsZWFuIC0tZm9yY2U=</text>
       </register>
       <register name="/" type="4">
         <text>trazabilidad</text>
