@@ -484,10 +484,10 @@
         <mark key="]" line="54" column="71" />
         <mark key="." line="54" column="71" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/scoring.py" timestamp="1517314393289">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/scoring.py" timestamp="1517315341309">
+        <mark key="[" line="62" column="22" />
+        <mark key="]" line="62" column="22" />
+        <mark key="." line="62" column="22" />
       </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/python/requirements.txt" timestamp="1516273461211">
         <mark key="[" line="0" column="0" />
@@ -2583,10 +2583,10 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="17" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/tests/test_scoring.py" timestamp="1516706589018">
-        <mark key="[" line="78" column="23" />
-        <mark key="]" line="78" column="23" />
-        <mark key="." line="78" column="23" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/tests/test_scoring.py" timestamp="1517315993282">
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/docker-compose.yml" timestamp="1516965986649">
         <mark key="[" line="46" column="0" />
@@ -2840,46 +2840,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXhfaXRlbXMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2l0ZW1zCgo=</text>
+        <text encoding="base64">ICAgICAgICBzY29yZXMgPSBzY29yaW5nLnN5bm9wc2lzKHN5bm9wc2lzLCBjYW5kaWRhdGVzLCBrZXlzPVsnaW1kYl9fZW5fX2Rlc2NyaXB0aW9uJ10sIG1heF9yZXN1bHRzPTEwKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>list(zip([i[0] for i in descriptions], [i[1] for i in scores]))</text>
       </register>
       <register name="/" type="4">
         <text>warn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgXywgcHJvcHMgaW4gKChrLCB2KSBmb3IgKGssIHYpIGluIGNscy5MT0dHSU5HWydsb2dnZXJzJ10uaXRlbXMoKSBpZiB2WydsZXZlbCddICE9ICdJTkZPJyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY29yZXMgPSBzY29yaW5nLnN5bm9wc2lzKHN5bm9wc2lzLCBjYW5kaWRhdGVzLCBrZXlzPVsnaW1kYl9fZW5fX2Rlc2NyaXB0aW9uJywgJ3Rtc19fc3lub3BfX2VuJ10sIG1heF9yZXN1bHRzPTIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXhfaXRlbXMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2l0ZW1zCgo=</text>
+        <text encoding="base64">ICAgICAgICBzY29yZXMgPSBzY29yaW5nLnN5bm9wc2lzKHN5bm9wc2lzLCBjYW5kaWRhdGVzLCBrZXlzPVsnaW1kYl9fZW5fX2Rlc2NyaXB0aW9uJ10sIG1heF9yZXN1bHRzPTEwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHNlbGYubWRfMS50bXNbJ3N5bm9wJ11bJ2VuJ10sIDAuOCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wID0gc2VsZi50b3AKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHNlbGYubWRfMS50bXNbJ3N5bm9wJ11bJ2VuJ10sIDAuOCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tID0gc2VsZi5ib3R0b20KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHNlbGYubWRfMS5pbWRiWydlbiddWydkZXNjcmlwdGlvbiddLCAwLjkpLAogICAgICAgICAgICAoc2VsZi5tZF8yLmltZGJbJ2VuJ11bJ2Rlc2NyaXB0aW9uJ10sIDAuMSksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0LmZ1bGwoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHNlbGYubWRfMS50bXNbJ3N5bm9wJ11bJ2VuJ10sIDAuOCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXhfaXRlbXMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2l0ZW1zCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC51cGRhdGUoKQogICAgCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aGFyYWtpcmkgPSA2MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wID0gc2VsZi50b3AKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBfLCBwcm9wcyBpbiAoKGssIHYpIGZvciAoaywgdikgaW4gY2xzLkxPR0dJTkdbJ2xvZ2dlcnMnXS5pdGVtcygpIGlmIHZbJ2xldmVsJ10gIT0gJ0lORk8nKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tID0gc2VsZi5ib3R0b20KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
