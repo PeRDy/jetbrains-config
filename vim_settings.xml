@@ -90,8 +90,8 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1517325120133">
-        <mark key="[" line="14" column="14" />
+      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1517331616098">
+        <mark key="[" line="15" column="18" />
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
@@ -278,6 +278,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="71" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/iam/urls.py" timestamp="1517331259475">
+        <mark key="[" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/runtests.py" timestamp="1488202505665">
         <mark key="[" line="24" column="96" />
@@ -2804,11 +2807,11 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1517328524192">
-        <mark key="[" line="16" column="74" />
-        <mark key="]" line="16" column="104" />
-        <mark key="." line="154" column="28" />
-        <mark key="^" line="202" column="17" />
+      <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1517331681716">
+        <mark key="[" line="183" column="15" />
+        <mark key="]" line="191" column="7" />
+        <mark key="." line="191" column="7" />
+        <mark key="^" line="191" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run.py" timestamp="1488285198849">
         <mark key="[" line="73" column="0" />
