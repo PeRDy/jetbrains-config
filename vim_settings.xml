@@ -1838,6 +1838,13 @@
         <mark key="^" line="311" column="17" />
         <mark key="." line="314" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/perdy_site/settings/base.py" timestamp="1517348933961">
+        <mark key="'" line="15" column="91" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="96" />
+        <mark key="^" line="15" column="91" />
+        <mark key="." line="234" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/souft/huerteo/huerteo-api/huerteo_api/urls.py" timestamp="1516118048969">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="90" />
@@ -2137,11 +2144,11 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/Dockerfile" timestamp="1517348319699">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-        <mark key="^" line="1" column="32" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/Dockerfile" timestamp="1517349227095">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/requirements-tests.txt" timestamp="1513874849419">
         <mark key="[" line="0" column="0" />
@@ -3054,7 +3061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="363" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="364" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="365" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
@@ -3154,10 +3160,11 @@
       <jump line="24" column="25" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="101" column="41" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="29" column="1" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
+      <jump line="15" column="91" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/perdy_site/settings/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBDb21waWxlIHN0YXRpY3MKUlVOIG5wbSBydW4gYnVpbGQKCg==</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iUGVSRHkgKGh0dHBzOi8vd3d3LnBlcmR5LnRvcCkiCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3166,46 +3173,46 @@
         <text>passenger</text>
       </register>
       <register name="/" type="4">
-        <text>scrapy</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnd3d3LnBlcmR5LnRvcCcsCg==</text>
+        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iUGVSRHkgKGh0dHBzOi8vd3d3LnBlcmR5LnRvcCkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDb21waWxlIHN0YXRpY3MKUlVOIG5wbSBydW4gYnVpbGQKCg==</text>
+        <text encoding="base64">ICAgIE1FRElBX1JPT1QgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnbWVkaWEnKSkgICMgQ29weSBtZWRpYSBmaWxlcyB0byAuL21lZGlhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnY2xpZW50JywgJ3NyYycsICdpbWcnKSksCiAgICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKQ09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24gJFdPUktESVIvClJVTiBucG0gaW5zdGFsbAo=</text>
+        <text encoding="base64">ICAgIFNUQVRJQ0ZJTEVTX0RJUlMgPSBbCiAgICAgICAgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ2NsaWVudCcsICdkaXN0JykpLAogICAgICAgIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdjbGllbnQnLCAnc3JjJywgJ3N0YXRpYycpKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
+        <text encoding="base64">IyBDb21waWxlIHN0YXRpY3MKUlVOIG5wbSBydW4gYnVpbGQKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXNzZXRzLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKQ09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24gJFdPUktESVIvClJVTiBucG0gaW5zdGFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xpZW50L2Rpc3QK</text>
+        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB3aGl0ZW5vaXNlLmRqYW5nbyBpbXBvcnQgRGphbmdvV2hpdGVOb2lzZQo=</text>
+        <text encoding="base64">YXNzZXRzLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aXBkYgo=</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>scrapy</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>scrapy</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>components/molecules/login</last-substitute>
       <last-dir>1</last-dir>
@@ -3213,7 +3220,6 @@
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
         <entry>username</entry>
         <entry>response_text</entry>
         <entry>finally</entry>
@@ -3233,6 +3239,7 @@
         <entry>\[\(.*\)\]=</entry>
         <entry>celery</entry>
         <entry>scrapy</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
