@@ -484,6 +484,11 @@
         <mark key="]" line="54" column="71" />
         <mark key="." line="54" column="71" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/scoring.py" timestamp="1517314393289">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/python/requirements.txt" timestamp="1516273461211">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1290,8 +1295,11 @@
         <mark key="^" line="41" column="48" />
         <mark key="." line="41" column="48" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/utils/collections.py" timestamp="1516615430365">
-        <mark key="[" line="71" column="10" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/utils/collections.py" timestamp="1517314569632">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="149" column="40" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/auth.py" timestamp="1505159913366">
         <mark key="[" line="33" column="18" />
@@ -1670,7 +1678,6 @@
         <mark key="." line="41" column="10" />
         <mark key="^" line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-337502517/rest_framework_sequoia/viewsets.py" timestamp="1516975450035" />
       <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/settings/development.py" timestamp="1513874183464">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1747,7 +1754,6 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-337502517/rest_framework/pagination.py" timestamp="1516977223037" />
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/base.py" timestamp="1504952907783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -2834,13 +2840,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aGFyYWtpcmkgPSA2MAo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXhfaXRlbXMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2l0ZW1zCgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>console</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>warn</text>
@@ -2849,31 +2855,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgXywgcHJvcHMgaW4gKChrLCB2KSBmb3IgKGssIHYpIGluIGNscy5MT0dHSU5HWydsb2dnZXJzJ10uaXRlbXMoKSBpZiB2WydsZXZlbCddICE9ICdJTkZPJyk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGFyYWtpcmkgPSA2MAo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXhfaXRlbXMoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2l0ZW1zCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBfLCBwcm9wcyBpbiAoKGssIHYpIGZvciAoaywgdikgaW4gY2xzLkxPR0dJTkdbJ2xvZ2dlcnMnXS5pdGVtcygpIGlmIHZbJ2xldmVsJ10gIT0gJ0lORk8nKToK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGlzX2Z1bGwoc2VsZikgLT4gYm9vbDoKICAgICAgICByZXR1cm4gc3VwZXIoKS5fX2xlbl9fKCkgPT0gc2VsZi5faXRlbXMKCiAgICBAcHJvcGVydHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wID0gc2VsZi50b3AKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsZXZlbCc6ICdXQVJOSU5HJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tID0gc2VsZi5ib3R0b20KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVzdWx0LmZ1bGwoKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBGYWxzZSwKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdoYW5kbGVycyc6IFsnY29uc29sZSddLAogICAgICAgICAgICAgICAgJ2xldmVsJzogJ1dBUk5JTkcnLAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC51cGRhdGUoKQogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBEaXNhYmxlIGFubm95aW5nIGxvZ2dpbmc6ICgncGF0dGVybicgcGFja2FnZSBub3QgZm91bmQpCiAgICAgICAgICAgICdzdW1tYSc6IHsK</text>
+        <text encoding="base64">aGFyYWtpcmkgPSA2MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9wYWdhdGUnOiBUcnVlLAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBfLCBwcm9wcyBpbiAoKGssIHYpIGZvciAoaywgdikgaW4gY2xzLkxPR0dJTkdbJ2xvZ2dlcnMnXS5pdGVtcygpIGlmIHZbJ2xldmVsJ10gIT0gJ0lORk8nKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
