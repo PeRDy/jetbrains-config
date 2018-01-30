@@ -2524,6 +2524,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/perdy_site/urls.py" timestamp="1517356139039">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/sass.js" timestamp="1489336231361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="2" />
@@ -3170,7 +3175,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iUGVSRHkgKGh0dHBzOi8vd3d3LnBlcmR5LnRvcCkiCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15mYXZpY29uLmljby8/JCcsIFJlZGlyZWN0Vmlldy5hc192aWV3KHVybD0nL3N0YXRpYy9mYXZpY29uLmljbycsIHBlcm1hbmVudD1UcnVlKSksCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3185,31 +3190,31 @@
         <text encoding="base64">TEFCRUwgbWFpbnRhaW5lcj0iUGVSRHkgKGh0dHBzOi8vd3d3LnBlcmR5LnRvcCkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1FRElBX1JPT1QgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnbWVkaWEnKSkgICMgQ29weSBtZWRpYSBmaWxlcyB0byAuL21lZGlhCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15mYXZpY29uLmljby8/JCcsIFJlZGlyZWN0Vmlldy5hc192aWV3KHVybD0nL3N0YXRpYy9mYXZpY29uLmljbycsIHBlcm1hbmVudD1UcnVlKSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnY2xpZW50JywgJ3NyYycsICdpbWcnKSksCiAgICBdCg==</text>
+        <text encoding="base64">ICAgIE1FRElBX1JPT1QgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnbWVkaWEnKSkgICMgQ29weSBtZWRpYSBmaWxlcyB0byAuL21lZGlhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNUQVRJQ0ZJTEVTX0RJUlMgPSBbCiAgICAgICAgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ2NsaWVudCcsICdkaXN0JykpLAogICAgICAgIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdjbGllbnQnLCAnc3JjJywgJ3N0YXRpYycpKSwK</text>
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEJBU0VfRElSLCAnY2xpZW50JywgJ3NyYycsICdpbWcnKSksCiAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDb21waWxlIHN0YXRpY3MKUlVOIG5wbSBydW4gYnVpbGQKCg==</text>
+        <text encoding="base64">ICAgIFNUQVRJQ0ZJTEVTX0RJUlMgPSBbCiAgICAgICAgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ2NsaWVudCcsICdkaXN0JykpLAogICAgICAgIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdjbGllbnQnLCAnc3JjJywgJ3N0YXRpYycpKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDb21waWxlIHN0YXRpY3MKUlVOIG5wbSBydW4gYnVpbGQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKQ09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24gJFdPUktESVIvClJVTiBucG0gaW5zdGFsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
+        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKQ09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24gJFdPUktESVIvClJVTiBucG0gaW5zdGFsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXNzZXRzLwo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">YXNzZXRzLwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
