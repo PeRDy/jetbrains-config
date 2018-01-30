@@ -227,6 +227,11 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/.dockerignore" timestamp="1517348270090">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/supervisor/supervisord.conf" timestamp="1467214711657">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="4" column="34" />
@@ -296,6 +301,9 @@
         <mark key="]" line="8" column="29" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1517348024100">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy_site/settings/production.py" timestamp="1517261592129">
         <mark key="[" line="38" column="75" />
@@ -2129,6 +2137,12 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/Dockerfile" timestamp="1517348319699">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/requirements-tests.txt" timestamp="1513874849419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3143,7 +3157,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB3aGl0ZW5vaXNlLmRqYW5nbyBpbXBvcnQgRGphbmdvV2hpdGVOb2lzZQo=</text>
+        <text encoding="base64">IyBDb21waWxlIHN0YXRpY3MKUlVOIG5wbSBydW4gYnVpbGQKCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3158,31 +3172,31 @@
         <text encoding="base64">ICAgICAgICAnd3d3LnBlcmR5LnRvcCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB3aGl0ZW5vaXNlLmRqYW5nbyBpbXBvcnQgRGphbmdvV2hpdGVOb2lzZQo=</text>
+        <text encoding="base64">IyBDb21waWxlIHN0YXRpY3MKUlVOIG5wbSBydW4gYnVpbGQKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXBkYgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHN5Y29wZzIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGphbmdvLWNvcnMtaGVhZGVycwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEhFQUxUSF9DSEVDS19QUk9WSURFUlMgPSB7CiAgICAgICAgJ2hlYWx0aCc6ICgKICAgICAgICAgICAgKCdwaW5nJywgJ2hlYWx0aF9jaGVjay5wcm92aWRlcnMuaGVhbHRoLnBpbmcnLCBOb25lLCBOb25lKSwKICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uaGVhbHRoLmRhdGFiYXNlcycsIE5vbmUsIE5vbmUpLAogICAgICAgICksCiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBJbnN0YWxsIGZyb250LWVuZCBkZXBlbmRlbmNpZXMKQ09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24gJFdPUktESVIvClJVTiBucG0gaW5zdGFsbAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBub2RlanMgXAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YXNzZXRzLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApLAogICAgfQo=</text>
+        <text encoding="base64">Y2xpZW50L2Rpc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdwaW5nJywgJ2hlYWx0aF9jaGVjay5wcm92aWRlcnMuaGVhbHRoLnBpbmcnLCBOb25lLCBOb25lKSwKICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uaGVhbHRoLmRhdGFiYXNlcycsIE5vbmUsIE5vbmUpLAo=</text>
+        <text encoding="base64">ZnJvbSB3aGl0ZW5vaXNlLmRqYW5nbyBpbXBvcnQgRGphbmdvV2hpdGVOb2lzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQ2hlY2sgcHJvdmlkZXJzIGZvciBoZWFsdGgtY2hlY2sKICAgIEhFQUxUSF9DSEVDS19QUk9WSURFUlMgPSB7CiAgICAgICAgJ2hlYWx0aCc6ICgK</text>
+        <text encoding="base64">aXBkYgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
