@@ -304,6 +304,9 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="29" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Page.jsx" timestamp="1517426582330">
+        <mark key="[" line="87" column="15" />
+      </file>
       <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1517325598310">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -492,6 +495,10 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/index.jsx" timestamp="1517427865275">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/README.md" timestamp="1517225742020">
         <mark key="[" line="1" column="0" />
@@ -750,8 +757,8 @@
         <mark key="]" line="15" column="46" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Switch.jsx" timestamp="1517425710864">
-        <mark key="[" line="40" column="16" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Switch.jsx" timestamp="1517428477350">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -807,6 +814,11 @@
         <mark key="]" line="98" column="8" />
         <mark key="^" line="98" column="8" />
         <mark key="." line="98" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/api/iam.js" timestamp="1517428525521">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/gurumelo/supervisor/units/storj.ini" timestamp="1508604150202">
         <mark key="[" line="3" column="160" />
@@ -2043,6 +2055,12 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1517428381079">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/base.py" timestamp="1504952907783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -3114,6 +3132,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" timestamp="1517429317790">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="5945" column="0" />
+        <mark key="]" line="5945" column="32" />
+        <mark key="." line="5945" column="33" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1516133972762">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="11" column="14" />
@@ -3173,7 +3197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/2035706772/-337502517/schedule/__init__.py" />
       <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
@@ -3273,58 +3296,59 @@
       <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/login.js" />
       <jump line="3" column="9" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/user.js" />
       <jump line="5" column="44" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/src/apollo-client.js" />
+      <jump line="17" column="21" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItcmVkdXgnCg==</text>
+      <register name="&quot;" type="4">
+        <text>react-router-redux@^5.0.0-alpha.9</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>settings</text>
       </register>
       <register name="/" type="4">
-        <text>trazabilidad</text>
+        <text>router</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlhcyAvc3J2L2FwcHMvcGVyZHktc2l0ZS13ZWIvYXBwL2J1aWxkL3N0YXRpYy87Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItcmVkdXgnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvQ29ubmVjdGVkUm91dGVyPgo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxDb25uZWN0ZWRSb3V0ZXIgaGlzdG9yeT17aGlzdG9yeX0+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVxdWlyZUF1dGggPSB0aGlzLnJlcXVpcmVBdXRoLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdAo=</text>
+        <text encoding="base64">Y29uc3QgcHJvcFR5cGVzID0gewp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyLXNxdWFzaCAtdCAkQ0lfUkVHSVNUUllfSU1BR0Uvc21ldHJpY3M6bGF0ZXN0ICRJTUFHRV9UQUcK</text>
+        <text encoding="base64">ClN3aXRjaC5wcm9wVHlwZXMgPSBwcm9wVHlwZXM7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHBpcCBpbnN0YWxsIC1VIGRvY2tlci1zcXVhc2gK</text>
+        <text encoding="base64">Y29uc3QgbWFwRGlzcGF0Y2hUb1Byb3BzID0ge307Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIGFwayB1cGRhdGUgJiYgYXBrIGFkZCBweS1waXAK</text>
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gc3RhdGUgPT4gKHsKfSk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9LGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMK</text>
+        <text encoding="base64">ICBpc0xvZ2dlZDogaXNVc2VyTG9nZ2VkKHN0YXRlKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>trazabilidad</last-search>
+      <last-search>router</last-search>
       <last-offset />
-      <last-pattern>trazabilidad</last-pattern>
+      <last-pattern>router</last-pattern>
       <last-replace>{{ cookiecutter.project_slug }}</last-replace>
       <last-substitute>trazabilidad</last-substitute>
       <last-dir>1</last-dir>
@@ -3332,8 +3356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self\(, \)?</entry>
-        <entry>self\(, \)\?</entry>
         <entry>schedule</entry>
         <entry>schedule =</entry>
         <entry>every</entry>
@@ -3352,6 +3374,8 @@
         <entry>Username</entry>
         <entry>components/molecules/login</entry>
         <entry>trazabilidad</entry>
+        <entry>react-redux-router</entry>
+        <entry>router</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
