@@ -2179,11 +2179,11 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517567305094">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517569960520">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/base.py" timestamp="1453241076350">
         <mark key="[" line="20" column="0" />
@@ -2231,9 +2231,10 @@
         <mark key="]" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517567742349">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="51" column="23" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517569609553">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="44" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
@@ -3309,47 +3310,47 @@
       <jump line="17" column="21" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PEZvcm1Hcm91cD4KICAgICAgICAgICAgICA8TGFiZWwgZm9yPSJ1c2VybmFtZSI+Tm9tYnJlPC9MYWJlbD4KICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgIG5hbWU9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgaWQ9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Ik5vbWJyZSBkZSB1c3VhcmlvIgogICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMub25Vc2VybmFtZUNoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L0Zvcm1Hcm91cD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>Username</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PEZvcm1Hcm91cD4KICAgICAgICAgICAgICA8TGFiZWwgZm9yPSJ1c2VybmFtZSI+Tm9tYnJlPC9MYWJlbD4KICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgIG5hbWU9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgaWQ9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Ik5vbWJyZSBkZSB1c3VhcmlvIgogICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMub25Vc2VybmFtZUNoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L0Zvcm1Hcm91cD4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2V0VXNlcm5hbWUoZXZlbnQudGFyZ2V0LnZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVxdWlyZUF1dGggPSB0aGlzLnJlcXVpcmVBdXRoLmJpbmQodGhpcyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PExhYmVsIGZvcj0idXNlcm5hbWUiPk5vbWJyZTwvTGFiZWw+CiAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICBuYW1lPSJ1c2VybmFtZSIKICAgICAgICAgICAgICAgIGlkPSJ1c2VybmFtZSIKICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJOb21icmUgZGUgdXN1YXJpbyIKICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLm9uVXNlcm5hbWVDaGFuZ2V9CiAgICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcHJvcFR5cGVzID0gewp9Owo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ClN3aXRjaC5wcm9wVHlwZXMgPSBwcm9wVHlwZXM7Cgo=</text>
+        <text encoding="base64">ICAgIHRoaXMucmVxdWlyZUF1dGggPSB0aGlzLnJlcXVpcmVBdXRoLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbWFwRGlzcGF0Y2hUb1Byb3BzID0ge307Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gc3RhdGUgPT4gKHsKfSk7Cgo=</text>
+        <text encoding="base64">Y29uc3QgcHJvcFR5cGVzID0gewp9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpc0xvZ2dlZDogaXNVc2VyTG9nZ2VkKHN0YXRlKSwK</text>
+        <text encoding="base64">ClN3aXRjaC5wcm9wVHlwZXMgPSBwcm9wVHlwZXM7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
