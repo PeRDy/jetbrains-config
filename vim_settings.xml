@@ -2179,6 +2179,12 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517567305094">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/base.py" timestamp="1453241076350">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="45" />
@@ -2224,6 +2230,10 @@
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="41" />
         <mark key="." line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517567742349">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="51" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
@@ -3300,7 +3310,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>react-router-redux@^5.0.0-alpha.9</text>
+        <text encoding="base64">PEZvcm1Hcm91cD4KICAgICAgICAgICAgICA8TGFiZWwgZm9yPSJ1c2VybmFtZSI+Tm9tYnJlPC9MYWJlbD4KICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgIG5hbWU9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgaWQ9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Ik5vbWJyZSBkZSB1c3VhcmlvIgogICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMub25Vc2VybmFtZUNoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L0Zvcm1Hcm91cD4=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3311,8 +3321,8 @@
       <register name="/" type="4">
         <text>router</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PEZvcm1Hcm91cD4KICAgICAgICAgICAgICA8TGFiZWwgZm9yPSJ1c2VybmFtZSI+Tm9tYnJlPC9MYWJlbD4KICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgIG5hbWU9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgaWQ9InVzZXJuYW1lIgogICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Ik5vbWJyZSBkZSB1c3VhcmlvIgogICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMub25Vc2VybmFtZUNoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L0Zvcm1Hcm91cD4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
