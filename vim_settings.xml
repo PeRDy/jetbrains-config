@@ -2240,12 +2240,12 @@
         <mark key="]" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517579202223">
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517589017504">
         <mark key="'" line="16" column="15" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="47" column="5" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="23" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
@@ -3006,11 +3006,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" timestamp="1517587330544">
-        <mark key="'" line="33" column="2" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" timestamp="1517587977573">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/App.js" timestamp="1516129751639">
         <mark key="[" line="0" column="0" />
@@ -3137,12 +3137,12 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" timestamp="1517579397773">
-        <mark key="'" line="79" column="46" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" timestamp="1517589058443">
+        <mark key="'" line="80" column="46" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="70" column="42" />
+        <mark key="^" line="70" column="42" />
+        <mark key="." line="70" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/hashcode_pizza/app.py" timestamp="1487704912524">
         <mark key="[" line="32" column="0" />
@@ -3233,7 +3233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="313" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="312" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="311" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
@@ -3333,16 +3332,17 @@
       <jump line="34" column="6" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.dev.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.prod.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.config.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9uQ2xpY2s9e3RoaXMub25Gb3JtU3VibWl0fQ==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">IG9uQ2xpY2s9e3RoaXMub25Gb3JtU3VibWl0fQ==</text>
       </register>
       <register name="/" type="4">
         <text>this.slug</text>
@@ -3351,31 +3351,31 @@
         <text encoding="base64">ICAgICAgd2luZG93OiB7CiAgICAgICAgZW52OiB7CiAgICAgICAgICBhcGlIb3N0OiAnaHR0cDovL2xvY2FsaG9zdDo4MDAxJywKICAgICAgICB9LAogICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG9rZW4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnNldCgneC1jc3JmdG9rZW4nLCBJQU0uY3NyZigpKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnNldCgneC1jc3JmdG9rZW4nLCBJQU0uY3NyZigpKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLnNldCgneC1jc3JmdG9rZW4nLCBJQU0uY3NyZigpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0aWMgc2V0Q1NSRigpCgo=</text>
+        <text encoding="base64">ICAgICAgLnNldCgneC1jc3JmdG9rZW4nLCBJQU0uY3NyZigpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgc2V0Q1NSRigpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RoaXMuc2x1Zy90aGlzLnNsdWcoKS9n</text>
