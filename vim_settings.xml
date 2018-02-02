@@ -162,10 +162,10 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/user.js" timestamp="1517237772799">
-        <mark key="[" line="34" column="81" />
-        <mark key="]" line="34" column="80" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/user.js" timestamp="1517571779271">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1513649130837">
         <mark key="[" line="35" column="21" />
@@ -2179,11 +2179,11 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517569960520">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-        <mark key="^" line="30" column="29" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517571661222">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="30" column="65" />
+        <mark key="." line="30" column="65" />
+        <mark key="^" line="30" column="65" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/base.py" timestamp="1453241076350">
         <mark key="[" line="20" column="0" />
@@ -2231,10 +2231,11 @@
         <mark key="]" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517569609553">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="44" column="14" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517571727883">
+        <mark key="[" line="54" column="118" />
+        <mark key="]" line="54" column="105" />
+        <mark key="." line="54" column="105" />
+        <mark key="^" line="54" column="105" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
@@ -3149,11 +3150,12 @@
         <mark key="]" line="5945" column="32" />
         <mark key="." line="5945" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1516133972762">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="11" column="14" />
-        <mark key="^" line="11" column="14" />
-        <mark key="." line="11" column="14" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1517572540776">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="70" />
+        <mark key="^" line="19" column="58" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1516491768091">
         <mark key="[" line="189" column="79" />
@@ -3208,18 +3210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/test_flights.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="92" column="29" filename="$USER_HOME$/Desarrollo/souft/estalk-eo/src/components/SocialNetwork.js" />
-      <jump line="64" column="13" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="357" column="38" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="317" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="365" column="33" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="369" column="67" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="433" column="47" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/bot.py" />
-      <jump line="155" column="19" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="412" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="364" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="362" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
@@ -3308,67 +3298,77 @@
       <jump line="3" column="9" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/user.js" />
       <jump line="5" column="44" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/src/apollo-client.js" />
       <jump line="17" column="21" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="40" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="41" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="42" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLnN0cmluZywK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNldExvZ2luRXJyb3JFbWFpbCA9IGNyZWF0ZUFjdGlvbihMT0dJTl9FUlJPUl9FTUFJTF9TRVQpOwo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Username</text>
+        <text encoding="base64">bG9naW4g</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>EMAIL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2V0VXNlcm5hbWUoZXZlbnQudGFyZ2V0LnZhbHVlKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNldExvZ2luRXJyb3JFbWFpbCA9IGNyZWF0ZUFjdGlvbihMT0dJTl9FUlJPUl9FTUFJTF9TRVQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLnN0cmluZywK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdFVzZXJFcnJvciA9IGNyZWF0ZVNlbGVjdG9yKFtzZWxlY3RVc2VyXSwgdXNlciA9PiB1c2VyLmVycm9yKTsKZXhwb3J0IGNvbnN0IHNlbGVjdFVzZXJFcnJvck1lc3NhZ2UgPSBjcmVhdGVTZWxlY3Rvcihbc2VsZWN0VXNlckVycm9yXSwgZXJyb3IgPT4gKGVycm9yID8gZXJyb3IubWVzc2FnZSA6IG51bGwpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbVVNFUl9FUlJPUl9TRVRdOiAoc3RhdGUsIHsgcGF5bG9hZCB9KSA9PiAoeyAuLi5zdGF0ZSwgZXJyb3I6IHBheWxvYWQgfSksCiAgW1VTRVJfRVJST1JfUkVNT1ZFXTogc3RhdGUgPT4gKHsgLi4uc3RhdGUsIGVycm9yOiBudWxsIH0pLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PExhYmVsIGZvcj0idXNlcm5hbWUiPk5vbWJyZTwvTGFiZWw+CiAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICBuYW1lPSJ1c2VybmFtZSIKICAgICAgICAgICAgICAgIGlkPSJ1c2VybmFtZSIKICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJOb21icmUgZGUgdXN1YXJpbyIKICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLm9uVXNlcm5hbWVDaGFuZ2V9CiAgICAgICAgICAgICAgLz4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVTRVJfRVJST1JfU0VUID0gJ2h1ZXJ0ZW8vdXNlci1lcnJvci9TRVQnOwpleHBvcnQgY29uc3QgVVNFUl9FUlJPUl9SRU1PVkUgPSAnaHVlcnRlby91c2VyLWVycm9yL1JFTU9WRSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHJlbW92ZVVzZXJFcnJvciA9IGNyZWF0ZUFjdGlvbihVU0VSX0VSUk9SX1JFTU9WRSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogIH0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNldFVzZXJFcnJvciA9IGNyZWF0ZUFjdGlvbihVU0VSX0VSUk9SX1NFVCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVxdWlyZUF1dGggPSB0aGlzLnJlcXVpcmVBdXRoLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICBlcnJvcjogbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcHJvcFR5cGVzID0gewp9Owo=</text>
+        <text encoding="base64">ICB2YWx1ZTogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClN3aXRjaC5wcm9wVHlwZXMgPSBwcm9wVHlwZXM7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/EMAIL/PASSWORD/g</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>EMAIL</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
-      <last-replace>{{ cookiecutter.project_slug }}</last-replace>
-      <last-substitute>trazabilidad</last-substitute>
+      <last-pattern>EMAIL</last-pattern>
+      <last-replace>PASSWORD</last-replace>
+      <last-substitute>EMAIL</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>schedule</entry>
-        <entry>schedule =</entry>
         <entry>every</entry>
         <entry>'.*'</entry>
         <entry>self._api</entry>
@@ -3380,24 +3380,17 @@
         <entry>data</entry>
         <entry>url(</entry>
         <entry>'build'</entry>
-        <entry>email</entry>
         <entry>1</entry>
         <entry>Username</entry>
         <entry>components/molecules/login</entry>
         <entry>trazabilidad</entry>
         <entry>react-redux-router</entry>
         <entry>router</entry>
+        <entry>email</entry>
+        <entry>Email</entry>
+        <entry>EMAIL</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bhc3N3b3Jk</entry>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FjY291bnQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2FwaV9wYXNzd29yZC9n</entry>
-        <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RleHQvc3RhdHVzX21lc3NhZ2UvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
-        <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
-        <entry>%s/'build'/BUILD_PATH/g</entry>
-        <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
-        <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3Jk</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3Bhc3N3b3JkL2c=</entry>
@@ -3409,6 +3402,15 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>s/email/generic/g</entry>
+        <entry>s/email/username/g</entry>
+        <entry>s/email/password/g</entry>
+        <entry>s/Email/Generic/g</entry>
+        <entry>s/Email/Username/g</entry>
+        <entry>s/Email/Password/g</entry>
+        <entry>s/EMAIL/GENERIC/g</entry>
+        <entry>s/EMAIL/USERNAME/g</entry>
+        <entry>s/EMAIL/PASSWORD/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
