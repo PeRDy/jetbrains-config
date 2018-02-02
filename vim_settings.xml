@@ -1912,6 +1912,12 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/DjangoCSRFToken.jsx" timestamp="1517585488106">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1513636084356">
         <mark key="[" line="10" column="81" />
         <mark key="]" line="10" column="81" />
@@ -3332,7 +3338,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3347,27 +3353,30 @@
         <text encoding="base64">ICAgICAgd2luZG93OiB7CiAgICAgICAgZW52OiB7CiAgICAgICAgICBhcGlIb3N0OiAnaHR0cDovL2xvY2FsaG9zdDo4MDAxJywKICAgICAgICB9LAogICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQcm9wVHlwZXMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi93ZWJwYWNrLmNvbmZpZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi93ZWJwYWNrLmNvbmZpZycpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7CmNvbnN0IGh0bWxXZWJwYWNrVGVtcGxhdGUgPSByZXF1aXJlKCdodG1sLXdlYnBhY2stdGVtcGxhdGUnKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>new HtmlWebpackPlugin({
       inject: false,
       template: htmlWebpackTemplate,
@@ -3394,9 +3403,6 @@
         },
       ],
     }),</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBpZgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RoaXMuc2x1Zy90aGlzLnNsdWcoKS9n</text>
