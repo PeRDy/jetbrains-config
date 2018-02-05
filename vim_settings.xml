@@ -120,12 +120,12 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" timestamp="1517846885304">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="87" column="28" />
-        <mark key="." line="87" column="28" />
-        <mark key="^" line="87" column="28" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" timestamp="1517848733327">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="111" column="84" />
+        <mark key="." line="111" column="84" />
+        <mark key="^" line="111" column="84" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
@@ -3256,8 +3256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
-      <jump line="310" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="304" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="303" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="297" column="8" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
@@ -3356,10 +3354,12 @@
       <jump line="15" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" />
+      <jump line="95" column="29" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRvcl9jbGFzcyA9IFBhZ2VOdW1iZXJQYWdpbmF0aW9uCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlX25hbWUgPSAnbWV0YWRhdGEtc2VhcmNoJwo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3376,31 +3376,31 @@
                              viewsets.GenericViewSet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRvcl9jbGFzcyA9IFBhZ2VOdW1iZXJQYWdpbmF0aW9uCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlX25hbWUgPSAnbWV0YWRhdGEtc2VhcmNoJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRvcl9jbGFzcyA9IFBhZ2VOdW1iZXJQYWdpbmF0aW9uCg==</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc3NldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5yZXNwb25zZSBpbXBvcnQgUmVzcG9uc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICByZXBsYWNlX2t3YXJncyA9IHsKICAgICAgICAnZGlhbGVjdCc6ICdjb250ZW50a2InLAogICAgICAgICdwa3MnOiBbJ2lkJ10sCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHBhZ2luYXRvcl9jbGFzcyA9IFBhZ2VOdW1iZXJQYWdpbmF0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG1peGlucy5SZXBsYWNlTW9kZWxNaXhpbiwK</text>
+        <text encoding="base64">ICAgIHBhZ2luYXRvcl9jbGFzcyA9IFBhZ2VOdW1iZXJQYWdpbmF0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcl9iYWNrZW5kcyA9IChyZXN0X2ZyYW1ld29ya19maWx0ZXJzLmJhY2tlbmRzLkRqYW5nb0ZpbHRlckJhY2tlbmQsKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICByZXBsYWNlX2t3YXJncyA9IHsKICAgICAgICAnZGlhbGVjdCc6ICdjb250ZW50a2InLAogICAgICAgICdwa3MnOiBbJ2lkJ10sCiAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfY2FuZGlkYXRlcyhzZWxmLCByZXF1ZXN0KToKICAgICAgICAjIENyZWF0ZSBhIGRpY3QgZmxhdHRpbmcgcGFyYW0gdmFsdWVzIHRoYXQgaGFzIG9ubHkgb25lIGVsZW1lbnQKICAgICAgICBtZXRhZGF0YV9maWx0ZXIgPSBNZXRhZGF0YUZpbHRlcihyZXF1ZXN0LnF1ZXJ5X3BhcmFtcykKICAgICAgICBmaWx0ZXJfZmllbGRzID0gc2V0KG1ldGFkYXRhX2ZpbHRlci5nZXRfZmlsdGVycygpLmtleXMoKSkKICAgICAgICBmaWx0ZXJfcGFyYW1zID0gRmxleEtleURpY3QoWyhrLCB2KSBmb3IgaywgdiBpbiByZXF1ZXN0LnF1ZXJ5X3BhcmFtcy5pdGVtcygpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBrIGluIGZpbHRlcl9maWVsZHNdKQoKICAgICAgICBpZiBub3QgZmlsdGVyX3BhcmFtczoKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdBdCBsZWFzdCBhIHBhcmFtZXRlciBtdXN0IGJlIHNwZWNpZmllZCcpCgogICAgICAgICMgR2VuZXJhdGUgY2FuZGlkYXRlcyB1c2luZyBmaWx0ZXJzIGluIHF1ZXJ5IHBhcmFtZXRlcnMKICAgICAgICByZXR1cm4gbWV0YWRhdGFfZmlsdGVyLnFzCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG1peGlucy5SZXBsYWNlTW9kZWxNaXhpbiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfY2FuZGlkYXRlcyhzZWxmLCByZXF1ZXN0KToKICAgICAgICAjIENyZWF0ZSBhIGRpY3QgZmxhdHRpbmcgcGFyYW0gdmFsdWVzIHRoYXQgaGFzIG9ubHkgb25lIGVsZW1lbnQKICAgICAgICBtZXRhZGF0YV9maWx0ZXIgPSBNZXRhZGF0YUZpbHRlcihyZXF1ZXN0LnF1ZXJ5X3BhcmFtcykKICAgICAgICBmaWx0ZXJfZmllbGRzID0gc2V0KG1ldGFkYXRhX2ZpbHRlci5nZXRfZmlsdGVycygpLmtleXMoKSkKICAgICAgICBmaWx0ZXJfcGFyYW1zID0gRmxleEtleURpY3QoWyhrLCB2KSBmb3IgaywgdiBpbiByZXF1ZXN0LnF1ZXJ5X3BhcmFtcy5pdGVtcygpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiBrIGluIGZpbHRlcl9maWVsZHNdKQoKICAgICAgICBpZiBub3QgZmlsdGVyX3BhcmFtczoKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdBdCBsZWFzdCBhIHBhcmFtZXRlciBtdXN0IGJlIHNwZWNpZmllZCcpCgogICAgICAgICMgR2VuZXJhdGUgY2FuZGlkYXRlcyB1c2luZyBmaWx0ZXJzIGluIHF1ZXJ5IHBhcmFtZXRlcnMKICAgICAgICByZXR1cm4gbWV0YWRhdGFfZmlsdGVyLnFzCg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcl9iYWNrZW5kcyA9IChyZXN0X2ZyYW1ld29ya19maWx0ZXJzLmJhY2tlbmRzLkRqYW5nb0ZpbHRlckJhY2tlbmQsKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RoaXMuc2x1Zy90aGlzLnNsdWcoKS9n</text>
