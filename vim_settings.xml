@@ -31,7 +31,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517832154829">
+      <file name="/a.dummy" timestamp="1517833728048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -120,8 +120,8 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" timestamp="1517832181502">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/metadata.py" timestamp="1517833683501">
+        <mark key="[" line="26" column="15" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="11" />
         <mark key="." line="40" column="0" />
@@ -263,10 +263,6 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
-      </file>
-      <file name="/package.json" timestamp="1517345454241">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_footer.scss" timestamp="1490221555755">
         <mark key="[" line="4" column="0" />
@@ -502,10 +498,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/index.jsx" timestamp="1517427865275">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/README.md" timestamp="1517225742020">
         <mark key="[" line="1" column="0" />
@@ -3087,6 +3079,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/viewsets/search/__init__.py" timestamp="1517833737757">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Gulpfile.babel.js" timestamp="1497824028736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="45" />
@@ -3200,15 +3195,11 @@
         <mark key="^" line="188" column="35" />
         <mark key="." line="189" column="79" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/webpack.vue.js" timestamp="1517346402466">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="62" />
-      </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="36" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1517833768351">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/nginx/Dockerfile" timestamp="1467209256885">
         <mark key="[" line="6" column="5" />
@@ -3350,7 +3341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBsaXN0X3JvdXRlKCkK</text>
+        <text encoding="base64">c2VhcmNoX3JvdXRlci5yZWdpc3RlcihyJ3NlYXJjaCcsIFNlYXJjaFZpZXdTZXQsIGJhc2VfbmFtZT0nc2VhcmNoJykK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3362,7 +3353,7 @@
         <text>this.slug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93OiB7CiAgICAgICAgZW52OiB7CiAgICAgICAgICBhcGlIb3N0OiAnaHR0cDovL2xvY2FsaG9zdDo4MDAxJywKICAgICAgICB9LAogICAgICB9LAo=</text>
+        <text encoding="base64">c2VhcmNoX3JvdXRlci5yZWdpc3RlcihyJ3NlYXJjaCcsIFNlYXJjaFZpZXdTZXQsIGJhc2VfbmFtZT0nc2VhcmNoJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBsaXN0X3JvdXRlKCkK</text>
