@@ -321,11 +321,12 @@
         <mark key="^" line="9" column="118" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/ducks/login.js" timestamp="1517863445537">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/ducks/login.js" timestamp="1517867553328">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="93" />
+        <mark key="." line="44" column="93" />
+        <mark key="^" line="44" column="93" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy_site/settings/production.py" timestamp="1517261592129">
         <mark key="[" line="38" column="75" />
@@ -1435,11 +1436,11 @@
         <mark key="^" line="176" column="21" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/login.js" timestamp="1517863667029">
-        <mark key="[" line="1" column="88" />
-        <mark key="]" line="1" column="88" />
-        <mark key="^" line="37" column="40" />
-        <mark key="." line="1" column="88" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/login.js" timestamp="1517867613359">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/make" timestamp="1509125960232">
         <mark key="[" line="114" column="0" />
@@ -1888,11 +1889,12 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1517864804904">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1517867851235">
+        <mark key="'" line="106" column="32" />
+        <mark key="[" line="65" column="66" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="31" />
+        <mark key="^" line="65" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -2061,11 +2063,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517863127550">
-        <mark key="[" line="87" column="10" />
-        <mark key="]" line="97" column="71" />
-        <mark key="^" line="97" column="71" />
-        <mark key="." line="97" column="71" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517867275057">
+        <mark key="[" line="75" column="17" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="59" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/uwsgi.ini" timestamp="1516659334234">
         <mark key="[" line="3" column="12" />
@@ -3230,7 +3232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="283" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="285" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="284" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
@@ -3330,49 +3331,50 @@
       <jump line="106" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="31" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="34" column="36" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/AppBar.jsx" />
+      <jump line="103" column="32" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyUHJvZ3Jlc3MgdmFyaWFudD0icXVlcnkiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNhYmxlZDogdGhpcy5wcm9wcy5sb2FkaW5nLAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>concat</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>setError</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRyYXdlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNhYmxlZDogdGhpcy5wcm9wcy5sb2FkaW5nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyUHJvZ3Jlc3MgdmFyaWFudD0icXVlcnkiIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuLi9kdWNrcy9sb2dpbic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRyYXdlcnMpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLmRpc2FibGUgJiYgImRpc2FibGUifQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLmRpc2FibGUgJiYgImRpc2FibGUifQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGU9e3RoaXMucHJvcHMudHlwZX0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBjb25zdCBkcmF3ZXJzID0gXy5tYXAoZHJhd2VySXRlbXMsIChpdGVtKSA9PiB7CiAgICAgIGNvbnN0IGRyYXdlckxpc3QgPSBSZWFjdC5jcmVhdGVFbGVtZW50KAogICAgICAgIERyYXdlckxpc3QoaXRlbS5zZWxlY3RvciwgaXNEcmF3ZXJNb2RlT3BlbiwgaXRlbS5zZXR0ZXIpLAogICAgICAgIHsgaGVhZGVyOiBpdGVtLm5hbWUsIGl0ZW1zOiBpdGVtLml0ZW1zLCBrZXk6IGBkcmF3ZXItbGlzdC0ke2l0ZW0ubmFtZX1gIH0sCiAgICAgICk7CgogICAgICByZXR1cm4gWwogICAgICAgIDxEaXZpZGVyIGtleT17YGRpdmlkZXItJHtpdGVtLm5hbWV9YH0gLz4sCiAgICAgICAgZHJhd2VyTGlzdCwKICAgICAgXTsKICAgIH0pOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB0eXBlOiBQcm9wVHlwZXMuc3RyaW5nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgb2JqZWN0LWN1cmx5LW5ld2xpbmUgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBzZXRWYWx1ZSwgc2V0RXJyb3IgfSA9IHByb3BzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWFwU3RhdGUgPSBzdGF0ZSA9PiAoewogICAgICAgIGlzRHJhd2VyT3BlbjogaXNEcmF3ZXJNb2RlT3BlbihzdGF0ZSksCiAgICAgICAgaXNPcGVuOiBpdGVtLnNlbGVjdG9yKHN0YXRlKSwKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAuLi5vdGhlciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWFwRGlzcGF0Y2ggPSB7CiAgICAgICAgc2V0VmlzaWJpbGl0eTogaXRlbS5zZXR0ZXIsCiAgICAgIH07Cg==</text>
+        <text encoding="base64">ICBuYW1lOiBQcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCiAgdHlwZTogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1VzZXJuYW1lL1Bhc3N3b3JkL2c=</text>
