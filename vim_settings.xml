@@ -559,6 +559,11 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/pages/Login.jsx" timestamp="1517949137357">
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/views/api/test_mixins.py" timestamp="1453245053657">
         <mark key="[" line="130" column="22" />
         <mark key="]" line="130" column="22" />
@@ -756,10 +761,10 @@
         <mark key="]" line="15" column="46" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Switch.jsx" timestamp="1517862282976">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Switch.jsx" timestamp="1517948896037">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/gunicorn.conf" timestamp="1467210374238">
         <mark key="[" line="2" column="11" />
@@ -1895,7 +1900,7 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1517947468325">
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1517947851045">
         <mark key="'" line="63" column="40" />
         <mark key="[" line="78" column="25" />
         <mark key="]" line="79" column="0" />
@@ -2057,11 +2062,11 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1517428381079">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1517948951542">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/base.py" timestamp="1504952907783">
         <mark key="[" line="0" column="0" />
@@ -3340,13 +3345,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0eXBlPSJwYXNzd29yZCIKICAgICAgICAgICAgICBkaXNhYmxlZD17dGhpcy5wcm9wcy5sb2FkaW5nfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVQcm9wcyA9IHByb3BzOwo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Contraseña</text>
+        <text>{ component, ...props }</text>
       </register>
       <register name="/" type="4">
         <text>Password</text>
@@ -3355,31 +3360,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBkb21Qcm9wcz17e2Rpc2FibGVkOiB0aGlzLnByb3BzLmxvYWRpbmd9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0eXBlPSJwYXNzd29yZCIKICAgICAgICAgICAgICBkaXNhYmxlZD17dGhpcy5wcm9wcy5sb2FkaW5nfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVQcm9wcyA9IHByb3BzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkaXNhYmxlZD17dGhpcy5wcm9wcy5sb2FkaW5nfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29tcG9uZW50ID0gY29tcG9uZW50Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVQcm9wcyA9IHByb3BzOwogICAgdGhpcy5jb21wb25lbnQgPSBjb21wb25lbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwogIGNvbnNvbGUubG9nKG90aGVyKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVQcm9wcyA9IHByb3BzOwogICAgdGhpcy5jb21wb25lbnQgPSBjb21wb25lbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8UHJpdmF0ZVJvdXRlIGV4YWN0IHBhdGg9Ii9sb2dpbiIgY29tcG9uZW50PXtMb2dpbn0gLz4qL30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBwYXNzd29yZElucHV0ID0gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0eXBlPSJwYXNzd29yZCIKICAgICAgICAgICAgICBkaXNhYmxlZD17dGhpcy5wcm9wcy5sb2FkaW5nfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkaXNhYmxlZD17dGhpcy5wcm9wcy5sb2FkaW5nfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBwYXNzd29yZElucHV0ID0gKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgfSwKICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwogIGNvbnNvbGUubG9nKG90aGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</text>
