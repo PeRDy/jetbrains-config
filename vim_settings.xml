@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Recommendation.vue" timestamp="1504564830519">
@@ -2069,10 +2069,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517943503255">
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="100" column="8" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517946869766">
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="58" column="18" />
+        <mark key="." line="58" column="18" />
+        <mark key="^" line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/uwsgi.ini" timestamp="1516659334234">
         <mark key="[" line="3" column="12" />
@@ -3339,47 +3340,47 @@
       <jump line="103" column="32" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY2hpbGRyZW5Qcm9wcyA9dGggb3RoZXI7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>mergeProps</text>
       </register>
       <register name="/" type="4">
         <text>setError</text>
       </register>
-      <register name="0" type="4">
-        <text>CheckableTextInput(selectLoginPassword, setLoginPassword, selectLoginErrorPassword, setLoginErrorPassword),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBzZXRWYWx1ZSwgc2V0RXJyb3IsIC4uLm90aGVyIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY2hpbGRyZW5Qcm9wcyA9dGggb3RoZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKHNlbGVjdFZhbHVlLCBzZXRWYWx1ZSwgc2VsZWN0RXJyb3IsIHNldEVycm9yKSB7Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkaXNhYmxlZDogUHJvcFR5cGVzLmJvb2wsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgdmFsdWUsIGNsYXNzZXMgfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlOiBQcm9wVHlwZXMuc3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgdmFsdWUsIGNsYXNzZXMsIGVycm9yIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBzZXRWYWx1ZSwgc2V0RXJyb3IsIC4uLm90aGVyIH0gPSBwcm9wczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU9e3RoaXMucHJvcHMudHlwZX0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBzZXRWYWx1ZSwgc2V0RXJyb3IsIC4uLm90aGVyIH0gPSBwcm9wczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBzZXRWYWx1ZSwgc2V0RXJyb3IsIC4uLm90aGVyIH0gPSBwcm9wczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU9e3RoaXMucHJvcHMudHlwZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfSBmcm9tICcuLi9kdWNrcy9sb2dpbic7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmb287CiAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1VzZXJuYW1lL1Bhc3N3b3JkL2c=</text>
