@@ -744,8 +744,8 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" timestamp="1516899312116">
-        <mark key="[" line="39" column="35" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/Rockerfile" timestamp="1517928758528">
+        <mark key="[" line="29" column="31" />
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="0" />
       </file>
@@ -1353,6 +1353,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/tests/models/mixins/test_nlp.py" timestamp="1517928726034">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/.gitignore" timestamp="1517223985899">
         <mark key="[" line="37" column="0" />
@@ -2732,6 +2738,9 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/models/mixins/nlp.py" timestamp="1517928674652">
+        <mark key="[" line="30" column="31" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/index.android.js" timestamp="1504440491953">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
@@ -3127,6 +3136,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/constraints.txt" timestamp="1517928305462" />
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_miner.service" timestamp="1504689135490">
         <mark key="[" line="10" column="70" />
         <mark key="]" line="10" column="101" />
@@ -3409,8 +3419,8 @@
       <jump line="81" column="49" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_metadata.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ21ldGFkYXRhLmFwcHMuQXBwJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIEB0YWcoJ21hY2hpbmVfbGVhcm5pbmcnLCAnaGlnaCcpCiAgICBkZWYgdGVzdF90b2tlbml6ZShzZWxmKToKICAgICAgICBpbnB1dF90ZXh0ID0gJ1RoZSBmb28gYW5kIHRob3NlIGJhcnMnCiAgICAgICAgdG9rZW5zID0gWydmb28nLCAnYmFyJ10KCiAgICAgICAgbmxwID0gTkxQTWl4aW5GYWN0b3J5KCkKICAgICAgICByZXN1bHQgPSBubHAudG9rZW5pemUoaW5wdXRfdGV4dCkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZXQocmVzdWx0KSwgc2V0KHRva2Vucykp</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3421,8 +3431,8 @@
       <register name="/" type="4">
         <text>'search-metadata'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ21ldGFkYXRhLmFwcHMuQXBwJwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIEB0YWcoJ21hY2hpbmVfbGVhcm5pbmcnLCAnaGlnaCcpCiAgICBkZWYgdGVzdF90b2tlbml6ZShzZWxmKToKICAgICAgICBpbnB1dF90ZXh0ID0gJ1RoZSBmb28gYW5kIHRob3NlIGJhcnMnCiAgICAgICAgdG9rZW5zID0gWydmb28nLCAnYmFyJ10KCiAgICAgICAgbmxwID0gTkxQTWl4aW5GYWN0b3J5KCkKICAgICAgICByZXN1bHQgPSBubHAudG9rZW5pemUoaW5wdXRfdGV4dCkKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChzZXQocmVzdWx0KSwgc2V0KHRva2Vucykp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ21ldGFkYXRhLmFwcHMuQXBwJwo=</text>
