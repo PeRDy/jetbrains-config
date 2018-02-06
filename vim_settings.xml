@@ -339,10 +339,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/ducks/index.js" timestamp="1517951688477">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/ducks/index.js" timestamp="1517952732594">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/tests/models/mixins/test_tfidf.py" timestamp="1516632400136">
         <mark key="[" line="203" column="0" />
@@ -1843,11 +1843,11 @@
         <mark key="]" line="8" column="90" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/index.js" timestamp="1517951758605">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="27" column="15" />
-        <mark key="." line="27" column="15" />
-        <mark key="^" line="27" column="15" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/index.js" timestamp="1517952576952">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero/templates/lib/nvidia_tuning.py.j2" timestamp="1516101610293">
         <mark key="[" line="58" column="69" />
@@ -2380,10 +2380,10 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1517425401236">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1517952517667">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/installation.rst" timestamp="1517221211532">
         <mark key="[" line="36" column="0" />
@@ -3355,56 +3355,56 @@
       <jump line="70" column="40" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reducer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>reducer</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Password</text>
+        <text>history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBkb21Qcm9wcz17e2Rpc2FibGVkOiB0aGlzLnByb3BzLmxvYWRpbmd9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByb3V0aW5nOiByb3V0ZXJSZWR1Y2VyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJOScORTyEiKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29tYmluZVJlZHVjZXJzKHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHdpdGhSb3V0ZXIgZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZUhpc3RvcnkgZnJvbSAnaGlzdG9yeS9jcmVhdGVCcm93c2VySGlzdG9yeSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVQcm9wcyA9IHByb3BzOwo=</text>
+        <text encoding="base64">Y29uc3QgaGlzdG9yeSA9IGNyZWF0ZUhpc3RvcnkoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tcG9uZW50ID0gY29tcG9uZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVQcm9wcyA9IHByb3BzOwogICAgdGhpcy5jb21wb25lbnQgPSBjb21wb25lbnQ7Cg==</text>
+        <text encoding="base64">CmNvbnN0IHN0b3JlID0gY29uZmlndXJlU3RvcmUoKTsKCgpleHBvcnQgZGVmYXVsdCBzdG9yZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVQcm9wcyA9IHByb3BzOwogICAgdGhpcy5jb21wb25lbnQgPSBjb21wb25lbnQ7Cg==</text>
+        <text encoding="base64">Y29uc3QgaGlzdG9yeSA9IHN5bmNIaXN0b3J5V2l0aFN0b3JlKGJyb3dzZXJIaXN0b3J5LCBzdG9yZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8UHJpdmF0ZVJvdXRlIGV4YWN0IHBhdGg9Ii9sb2dpbiIgY29tcG9uZW50PXtMb2dpbn0gLz4qL30K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhpc3RvcnkgPSBjcmVhdGVIaXN0b3J5KCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>Password</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern>Password</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-replace>Username</last-replace>
       <last-substitute>Password</last-substitute>
       <last-dir>1</last-dir>
@@ -3412,7 +3412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finally</entry>
         <entry>data</entry>
         <entry>url(</entry>
         <entry>'build'</entry>
@@ -3432,6 +3431,7 @@
         <entry>remove</entry>
         <entry>setError</entry>
         <entry>Password</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zI2NvbXBvbmVudHMvbW9sZWN1bGVzL2xvZ2luIy4jZw==</entry>
