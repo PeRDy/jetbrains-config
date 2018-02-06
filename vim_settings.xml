@@ -75,7 +75,6 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/run.py" timestamp="1517922820748" />
       <file name="$USER_HOME$/Desarrollo/initia/website/README.rst" timestamp="1490051716655">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -720,6 +719,9 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/models/helpers.py" timestamp="1517934166119">
+        <mark key="[" line="22" column="11" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/README.md" timestamp="1516464353483">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -815,6 +817,11 @@
         <mark key="[" line="36" column="18" />
         <mark key="]" line="36" column="18" />
         <mark key="." line="36" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/migrations/0004_increase_tfidf_raw_model_length.py" timestamp="1517934011663">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/__main__.py" timestamp="1504624623725">
         <mark key="[" line="9" column="22" />
@@ -986,6 +993,12 @@
         <mark key="]" line="25" column="11" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/migrations/0001_initial.py" timestamp="1517934055854">
+        <mark key="[" line="110" column="70" />
+        <mark key="]" line="110" column="70" />
+        <mark key="^" line="62" column="80" />
+        <mark key="." line="110" column="70" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
@@ -2834,11 +2847,11 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/models/mixins/tfidf.py" timestamp="1516631872804">
-        <mark key="[" line="154" column="36" />
-        <mark key="]" line="154" column="105" />
-        <mark key="." line="154" column="105" />
-        <mark key="^" line="154" column="105" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/models/mixins/tfidf.py" timestamp="1517933847413">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="158" column="105" />
+        <mark key="." line="158" column="105" />
+        <mark key="^" line="158" column="105" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/Dockerfile" timestamp="1465213571018">
         <mark key="[" line="1" column="0" />
@@ -3296,6 +3309,11 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/tests/models/test_helpers.py" timestamp="1517934250595">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/nginx/Dockerfile" timestamp="1467209256885">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="5" column="0" />
@@ -3435,14 +3453,14 @@
       <jump line="97" column="14" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/constraints.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>achine_learning/model</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>_core_web_md</text>
+        <text>achine_learning/model</text>
       </register>
       <register name="/" type="4">
         <text>'search-metadata'</text>
