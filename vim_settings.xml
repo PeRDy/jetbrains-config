@@ -719,8 +719,10 @@
         <mark key="^" line="19" column="30" />
         <mark key="." line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/models/helpers.py" timestamp="1517934166119">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/models/helpers.py" timestamp="1517934851664">
         <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/README.md" timestamp="1516464353483">
         <mark key="[" line="1" column="0" />
@@ -3033,8 +3035,8 @@
         <mark key="^" line="22" column="32" />
         <mark key="." line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/metadata_scoring.py" timestamp="1517931083917">
-        <mark key="[" line="33" column="104" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/metadata_scoring.py" timestamp="1517935233948">
+        <mark key="[" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/models/metadata.py" timestamp="1516632788609">
         <mark key="[" line="79" column="0" />
@@ -3454,13 +3456,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>achine_learning/model</text>
+        <text>os.path.abspath(</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>achine_learning/model</text>
+        <text>os.path.abspath(</text>
       </register>
       <register name="/" type="4">
         <text>'search-metadata'</text>
