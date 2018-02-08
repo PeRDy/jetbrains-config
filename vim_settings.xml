@@ -2373,7 +2373,11 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1518088123215" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1518088885856">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/installation.rst" timestamp="1517221211532">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -3016,12 +3020,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" timestamp="1517587977573">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/App.js" timestamp="1516129751639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3043,6 +3041,9 @@
         <mark key="[" line="63" column="13" />
         <mark key="]" line="63" column="12" />
         <mark key="." line="63" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Routes.jsx" timestamp="1518088833328">
+        <mark key="[" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/tests/factories.py" timestamp="1511915837387">
         <mark key="[" line="3" column="20" />
@@ -3335,14 +3336,14 @@
       <jump line="70" column="40" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMucm9vdH0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Pure</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJpdmF0ZVJvdXRlIA==</text>
+        <text>Pure</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
