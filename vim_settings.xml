@@ -72,11 +72,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/processors.py" timestamp="1518099346192">
-        <mark key="[" line="128" column="20" />
-        <mark key="]" line="128" column="20" />
-        <mark key="^" line="122" column="0" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/processors.py" timestamp="1518100260319">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="137" column="24" />
+        <mark key="]" line="136" column="34" />
+        <mark key="." line="136" column="34" />
+        <mark key="^" line="136" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
@@ -303,6 +304,9 @@
         <mark key="[" line="12" column="4" />
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/tests/test_processors.py" timestamp="1518100490276">
+        <mark key="[" line="148" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Page.jsx" timestamp="1518088097147">
         <mark key="[" line="48" column="0" />
@@ -818,7 +822,7 @@
         <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/spiders/imdb.py" timestamp="1518099324695">
-        <mark key="[" line="89" column="49" />
+        <mark key="[" line="90" column="49" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/Dockerfile" timestamp="1517225492293">
         <mark key="[" line="36" column="18" />
@@ -1105,6 +1109,9 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="24" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/tests/spiders/test_imdb.py" timestamp="1518101110077">
+        <mark key="[" line="92" column="38" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_telegram.service" timestamp="1504690308476">
         <mark key="[" line="10" column="167" />
         <mark key="]" line="10" column="167" />
@@ -1140,6 +1147,9 @@
         <mark key="]" line="9" column="25" />
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/exceptions.py" timestamp="1518100074400">
+        <mark key="[" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" timestamp="1513640837882">
         <mark key="[" line="29" column="45" />
@@ -3278,7 +3288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="284" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="249" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="250" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
@@ -3378,22 +3387,17 @@
       <jump line="34" column="36" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/AppBar.jsx" />
       <jump line="103" column="32" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="70" column="40" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
+      <jump line="3" column="15" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/processors.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class DateToISO:
-    &quot;&quot;&quot;Converts a datetime into a string using format ISO 8601&quot;&quot;&quot;
-    def __call__(self, value):
-        if value:
-            value = value.isoformat()
-
-        return value</text>
+        <text encoding="base64">IGlmIHZhbHVlID09ICd1ayc=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Pure</text>
+        <text encoding="base64">IGlmIHZhbHVlID09ICd1ayc=</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
@@ -3408,31 +3412,31 @@
         return value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMucm9vdH0+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8UmVib290IC8+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9NdWlUaGVtZVByb3ZpZGVyPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPE11aVRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzTG9nZ2VkKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gc3RvcmUuZGlzcGF0Y2gocHVzaCgnL2xvZ2luJykpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgnOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgPSB2YWx1ZS5pc29mb3JtYXQoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHZhbHVlLmxvd2VyKCkKICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMucm9vdH0+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8UmVib290IC8+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPC9NdWlUaGVtZVByb3ZpZGVyPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPE11aVRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzTG9nZ2VkKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29tYmluZVJlZHVjZXJzKHsK</text>
+        <text encoding="base64">Ly8gc3RvcmUuZGlzcGF0Y2gocHVzaCgnL2xvZ2luJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</text>
