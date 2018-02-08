@@ -114,6 +114,9 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="8" column="55" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-task-engine/docker-compose.yml" timestamp="1518104284738">
+        <mark key="[" line="86" column="27" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/state_machine.py" timestamp="1516491705064">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -2068,8 +2071,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-task-engine/tasks/tests/test_store_scraper_imdb.py" timestamp="1518102011523">
-        <mark key="[" line="133" column="13" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-task-engine/tasks/tests/test_store_scraper_imdb.py" timestamp="1518104647141">
+        <mark key="'" line="365" column="10" />
+        <mark key="[" line="418" column="0" />
+        <mark key="]" line="418" column="0" />
+        <mark key="." line="418" column="0" />
+        <mark key="^" line="409" column="39" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/core/templates/core/base/navbar.html" timestamp="1491429463796">
         <mark key="[" line="25" column="45" />
@@ -3294,7 +3301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="249" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="250" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
       <jump line="251" column="54" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
@@ -3394,72 +3400,66 @@
       <jump line="103" column="32" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="70" column="40" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="3" column="15" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/processors.py" />
+      <jump line="365" column="10" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-task-engine/tasks/tests/test_store_scraper_imdb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGlmIHZhbHVlID09ICd1ayc=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgJ2hlYWRlcicgbm90IGluIHJlc3VsdAogICAgICAgIGFzc2VydCAnbWV0YScgbm90IGluIHJlc3VsdAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIHZhbHVlID09ICd1ayc=</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
-        <text>history</text>
+        <text>'USA'</text>
       </register>
-      <register name="0" type="4">
-        <text>class DateToISO:
-    &quot;&quot;&quot;Converts a datetime into a string using format ISO 8601&quot;&quot;&quot;
-    def __call__(self, value):
-        if value:
-            value = value.isoformat()
-
-        return value</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZWwgZXhwZWN0ZWRbJ2ltZGInXVsnZW4nXVsnaGVhZGVyJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgJ2hlYWRlcicgbm90IGluIHJlc3VsdAogICAgICAgIGFzc2VydCAnbWV0YScgbm90IGluIHJlc3VsdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgPSB2YWx1ZS5pc29mb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWwgZXhwZWN0ZWRbJ2hlYWRlciddCiAgICAgICAgZGVsIGV4cGVjdGVkWydtZXRhJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHZhbHVlLmxvd2VyKCkKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMucm9vdH0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPSB2YWx1ZS5pc29mb3JtYXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8UmVib290IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHZhbHVlLmxvd2VyKCkKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9NdWlUaGVtZVByb3ZpZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMucm9vdH0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPE11aVRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4K</text>
+        <text encoding="base64">ICAgICAgICA8UmVib290IC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzTG9nZ2VkKQo=</text>
+        <text encoding="base64">ICAgICAgPC9NdWlUaGVtZVByb3ZpZGVyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gc3RvcmUuZGlzcGF0Y2gocHVzaCgnL2xvZ2luJykpOwo=</text>
+        <text encoding="base64">ICAgICAgPE11aVRoZW1lUHJvdmlkZXIgdGhlbWU9e3RoZW1lfT4K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</text>
+        <text>%s/'USA'/'US'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>history</last-search>
+      <last-search>'USA'</last-search>
       <last-offset />
-      <last-pattern>history</last-pattern>
-      <last-replace>Username</last-replace>
-      <last-substitute>Password</last-substitute>
+      <last-pattern>'USA'</last-pattern>
+      <last-replace>'US'</last-replace>
+      <last-substitute>'USA'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>url(</entry>
         <entry>'build'</entry>
         <entry>1</entry>
@@ -3479,9 +3479,9 @@
         <entry>setError</entry>
         <entry>Password</entry>
         <entry>history</entry>
+        <entry>'USA'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zI2NvbXBvbmVudHMvbW9sZWN1bGVzL2xvZ2luIy4jZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIucHJvamVjdF9zbHVnIH19L2c=</entry>
         <entry>wq</entry>
         <entry>q</entry>
@@ -3501,6 +3501,7 @@
         <entry>%s/this.props.id/this.slug/g</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXJuYW1lL1Bhc3N3b3JkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</entry>
+        <entry>%s/'USA'/'US'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
