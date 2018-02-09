@@ -298,10 +298,15 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Page.jsx" timestamp="1518176459313">
-        <mark key="[" line="86" column="75" />
-        <mark key="]" line="86" column="75" />
-        <mark key="." line="86" column="75" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Page.jsx" timestamp="1518196134329">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="4" />
+        <mark key="." line="75" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/DrawerList.jsx" timestamp="1517863915385">
+        <mark key="]" line="5" column="51" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1517325598310">
         <mark key="[" line="14" column="0" />
@@ -1864,10 +1869,9 @@
         <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/index.js" timestamp="1518193515089">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero/templates/lib/nvidia_tuning.py.j2" timestamp="1516101610293">
         <mark key="[" line="58" column="69" />
@@ -1932,12 +1936,12 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1518087873514">
-        <mark key="'" line="64" column="40" />
-        <mark key="[" line="89" column="24" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="79" column="42" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1518196518679">
+        <mark key="'" line="68" column="40" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="47" column="27" />
+        <mark key="^" line="47" column="27" />
+        <mark key="." line="47" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -2400,12 +2404,6 @@
         <mark key="]" line="28" column="15" />
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1518194727605">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/installation.rst" timestamp="1517221211532">
         <mark key="[" line="36" column="0" />
@@ -3363,14 +3361,14 @@
       <jump line="4133" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhY2tOYXZpZ2F0b3IgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
         <text>decorator</text>
@@ -3379,31 +3377,31 @@
         <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMjMuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhY2tOYXZpZ2F0b3IgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAhdGhpcy5wcm9wcy5pc0xvZ2dlZCA/IHRoaXMucmVuZGVyRnVsbFBhZ2UoKSA6IHRoaXMucmVuZGVyRW1wdHlQYWdlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhY2tOYXZpZ2F0b3IgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcE5hdmlnYXRvciBmcm9tICcuL25hdmlnYXRpb24nOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWlkZGxld2FyZSBhcyBuYXZpZ2F0aW9uTWlkZGxld2FyZSB9IGZyb20gJ25hdmlnYXRpb24nOwo=</text>
+        <text encoding="base64">aW1wb3J0IEFwcE5hdmlnYXRvciBmcm9tICcuL25hdmlnYXRpb24nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuLi9BcHAnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbWlkZGxld2FyZSBhcyBuYXZpZ2F0aW9uTWlkZGxld2FyZSB9IGZyb20gJ25hdmlnYXRpb24nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuLi9BcHAnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IHsKICBBcHBOYXZpZwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhY2tOYXZpZ2F0b3IgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
+        <text encoding="base64">ZXhwb3J0IHsKICBBcHBOYXZpZwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</text>
