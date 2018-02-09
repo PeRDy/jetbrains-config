@@ -113,25 +113,11 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/src/apollo-client.js" timestamp="1517355235215">
-        <mark key="'" line="5" column="44" />
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.prod.js" timestamp="1517581253993">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="19" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/telegram/index.rst" timestamp="1507585576491">
         <mark key="[" line="29" column="0" />
@@ -324,13 +310,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="118" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/ducks/login.js" timestamp="1517867553328">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="93" />
-        <mark key="." line="44" column="93" />
-        <mark key="^" line="44" column="93" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy_site/settings/production.py" timestamp="1517261592129">
         <mark key="[" line="38" column="75" />
@@ -1472,11 +1451,10 @@
         <mark key="^" line="176" column="21" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/login.js" timestamp="1517867613359">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/login.js" timestamp="1518197587652">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/make" timestamp="1509125960232">
         <mark key="[" line="114" column="0" />
@@ -1834,13 +1812,6 @@
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.config.js" timestamp="1517581662976">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="11" />
-        <mark key="^" line="41" column="11" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/telegram/installation.rst" timestamp="1507581949211">
         <mark key="[" line="34" column="55" />
         <mark key="]" line="34" column="55" />
@@ -1936,12 +1907,11 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1518196518679">
-        <mark key="'" line="68" column="40" />
-        <mark key="[" line="44" column="28" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="47" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1518197618455">
+        <mark key="'" line="64" column="40" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -2098,6 +2068,12 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1518197364039">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/base.py" timestamp="1504952907783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -2221,13 +2197,6 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1517576937441">
-        <mark key="'" line="53" column="12" />
-        <mark key="[" line="40" column="31" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="32" column="5" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/base.py" timestamp="1453241076350">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="45" />
@@ -2279,13 +2248,6 @@
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="41" />
         <mark key="." line="18" column="41" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" timestamp="1517589017504">
-        <mark key="'" line="16" column="15" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
@@ -2544,13 +2506,6 @@
         <mark key="[" line="52" column="20" />
         <mark key="]" line="54" column="43" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/LoginUsername.jsx" timestamp="1517862923026">
-        <mark key="'" line="48" column="48" />
-        <mark key="[" line="76" column="27" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -3170,13 +3125,6 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" timestamp="1517589058443">
-        <mark key="'" line="80" column="46" />
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="70" column="42" />
-        <mark key="^" line="70" column="42" />
-        <mark key="." line="70" column="42" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/hashcode_pizza/app.py" timestamp="1487704912524">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="37" />
@@ -3202,13 +3150,6 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" timestamp="1518191148716">
         <mark key="'" line="4133" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1517579045396">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="12" />
-        <mark key="^" line="28" column="12" />
-        <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1516491768091">
         <mark key="[" line="189" column="79" />
@@ -3361,47 +3302,47 @@
       <jump line="4133" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly8g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8g</text>
+        <text encoding="base64">cGFzc3dvcmQg</text>
       </register>
       <register name="/" type="4">
         <text>decorator</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMjMuMCIsCg==</text>
+        <text encoding="base64">ICBjb25zdCB7IHBhc3N3b3JkIH0gPSB5aWVsZCBzZWxlY3Qoc2VsZWN0TG9naW4pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAhdGhpcy5wcm9wcy5pc0xvZ2dlZCA/IHRoaXMucmVuZGVyRnVsbFBhZ2UoKSA6IHRoaXMucmVuZGVyRW1wdHlQYWdlKCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhY2tOYXZpZ2F0b3IgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcE5hdmlnYXRvciBmcm9tICcuL25hdmlnYXRpb24nOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWlkZGxld2FyZSBhcyBuYXZpZ2F0aW9uTWlkZGxld2FyZSB9IGZyb20gJ25hdmlnYXRpb24nOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuLi9BcHAnOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5lcnJvcikgewogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5oaXN0b3J5LmdvQmFjaygpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCB7IGhpc3RvcnkgfSA9IHlpZWxkIHNlbGVjdChzZWxlY3RMb2dpbik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPFJlZGlyZWN0IHRvPSIvbG9naW4iIC8+Owo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmlzTG9nZ2VkID8KICAgICAgPENvbXBvbmVudCAvPiA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHsKICBBcHBOYXZpZwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAhdGhpcy5wcm9wcy5pc0xvZ2dlZCA/IHRoaXMucmVuZGVyRnVsbFBhZ2UoKSA6IHRoaXMucmVuZGVyRW1wdHlQYWdlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</text>
