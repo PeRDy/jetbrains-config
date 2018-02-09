@@ -811,6 +811,11 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/package.json" timestamp="1518191887073">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.jsx" timestamp="1517235316962">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="34" />
@@ -1127,6 +1132,9 @@
         <mark key="]" line="9" column="25" />
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/webpack.config.js" timestamp="1518190795641">
+        <mark key="[" line="28" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" timestamp="1513640837882">
         <mark key="[" line="29" column="45" />
@@ -2377,8 +2385,8 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1518176992321">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1518190941903">
+        <mark key="[" line="13" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -2784,10 +2792,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/navigation.js" timestamp="1518189017106">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/navigation.js" timestamp="1518190259136">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/schema.py" timestamp="1497478655653">
         <mark key="[" line="7" column="29" />
@@ -3184,8 +3193,8 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" timestamp="1517953425093">
-        <mark key="'" line="17" column="21" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" timestamp="1518191148716">
+        <mark key="'" line="4133" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" timestamp="1517579045396">
         <mark key="'" line="21" column="0" />
@@ -3243,12 +3252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="12" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
-      <jump line="284" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
-      <jump line="249" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
-      <jump line="250" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
-      <jump line="251" column="54" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/start.py" />
-      <jump line="36" column="3" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/api.py" />
       <jump line="43" column="24" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/miner.py" />
       <jump line="88" column="75" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/mixins/ether.py" />
@@ -3343,58 +3346,64 @@
       <jump line="34" column="36" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/AppBar.jsx" />
       <jump line="103" column="32" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="70" column="40" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
+      <jump line="3256" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
+      <jump line="3943" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
+      <jump line="3944" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
+      <jump line="3945" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
+      <jump line="3946" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
+      <jump line="4133" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByb3V0ZXI6IHJvdXRlclJlZHVjZXIsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWRlY29yYXRvcnMiOiAiXjYuMjQuMSIsCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>mxml</text>
+        <text>runtime</text>
       </register>
       <register name="/" type="4">
-        <text>history</text>
+        <text>decorator</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkb21Qcm9wcz17e2Rpc2FibGVkOiB0aGlzLnByb3BzLmxvYWRpbmd9fQo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMjMuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByb3V0ZXI6IHJvdXRlclJlZHVjZXIsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWRlY29yYXRvcnMiOiAiXjYuMjQuMSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhY2tOYXZpZ2F0b3IgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWRlY29yYXRvcnMiOiAiXjYuMjQuMSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlUmVhY3ROYXZpZ2F0aW9uUmVkdXhNaWRkbGV3YXJlLCBjcmVhdGVSZWR1eEJvdW5kQWRkTGlzdGVuZXIgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uLXJlZHV4LWhlbHBlcnMnOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb3V0ZXI6IHJvdXRlclJlZHVjZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhpc3RvcnkgPSBjcmVhdGVIaXN0b3J5KCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByb3V0ZXJNaWRkbGV3YXJlKGhpc3RvcnkpLAo=</text>
+        <text encoding="base64">ICBhZGRMaXN0ZW5lciwKfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUhpc3RvcnkgZnJvbSAnaGlzdG9yeS9jcmVhdGVCcm93c2VySGlzdG9yeSc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHsKICBtaWRkbGV3YXJlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm91dGVyTWlkZGxld2FyZSwgcm91dGVyUmVkdWNlciB9IGZyb20gJ3JlYWN0LXJvdXRlci1yZWR1eCc7Cg==</text>
+        <text encoding="base64">Y29uc3QgYWRkTGlzdGVuZXIgPSBjcmVhdGVSZWR1eEJvdW5kQWRkTGlzdGVuZXIoJ3Jvb3QnKTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29ubmVjdGVkUm91dGVyIH0gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JzsK</text>
+        <text encoding="base64">ICBzdGF0ZSA9PiBzdGF0ZS5uYXYsCik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>history</last-search>
+      <last-search>decorator</last-search>
       <last-offset />
-      <last-pattern>history</last-pattern>
+      <last-pattern>decorator</last-pattern>
       <last-replace>Username</last-replace>
       <last-substitute>Password</last-substitute>
       <last-dir>1</last-dir>
@@ -3402,8 +3411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>url(</entry>
         <entry>'build'</entry>
         <entry>1</entry>
         <entry>components/molecules/login</entry>
@@ -3422,6 +3429,8 @@
         <entry>setError</entry>
         <entry>Password</entry>
         <entry>history</entry>
+        <entry>babel</entry>
+        <entry>decorator</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zI2NvbXBvbmVudHMvbW9sZWN1bGVzL2xvZ2luIy4jZw==</entry>
