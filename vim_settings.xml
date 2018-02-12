@@ -1530,6 +1530,11 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/api/__init__.py" timestamp="1518430380147">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/index.ios.js" timestamp="1504439037050">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="48" />
@@ -2252,6 +2257,12 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/base.py" timestamp="1518430803221">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="37" />
+        <mark key="^" line="16" column="68" />
+        <mark key="." line="21" column="37" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -2768,6 +2779,11 @@
         <mark key="]" line="58" column="30" />
         <mark key="^" line="58" column="30" />
         <mark key="." line="58" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/api/v1.py" timestamp="1518430346497">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/systemd/barrenero_telegram.service" timestamp="1507454991300">
         <mark key="[" line="9" column="17" />
@@ -3354,14 +3370,14 @@
       <jump line="365" column="10" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-task-engine/tasks/tests/test_store_scraper_imdb.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZW50a2JfYXBpLnVybHMuYmFzZSBpbXBvcnQgdXJscGF0dGVybnMgICMgbm9xYQo=</text>
+      <register name="&quot;" type="4">
+        <text>patterns=contentkb_api.urls.api.v1.urlpatterns</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>patterns=contentkb_api.urls.api.v1.urlpatterns</text>
       </register>
       <register name="/" type="4">
         <text>'USA'</text>
@@ -3370,33 +3386,31 @@
         <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IgPSBTY2hlbWFHZW5lcmF0b3IoCiAgICAgICAgICAgIHVybD0nL2RhdGEvJywgCiAgICAgICAgICAgIHRpdGxlPSdDb250ZW50S0IgQVBJJywgCiAgICAgICAgICAgIGRlc2NyaXB0aW9uPSdDb250ZW50S0IgY29yZSBzZXJ2aWNlIHRoYXQgbWFuYWdlcyB0aGUgd2hvbGUga25vd2xlZGdlIGJhc2UgYXMgd2VsbCBhcyBtYWNoaW5lIGxlYXJuaW5nICcKICAgICAgICAgICAgICAgICAgICAgICAgJ21vZGVscyB1c2VkIGZvciBtYXRjaGluZy4nLCAKICAgICAgICAgICAgdXJsY29uZj0nY29udGVudGtiX2FwaS51cmxzLmFwaS52MScp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZW50a2JfYXBpLnVybHMuYmFzZSBpbXBvcnQgdXJscGF0dGVybnMgICMgbm9xYQo=</text>
+        <text encoding="base64">ICAgIHBhdGgocidhcGkvJywgaW5jbHVkZSgnY29udGVudGtiX2FwaS51cmxzLmFwaScpKSwK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmdlbmVyYXRvciA9IFNjaGVtYUdlbmVyYXRvcigKICAgIHVybD0nL2RhdGEvJywKICAgIHRpdGxlPSdDb250ZW50S0IgQVBJJywKICAgIGRlc2NyaXB0aW9uPSdDb250ZW50S0IgY29yZSBzZXJ2aWNlIHRoYXQgbWFuYWdlcyB0aGUgd2hvbGUga25vd2xlZGdlIGJhc2UgYXMgd2VsbCBhcyBtYWNoaW5lIGxlYXJuaW5nIG1vZGVscyB1c2VkICcKICAgICAgICAgICAgICAgICdmb3IgbWF0Y2hpbmcuJywKICAgIHVybGNvbmY9J2NvbnRlbnRrYl9hcGkudXJscy5hcGkudjEnKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBjb250ZW50a2JfYXBpLnVybHMuYXBpLmJhc2UgaW1wb3J0IGFwcF9uYW1lLCB1cmxwYXR0ZXJucyAgIyBub3FhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnBhcnNlcnMuSlNPTlBhcnNlcicsCg==</text>
+        <text encoding="base64">ICAgIHBhdGgocidhcGkvJywgaW5jbHVkZSgnY29udGVudGtiX2FwaS51cmxzLmFwaScpKSwK</text>
       </register>
-      <register name="4" type="4">
-        <text>title='ContentKB API',
-                                     description='ContentKB core service that manages the whole knowledge base as well '
-                                                 'as machine learning models used for matching.'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhdGgocidkb2NzLycsIGdldF9kb2NzX3ZpZXcodGl0bGU9J0NvbnRlbnRLQiBBUEknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbj0nQ29udGVudEtCIGNvcmUgc2VydmljZSB0aGF0IG1hbmFnZXMgdGhlIHdob2xlIGtub3dsZWRnZSBiYXNlIGFzIHdlbGwgYXMgJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWFjaGluZSBsZWFybmluZyBtb2RlbHMgdXNlZCBmb3IgbWF0Y2hpbmcuJyksIGFwcF9uYW1lPSdhcGktZG9jcycpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhdGgocidkb2NzLycsIGluY2x1ZGVfZG9jc191cmxzKHRpdGxlPSdNeSBBUEkgdGl0bGUnKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN0X2ZyYW1ld29ya19zZXF1b2lhLnJlbmRlcmVycy5KU09OUmVuZGVyZXIK</text>
+        <text encoding="base64">ICAgIHBhdGgocidkb2NzLycsIGluY2x1ZGVfZG9jc191cmxzKHRpdGxlPSdDb250ZW50S0IgQVBJJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPSdDb250ZW50S0IgY29yZSBzZXJ2aWNlIHRoYXQgbWFuYWdlcyB0aGUgd2hvbGUga25vd2xlZGdlIGJhc2UgYXMgd2VsbCAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXMgbWFjaGluZSBsZWFybmluZyBtb2RlbHMgdXNlZCBmb3IgbWF0Y2hpbmcuJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhdHRlcm5zPWNvbnRlbnRrYl9hcGkudXJscy5hcGkudjEudXJscGF0dGVybnMpKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RfZnJhbWV3b3JrX3NlcXVvaWEucmVuZGVyZXJzCg==</text>
+        <text encoding="base64">ICAgIHBhdGgocidkb2NzLycsIGluY2x1ZGVfZG9jc191cmxzKHRpdGxlPSdDb250ZW50S0IgQVBJJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPSdDb250ZW50S0IgY29yZSBzZXJ2aWNlIHRoYXQgbWFuYWdlcyB0aGUgd2hvbGUga25vd2xlZGdlIGJhc2UgYXMgd2VsbCAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXMgbWFjaGluZSBsZWFybmluZyBtb2RlbHMgdXNlZCBmb3IgbWF0Y2hpbmcuJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhdHRlcm5zPWNvbnRlbnRrYl9hcGkudXJscy5hcGkudjEudXJscGF0dGVybnMpKSwKXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnBhcnNlcnMuRm9ybVBhcnNlcicsCiAgICAgICAgICAgICdyZXN0X2ZyYW1ld29yay5wYXJzZXJzLk11bHRpUGFydFBhcnNlcicK</text>
+        <text encoding="base64">ZnJvbSBjb250ZW50a2JfYXBpLnVybHMuYmFzZSBpbXBvcnQgdXJscGF0dGVybnMgICMgbm9xYQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmdlbmVyYXRvciA9IFNjaGVtYUdlbmVyYXRvcigKICAgIHVybD0nL2RhdGEvJywKICAgIHRpdGxlPSdDb250ZW50S0IgQVBJJywKICAgIGRlc2NyaXB0aW9uPSdDb250ZW50S0IgY29yZSBzZXJ2aWNlIHRoYXQgbWFuYWdlcyB0aGUgd2hvbGUga25vd2xlZGdlIGJhc2UgYXMgd2VsbCBhcyBtYWNoaW5lIGxlYXJuaW5nIG1vZGVscyB1c2VkICcKICAgICAgICAgICAgICAgICdmb3IgbWF0Y2hpbmcuJywKICAgIHVybGNvbmY9J2NvbnRlbnRrYl9hcGkudXJscy5hcGkudjEnKQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/'USA'/'US'/g</text>
