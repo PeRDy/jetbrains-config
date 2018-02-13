@@ -2347,11 +2347,10 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/base.py" timestamp="1518539582635">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="15" column="56" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/base.py" timestamp="1518543198041">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
@@ -2671,11 +2670,10 @@
         <mark key="]" line="54" column="43" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518541924884">
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518542428267">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -3079,7 +3077,10 @@
         <mark key="^" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework/documentation.py" timestamp="1518541858433" />
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework/documentation.py" timestamp="1518543104885">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="46" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/eslintrc.json" timestamp="1514894602068">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
@@ -3509,46 +3510,114 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnBhcnNlcnMuTXVsdGlQYXJ0UGFyc2VyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>date__</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgocidhcGkvJywgaW5jbHVkZSgnY29udGVudGtiX2FwaS51cmxzLmFwaScsIG5hbWVzcGFjZT0nYXBpJykpLAo=</text>
+      <register name="0" type="4">
+        <text>def get_schemajs_view(
+        title=None, description=None, schema_url=None, public=True,
+        patterns=None, generator_class=SchemaGenerator,
+        authentication_classes=api_settings.DEFAULT_AUTHENTICATION_CLASSES,
+        permission_classes=api_settings.DEFAULT_PERMISSION_CLASSES):
+    renderer_classes = [SchemaJSRenderer]
+
+    return get_schema_view(
+        title=title,
+        url=schema_url,
+        description=description,
+        renderer_classes=renderer_classes,
+        public=public,
+        patterns=patterns,
+        generator_class=generator_class,
+        authentication_classes=authentication_classes,
+        permission_classes=permission_classes,
+    )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnBhcnNlcnMuTXVsdGlQYXJ0UGFyc2VyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3RfZnJhbWV3b3JrLnBhcnNlcnMuRm9ybVBhcnNlcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGgocidzY2hlbWEvJywgdmlld3MuU3dhZ2dlclNjaGVtYVZpZXcuYXNfdmlldygpLCBuYW1lPSdzY2hlbWEnKSwK</text>
+      <register name="3" type="4">
+        <text>def get_docs_view(
+        title=None, description=None, schema_url=None, public=True,
+        patterns=None, generator_class=SchemaGenerator,
+        authentication_classes=api_settings.DEFAULT_AUTHENTICATION_CLASSES,
+        permission_classes=api_settings.DEFAULT_PERMISSION_CLASSES):
+    renderer_classes = [DocumentationRenderer, CoreJSONRenderer, JSONRenderer]
+
+    return get_schema_view(
+        title=title,
+        url=schema_url,
+        description=description,
+        renderer_classes=renderer_classes,
+        public=public,
+        patterns=patterns,
+        generator_class=generator_class,
+        authentication_classes=authentication_classes,
+        permission_classes=permission_classes,
+    )
+
+def get_schemajs_view(
+        title=None, description=None, schema_url=None, public=True,
+        patterns=None, generator_class=SchemaGenerator,
+        authentication_classes=api_settings.DEFAULT_AUTHENTICATION_CLASSES,
+        permission_classes=api_settings.DEFAULT_PERMISSION_CLASSES):
+    renderer_classes = [SchemaJSRenderer, JSONRenderer]
+
+    return get_schema_view(
+        title=title,
+        url=schema_url,
+        description=description,
+        renderer_classes=renderer_classes,
+        public=public,
+        patterns=patterns,
+        generator_class=generator_class,
+        authentication_classes=authentication_classes,
+        permission_classes=permission_classes,
+    )
+docs_urls = [
+    path(r'',
+         get_docs_view(title='ContentKB API',
+                                     description='ContentKB core service that manages the whole knowledge base as well '
+                                                 'as machine learning models used for matching.',
+                                     patterns=api_patterns,
+                                     schema_url='/api',
+                                     ),
+         name='docs-index'),
+    path(r'^schema.js$',
+         get_schemajs_view(
+        title='ContentKB API',
+    ),
+         name='schema-js')
+]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1RoaXJkIHBhcnR5IHNvdXJjZSBVUkkgb2Ygc2VyaWVzLiBNdXN0IGJlIGZvcm1hdHRlZCBhcyB7a2V5fTp7dmFsdWV9JykK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5kb2N1bWVudGF0aW9uIGltcG9ydCBpbmNsdWRlX2RvY3NfdXJscywgZ2V0X3NjaGVtYWpzX3ZpZXcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgZGF0ZSBpbiBJU08tNjYzMC0xIGZvcm1hdCAoZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvKScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uX2NsYXNzZXM9cGVybWlzc2lvbl9jbGFzc2VzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgZGF0ZSBpbiBJU08tNjYzMC0xIGZvcm1hdCAobGVzc2VyIHRoYW4gb3IgZXF1YWwgdG8pJykK</text>
+        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGlvbl9jbGFzc2VzPWF1dGhlbnRpY2F0aW9uX2NsYXNzZXMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgeWVhcicpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3JfY2xhc3M9Z2VuZXJhdG9yX2NsYXNzLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSB5ZWFyIChncmVhdGVyIHRoYW4gb3IgZXF1YWwgdG8pJykK</text>
+        <text encoding="base64">ICAgICAgICBwYXR0ZXJucz1wYXR0ZXJucywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSB5ZWFyIChsZXNzZXIgdGhhbiBvciBlcXVhbCB0byknKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWM9cHVibGljLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RhdGVfXy8vZw==</text>
