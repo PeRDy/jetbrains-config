@@ -130,11 +130,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/filters/filters.py" timestamp="1518524043126">
-        <mark key="[" line="31" column="94" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="30" column="36" />
-        <mark key="^" line="30" column="36" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/filters/filters.py" timestamp="1518532526999">
+        <mark key="[" line="30" column="72" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="20" column="70" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/telegram/index.rst" timestamp="1507585576491">
         <mark key="[" line="29" column="0" />
@@ -874,12 +874,6 @@
         <mark key="." line="3" column="163" />
         <mark key="^" line="3" column="163" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/docker-compose.yml" timestamp="1518465557806">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="6" />
-        <mark key="." line="30" column="6" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/README.rst" timestamp="1507585638591">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="60" column="0" />
@@ -1543,12 +1537,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" timestamp="1518526518493">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" timestamp="1518534141041">
+        <mark key="'" line="28" column="3" />
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="24" />
+        <mark key="^" line="48" column="24" />
+        <mark key="." line="48" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/app.json" timestamp="1518469108217">
         <mark key="[" line="6" column="19" />
@@ -1624,6 +1618,9 @@
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/serializers.py" timestamp="1518533658070">
+        <mark key="[" line="11" column="41" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/bot/bot.py" timestamp="1513699953137">
         <mark key="[" line="77" column="8" />
@@ -1715,6 +1712,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518530249316">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="3" column="8" />
@@ -1726,12 +1728,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/run" timestamp="1518466478117">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/run_tests.py" timestamp="1452276794082">
         <mark key="[" line="1" column="9" />
@@ -1790,7 +1786,8 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django_filters/filters.py" timestamp="1518522842272">
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django_filters/filters.py" timestamp="1518533166684">
+        <mark key="'" line="609" column="73" />
         <mark key="[" line="390" column="8" />
         <mark key="]" line="401" column="16" />
       </file>
@@ -1804,12 +1801,6 @@
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/screens/Landing.js" timestamp="1518472116154">
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/README.rst" timestamp="1515153223211">
         <mark key="[" line="8" column="32" />
@@ -2377,6 +2368,9 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518532475752">
+        <mark key="[" line="35" column="19" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/server/nginx.conf" timestamp="1516128991948">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="18" />
@@ -2662,10 +2656,11 @@
         <mark key="]" line="54" column="43" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518526454549">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518530216842">
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -3344,23 +3339,16 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" timestamp="1518191148716">
-        <mark key="'" line="4133" column="4" />
-        <mark key="[" line="5945" column="0" />
-        <mark key="]" line="5945" column="32" />
-        <mark key="." line="5945" column="33" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1516491768091">
         <mark key="[" line="189" column="79" />
         <mark key="]" line="189" column="110" />
         <mark key="^" line="188" column="35" />
         <mark key="." line="189" column="79" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="36" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1518534532167">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/nginx/Dockerfile" timestamp="1467209256885">
         <mark key="[" line="6" column="5" />
@@ -3399,13 +3387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="17" filename="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/telegraf/plugins/storj.py" />
-      <jump line="131" column="7" filename="$USER_HOME$/Development/contentkb/contentkb-api/core/tests/utils/test_collections.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/screens/Login.js" />
-      <jump line="134" column="34" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="3" column="60" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.base.js" />
-      <jump line="65" column="15" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="125" column="4" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="7" column="5" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="104" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
@@ -3498,86 +3479,73 @@
       <jump line="840" column="19" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django/forms/fields.py" />
       <jump line="880" column="31" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django/forms/fields.py" />
       <jump line="52" column="6" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django_filters/filterset.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
+      <jump line="609" column="73" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django_filters/filters.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
+      <jump line="58" column="13" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
+      <jump line="28" column="3" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, STRICTNESS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhdGgocidzY2hlbWEvJywgdmlld3MuU3dhZ2dlclNjaGVtYVZpZXcuYXNfdmlldygpLCBuYW1lPSdzY2hlbWEnKSwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, STRICTNESS</text>
+        <text encoding="base64">Z3JlYXRlciA=</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>date__</text>
       </register>
       <register name="0" type="4">
-        <text>if value:
-            if value.start is not None and value.stop is not None:
-                lookup = '%s__%s' % (self.field_name, self.lookup_expr)
-                return self.get_method(qs)(**{lookup: (value.start, value.stop)})
-            else:
-                if value.start is not None:
-                    qs = self.get_method(qs)(**{'%s__startswith' % self.field_name: value.start})
-                if value.stop is not None:
-                    qs = self.get_method(qs)(**{'%s__endswith' % self.field_name: value.stop})
-            if self.distinct:
-                qs = qs.distinct()
-        return qs</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBmaWx0ZXJzLkNob2ljZUZpbHRlcihmaWVsZF9uYW1lPSd0eXBlJywgY2hvaWNlcz1NZXRhZGF0YS5UWVBFX0NIT0lDRVMsIGhlbHBfdGV4dD0nTWV0YWRhdGEgY29udGVudCB0eXBlJykKICAgIHRpdGxlID0gVGl0bGVJbkFycmF5RmlsdGVyKGZpZWxkX25hbWU9J3RpdGxlJywgaGVscF90ZXh0PSdUaXRsZScpCiAgICBzZXJpZXNfdGl0bGUgPSBUaXRsZUluQXJyYXlGaWx0ZXIoZmllbGRfbmFtZT0nc2VyaWVzX3RpdGxlJywgaGVscF90ZXh0PSdTZXJpZXMgdGl0bGUnKQogICAgdXJpID0gSlNPTktleVZhbHVlRmlsdGVyKGZpZWxkX25hbWU9J3VyaScsIGhlbHBfdGV4dD0nVGhpcmQgcGFydHkgc291cmNlIFVSSS4gTXVzdCBiZSBmb3JtYXR0ZWQgYXMge2tleX06e3ZhbHVlfScpCiAgICBjb3VudHJ5ID0gZmlsdGVycy5DaGFyRmlsdGVyKGZpZWxkX25hbWU9J2NvdW50cnknLCBoZWxwX3RleHQ9J0NvdW50cnkgY29kZSB1c2luZyBJU08tNjYzMC0xIGZvcm1hdCcpCiAgICBzZXJpZXNfaWQgPSBKU09OS2V5VmFsdWVGaWx0ZXIoZmllbGRfbmFtZT0ndXJpJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1RoaXJkIHBhcnR5IHNvdXJjZSBVUkkgb2Ygc2VyaWVzLiBNdXN0IGJlIGZvcm1hdHRlZCBhcyB7a2V5fTp7dmFsdWV9JykKICAgIGNhc3QgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSdjYXN0JywgaGVscF90ZXh0PSdDYXN0IG5hbWUnKQogICAgZ2VucmUgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSdnZW5yZScsIGhlbHBfdGV4dD0nR2VucmUnKQogICAgZGlyZWN0b3IgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSdkaXJlY3RvcicsIGhlbHBfdGV4dD0nRGlyZWN0b3IgbmFtZScpCiAgICB3cml0ZXIgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSd3cml0ZXInLCBoZWxwX3RleHQ9J1dyaXRlciBuYW1lJykKICAgIHNlYXNvbiA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J3NlYXNvbicsIGhlbHBfdGV4dD0nU2Vhc29uIG51bWJlcicpCiAgICBlcGlzb2RlID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0nZXBpc29kZScsIGhlbHBfdGV4dD0nRXBpc29kZSBudW1iZXInKQogICAgZGF0ZSA9IGZpbHRlcnMuRGF0ZUZpbHRlcihmaWVsZF9uYW1lPSdkYXRlJywgaGVscF90ZXh0PSdSZWxlYXNlIGRhdGUgaW4gSVNPLTY2MzAtMSBmb3JtYXQnKQogICAgZGF0ZV9fZ3RlID0gZmlsdGVycy5EYXRlRmlsdGVyKGZpZWxkX25hbWU9J2RhdGUnLCBsb29rdXBfZXhwcj0nZ3RlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgZGF0ZSBpbiBJU08tNjYzMC0xIGZvcm1hdCAoZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvKScpCiAgICBkYXRlX19sdGUgPSBmaWx0ZXJzLkRhdGVGaWx0ZXIoZmllbGRfbmFtZT0nZGF0ZScsIGxvb2t1cF9leHByPSdsdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSBkYXRlIGluIElTTy02NjMwLTEgZm9ybWF0IChsZXNzZXIgdGhhbiBvciBlcXVhbCB0byknKQogICAgZGF0ZV9feWVhciA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J2RhdGUnLCBsb29rdXBfZXhwcj0neWVhcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIHllYXInKQogICAgZGF0ZV9feWVhcl9fZ3RlID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0nZGF0ZScsIGxvb2t1cF9leHByPSd5ZWFyX19ndGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIHllYXIgKGdyZWF0ZXIgdGhhbiBvciBlcXVhbCB0byknKQogICAgZGF0ZV9feWVhcl9fbHRlID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0nZGF0ZScsIGxvb2t1cF9leHByPSd5ZWFyX19sdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIHllYXIgKGxlc3NlciB0aGFuIG9yIGVxdWFsIHRvKScpCiAgICByYXRpbmcgPSBmaWx0ZXJzLk51bWJlckZpbHRlcihmaWVsZF9uYW1lPSdyYXRpbmcnLCBoZWxwX3RleHQ9J1JhdGluZyBzY29yZScpCiAgICByYXRpbmdfX2d0ZSA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J3JhdGluZycsIGxvb2t1cF9leHByPSdndGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JhdGluZyBzY29yZSAoZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvKScpCiAgICByYXRpbmdfX2x0ZSA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J3JhdGluZycsIGxvb2t1cF9leHByPSdsdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JhdGluZyBzY29yZSAobGVzc2VyIHRoYW4gb3IgZXF1YWwgdG8pJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGgocidzY2hlbWEvJywgdmlld3MuU3dhZ2dlclNjaGVtYVZpZXcuYXNfdmlldygpLCBuYW1lPSdzY2hlbWEnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZJTFRFUlNfU1RSSUNUTkVTUyA9IFNUUklDVE5FU1MuUkFJU0VfVkFMSURBVElPTl9FUlJPUgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1RoaXJkIHBhcnR5IHNvdXJjZSBVUkkgb2Ygc2VyaWVzLiBNdXN0IGJlIGZvcm1hdHRlZCBhcyB7a2V5fTp7dmFsdWV9JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29fZmlsdGVycyBpbXBvcnQgU1RSSUNUTkVTUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgZGF0ZSBpbiBJU08tNjYzMC0xIGZvcm1hdCAoZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvKScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cmljdCA9IFNUUklDVE5FU1MuUkFJU0VfVkFMSURBVElPTl9FUlJPUgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgZGF0ZSBpbiBJU08tNjYzMC0xIGZvcm1hdCAobGVzc2VyIHRoYW4gb3IgZXF1YWwgdG8pJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpY3QgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgeWVhcicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpY3QgPSBTVFJJQ1RORVNTLlJBSVNFX1ZBTElEQVRJT05fRVJST1IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSB5ZWFyIChncmVhdGVyIHRoYW4gb3IgZXF1YWwgdG8pJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdGT09PT09PT09PT09PT09PT09PT09PT09PJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSB5ZWFyIChsZXNzZXIgdGhhbiBvciBlcXVhbCB0byknKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHZhbHVlLnN0b3AgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcXMgPSBzZWxmLmdldF9tZXRob2QocXMpKCoqeyclc19fZW5kc3dpdGgnICUgc2VsZi5maWVsZF9uYW1lOiB2YWx1ZS5zdG9wfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSYXRpbmcgc2NvcmUgKGdyZWF0ZXIgdGhhbiBvciBlcXVhbCB0byknKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHZhbHVlLnN0YXJ0IGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSYXRpbmcgc2NvcmUgKGxlc3NlciB0aGFuIG9yIGVxdWFsIHRvKScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL25hbWUvZmllbGRfbmFtZQ==</text>
+        <text encoding="base64">JzwsJz5zL2RhdGVfXy8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>date__</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
-      <last-replace>field_name</last-replace>
-      <last-substitute>name</last-substitute>
+      <last-pattern>date__</last-pattern>
+      <last-replace />
+      <last-substitute>date__</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>router</entry>
-        <entry>email</entry>
-        <entry>Email</entry>
-        <entry>EMAIL</entry>
-        <entry>slug</entry>
-        <entry>this.slug</entry>
-        <entry>&quot;username&quot;</entry>
-        <entry>this.props.id</entry>
-        <entry>Username</entry>
         <entry>remove</entry>
         <entry>setError</entry>
         <entry>Password</entry>
@@ -3589,16 +3557,17 @@
         <entry>strict</entry>
         <entry>STRICT</entry>
         <entry>name</entry>
+        <entry>cast</entry>
+        <entry>season</entry>
+        <entry>date</entry>
+        <entry>Float</entry>
+        <entry>float</entry>
+        <entry>Decim</entry>
+        <entry>=.*</entry>
+        <entry>\(\w\+\)</entry>
+        <entry>date__</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIucHJvamVjdF9zbHVnIH19L2c=</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
-        <entry>s/email/generic/g</entry>
-        <entry>s/email/username/g</entry>
-        <entry>s/email/password/g</entry>
-        <entry>s/Email/Generic/g</entry>
-        <entry>s/Email/Username/g</entry>
         <entry>s/Email/Password/g</entry>
         <entry>s/EMAIL/GENERIC/g</entry>
         <entry>s/EMAIL/USERNAME/g</entry>
@@ -3611,6 +3580,14 @@
         <entry encoding="base64">JzwsJz5zL1Bhc3N3b3JkL1VzZXJuYW1lL2c=</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL25hbWUvZmllbGRfbmFtZQ==</entry>
+        <entry encoding="base64">JzwsJz5zL2Nhc3QvZ2VucmUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Nhc3QvZGlyZWN0b3IvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2Nhc3Qvd3JpdGVyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3NlYXNvbi9lcGlzb2RlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGUvZGF0ZV9feWVhcg==</entry>
+        <entry encoding="base64">JzwsJz5zLz0uKi8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpLydcMScsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RhdGVfXy8vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
