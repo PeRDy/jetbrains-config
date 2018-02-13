@@ -1593,11 +1593,11 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/api/__init__.py" timestamp="1518536109454">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/api/__init__.py" timestamp="1518538615978">
         <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/index.ios.js" timestamp="1504439037050">
         <mark key="[" line="41" column="32" />
@@ -2347,8 +2347,11 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/base.py" timestamp="1518535678926">
-        <mark key="[" line="15" column="27" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/urls/base.py" timestamp="1518538666685">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="15" column="56" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
@@ -3504,20 +3507,20 @@
       <jump line="28" column="3" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGgocidzY2hlbWEvJywgdmlld3MuU3dhZ2dlclNjaGVtYVZpZXcuYXNfdmlldygpLCBuYW1lPSdzY2hlbWEnKSwK</text>
+      <register name="&quot;" type="4">
+        <text>api</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z3JlYXRlciA=</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text>date__</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHR5cGUgPSBmaWx0ZXJzLkNob2ljZUZpbHRlcihmaWVsZF9uYW1lPSd0eXBlJywgY2hvaWNlcz1NZXRhZGF0YS5UWVBFX0NIT0lDRVMsIGhlbHBfdGV4dD0nTWV0YWRhdGEgY29udGVudCB0eXBlJykKICAgIHRpdGxlID0gVGl0bGVJbkFycmF5RmlsdGVyKGZpZWxkX25hbWU9J3RpdGxlJywgaGVscF90ZXh0PSdUaXRsZScpCiAgICBzZXJpZXNfdGl0bGUgPSBUaXRsZUluQXJyYXlGaWx0ZXIoZmllbGRfbmFtZT0nc2VyaWVzX3RpdGxlJywgaGVscF90ZXh0PSdTZXJpZXMgdGl0bGUnKQogICAgdXJpID0gSlNPTktleVZhbHVlRmlsdGVyKGZpZWxkX25hbWU9J3VyaScsIGhlbHBfdGV4dD0nVGhpcmQgcGFydHkgc291cmNlIFVSSS4gTXVzdCBiZSBmb3JtYXR0ZWQgYXMge2tleX06e3ZhbHVlfScpCiAgICBjb3VudHJ5ID0gZmlsdGVycy5DaGFyRmlsdGVyKGZpZWxkX25hbWU9J2NvdW50cnknLCBoZWxwX3RleHQ9J0NvdW50cnkgY29kZSB1c2luZyBJU08tNjYzMC0xIGZvcm1hdCcpCiAgICBzZXJpZXNfaWQgPSBKU09OS2V5VmFsdWVGaWx0ZXIoZmllbGRfbmFtZT0ndXJpJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1RoaXJkIHBhcnR5IHNvdXJjZSBVUkkgb2Ygc2VyaWVzLiBNdXN0IGJlIGZvcm1hdHRlZCBhcyB7a2V5fTp7dmFsdWV9JykKICAgIGNhc3QgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSdjYXN0JywgaGVscF90ZXh0PSdDYXN0IG5hbWUnKQogICAgZ2VucmUgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSdnZW5yZScsIGhlbHBfdGV4dD0nR2VucmUnKQogICAgZGlyZWN0b3IgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSdkaXJlY3RvcicsIGhlbHBfdGV4dD0nRGlyZWN0b3IgbmFtZScpCiAgICB3cml0ZXIgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSd3cml0ZXInLCBoZWxwX3RleHQ9J1dyaXRlciBuYW1lJykKICAgIHNlYXNvbiA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J3NlYXNvbicsIGhlbHBfdGV4dD0nU2Vhc29uIG51bWJlcicpCiAgICBlcGlzb2RlID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0nZXBpc29kZScsIGhlbHBfdGV4dD0nRXBpc29kZSBudW1iZXInKQogICAgZGF0ZSA9IGZpbHRlcnMuRGF0ZUZpbHRlcihmaWVsZF9uYW1lPSdkYXRlJywgaGVscF90ZXh0PSdSZWxlYXNlIGRhdGUgaW4gSVNPLTY2MzAtMSBmb3JtYXQnKQogICAgZGF0ZV9fZ3RlID0gZmlsdGVycy5EYXRlRmlsdGVyKGZpZWxkX25hbWU9J2RhdGUnLCBsb29rdXBfZXhwcj0nZ3RlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JlbGVhc2UgZGF0ZSBpbiBJU08tNjYzMC0xIGZvcm1hdCAoZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvKScpCiAgICBkYXRlX19sdGUgPSBmaWx0ZXJzLkRhdGVGaWx0ZXIoZmllbGRfbmFtZT0nZGF0ZScsIGxvb2t1cF9leHByPSdsdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSBkYXRlIGluIElTTy02NjMwLTEgZm9ybWF0IChsZXNzZXIgdGhhbiBvciBlcXVhbCB0byknKQogICAgZGF0ZV9feWVhciA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J2RhdGUnLCBsb29rdXBfZXhwcj0neWVhcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIHllYXInKQogICAgZGF0ZV9feWVhcl9fZ3RlID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0nZGF0ZScsIGxvb2t1cF9leHByPSd5ZWFyX19ndGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIHllYXIgKGdyZWF0ZXIgdGhhbiBvciBlcXVhbCB0byknKQogICAgZGF0ZV9feWVhcl9fbHRlID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0nZGF0ZScsIGxvb2t1cF9leHByPSd5ZWFyX19sdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIHllYXIgKGxlc3NlciB0aGFuIG9yIGVxdWFsIHRvKScpCiAgICByYXRpbmcgPSBmaWx0ZXJzLk51bWJlckZpbHRlcihmaWVsZF9uYW1lPSdyYXRpbmcnLCBoZWxwX3RleHQ9J1JhdGluZyBzY29yZScpCiAgICByYXRpbmdfX2d0ZSA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J3JhdGluZycsIGxvb2t1cF9leHByPSdndGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JhdGluZyBzY29yZSAoZ3JlYXRlciB0aGFuIG9yIGVxdWFsIHRvKScpCiAgICByYXRpbmdfX2x0ZSA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J3JhdGluZycsIGxvb2t1cF9leHByPSdsdGUnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1JhdGluZyBzY29yZSAobGVzc2VyIHRoYW4gb3IgZXF1YWwgdG8pJyk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhdGgocidhcGkvJywgaW5jbHVkZSgnY29udGVudGtiX2FwaS51cmxzLmFwaScsIG5hbWVzcGFjZT0nYXBpJykpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhdGgocidzY2hlbWEvJywgdmlld3MuU3dhZ2dlclNjaGVtYVZpZXcuYXNfdmlldygpLCBuYW1lPSdzY2hlbWEnKSwK</text>
