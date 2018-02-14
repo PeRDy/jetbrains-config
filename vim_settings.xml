@@ -349,6 +349,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework_sequoia/parsers.py" timestamp="1518615203135" />
       <file name="$USER_HOME$/Desarrollo/perdy-site/scraper/items.py" timestamp="1493397590919">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="28" />
@@ -454,6 +455,7 @@
         <mark key="^" line="35" column="2" />
         <mark key="." line="35" column="2" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework/parsers.py" timestamp="1518615124402" />
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Honors.vue" timestamp="1505985090107">
         <mark key="[" line="66" column="48" />
         <mark key="]" line="28" column="33" />
@@ -691,6 +693,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework_sequoia/renderers.py" timestamp="1518616151137" />
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/apollo-client.js" timestamp="1504884181586">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="33" />
@@ -1704,12 +1707,19 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/parsers.py" timestamp="1518616409475">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/run_tests.py" timestamp="1465205993605">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework/renderers.py" timestamp="1518616169432" />
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516674236372">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="28" />
@@ -2670,10 +2680,10 @@
         <mark key="]" line="54" column="43" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518542428267">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518615604573">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -3516,7 +3526,7 @@
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>settings</text>
       </register>
       <register name="/" type="4">
         <text>date__</text>
@@ -3547,77 +3557,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>def get_docs_view(
-        title=None, description=None, schema_url=None, public=True,
-        patterns=None, generator_class=SchemaGenerator,
-        authentication_classes=api_settings.DEFAULT_AUTHENTICATION_CLASSES,
-        permission_classes=api_settings.DEFAULT_PERMISSION_CLASSES):
-    renderer_classes = [DocumentationRenderer, CoreJSONRenderer, JSONRenderer]
-
-    return get_schema_view(
-        title=title,
-        url=schema_url,
-        description=description,
-        renderer_classes=renderer_classes,
-        public=public,
-        patterns=patterns,
-        generator_class=generator_class,
-        authentication_classes=authentication_classes,
-        permission_classes=permission_classes,
-    )
-
-def get_schemajs_view(
-        title=None, description=None, schema_url=None, public=True,
-        patterns=None, generator_class=SchemaGenerator,
-        authentication_classes=api_settings.DEFAULT_AUTHENTICATION_CLASSES,
-        permission_classes=api_settings.DEFAULT_PERMISSION_CLASSES):
-    renderer_classes = [SchemaJSRenderer, JSONRenderer]
-
-    return get_schema_view(
-        title=title,
-        url=schema_url,
-        description=description,
-        renderer_classes=renderer_classes,
-        public=public,
-        patterns=patterns,
-        generator_class=generator_class,
-        authentication_classes=authentication_classes,
-        permission_classes=permission_classes,
-    )
-docs_urls = [
-    path(r'',
-         get_docs_view(title='ContentKB API',
-                                     description='ContentKB core service that manages the whole knowledge base as well '
-                                                 'as machine learning models used for matching.',
-                                     patterns=api_patterns,
-                                     schema_url='/api',
-                                     ),
-         name='docs-index'),
-    path(r'^schema.js$',
-         get_schemajs_view(
-        title='ContentKB API',
-    ),
-         name='schema-js')
-]</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgUGFyc2VyKEpTT05QYXJzZXIpOgogICAgcmVuZGVyZXJfY2xhc3MgPSBSZW5kZXJlcgoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5kb2N1bWVudGF0aW9uIGltcG9ydCBpbmNsdWRlX2RvY3NfdXJscywgZ2V0X3NjaGVtYWpzX3ZpZXcK</text>
+        <text encoding="base64">Y2xhc3MgUGFyc2VyKEpTT05QYXJzZXIpOgogICAgcmVuZGVyZXJfY2xhc3MgPSBSZW5kZXJlcgoKCmNsYXNzIFJlbmRlcmVyKEpTT05SZW5kZXJlcik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtaXNzaW9uX2NsYXNzZXM9cGVybWlzc2lvbl9jbGFzc2VzLAo=</text>
+        <text encoding="base64">ICAgIG1lZGlhX3R5cGUgPSAnYXBwbGljYXRpb24vanNvbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGlvbl9jbGFzc2VzPWF1dGhlbnRpY2F0aW9uX2NsYXNzZXMsCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29ya19zZXF1b2lhLnBhcnNlcnMgaW1wb3J0IEpTT05QYXJzZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3JfY2xhc3M9Z2VuZXJhdG9yX2NsYXNzLAo=</text>
+        <text encoding="base64">Y2xhc3MgUGFyc2VyKEpTT05QYXJzZXIpOgogICAgbWVkaWFfdHlwZSA9ICdhcHBsaWNhdGlvbi9qc29uJwoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXR0ZXJucz1wYXR0ZXJucywK</text>
+        <text encoding="base64">Y2xhc3MgUGFyc2VyKEpTT05QYXJzZXIpOgogICAgbWVkaWFfdHlwZSA9ICdhcHBsaWNhdGlvbi9qc29uJwoKCmNsYXNzIERqYW5nb1JFU1RGcmFtZXdvcmtNaXhpbjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWM9cHVibGljLAo=</text>
+        <text encoding="base64">Y2xhc3MgUGFyc2VyKEpTT05QYXJzZXIpOgogICAgbWVkaWFfdHlwZSA9ICdhcHBsaWNhdGlvbi9qc29uJwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RhdGVfXy8vZw==</text>
