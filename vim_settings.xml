@@ -1108,6 +1108,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_metadata.py" timestamp="1518632435274">
+        <mark key="'" line="144" column="24" />
+        <mark key="[" line="144" column="25" />
+        <mark key="]" line="144" column="24" />
+        <mark key="^" line="144" column="24" />
+        <mark key="." line="144" column="24" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/Python/performance-tools/performance_tools/urls_flow/backends/base.py" timestamp="1427050779803">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="42" column="0" />
@@ -1742,8 +1749,8 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518630078443">
-        <mark key="[" line="36" column="8" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518632461121">
+        <mark key="[" line="103" column="44" />
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
@@ -2129,6 +2136,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/setup.cfg" timestamp="1518632474561">
+        <mark key="[" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/README.rst" timestamp="1516463942718">
         <mark key="[" line="41" column="83" />
@@ -2824,11 +2834,6 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/tests/viewsets/test_metadata_search.py" timestamp="1516707173521">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/status.py" timestamp="1505669167298">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="46" column="31" />
@@ -2981,9 +2986,6 @@
         <mark key="]" line="6" column="41" />
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework/schemas.py" timestamp="1518617760362">
-        <mark key="'" line="38" column="8" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/schema.py" timestamp="1497478655653">
         <mark key="[" line="7" column="29" />
@@ -3444,7 +3446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="5" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="104" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="94" column="16" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="82" column="15" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
@@ -3544,10 +3545,11 @@
       <jump line="58" column="13" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
       <jump line="28" column="3" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" />
       <jump line="38" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework/schemas.py" />
+      <jump line="144" column="24" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_metadata.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHNjaGVtYSA9IEF1dG9TY2hlbWEoCiAgICAgICAgbWFudWFsX2ZpZWxkcz1bCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdzeW5vcHNpcycsCiAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgIGxvY2F0aW9uPSdxdWVyeScsCiAgICAgICAgICAgICAgICBzY2hlbWE9Y29yZXNjaGVtYS5TdHJpbmcoKSwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPSdTeW5vcHNpcycsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdleHBhbmQnLAogICAgICAgICAgICAgICAgcmVxdWlyZWQ9RmFsc2UsCiAgICAgICAgICAgICAgICBsb2NhdGlvbj0ncXVlcnknLAogICAgICAgICAgICAgICAgc2NoZW1hPWNvcmVzY2hlbWEuQm9vbGVhbigpLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb249J0lmIGl0IGlzIHNldCB0byB0cnVlIHJldHJpZXZlIHRoZSB3aG9sZSByZXNvdXJjZSwgb3RoZXJ3aXNlIG9ubHkgcmVzb3VyY2UgSUQnCiAgICAgICAgICAgICkKICAgICAgICBdCiAgICAp</text>
+        <text encoding="base64">CiAgICBkZWYgX3BhcnNlX2pzb24oc2VsZiwgcmVzcG9uc2UsICoqZXh0cmEpOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHJlc3BvbnNlLmNvbnRlbnQuZGVjb2RlKCksICoqZXh0cmEpCgogICAgZGVmIF9wYXJzZV9yZXNvdXJjZShzZWxmLCByZXNwb25zZSwgcmVzb3VyY2VfbmFtZSwgc2VyaWFsaXplcj1Ob25lLCAqKmV4dHJhKToKICAgICAgICBqc29uX3Jlc3BvbnNlID0gc2VsZi5fcGFyc2VfanNvbihyZXNwb25zZSwgKipleHRyYSkKCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXNvdXJjZSA9IGpzb25fcmVzcG9uc2VbcmVzb3VyY2VfbmFtZV0KICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZidSZXNvdXJjZSAie3Jlc291cmNlX25hbWV9IiBub3QgZm91bmQnKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZXJpYWxpemVyKG1hbnk9VHJ1ZSkuY3JlYXRlKHJlc291cmNlKSBpZiBzZXJpYWxpemVyIGVsc2UgcmVzb3VyY2U=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3556,54 +3558,53 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>encodin</text>
+        <text>'high'</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHNjaGVtYSA9IEF1dG9TY2hlbWEoCiAgICAgICAgbWFudWFsX2ZpZWxkcz1bCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdzeW5vcHNpcycsCiAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgIGxvY2F0aW9uPSdxdWVyeScsCiAgICAgICAgICAgICAgICBzY2hlbWE9Y29yZXNjaGVtYS5TdHJpbmcoKSwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPSdTeW5vcHNpcycsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdleHBhbmQnLAogICAgICAgICAgICAgICAgcmVxdWlyZWQ9RmFsc2UsCiAgICAgICAgICAgICAgICBsb2NhdGlvbj0ncXVlcnknLAogICAgICAgICAgICAgICAgc2NoZW1hPWNvcmVzY2hlbWEuQm9vbGVhbigpLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb249J0lmIGl0IGlzIHNldCB0byB0cnVlIHJldHJpZXZlIHRoZSB3aG9sZSByZXNvdXJjZSwgb3RoZXJ3aXNlIG9ubHkgcmVzb3VyY2UgSUQnCiAgICAgICAgICAgICkKICAgICAgICBdCiAgICAp</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBkZWYgX3BhcnNlX2pzb24oc2VsZiwgcmVzcG9uc2UsICoqZXh0cmEpOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHJlc3BvbnNlLmNvbnRlbnQuZGVjb2RlKCksICoqZXh0cmEpCgogICAgZGVmIF9wYXJzZV9yZXNvdXJjZShzZWxmLCByZXNwb25zZSwgcmVzb3VyY2VfbmFtZSwgc2VyaWFsaXplcj1Ob25lLCAqKmV4dHJhKToKICAgICAgICBqc29uX3Jlc3BvbnNlID0gc2VsZi5fcGFyc2VfanNvbihyZXNwb25zZSwgKipleHRyYSkKCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXNvdXJjZSA9IGpzb25fcmVzcG9uc2VbcmVzb3VyY2VfbmFtZV0KICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZidSZXNvdXJjZSAie3Jlc291cmNlX25hbWV9IiBub3QgZm91bmQnKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZXJpYWxpemVyKG1hbnk9VHJ1ZSkuY3JlYXRlKHJlc291cmNlKSBpZiBzZXJpYWxpemVyIGVsc2UgcmVzb3VyY2U=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIHNjaGVtYSA9IEF1dG9TY2hlbWEoCiAgICAgICAgbWFudWFsX2ZpZWxkcz1bCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdzeW5vcHNpcycsCiAgICAgICAgICAgICAgICByZXF1aXJlZD0sCiAgICAgICAgICAgICAgICBsb2NhdGlvbj0ncXVlcnknLAogICAgICAgICAgICAgICAgc2NoZW1hPXNlbGYuZ2V0X2NvcmVzY2hlbWFfZmllbGQoZmllbGQpCiAgICAgICAgICAgICkKICAgICAgICBdCiAgICApCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICBkZWYgbGlzdChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICIiIgogICAgICAgIEZvby4KICAgICAgICAiIiIKICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAKICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCiAgICAgICAgOnBhcmFtIGFyZ3M6IAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICAgICAgOnBhcmFtIHJlcXVlc3Q6IEhUVFAgcmVxdWVzdC4KICAgICAgICA6cmV0dXJuOiBMaXN0IG9mIFVSSSBmb3VuZHMgdGhhdCBtYXRjaCB3aXRoIGdpdmVuIGNyaXRlcmlhLgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGZpbHRlcl9iYWNrZW5kcyA9IChyZXN0X2ZyYW1ld29ya19maWx0ZXJzLmJhY2tlbmRzLkRqYW5nb0ZpbHRlckJhY2tlbmQsKQogICAgZmlsdGVyX2NsYXNzID0gTWV0YWRhdGFTZWFyY2hGaWx0ZXIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGh0dHBfbWV0aG9kX25hbWVzID0gCg==</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2RhdGVfXy8vZw==</text>
+        <text>%s/'high'/'high', 'endpoint'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>encodin</last-search>
+      <last-search>'high'</last-search>
       <last-offset />
-      <last-pattern>encodin</last-pattern>
-      <last-replace />
-      <last-substitute>date__</last-substitute>
+      <last-pattern>'high'</last-pattern>
+      <last-replace>'high', 'endpoint'</last-replace>
+      <last-substitute>'high'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setError</entry>
         <entry>Password</entry>
         <entry>history</entry>
         <entry>babel</entry>
@@ -3623,9 +3624,9 @@
         <entry>\(\w\+\)</entry>
         <entry>date__</entry>
         <entry>encodin</entry>
+        <entry>'high'</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Email/Password/g</entry>
         <entry>s/EMAIL/GENERIC/g</entry>
         <entry>s/EMAIL/USERNAME/g</entry>
         <entry>s/EMAIL/PASSWORD/g</entry>
@@ -3645,6 +3646,7 @@
         <entry encoding="base64">JzwsJz5zLz0uKi8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpLydcMScsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVfXy8vZw==</entry>
+        <entry>%s/'high'/'high', 'endpoint'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
