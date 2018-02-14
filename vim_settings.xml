@@ -31,6 +31,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1518623521379">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="27" />
@@ -49,6 +52,7 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/items/imdb.py" timestamp="1518621913987" />
       <file name="$USER_HOME$/Desarrollo/trazabilidad/run" timestamp="1513877930240">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="90" column="45" />
@@ -478,6 +482,7 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/make.py" timestamp="1518621840202" />
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/cookify_api/schema.py" timestamp="1497563056541">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="7" />
@@ -1432,7 +1437,7 @@
         <mark key="]" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/requirements.txt" timestamp="1518619734736">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/requirements.txt" timestamp="1518622983241">
         <mark key="[" line="40" column="8" />
         <mark key="]" line="40" column="8" />
         <mark key="." line="40" column="8" />
@@ -1732,11 +1737,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518619911048">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="120" column="32" />
-        <mark key="." line="104" column="4" />
-        <mark key="^" line="104" column="4" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518623984779">
+        <mark key="[" line="123" column="11" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="122" column="11" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
@@ -1749,6 +1754,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/urls.py" timestamp="1518623470291">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/run_tests.py" timestamp="1452276794082">
         <mark key="[" line="1" column="9" />
@@ -1957,8 +1967,8 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/filters/movie.py" timestamp="1518620336248">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/filters/movie.py" timestamp="1518623222386">
+        <mark key="[" line="10" column="50" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
@@ -2236,6 +2246,7 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/pipelines/kafka.py" timestamp="1518622001162" />
       <file name="$USER_HOME$/Desarrollo/perdy-site/.env" timestamp="1497007709506">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="58" />
@@ -2295,6 +2306,7 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-scraper/core/items/base.py" timestamp="1518622011432" />
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/urls.py" timestamp="1465564024967">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="17" />
@@ -2616,15 +2628,15 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/viewsets/metadata_search.py" timestamp="1516629904331">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/viewsets/metadata_search.py" timestamp="1518623756750">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/movie.py" timestamp="1518619935457">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/movie.py" timestamp="1518623607414">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1507904937076">
         <mark key="[" line="76" column="0" />
@@ -3097,10 +3109,6 @@
         <mark key="^" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/rest_framework/documentation.py" timestamp="1518543104885">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="46" column="4" />
-      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/eslintrc.json" timestamp="1514894602068">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
@@ -3274,11 +3282,11 @@
         <mark key="]" line="78" column="23" />
         <mark key="." line="78" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/docker-compose.yml" timestamp="1516965986649">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="43" column="35" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/docker-compose.yml" timestamp="1518623631427">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/miner.service" timestamp="1500551856915">
         <mark key="[" line="7" column="17" />
@@ -3530,101 +3538,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JhdGluZycsCiAgICAgICAgICAgICdyYXRpbmdfX2d0ZScsCiAgICAgICAgICAgICdyYXRpbmdfX2x0ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAKICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIERvY3M=</text>
+        <text>metadata</text>
       </register>
       <register name="/" type="4">
         <text>encodin</text>
       </register>
-      <register name="0" type="4">
-        <text>class MetadataFilter(FilterSet):
-    type = filters.ChoiceFilter(field_name='type', choices=Metadata.TYPE_CHOICES, help_text='Metadata content type')
-    title = TitleInArrayFilter(field_name='title', help_text='Title')
-    series_title = TitleInArrayFilter(field_name='series_title', help_text='Series title')
-    uri = JSONKeyValueFilter(field_name='uri', help_text='Third party source URI. Must be formatted as {key}:{value}')
-    country = filters.CharFilter(field_name='country', help_text='Country code using ISO-6630-1 format')
-    series_id = JSONKeyValueFilter(field_name='uri',
-                                   help_text='Third party source URI of series. Must be formatted as {key}:{value}')
-    cast = CharInArrayFilter(field_name='cast', help_text='Cast name')
-    genre = CharInArrayFilter(field_name='genre', help_text='Genre')
-    director = CharInArrayFilter(field_name='director', help_text='Director name')
-    writer = CharInArrayFilter(field_name='writer', help_text='Writer name')
-    season = filters.NumberFilter(field_name='season', help_text='Season number')
-    episode = filters.NumberFilter(field_name='episode', help_text='Episode number')
-    date = filters.DateFilter(field_name='date', help_text='Release date in ISO-6630-1 format')
-    date__gte = filters.DateFilter(field_name='date', lookup_expr='gte',
-                                   help_text='Release date in ISO-6630-1 format (greater than or equal to)')
-    date__lte = filters.DateFilter(field_name='date', lookup_expr='lte',
-                                   help_text='Release date in ISO-6630-1 format (lesser than or equal to)')
-    year = filters.NumberFilter(field_name='date', lookup_expr='year',
-                                help_text='Release year')
-    year__gte = filters.NumberFilter(field_name='date', lookup_expr='year__gte',
-                                     help_text='Release year (greater than or equal to)')
-    year__lte = filters.NumberFilter(field_name='date', lookup_expr='year__lte',
-                                     help_text='Release year (lesser than or equal to)')
-    rating = filters.NumberFilter(field_name='rating', help_text='Rating score')
-    rating__gte = filters.NumberFilter(field_name='rating', lookup_expr='gte',
-                                       help_text='Rating score (greater than or equal to)')
-    rating__lte = filters.NumberFilter(field_name='rating', lookup_expr='lte',
-                                       help_text='Rating score (lesser than or equal to)')
-
-    class Meta:
-        model = Metadata
-        fields = [
-            'type',
-            'title',
-            'series_title',
-            'uri',
-            'country',
-            'series_id',
-            'cast',
-            'genre',
-            'director',
-            'writer',
-            'season',
-            'episode',
-            'date',
-            'date__gte',
-            'date__lte',
-            'year',
-            'year__gte',
-            'year__lte',
-            'rating',
-            'rating__gte',
-            'rating__lte',
-        ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInbWV0YWRhdGEnLCBTZWFyY2hNZXRhZGF0YVZpZXdTZXQsIGJhc2VfbmFtZT0nc2VhcmNoLW1ldGFkYXRhJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JhdGluZycsCiAgICAgICAgICAgICdyYXRpbmdfX2d0ZScsCiAgICAgICAgICAgICdyYXRpbmdfX2x0ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0ga3dhcmdzOiAKICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Nlcmllc190aXRsZScsCiAgICAgICAgICAgICd1cmknLAogICAgICAgICAgICAnY291bnRyeScsCiAgICAgICAgICAgICdzZXJpZXNfaWQnLAogICAgICAgICAgICAnY2FzdCcsCiAgICAgICAgICAgICdnZW5yZScsCiAgICAgICAgICAgICdkaXJlY3RvcicsCiAgICAgICAgICAgICd3cml0ZXInLAogICAgICAgICAgICAnc2Vhc29uJywKICAgICAgICAgICAgJ2VwaXNvZGUnLAogICAgICAgICAgICAnZGF0ZScsCiAgICAgICAgICAgICdkYXRlX19ndGUnLAogICAgICAgICAgICAnZGF0ZV9fbHRlJyw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCiAgICAgICAgOnBhcmFtIGFyZ3M6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGVfX2x0ZSA9IGZpbHRlcnMuRGF0ZUZpbHRlcihmaWVsZF9uYW1lPSdkYXRlJywgbG9va3VwX2V4cHI9J2x0ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIGRhdGUgaW4gSVNPLTY2MzAtMSBmb3JtYXQgKGxlc3NlciB0aGFuIG9yIGVxdWFsIHRvKScpCg==</text>
+        <text encoding="base64">CiAgICAgICAgOnBhcmFtIHJlcXVlc3Q6IEhUVFAgcmVxdWVzdC4KICAgICAgICA6cmV0dXJuOiBMaXN0IG9mIFVSSSBmb3VuZHMgdGhhdCBtYXRjaCB3aXRoIGdpdmVuIGNyaXRlcmlhLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGVfX2d0ZSA9IGZpbHRlcnMuRGF0ZUZpbHRlcihmaWVsZF9uYW1lPSdkYXRlJywgbG9va3VwX2V4cHI9J2d0ZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscF90ZXh0PSdSZWxlYXNlIGRhdGUgaW4gSVNPLTY2MzAtMSBmb3JtYXQgKGdyZWF0ZXIgdGhhbiBvciBlcXVhbCB0byknKQo=</text>
+        <text encoding="base64">ICAgIGZpbHRlcl9iYWNrZW5kcyA9IChyZXN0X2ZyYW1ld29ya19maWx0ZXJzLmJhY2tlbmRzLkRqYW5nb0ZpbHRlckJhY2tlbmQsKQogICAgZmlsdGVyX2NsYXNzID0gTWV0YWRhdGFTZWFyY2hGaWx0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVwaXNvZGUgPSBmaWx0ZXJzLk51bWJlckZpbHRlcihmaWVsZF9uYW1lPSdlcGlzb2RlJywgaGVscF90ZXh0PSdFcGlzb2RlIG51bWJlcicpCiAgICBkYXRlID0gZmlsdGVycy5EYXRlRmlsdGVyKGZpZWxkX25hbWU9J2RhdGUnLCBoZWxwX3RleHQ9J1JlbGVhc2UgZGF0ZSBpbiBJU08tNjYzMC0xIGZvcm1hdCcpCg==</text>
+        <text encoding="base64">ICAgIGh0dHBfbWV0aG9kX25hbWVzID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdyaXRlciA9IENoYXJJbkFycmF5RmlsdGVyKGZpZWxkX25hbWU9J3dyaXRlcicsIGhlbHBfdGV4dD0nV3JpdGVyIG5hbWUnKQogICAgc2Vhc29uID0gZmlsdGVycy5OdW1iZXJGaWx0ZXIoZmllbGRfbmFtZT0nc2Vhc29uJywgaGVscF90ZXh0PSdTZWFzb24gbnVtYmVyJykK</text>
+        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBhIGRpY3QgZmxhdHRpbmcgcGFyYW0gdmFsdWVzIHRoYXQgaGFzIG9ubHkgb25lIGVsZW1lbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdlbnJlID0gQ2hhckluQXJyYXlGaWx0ZXIoZmllbGRfbmFtZT0nZ2VucmUnLCBoZWxwX3RleHQ9J0dlbnJlJykKICAgIGRpcmVjdG9yID0gQ2hhckluQXJyYXlGaWx0ZXIoZmllbGRfbmFtZT0nZGlyZWN0b3InLCBoZWxwX3RleHQ9J0RpcmVjdG9yIG5hbWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdBdCBsZWFzdCBhIHBhcmFtZXRlciBtdXN0IGJlIHNwZWNpZmllZCcpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWxwX3RleHQ9J1RoaXJkIHBhcnR5IHNvdXJjZSBVUkkgb2Ygc2VyaWVzLiBNdXN0IGJlIGZvcm1hdHRlZCBhcyB7a2V5fTp7dmFsdWV9JykKICAgIGNhc3QgPSBDaGFySW5BcnJheUZpbHRlcihmaWVsZF9uYW1lPSdjYXN0JywgaGVscF90ZXh0PSdDYXN0IG5hbWUnKQo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgbm90IGZpbHRlcl9wYXJhbXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50cnkgPSBmaWx0ZXJzLkNoYXJGaWx0ZXIoZmllbGRfbmFtZT0nY291bnRyeScsIGhlbHBfdGV4dD0nQ291bnRyeSBjb2RlIHVzaW5nIElTTy02NjMwLTEgZm9ybWF0JykKICAgIHNlcmllc19pZCA9IEpTT05LZXlWYWx1ZUZpbHRlcihmaWVsZF9uYW1lPSd1cmknLAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJfZmllbGRzID0gc2V0KG1ldGFkYXRhX2ZpbHRlci5nZXRfZmlsdGVycygpLmtleXMoKSkKICAgICAgICBmaWx0ZXJfcGFyYW1zID0gRmxleEtleURpY3QoWyhrLCB2KSBmb3IgaywgdiBpbiByZXF1ZXN0LnF1ZXJ5X3BhcmFtcy5pdGVtcygpIGlmIGsgaW4gZmlsdGVyX2ZpZWxkc10pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RhdGVfXy8vZw==</text>
