@@ -31,7 +31,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1518623521379">
+      <file name="/a.dummy" timestamp="1518711414042">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -100,6 +100,12 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/tests/filters/test_filters.py" timestamp="1518711280931">
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="44" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/urls.py" timestamp="1517331616098">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="14" column="14" />
@@ -129,11 +135,10 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/filters/filters.py" timestamp="1518532526999">
-        <mark key="[" line="30" column="72" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="20" column="70" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/filters/filters.py" timestamp="1518710116400">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/telegram/index.rst" timestamp="1507585576491">
         <mark key="[" line="29" column="0" />
@@ -1114,9 +1119,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_metadata.py" timestamp="1518635302910">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_metadata.py" timestamp="1518709232163">
         <mark key="'" line="27" column="14" />
-        <mark key="[" line="24" column="13" />
+        <mark key="[" line="108" column="33" />
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
@@ -1573,13 +1578,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="17" />
-      </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/metadata/filters.py" timestamp="1518620017298">
-        <mark key="'" line="28" column="3" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="64" column="8" />
-        <mark key="^" line="48" column="24" />
-        <mark key="." line="48" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/app.json" timestamp="1518469108217">
         <mark key="[" line="6" column="19" />
@@ -2445,11 +2443,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518705530515">
-        <mark key="[" line="37" column="95" />
-        <mark key="]" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-        <mark key="^" line="39" column="19" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518711638384">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="82" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/server/nginx.conf" timestamp="1516128991948">
         <mark key="[" line="1" column="17" />
@@ -3070,12 +3068,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_movie.py" timestamp="1518635606203">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_movie.py" timestamp="1518710007642">
         <mark key="'" line="22" column="51" />
-        <mark key="[" line="35" column="62" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="33" column="37" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="92" column="37" />
+        <mark key="]" line="92" column="37" />
+        <mark key="^" line="97" column="57" />
+        <mark key="." line="92" column="37" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
@@ -3593,43 +3591,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLmZpbHRlcnMuZmlsdGVycyBpbXBvcnQgKiAgIyBub3FhCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IgPSBSZWdleFZhbGlkYXRvcihyZWdleD1yZS5jb21waWxlKGZyJ1x3K3tzZWxmLnNlcGFyYXRvcn1cdysnKSwgY29kZT0naW52YWxpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT1zZWxmLmRlZmF1bHRfZXJyb3JfbWVzc2FnZXNbJ2ludmFsaWQnXSkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICUgeydzZXBhcmF0b3InOiBzZWxmLnNlcGFyYXRvcn0=</text>
+        <text>ArrayFilter</text>
       </register>
       <register name="/" type="4">
         <text>test_metadata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNjaGVtYSA9IEF1dG9TY2hlbWEoCiAgICAgICAgbWFudWFsX2ZpZWxkcz1bCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdzeW5vcHNpcycsCiAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgIGxvY2F0aW9uPSdxdWVyeScsCiAgICAgICAgICAgICAgICBzY2hlbWE9Y29yZXNjaGVtYS5TdHJpbmcoZGVzY3JpcHRpb249J1N5bm9wc2lzJyksCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdleHBhbmQnLAogICAgICAgICAgICAgICAgcmVxdWlyZWQ9RmFsc2UsCiAgICAgICAgICAgICAgICBsb2NhdGlvbj0ncXVlcnknLAogICAgICAgICAgICAgICAgc2NoZW1hPWNvcmVzY2hlbWEuQm9vbGVhbihkZXNjcmlwdGlvbj0nSWYgaXQgaXMgc2V0IHRvIHRydWUgcmV0cmlldmUgdGhlIHdob2xlIHJlc291cmNlLCBvdGhlcndpc2UgJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnb25seSB0aGUgcmVzb3VyY2UgSUQnKSwKICAgICAgICAgICAgKSwKICAgICAgICBdCiAgICApCg==</text>
+        <text encoding="base64">ICAgIEB0YWcoJ2NvcmUnLCAnaGlnaCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLmZpbHRlcnMuZmlsdGVycyBpbXBvcnQgKiAgIyBub3FhCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IgPSBSZWdleFZhbGlkYXRvcihyZWdleD1yZS5jb21waWxlKGZyJ1x3K3tzZWxmLnNlcGFyYXRvcn1cdysnKSwgY29kZT0naW52YWxpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT1zZWxmLmRlZmF1bHRfZXJyb3JfbWVzc2FnZXNbJ2ludmFsaWQnXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLmZpbHRlcnMuZmlsdGVyc2V0IGltcG9ydCAqICAjIG5vcWEK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IE1hZ2ljTW9jayhzcGVjPUxvb2t1cCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZS5sb29rdXBfdHlwZSA9ICdsb29rdXAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQogICAgICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNjaGVtYSA9IEF1dG9TY2hlbWEoCiAgICAgICAgbWFudWFsX2ZpZWxkcz1bCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdzeW5vcHNpcycsCiAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgIGxvY2F0aW9uPSdxdWVyeScsCiAgICAgICAgICAgICAgICBzY2hlbWE9Y29yZXNjaGVtYS5TdHJpbmcoKSwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPSdTeW5vcHNpcycsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdleHBhbmQnLAogICAgICAgICAgICAgICAgcmVxdWlyZWQ9RmFsc2UsCiAgICAgICAgICAgICAgICBsb2NhdGlvbj0ncXVlcnknLAogICAgICAgICAgICAgICAgc2NoZW1hPWNvcmVzY2hlbWEuQm9vbGVhbigpLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb249J0lmIGl0IGlzIHNldCB0byB0cnVlIHJldHJpZXZlIHRoZSB3aG9sZSByZXNvdXJjZSwgb3RoZXJ3aXNlIG9ubHkgdGhlIHJlc291cmNlIElEJywKICAgICAgICAgICAgICAgIGV4YW1wbGU9J2ZvbycsCg==</text>
+        <text encoding="base64">ICAgIAogICAgQHRhZygnY29yZScsICdoaWdoJykKICAgIGRlZiB0ZXN0X2ZpbHRlcihzZWxmKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjaGVtYSA9IEF1dG9TY2hlbWEoCiAgICAgICAgbWFudWFsX2ZpZWxkcz1bCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdzeW5vcHNpcycsCiAgICAgICAgICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICAgICAgICAgIGxvY2F0aW9uPSdxdWVyeScsCiAgICAgICAgICAgICAgICBzY2hlbWE9Y29yZXNjaGVtYS5TdHJpbmcoKSwKICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPSdTeW5vcHNpcycsCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGNvcmVhcGkuRmllbGQoCiAgICAgICAgICAgICAgICBuYW1lPSdleHBhbmQnLAogICAgICAgICAgICAgICAgcmVxdWlyZWQ9RmFsc2UsCiAgICAgICAgICAgICAgICBsb2NhdGlvbj0ncXVlcnknLAogICAgICAgICAgICAgICAgc2NoZW1hPWNvcmVzY2hlbWEuQm9vbGVhbigpLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb249J0lmIGl0IGlzIHNldCB0byB0cnVlIHJldHJpZXZlIHRoZSB3aG9sZSByZXNvdXJjZSwgb3RoZXJ3aXNlIG9ubHkgdGhlIHJlc291cmNlIElEJywKICAgICAgICAgICAgICAgIGV4YW1wbGU9J2ZvbycsCiAgICAgICAgICAgICkKICAgICAgICBdCiAgICApCgogICAgZGVmIF9nZW5lcmF0ZV9jYW5kaWRhdGVzKHNlbGYsIHJlcXVlc3QpOgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IE1hZ2ljTW9jaygpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KSwKICAgICAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWx1ZS5rZXkgPSAnZm9vJwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXsnc2VwYXJhdG9yJzogc2VsZi5zZXBhcmF0b3J9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
