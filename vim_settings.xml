@@ -93,6 +93,7 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django/forms/fields.py" timestamp="1518697866963" />
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/public/manifest.json" timestamp="1515623467676">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="24" />
@@ -335,6 +336,10 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django_filters/rest_framework/backends.py" timestamp="1518698643594">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="65" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/tests/models/mixins/test_tfidf.py" timestamp="1516632400136">
         <mark key="[" line="203" column="0" />
@@ -1756,8 +1761,8 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518694243499">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518697478632">
+        <mark key="[" line="51" column="11" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="36" column="19" />
@@ -1928,6 +1933,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/492513530/-1382175924/django_filters/filterset.py" timestamp="1518698095914" />
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/static.js" timestamp="1489959225748">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="27" />
@@ -1998,10 +2004,11 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/filters/movie.py" timestamp="1518695590884">
-        <mark key="[" line="10" column="84" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/filters/movie.py" timestamp="1518698604824">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="26" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
         <mark key="[" line="0" column="0" />
@@ -2439,7 +2446,7 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518695992569">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518697129683">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="31" />
         <mark key="^" line="31" column="44" />
@@ -2671,10 +2678,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/movie.py" timestamp="1518623607414">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/movie.py" timestamp="1518699156934">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="28" column="66" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1507904937076">
         <mark key="[" line="76" column="0" />
@@ -2735,7 +2743,7 @@
         <mark key="]" line="54" column="43" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518619115462">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518698943043">
         <mark key="[" line="325" column="0" />
         <mark key="]" line="325" column="0" />
         <mark key="." line="325" column="0" />
@@ -3580,49 +3588,47 @@
       <jump line="22" column="51" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_movie.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RegexValidator(regex=re.compile(fr'\w+{self.separator}\w+'), code='invalid',
-                                              message=self.default_error_messages['invalid'] % {self.separator,))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZW5kID0gYmFja2VuZHMuRGphbmdvRmlsdGVyQmFja2VuZCgpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, filterset_class=MetadataSearchFilter</text>
+        <text>.filter(type='movie')</text>
       </register>
       <register name="/" type="4">
         <text>test_metadata</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHR5cGU9TWV0YWRhdGEuVFlQRV9NT1ZJRSw=</text>
+        <text>raise utils.translate_validation(filterset.errors)</text>
       </register>
-      <register name="1" type="4">
-        <text>RegexValidator(regex=re.compile(fr'\w+{self.separator}\w+'), code='invalid',
-                                              message=self.default_error_messages['invalid'] % {self.separator,))</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZW5kID0gYmFja2VuZHMuRGphbmdvRmlsdGVyQmFja2VuZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhaXNlX2V4Y2VwdGlvbiA9IFRydWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzPT0wLjEwLjIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLCBzY29yZT0wLjYpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbWV0YWRhdGFfZmlsdGVyLmlzX3ZhbGlkKCk6CiAgICAgICAgICAgIHJhaXNlIHV0aWxzLnRyYW5zbGF0ZV92YWxpZGF0aW9uKG1ldGFkYXRhX2ZpbHRlci5lcnJvcnMpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJzZXQgPSBiYWNrZW5kLmdldF9maWx0ZXJfY2xhc3Moc2VsZikocmVxdWVzdC5xdWVyeV9wYXJhbXMpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1ldGFkYXRhX2ZpbHRlci5xcy5maWx0ZXIodHlwZT0nbW92aWUnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWV0YWRhdGFfZmlsdGVyLnFzLmZpbHRlcih0eXBlPSdtb3ZpZScpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRSZXNvdXJjZUVxdWFsKHJlc3BvbnNlLCAnbWV0YWRhdGEtc2VhcmNoLXJlc3VsdCcsIGV4cGVjdGVkX3Jlc3VsdCwgTWV0YWRhdGFTZWFyY2hTZXJpYWxpemVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoc2VsZi51cmwsIHF1ZXJ5X3BhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLmlkLCBzY29yZT0wLjYpCiAgICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
