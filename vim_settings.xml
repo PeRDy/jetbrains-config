@@ -64,6 +64,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/tests/forms/test_fields.py" timestamp="1518712934467">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="50" column="77" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/access.py" timestamp="1453241895192">
         <mark key="[" line="138" column="62" />
         <mark key="]" line="139" column="10" />
@@ -2443,10 +2449,10 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518711638384">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="82" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518712733654">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
         <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/server/nginx.conf" timestamp="1516128991948">
@@ -3591,46 +3597,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IgPSBSZWdleFZhbGlkYXRvcihyZWdleD1yZS5jb21waWxlKGZyJ1x3K3tzZWxmLnNlcGFyYXRvcn1cdysnKSwgY29kZT0naW52YWxpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT1zZWxmLmRlZmF1bHRfZXJyb3JfbWVzc2FnZXNbJ2ludmFsaWQnXSkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF92YWx1ZSA9IHNlbGYudmFsdWVfY2xhc3MoJ2ZvbycsICdiYXInKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayFilter</text>
+        <text>, expected_value)</text>
       </register>
       <register name="/" type="4">
         <text>test_metadata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEB0YWcoJ2NvcmUnLCAnaGlnaCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuZmllbGQudG9fcHl0aG9uKGlucHV0X3ZhbHVlKSwgZXhwZWN0ZWRfdmFsdWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IgPSBSZWdleFZhbGlkYXRvcihyZWdleD1yZS5jb21waWxlKGZyJ1x3K3tzZWxmLnNlcGFyYXRvcn1cdysnKSwgY29kZT0naW52YWxpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT1zZWxmLmRlZmF1bHRfZXJyb3JfbWVzc2FnZXNbJ2ludmFsaWQnXSkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF92YWx1ZSA9IHNlbGYudmFsdWVfY2xhc3MoJ2ZvbycsICdiYXInKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IE1hZ2ljTW9jayhzcGVjPUxvb2t1cCkK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZCA9IEtleVZhbHVlRmllbGQoc2VwYXJhdG9yPSd8JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZS5sb29rdXBfdHlwZSA9ICdsb29rdXAnCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHNlbGYuZmllbGQudG9fcHl0aG9uKGlucHV0X3ZhbHVlKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYuZmllbGQudG9fcHl0aG9uKCksICkKICAgICAgICBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgQHRhZygnY29yZScsICdoaWdoJykKICAgIGRlZiB0ZXN0X2ZpbHRlcihzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHNlbGYuZmllbGQudG9fcHl0aG9uKGlucHV0X3ZhbHVlKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IE1hZ2ljTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IHNlbGYuZmllbGQudG9fcHl0aG9uKGlucHV0X3ZhbHVlKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZS5rZXkgPSAnZm9vJwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF92YWx1ZSA9IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0b3IgPSBSZWdleFZhbGlkYXRvcihyZWdleD1yZS5jb21waWxlKGZyJ1x3K3tzZWxmLnNlcGFyYXRvcn1cdysnKSwgY29kZT0naW52YWxpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZT1zZWxmLmRlZmF1bHRfZXJyb3JfbWVzc2FnZXNbJ2ludmFsaWQnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IE1hZ2ljTW9jayhzcGVjPUxvb2t1cCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
