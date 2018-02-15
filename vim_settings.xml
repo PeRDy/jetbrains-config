@@ -1998,8 +1998,8 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/filters/movie.py" timestamp="1518627424049">
-        <mark key="[" line="10" column="50" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/filters/movie.py" timestamp="1518695590884">
+        <mark key="[" line="10" column="84" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
@@ -2438,6 +2438,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518695992569">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="31" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="31" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/server/nginx.conf" timestamp="1516128991948">
         <mark key="[" line="1" column="17" />
@@ -3575,7 +3581,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, filterset_class=MetadataSearchFilter</text>
+        <text>RegexValidator(regex=re.compile(fr'\w+{self.separator}\w+'), code='invalid',
+                                              message=self.default_error_messages['invalid'] % {self.separator,))</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3589,32 +3596,33 @@
       <register name="0" type="4">
         <text encoding="base64">IHR5cGU9TWV0YWRhdGEuVFlQRV9NT1ZJRSw=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlX2V4Y2VwdGlvbiA9IFRydWUK</text>
+      <register name="1" type="4">
+        <text>RegexValidator(regex=re.compile(fr'\w+{self.separator}\w+'), code='invalid',
+                                              message=self.default_error_messages['invalid'] % {self.separator,))</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlX2V4Y2VwdGlvbiA9IFRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzPT0wLjEwLjIK</text>
+        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLCBzY29yZT0wLjYpCg==</text>
+        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzPT0wLjEwLjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLCBzY29yZT0wLjYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRSZXNvdXJjZUVxdWFsKHJlc3BvbnNlLCAnbWV0YWRhdGEtc2VhcmNoLXJlc3VsdCcsIGV4cGVjdGVkX3Jlc3VsdCwgTWV0YWRhdGFTZWFyY2hTZXJpYWxpemVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoc2VsZi51cmwsIHF1ZXJ5X3BhcmFtcykK</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRSZXNvdXJjZUVxdWFsKHJlc3BvbnNlLCAnbWV0YWRhdGEtc2VhcmNoLXJlc3VsdCcsIGV4cGVjdGVkX3Jlc3VsdCwgTWV0YWRhdGFTZWFyY2hTZXJpYWxpemVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLmlkLCBzY29yZT0wLjYpCiAgICAgICAgXQo=</text>
+        <text encoding="base64">CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoc2VsZi51cmwsIHF1ZXJ5X3BhcmFtcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXN1bHQgPSBbCiAgICAgICAgICAgIE1ldGFkYXRhU2VhcmNoUmVzdWx0KG1ldGFkYXRhPXNlbGYubWRfMS5pZCwgc2NvcmU9MC40KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLmlkLCBzY29yZT0wLjYpCiAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
