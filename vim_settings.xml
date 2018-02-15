@@ -1761,11 +1761,10 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518697478632">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518704332139">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/run_production.sh" timestamp="1467214825534">
         <mark key="[" line="10" column="20" />
@@ -2446,7 +2445,7 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518697129683">
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/forms/fields.py" timestamp="1518704551427">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="31" />
         <mark key="^" line="31" column="44" />
@@ -2678,11 +2677,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/movie.py" timestamp="1518699156934">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="28" column="66" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/movie.py" timestamp="1518704213091">
+        <mark key="[" line="38" column="110" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1507904937076">
         <mark key="[" line="76" column="0" />
@@ -3589,7 +3588,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZW5kID0gYmFja2VuZHMuRGphbmdvRmlsdGVyQmFja2VuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc2VhcmNoKHJlcXVlc3QpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3601,34 +3600,51 @@
         <text>test_metadata</text>
       </register>
       <register name="0" type="4">
-        <text>raise utils.translate_validation(filterset.errors)</text>
+        <text>schema = AutoSchema(
+        manual_fields=[
+            coreapi.Field(
+                name='synopsis',
+                required=False,
+                location='query',
+                schema=coreschema.String(),
+                description='Synopsis',
+            ),
+            coreapi.Field(
+                name='expand',
+                required=False,
+                location='query',
+                schema=coreschema.Boolean(),
+                description='If it is set to true retrieve the whole resource, otherwise only the resource ID'
+            )
+        ]
+    )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZW5kID0gYmFja2VuZHMuRGphbmdvRmlsdGVyQmFja2VuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc2VhcmNoKHJlcXVlc3QpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbWV0YWRhdGFfZmlsdGVyLmlzX3ZhbGlkKCk6CiAgICAgICAgICAgIHJhaXNlIHV0aWxzLnRyYW5zbGF0ZV92YWxpZGF0aW9uKG1ldGFkYXRhX2ZpbHRlci5lcnJvcnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJzZXQgPSBiYWNrZW5kLmdldF9maWx0ZXJfY2xhc3Moc2VsZikocmVxdWVzdC5xdWVyeV9wYXJhbXMpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2VuZXJhdGVfY2FuZGlkYXRlcyhzZWxmLCByZXF1ZXN0KToKICAgICAgICBiYWNrZW5kID0gYmFja2VuZHMuRGphbmdvRmlsdGVyQmFja2VuZCgpCiAgICAgICAgIyBDcmVhdGUgYSBkaWN0IGZsYXR0aW5nIHBhcmFtIHZhbHVlcyB0aGF0IGhhcyBvbmx5IG9uZSBlbGVtZW50CiAgICAgICAgbWV0YWRhdGFfZmlsdGVyID0gc2VsZi5maWx0ZXJfY2xhc3MocmVxdWVzdC5xdWVyeV9wYXJhbXMpCgogICAgICAgICMgR2VuZXJhdGUgY2FuZGlkYXRlcyB1c2luZyBmaWx0ZXJzIGluIHF1ZXJ5IHBhcmFtZXRlcnMKICAgICAgICByZXR1cm4gc2VsZi5maWx0ZXJfcXVlcnlzZXQoc2VsZi5xdWVyeXNldCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1ldGFkYXRhX2ZpbHRlci5xcy5maWx0ZXIodHlwZT0nbW92aWUnKQo=</text>
+        <text encoding="base64">ICAgIHF1ZXJ5c2V0ID0gTWV0YWRhdGEub2JqZWN0cy5hbGwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWV0YWRhdGFfZmlsdGVyLnFzLmZpbHRlcih0eXBlPSdtb3ZpZScpCg==</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZW5kID0gYmFja2VuZHMuRGphbmdvRmlsdGVyQmFja2VuZCgpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbWV0YWRhdGFfZmlsdGVyLmlzX3ZhbGlkKCk6CiAgICAgICAgICAgIHJhaXNlIHV0aWxzLnRyYW5zbGF0ZV92YWxpZGF0aW9uKG1ldGFkYXRhX2ZpbHRlci5lcnJvcnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
