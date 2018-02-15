@@ -1459,10 +1459,10 @@
         <mark key="]" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/requirements.txt" timestamp="1518622983241">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="40" column="8" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/requirements.txt" timestamp="1518692707377">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="38" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/pipelines.py" timestamp="1497345362772">
@@ -1759,8 +1759,8 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518632461121">
-        <mark key="[" line="103" column="44" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/metadata.py" timestamp="1518692367090">
+        <mark key="[" line="39" column="20" />
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
@@ -3301,10 +3301,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/constraints.txt" timestamp="1518526366488">
-        <mark key="[" line="164" column="20" />
-        <mark key="]" line="164" column="18" />
-        <mark key="." line="164" column="18" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/constraints.txt" timestamp="1518692693648">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_miner.service" timestamp="1504689135490">
         <mark key="[" line="10" column="70" />
@@ -3585,7 +3585,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLCBzY29yZT0wLjYpCg==</text>
+        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3600,31 +3600,31 @@
         <text encoding="base64">IHR5cGU9TWV0YWRhdGEuVFlQRV9NT1ZJRSw=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLCBzY29yZT0wLjYpCg==</text>
+        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzPT0wLjEwLjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRSZXNvdXJjZUVxdWFsKHJlc3BvbnNlLCAnbWV0YWRhdGEtc2VhcmNoLXJlc3VsdCcsIGV4cGVjdGVkX3Jlc3VsdCwgTWV0YWRhdGFTZWFyY2hTZXJpYWxpemVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLCBzY29yZT0wLjYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoc2VsZi51cmwsIHF1ZXJ5X3BhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLmlkLCBzY29yZT0wLjYpCiAgICAgICAgXQo=</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRSZXNvdXJjZUVxdWFsKHJlc3BvbnNlLCAnbWV0YWRhdGEtc2VhcmNoLXJlc3VsdCcsIGV4cGVjdGVkX3Jlc3VsdCwgTWV0YWRhdGFTZWFyY2hTZXJpYWxpemVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXN1bHQgPSBbCiAgICAgICAgICAgIE1ldGFkYXRhU2VhcmNoUmVzdWx0KG1ldGFkYXRhPXNlbGYubWRfMS5pZCwgc2NvcmU9MC40KSwK</text>
+        <text encoding="base64">CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoc2VsZi51cmwsIHF1ZXJ5X3BhcmFtcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEB0YWcoJ3NlYXJjaCcsICdoaWdoJywgJ2VuZHBvaW50JykKICAgIGRlZiB0ZXN0X2xpc3Qoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgU2VhcmNoIHdpdGggYSBzaW5nbGUga2V5IGFuZCB2YWx1ZSwgc2hvdWxkIHJldHVybnMgdHdvIFVSSS4KICAgICAgICAiIiIKICAgICAgICBxdWVyeV9wYXJhbXMgPSB7J3RpdGxlJzogJ2ZvbzEnfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLmlkLCBzY29yZT0wLjYpCiAgICAgICAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIFRpbWVvdXRNb2NrKE1vY2spOgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqKmt3YXJncykKICAgICAgICBzZWxmLmVsYXBzZWRfdGltZSA9IDUKCiAgICBkZWYgX19jYWxsX18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBpZiBub3QgaGFzYXR0cihzZWxmLCAndGFyZ2V0Jyk6CiAgICAgICAgICAgIGlmIGxlbihhcmdzKSA9PSAzOgogICAgICAgICAgICAgICAgc2VsZi50YXJnZXQgPSBhcmdzWzJdCiAgICAgICAgICAgIGVsaWYgJ3RhcmdldCcgaW4ga3dhcmdzOgogICAgICAgICAgICAgICAgc2VsZi50YXJnZXQgPSBrd2FyZ3NbJ3RhcmdldCddCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdUaW1lb3V0TW9jayBpcyBub3QgaW5pdGlhbGl6ZWQgcHJvcGVybHknKQoKICAgICAgICAgICAgcmV0dXJuIHNlbGYKCiAgICAgICAgcmV0dXJuIHNlbGYudGFyZ2V0KGFyZ3NbMF0pCgogICAgZGVmIF9fZW50ZXJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZgoKICAgIGRlZiBfX2V4aXRfXyhzZWxmLCBleGNfdHlwZSwgZXhjX3ZhbCwgZXhjX3RiKToKICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9yZXN1bHQgPSBbCiAgICAgICAgICAgIE1ldGFkYXRhU2VhcmNoUmVzdWx0KG1ldGFkYXRhPXNlbGYubWRfMS5pZCwgc2NvcmU9MC40KSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhdGNoZXIgPSBwYXRjaCgnc2VhcmNoLnZpZXdzZXRzLm1ldGFkYXRhLnRpbWVvdXQnLCBzcGVjPXRpbWVvdXQsIGNyZWF0ZT1UcnVlLCBuZXdfY2FsbGFibGU9VGltZW91dE1vY2spCg==</text>
+        <text encoding="base64">ICAgIEB0YWcoJ3NlYXJjaCcsICdoaWdoJywgJ2VuZHBvaW50JykKICAgIGRlZiB0ZXN0X2xpc3Qoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgU2VhcmNoIHdpdGggYSBzaW5nbGUga2V5IGFuZCB2YWx1ZSwgc2hvdWxkIHJldHVybnMgdHdvIFVSSS4KICAgICAgICAiIiIKICAgICAgICBxdWVyeV9wYXJhbXMgPSB7J3RpdGxlJzogJ2ZvbzEnfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
