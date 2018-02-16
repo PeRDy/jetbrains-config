@@ -1148,11 +1148,11 @@
         <mark key="]" line="29" column="57" />
         <mark key="." line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/piksel/contentkb/contentkb-api/metadata/filters.py" timestamp="1518773500187">
-        <mark key="[" line="40" column="119" />
-        <mark key="]" line="43" column="119" />
-        <mark key="^" line="39" column="96" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Desarrollo/piksel/contentkb/contentkb-api/metadata/filters.py" timestamp="1518774168961">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="73" column="30" />
+        <mark key="^" line="73" column="30" />
+        <mark key="." line="73" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1515416471398">
         <mark key="[" line="291" column="50" />
@@ -3728,7 +3728,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxhc3RfbW9kaWZpZWQgPSBmaWx0ZXJzLkRhdGVGaWx0ZXIoZmllbGRfbmFtZT0nbGFzdF9tb2RpZmllZCcsIGhlbHBfdGV4dD0nTGFzdCBtb2RpZmllZCBkYXRlIGluIElTTy02NjMwLTEgZm9ybWF0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xhc3RfbW9kaWZpZWQnLAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3740,7 +3740,7 @@
         <text>test_metadata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxhc3RfbW9kaWZpZWQgPSBmaWx0ZXJzLkRhdGVGaWx0ZXIoZmllbGRfbmFtZT0nbGFzdF9tb2RpZmllZCcsIGhlbHBfdGV4dD0nTGFzdCBtb2RpZmllZCBkYXRlIGluIElTTy02NjMwLTEgZm9ybWF0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xhc3RfbW9kaWZpZWQnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzCg==</text>
