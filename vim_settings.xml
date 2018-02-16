@@ -281,6 +281,11 @@
         <mark key="^" line="22" column="2" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/README.rst" timestamp="1518782794115">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/core/urls.py" timestamp="1493150690158">
         <mark key="[" line="3" column="45" />
         <mark key="]" line="8" column="4" />
@@ -2469,6 +2474,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/base_app.py" timestamp="1518782931030">
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/bower.json" timestamp="1490219207451">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="20" column="22" />
@@ -2725,6 +2735,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="55" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/app.py" timestamp="1518784838787">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="59" column="19" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/Repository.vue" timestamp="1498432935435">
         <mark key="[" line="26" column="0" />
@@ -2987,6 +3003,9 @@
         <mark key="]" line="75" column="47" />
         <mark key="^" line="91" column="66" />
         <mark key="." line="92" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1518782702268">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/requirements.txt" timestamp="1513875221045">
         <mark key="[" line="4" column="8" />
@@ -3421,6 +3440,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/Dockerfile" timestamp="1518782977770">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="28" column="25" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
         <mark key="]" line="60" column="39" />
@@ -3620,6 +3645,9 @@
         <mark key="]" line="13" column="37" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/requirements.txt" timestamp="1518782878175">
+        <mark key="[" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/core/templates/core/base/base.html" timestamp="1493151645502">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="66" column="0" />
@@ -3640,7 +3668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="20" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="77" column="30" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" />
       <jump line="23" column="26" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="60" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
@@ -3740,49 +3767,54 @@
       <jump line="22" column="51" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_movie.py" />
       <jump line="53" column="20" filename="$USER_HOME$/Desarrollo/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" />
       <jump line="60" column="13" filename="$USER_HOME$/Desarrollo/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" />
+      <jump line="0" column="9" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlYXJjaF90eXBlJzogJ21ldGFkYXRhJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0ZSA=</text>
+        <text>file_path</text>
       </register>
       <register name="/" type="4">
         <text>simple</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlYXJjaF90eXBlJzogJ21ldGFkYXRhJywK</text>
+      <register name="0" type="4">
+        <text>with open(file_path) as f:
+            rows, cols, min_ingredientes, max_cells = [int(i) for i in f.readline().split()]
+            pizza = np.array([list(i.strip()) for i in f.readlines()])
+
+        return Pizza(rows, cols, min_ingredientes, max_cells, pizza)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlYXJjaF90eXBlJzogJ21ldGFkYXRhJywK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NpbXBsZSc6IHsKICAgICAgICAgICAgICAgICdmb3JtYXQnOiAnJShtZXNzYWdlKXMnCiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGphbmdvcmVzdGZyYW1ld29yay1maWx0ZXJzPT0wLjEwLjIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLCBzY29yZT0wLjYpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgpjbGFzcyBBcHAoQmFzZUFwcCk6CiAgICBkZWYgcmVhZF9maWxlKHNlbGYsIGZpbGVfcGF0aCk6CiAgICAgICAgd2l0aCBvcGVuKGZpbGVfcGF0aCkgYXMgZjoKICAgICAgICAgICAgcm93cywgY29scywgbWluX2luZ3JlZGllbnRlcywgbWF4X2NlbGxzID0gW2ludChpKSBmb3IgaSBpbiBmLnJlYWRsaW5lKCkuc3BsaXQoKV0KICAgICAgICAgICAgcGl6emEgPSBucC5hcnJheShbbGlzdChpLnN0cmlwKCkpIGZvciBpIGluIGYucmVhZGxpbmVzKCldKQoKICAgICAgICByZXR1cm4gUGl6emEocm93cywgY29scywgbWluX2luZ3JlZGllbnRlcywgbWF4X2NlbGxzLCBwaXp6YSkKCiAgICBkZWYgYWRkX2FyZ3VtZW50cyhzZWxmLCBwYXJzZXI6IEFyZ3VtZW50UGFyc2VyKToKICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCdpbnB1dCcsIGhlbHA9J2lucHV0IGZpbGUnKQogICAgICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ291dHB1dCcsIGhlbHA9J291dHB1dCBmaWxlJykKICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctcCcsICctLXBvcHVsYXRpb24nLCBkZWZhdWx0PTEwMCwgdHlwZT1pbnQsIGhlbHA9J3BvcHVsYXRpb24nKQogICAgICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1lJywgJy0tZXBvY2hzJywgdHlwZT1pbnQsIGhlbHA9J2Vwb2NocycpCiAgICAgICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLXQnLCAnLS10aHJlc2hvbGQnLCB0eXBlPWZsb2F0LCBoZWxwPSd0aHJlc2hvbGQgWzAsMV0nKQogICAgICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1yJywgJy0tcmV0YWluJywgdHlwZT1mbG9hdCwgaGVscD0ncmV0YWluIFswLDFdJykKICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctcycsICctLXNlbGVjdCcsIHR5cGU9ZmxvYXQsIGhlbHA9J3JhbmRvbSBzZWxlY3Rpb24gWzAsMV0nKQogICAgICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy1tJywgJy0tbXV0YXRlJywgdHlwZT1mbG9hdCwgaGVscD0nbXV0YXRlIFswLDFdJykKCiAgICBkZWYgcnVuKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcGl6emEgPSBzZWxmLnJlYWRfZmlsZShzZWxmLmFyZ3NbJ2lucHV0J10pCiAgICAgICAgc29sdXRpb24gPSBTb2x1dGlvblNldChwaXp6YSwgc2VsZi5hcmdzWydwb3B1bGF0aW9uJ10pCiAgICAgICAgYmVmb3JlID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNvbHV0aW9uLnJ1bigqKnNlbGYuYXJncykKICAgICAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmluZm8oJ0ludGVycnVwdGVkJykKICAgICAgICBmaW5hbGx5OgogICAgICAgICAgICBhZnRlciA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdUaW1lOiAlc3MuJywgKGFmdGVyIC0gYmVmb3JlKS50b3RhbF9zZWNvbmRzKCkpCiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmluZm8ocmVwcihzb2x1dGlvbi5iZXN0KSkKCiAgICAgICAgICAgIHdpdGggb3BlbihzZWxmLmFyZ3NbJ291dHB1dCddLCAndycpIGFzIGY6CiAgICAgICAgICAgICAgICBmLndyaXRlKHN0cihzb2x1dGlvbi5iZXN0KSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBpenphID0gc2VsZi5yZWFkX2ZpbGUoc2VsZi5hcmdzWydpbnB1dCddKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgpLCB7fSksCiAgICAgICAgICAgICAgICgoKSwge30pLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgpLCB7fSksCiAgICAgICAgICAgICAgICgoKSwge30pLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRSZXNvdXJjZUVxdWFsKHJlc3BvbnNlLCAnbWV0YWRhdGEtc2VhcmNoLXJlc3VsdCcsIGV4cGVjdGVkX3Jlc3VsdCwgTWV0YWRhdGFTZWFyY2hTZXJpYWxpemVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKCgpLCB7fSksCiAgICAgICAgICAgICAgICgoKSwge30pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmNsaWVudC5nZXQoc2VsZi51cmwsIHF1ZXJ5X3BhcmFtcykK</text>
+        <text encoding="base64">ZGVmIHJhbmdlKHgsIHR5cGVfPWZsb2F0LCBtaW5fPTAsIG1heF89MCk6CiAgICB4ID0gdHlwZV8oeCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0YWRhdGFTZWFyY2hSZXN1bHQobWV0YWRhdGE9c2VsZi5tZF8yLmlkLCBzY29yZT0wLjYpCiAgICAgICAgXQo=</text>
+        <text encoding="base64">YWxwaW5lCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
