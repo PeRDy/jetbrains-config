@@ -14,9 +14,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/__main__.py" timestamp="1518993878087">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/__main__.py" timestamp="1518996675762">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="40" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/website/urls.py" timestamp="1489961513054">
@@ -593,12 +593,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/make" timestamp="1518993656791">
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/make" timestamp="1518996172873">
         <mark key="'" line="23" column="4" />
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="69" column="45" />
-        <mark key="." line="69" column="45" />
-        <mark key="^" line="69" column="45" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/urls.py" timestamp="1518465127925">
         <mark key="[" line="4" column="0" />
@@ -1380,12 +1380,12 @@
         <mark key="." line="56" column="13" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" timestamp="1518993949496">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="187" column="20" />
-        <mark key="]" line="206" column="28" />
-        <mark key="." line="206" column="28" />
-        <mark key="^" line="206" column="28" />
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" timestamp="1518996696685">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="203" column="51" />
+        <mark key="]" line="206" column="37" />
+        <mark key="." line="206" column="37" />
+        <mark key="^" line="206" column="37" />
       </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/README.rst" timestamp="1516197612258">
         <mark key="[" line="16" column="0" />
@@ -3692,8 +3692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="46" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="87" column="3" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="8" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="91" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
@@ -3792,49 +3790,51 @@
       <jump line="199" column="28" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" />
       <jump line="180" column="8" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" />
+      <jump line="79" column="7" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdmb29iYXInKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcyBpbiBzdGRvdXQ6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhyZXByKHNvbHV0aW9uLmJlc3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdmb29iYXInKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBlcG9jaHNfdG9fcHJpbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8ocykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZm9vJykKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIHMgaW4gc3Rkb3V0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8ocykKCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW5kaXZpZHVhbCBpbiBwYXJlbnRzOgogICAgICAgICAgICBpZiByYXRlID4gcmFuZG9tKCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIHMgaW4gc3Rkb3V0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ01heGltdW0gbnVtYmVyIG9mIGVwb2Nocyc6IGYne2Vwb2Noc30nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgbG9nZ2VyLmluZm8oJ2JhcicpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdmb29iYXInKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnYmFyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtPVRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
