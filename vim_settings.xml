@@ -14,11 +14,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/__main__.py" timestamp="1518992793700">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="43" column="16" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="43" column="16" />
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/__main__.py" timestamp="1518993878087">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/website/urls.py" timestamp="1489961513054">
         <mark key="[" line="14" column="22" />
@@ -594,12 +593,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/make" timestamp="1518992815007">
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/make" timestamp="1518993656791">
         <mark key="'" line="23" column="4" />
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="66" column="8" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="69" column="45" />
+        <mark key="." line="69" column="45" />
+        <mark key="^" line="69" column="45" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/urls.py" timestamp="1518465127925">
         <mark key="[" line="4" column="0" />
@@ -1381,12 +1380,12 @@
         <mark key="." line="56" column="13" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" timestamp="1518987068986">
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" timestamp="1518993949496">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="195" column="28" />
-        <mark key="]" line="199" column="28" />
-        <mark key="." line="199" column="28" />
-        <mark key="^" line="199" column="28" />
+        <mark key="[" line="187" column="20" />
+        <mark key="]" line="206" column="28" />
+        <mark key="." line="206" column="28" />
+        <mark key="^" line="206" column="28" />
       </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/alpine/README.rst" timestamp="1516197612258">
         <mark key="[" line="16" column="0" />
@@ -3796,7 +3795,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdmb29iYXInKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3811,31 +3810,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgcyBpbiBzdGRvdXQ6CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCdmb29iYXInKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8ocykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtPVRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIHMgaW4gc3Rkb3V0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGluZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8ocykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8ocykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CiAgICAgICAgZm9yIHMgaW4gc3Rkb3V0Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgbG9nZ2VyLmluZm8oJ2JhcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8ocykKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnYmFyJykK</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIHMgaW4gc3Rkb3V0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0YWNoPWt3YXJnc1snZGV0YWNoJ10sCg==</text>
+        <text encoding="base64">CiAgICAgICAgbG9nZ2VyLmluZm8oJ2JhcicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKCgnLWQnLCAnLS1kZXRhY2gnKSwgeydoZWxwJzogJ1J1biBkZXRhY2hlZCcsICdhY3Rpb24nOiAnc3RvcmVfdHJ1ZSd9KSksCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnYmFyJykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
