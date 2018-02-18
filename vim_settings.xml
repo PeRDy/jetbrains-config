@@ -594,12 +594,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/make" timestamp="1518796073211">
+      <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/make" timestamp="1518800958492">
         <mark key="'" line="23" column="4" />
-        <mark key="[" line="68" column="25" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="8" column="43" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/urls.py" timestamp="1518465127925">
         <mark key="[" line="4" column="0" />
@@ -3794,8 +3793,8 @@
       <jump line="23" column="4" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(after - before).total_seconds()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGV0YWNoPWt3YXJnc1snZGV0YWNoJ10sCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3810,31 +3809,31 @@
         <text encoding="base64">ICAgIGZyb20gZG9ja2VyLmVycm9ycyBpbXBvcnQgQ29udGFpbmVyRXJyb3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV0YWNoPWt3YXJnc1snZGV0YWNoJ10sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJGb28iKQogICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJGb28iKQogICAgcmV0dXJuIDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oa3dhcmdzWydvdXRwdXQnXSwgJ3cnKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHN0cihzb2x1dGlvbi5iZXN0KSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcG9wdWxhdGlvbjogUG9wdWxhdGlvbiBzaXplLgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICB3aXRoIG9wZW4oa3dhcmdzWydpbnB1dCddKSBhcyBmOgogICAgICAgIHJvd3MsIGNvbHMsIG1pbl9pbmdyZWRpZW50cywgbWF4X2NlbGxzID0gW2ludChpKSBmb3IgaSBpbiBmLnJlYWRsaW5lKCkuc3BsaXQoKV0KICAgICAgICBwaXp6YV9kYXRhID0gbnAuYXJyYXkoW2xpc3QoaS5zdHJpcCgpKSBmb3IgaSBpbiBmLnJlYWRsaW5lcygpXSkKCiAgICBwaXp6YSA9IFBpenphKHJvd3MsIGNvbHMsIG1pbl9pbmdyZWRpZW50cywgbWF4X2NlbGxzLCBwaXp6YV9kYXRhKQogICAgc29sdXRpb24gPSBTb2x1dGlvblNldChwaXp6YSwga3dhcmdzWydwb3B1bGF0aW9uJ10p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oa3dhcmdzWydvdXRwdXQnXSwgJ3cnKSBhcyBmOgogICAgICAgICAgICBmLndyaXRlKHN0cihzb2x1dGlvbi5iZXN0KSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcG9wdWxhdGlvbjogUG9wdWxhdGlvbiBzaXplLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/test_metadata/test_list/g</text>
