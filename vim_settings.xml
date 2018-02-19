@@ -31,7 +31,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1519042854911">
+      <file name="/a.dummy" timestamp="1519049840633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -786,6 +786,10 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="7" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_season.py" timestamp="1519049754543">
+        <mark key="'" line="33" column="55" />
+        <mark key="[" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1515158962284">
         <mark key="[" line="21" column="54" />
@@ -1816,11 +1820,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/urls.py" timestamp="1519042946086">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="74" />
-        <mark key="." line="12" column="74" />
-        <mark key="^" line="12" column="74" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/urls.py" timestamp="1519049941249">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="13" column="74" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/run_tests.py" timestamp="1452276794082">
         <mark key="[" line="1" column="9" />
@@ -2460,6 +2464,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/season.py" timestamp="1519049874315">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/docker-compose.yml" timestamp="1511832859497">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="49" />
@@ -2853,6 +2863,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/filters/season.py" timestamp="1519049839262">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/package.json" timestamp="1517345688164">
         <mark key="[" line="8" column="29" />
@@ -3537,7 +3552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="20" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="77" column="30" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" />
       <jump line="23" column="26" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="60" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
@@ -3637,60 +3651,61 @@
       <jump line="22" column="51" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_movie.py" />
       <jump line="20" column="107" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_series.py" />
       <jump line="18" column="103" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_episode.py" />
+      <jump line="33" column="55" filename="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/tests/viewsets/test_season.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SERIES</text>
+        <text>episode</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>SERIES</text>
+        <text>episode</text>
       </register>
       <register name="/" type="4">
-        <text>TYPE_SERIES</text>
+        <text>TYPE_MOVIE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInc2VyaWVzJywgU2VhcmNoU2VyaWVzVmlld1NldCwgYmFzZV9uYW1lPSdzZWFyY2gtc2VyaWVzJykK</text>
+        <text encoding="base64">cm91dGVyLnJlZ2lzdGVyKHInZXBpc29kZScsIFNlYXJjaEVwaXNvZGVWaWV3U2V0LCBiYXNlX25hbWU9J3NlYXJjaC1lcGlzb2RlJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBkZWYgbGlzdChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICIiIgogICAgICAgIFNlYXJjaCBhIE1ldGFkYXRhIGVudHJ5LiBJZiBzeW5vcHNpcyBpcyBwcm92aWRlZCBhcyBjcml0ZXJpYSwgaXQgd2lsbCBiZSB1c2VkIHRvIGdlbmVyYXRlIGEgc2ltaWxhcml0eSBzY29yZS4KICAgICAgICBPdGhlcndpc2UsIElNREIgdm90ZXMgd2lsbCBiZSB1c2VkIGZvciBzY29yaW5nLgoKICAgICAgICBUaGlzIG1ldGhvZCB3aWxsIHJldHVybiBhIGxpc3Qgb2YgTWV0YWRhdGEgSURzIHdpdGggaXRzIHNjb3JlLgogICAgICAgICIiIgogICAgICAgIHJlc3VsdCwgc2VhcmNoX3RpbWUgPSBzZWxmLl9zZWFyY2hfd2l0aF90aW1lb3V0KHJlcXVlc3QpCiAgICAgICAgCiAgICAgICAgbG9nID0gewogICAgICAgICAgICAnc2VhcmNoX3RpbWUnOiBzZWFyY2hfdGltZSwKICAgICAgICAgICAgJ3F1ZXJ5X2ZpZWxkcyc6ICcsJy5qb2luKHNvcnRlZChzZWxmLl9nZXRfcXVlcnlfZmllbGRzKHJlcXVlc3QpKSksCiAgICAgICAgICAgICdzY29yZSc6IHJlc3VsdC5kYXRhWzBdWydzY29yZSddIGlmIHJlc3VsdC5kYXRhIGVsc2UgMAogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oJ1NlYXJjaCBtZXRhZGF0YSBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5JywgZXh0cmE9bG9nKQoKICAgICAgICByZXR1cm4gcmVzdWx0</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29yZWFwaS5GaWVsZCgKICAgICAgICAgICAgICAgIG5hbWU9J3N5bm9wc2lzJywKICAgICAgICAgICAgICAgIHJlcXVpcmVkPUZhbHNlLAogICAgICAgICAgICAgICAgbG9jYXRpb249J3F1ZXJ5JywKICAgICAgICAgICAgICAgIHNjaGVtYT1jb3Jlc2NoZW1hLlN0cmluZyhkZXNjcmlwdGlvbj0nU3lub3BzaXMnKSwKICAgICAgICAgICAgKSw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3llYXInLAogICAgICAgICAgICAneWVhcl9fZ3RlJywKICAgICAgICAgICAgJ3llYXJfX2x0ZScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXRhaWwgPSAnU2VhcmNoIGZpbHRlcmluZyBwcm9kdWNlZCBtb3JlIGNhbmRpZGF0ZXMgdGhhbiBleHBlY3RlZCwgdHJ5IHdpdGggYSBtb3JlIGFjY3VyYXRlIGZpbHRlciBjb21iaW5hdGlvbicKCiAgICAgICAgd2l0aCB0aW1lb3V0KHNldHRpbmdzLlRJTUVPVVRfUkVRVUVTVCwgUmVxdWVzdFRvb0Jyb2FkKGRldGFpbCksIHNlbGYuX3NlYXJjaCkgYXMgdDoKICAgICAgICAgICAgcmVzdWx0ID0gdChyZXF1ZXN0KQogICAgICAgICAgICBzZWFyY2hfdGltZSA9IHQuZWxhcHNlZF90aW1lCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSB5ZWFyIChsZXNzZXIgdGhhbiBvciBlcXVhbCB0byknKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0nUmVsZWFzZSB5ZWFyIChncmVhdGVyIHRoYW4gb3IgZXF1YWwgdG8pJykKICAgIHllYXJfX2x0ZSA9IGZpbHRlcnMuTnVtYmVyRmlsdGVyKGZpZWxkX25hbWU9J2RhdGUnLCBsb29rdXBfZXhwcj0neWVhcl9fbHRlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cmV0dXJuOiBSZXNwb25zZS4K</text>
+        <text encoding="base64">ICAgIHllYXIgPSBmaWx0ZXJzLk51bWJlckZpbHRlcihmaWVsZF9uYW1lPSdkYXRlJywgbG9va3VwX2V4cHI9J3llYXInLCBoZWxwX3RleHQ9J1JlbGVhc2UgeWVhcicpCiAgICB5ZWFyX19ndGUgPSBmaWx0ZXJzLk51bWJlckZpbHRlcihmaWVsZF9uYW1lPSdkYXRlJywgbG9va3VwX2V4cHI9J3llYXJfX2d0ZScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cGFyYW0gcmVxdWVzdDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiBTCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBkZWYgbGlzdChzZWxmLCByZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgICIiIgogICAgICAgIFNlYXJjaCBhIE1ldGFkYXRhIGVudHJ5LiBJZiBzeW5vcHNpcyBpcyBwcm92aWRlZCBhcyBjcml0ZXJpYSwgaXQgd2lsbCBiZSB1c2VkIHRvIGdlbmVyYXRlIGEgc2ltaWxhcml0eSBzY29yZS4KICAgICAgICBPdGhlcndpc2UsIElNREIgdm90ZXMgd2lsbCBiZSB1c2VkIGZvciBzY29yaW5nLgoKICAgICAgICBUaGlzIG1ldGhvZCB3aWxsIHJldHVybiBhIGxpc3Qgb2YgTWV0YWRhdGEgSURzIHdpdGggaXRzIHNjb3JlLgogICAgICAgICIiIgogICAgICAgIHJlc3VsdCwgc2VhcmNoX3RpbWUgPSBzZWxmLl9zZWFyY2hfd2l0aF90aW1lb3V0KHJlcXVlc3QpCiAgICAgICAgCiAgICAgICAgbG9nID0gewogICAgICAgICAgICAnc2VhcmNoX3RpbWUnOiBzZWFyY2hfdGltZSwKICAgICAgICAgICAgJ3F1ZXJ5X2ZpZWxkcyc6ICcsJy5qb2luKHNvcnRlZChzZWxmLl9nZXRfcXVlcnlfZmllbGRzKHJlcXVlc3QpKSksCiAgICAgICAgICAgICdzY29yZSc6IHJlc3VsdC5kYXRhWzBdWydzY29yZSddIGlmIHJlc3VsdC5kYXRhIGVsc2UgMAogICAgICAgIH0KCiAgICAgICAgbG9nZ2VyLmluZm8oJ1NlYXJjaCBtZXRhZGF0YSBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5JywgZXh0cmE9bG9nKQoKICAgICAgICByZXR1cm4gcmVzdWx0</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF92YWx1ZSA9IHNlbGYudmFsdWVfY2xhc3MoJ2ZvbycsICdiYXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/TYPE_SERIES/TYPE_EPISODE/g</text>
+        <text>%s/TYPE_MOVIE/TYPE_SEASON/g</text>
       </register>
     </registers>
     <search>
-      <last-search>TYPE_SERIES</last-search>
+      <last-search>TYPE_MOVIE</last-search>
       <last-offset />
-      <last-pattern>TYPE_SERIES</last-pattern>
-      <last-replace>TYPE_EPISODE</last-replace>
-      <last-substitute>TYPE_SERIES</last-substitute>
+      <last-pattern>TYPE_MOVIE</last-pattern>
+      <last-replace>TYPE_SEASON</last-replace>
+      <last-substitute>TYPE_MOVIE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -3714,11 +3729,10 @@
         <entry>'high'</entry>
         <entry>, timeout_mock</entry>
         <entry>test_metadata</entry>
-        <entry>TYPE_MOVIE</entry>
         <entry>TYPE_SERIES</entry>
+        <entry>TYPE_MOVIE</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RoaXMuc2x1Zy90aGlzLnNsdWcoKS9n</entry>
         <entry encoding="base64">JzwsJz5zLyJ1c2VybmFtZSIve3RoaXMucHJvcHMuaWR9L2c=</entry>
         <entry>%s/this.props.id/this.slug/g</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXJuYW1lL1Bhc3N3b3JkL2c=</entry>
@@ -3738,6 +3752,7 @@
         <entry>%s/test_metadata/test_list/g</entry>
         <entry>%s/TYPE_MOVIE/TYPE_SERIES/g</entry>
         <entry>%s/TYPE_SERIES/TYPE_EPISODE/g</entry>
+        <entry>%s/TYPE_MOVIE/TYPE_SEASON/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
