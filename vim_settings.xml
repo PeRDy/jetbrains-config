@@ -587,11 +587,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/episode.py" timestamp="1519042871326">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="13" />
+      <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/viewsets/episode.py" timestamp="1519048506974">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="58" />
         <mark key="^" line="22" column="25" />
-        <mark key="." line="20" column="13" />
+        <mark key="." line="23" column="58" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/README.rst" timestamp="1492352281481">
         <mark key="[" line="11" column="12" />
@@ -3640,13 +3640,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>series</text>
+        <text>SERIES</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>series</text>
+        <text>SERIES</text>
       </register>
       <register name="/" type="4">
         <text>TYPE_SERIES</text>
