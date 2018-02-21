@@ -1490,11 +1490,11 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/miner.py" timestamp="1519252478088">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/miner.py" timestamp="1519254698594">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="20" />
+        <mark key="^" line="31" column="82" />
+        <mark key="." line="31" column="20" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/schema.py" timestamp="1515159334447">
         <mark key="[" line="79" column="12" />
@@ -3789,14 +3789,14 @@
       <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/constraints.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHVwZGF0ZS5jYWxsYmFja19xdWVyeQo=</text>
+      <register name="&quot;" type="4">
+        <text>edit_message_text</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>base</text>
+        <text>edit_message_text</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
@@ -3809,31 +3809,31 @@
             }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHVwZGF0ZS5jYWxsYmFja19xdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlX2lkPXF1ZXJ5Lm1lc3NhZ2UubWVzc2FnZV9pZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHVwZGF0ZS5jYWxsYmFja19xdWVyeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWVzdCA9IFJlcXVlc3QoY29uX3Bvb2xfc2l6ZT04KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">cmVxdWVzdCA9IFJlcXVlc3QoY29uX3Bvb2xfc2l6ZT04KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">cmVxdWVzdCA9IFJlcXVlc3QoY29uX3Bvb2xfc2l6ZT04KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnQ3VycmVudCB0cmFuc2FjdGlvbjogJXMnLCBzdHIoY2hhdC5sYXN0X3RyYW5zYWN0aW9uKSkKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnUmV0cmlldmVkIHRyYW5zYWN0aW9uczogJXMnLCBzdHIoZGF0YVsndHJhbnNhY3Rpb25zJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdDdXJyZW50IHRyYW5zYWN0aW9uOiAlcycsIHN0cihjaGF0Lmxhc3RfdHJhbnNhY3Rpb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnQ3VycmVudCB0cmFuc2FjdGlvbjogJXMnLCBzdHIoY2hhdC5sYXN0X3RyYW5zYWN0aW9uKSkKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnUmV0cmlldmVkIHRyYW5zYWN0aW9uczogJXMnLCBzdHIoZGF0YVsndHJhbnNhY3Rpb25zJ10pKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdDdXJyZW50IHRyYW5zYWN0aW9uOiAlcycsIHN0cihjaGF0Lmxhc3RfdHJhbnNhY3Rpb24pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdSZXRyaWV2ZWQgdHJhbnNhY3Rpb25zOiAlcycsIHN0cihkYXRhWyd0cmFuc2FjdGlvbnMnXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdDdXJyZW50IHRyYW5zYWN0aW9uOiAlcycsIHN0cihjaGF0Lmxhc3RfdHJhbnNhY3Rpb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
