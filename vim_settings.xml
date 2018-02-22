@@ -1119,8 +1119,11 @@
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/piksel/product-docs/docs/components/metadata/contentkb/api/index.md" timestamp="1519293623338">
-        <mark key="[" line="71" column="18" />
+      <file name="$USER_HOME$/Desarrollo/piksel/product-docs/docs/components/metadata/contentkb/api/index.md" timestamp="1519295067254">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="139" column="51" />
+        <mark key="^" line="127" column="50" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/urls/urls.py" timestamp="1504966390369">
         <mark key="[" line="0" column="0" />
@@ -3792,8 +3795,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/constraints.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>edit_message_text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiMjIyMgTW92aWUKClNwZWNpZmljIGVuZHBvaW50IGZvciBzZWFyY2hpbmcgbWV0YWRhdGEgb2YgbW92aWVzLgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3804,12 +3807,8 @@
       <register name="/" type="4">
         <text>logger</text>
       </register>
-      <register name="0" type="4">
-        <text>'bot': {
-                'handlers': ['console', 'base_file'],
-                'level': 'INFO',
-                'propagate': False
-            }</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiMjIyMgTW92aWUKClNwZWNpZmljIGVuZHBvaW50IGZvciBzZWFyY2hpbmcgbWV0YWRhdGEgb2YgbW92aWVzLgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlX2lkPXF1ZXJ5Lm1lc3NhZ2UubWVzc2FnZV9pZCkK</text>
