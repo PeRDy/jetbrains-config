@@ -1119,11 +1119,12 @@
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/piksel/product-docs/docs/components/metadata/contentkb/api/index.md" timestamp="1519295067254">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="139" column="51" />
-        <mark key="^" line="127" column="50" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/Desarrollo/piksel/product-docs/docs/components/metadata/contentkb/api/index.md" timestamp="1519295601823">
+        <mark key="'" line="112" column="37" />
+        <mark key="[" line="116" column="58" />
+        <mark key="]" line="150" column="106" />
+        <mark key="." line="150" column="57" />
+        <mark key="^" line="112" column="85" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/urls/urls.py" timestamp="1504966390369">
         <mark key="[" line="0" column="0" />
@@ -3693,7 +3694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="91" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="3" column="19" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/index.js" />
       <jump line="24" column="25" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
@@ -3793,49 +3793,50 @@
       <jump line="79" column="7" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/genetic.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/constraints.txt" />
+      <jump line="112" column="37" filename="$USER_HOME$/Desarrollo/piksel/product-docs/docs/components/metadata/contentkb/api/index.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMjIyMgTW92aWUKClNwZWNpZmljIGVuZHBvaW50IGZvciBzZWFyY2hpbmcgbWV0YWRhdGEgb2YgbW92aWVzLgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEVuZHBvaW50IGZvciBDUlVEIG9wZXJhdGlvbnMgb3ZlciB0aGlzIHJlc291cmNlLg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>edit_message_text</text>
+        <text>, providing:</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiMjIyMgTW92aWUKClNwZWNpZmljIGVuZHBvaW50IGZvciBzZWFyY2hpbmcgbWV0YWRhdGEgb2YgbW92aWVzLgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEVuZHBvaW50IGZvciBDUlVEIG9wZXJhdGlvbnMgb3ZlciB0aGlzIHJlc291cmNlLg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlX2lkPXF1ZXJ5Lm1lc3NhZ2UubWVzc2FnZV9pZCkK</text>
+        <text encoding="base64">KiBDUlVEIG92ZXIgbWV0YWRhdGEgZWxlbWVudHMgYXMgZGVmaW5lZCBpbiBzdGFuZGFyZCBSRVNULgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHVwZGF0ZS5jYWxsYmFja19xdWVyeQo=</text>
+        <text encoding="base64">KiBTZWFyY2ggZm9yIG1ldGFkYXRhIHVzaW5nIGRlc2NyaXB0aW9uIGZpZWxkcyB0aHJvdWdoIE1hY2hpbmUgTGVhcm5pbmcgbW9kZWwuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U3BlY2lmaWMgZW5kcG9pbnQgZm9yIHNlYXJjaGluZyBtZXRhZGF0YSBvZiBtb3ZpZXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWVzdCA9IFJlcXVlc3QoY29uX3Bvb2xfc2l6ZT04KQo=</text>
+        <text encoding="base64">U3BlY2lmaWMgZW5kcG9pbnQgZm9yIHNlYXJjaGluZyBtZXRhZGF0YSBvZiBtb3ZpZXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdCA9IFJlcXVlc3QoY29uX3Bvb2xfc2l6ZT04KQo=</text>
+        <text encoding="base64">U3BlY2lmaWMgZW5kcG9pbnQgZm9yIHNlYXJjaGluZyBtZXRhZGF0YSBvZiBtb3ZpZXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlX2lkPXF1ZXJ5Lm1lc3NhZ2UubWVzc2FnZV9pZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnQ3VycmVudCB0cmFuc2FjdGlvbjogJXMnLCBzdHIoY2hhdC5sYXN0X3RyYW5zYWN0aW9uKSkKICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnUmV0cmlldmVkIHRyYW5zYWN0aW9uczogJXMnLCBzdHIoZGF0YVsndHJhbnNhY3Rpb25zJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHVwZGF0ZS5jYWxsYmFja19xdWVyeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdDdXJyZW50IHRyYW5zYWN0aW9uOiAlcycsIHN0cihjaGF0Lmxhc3RfdHJhbnNhY3Rpb24pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdDdXJyZW50IHRyYW5zYWN0aW9uOiAlcycsIHN0cihjaGF0Lmxhc3RfdHJhbnNhY3Rpb24pKQo=</text>
+        <text encoding="base64">cmVxdWVzdCA9IFJlcXVlc3QoY29uX3Bvb2xfc2l6ZT04KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
