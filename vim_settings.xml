@@ -791,7 +791,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519000006934">
+      <file name="/Dummy.txt" timestamp="1519379675773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1502,11 +1502,11 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/miner.py" timestamp="1519325160999">
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="28" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/miner.py" timestamp="1519379598812">
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="28" />
         <mark key="^" line="55" column="28" />
-        <mark key="." line="55" column="28" />
+        <mark key="." line="71" column="28" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/schema.py" timestamp="1515159334447">
         <mark key="[" line="79" column="12" />
@@ -3647,10 +3647,10 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1519252296750">
-        <mark key="[" line="214" column="81" />
-        <mark key="]" line="189" column="80" />
-        <mark key="." line="189" column="60" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1519379724979">
+        <mark key="[" line="167" column="28" />
+        <mark key="]" line="167" column="28" />
+        <mark key="." line="167" column="28" />
         <mark key="^" line="189" column="60" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1518534532167">
@@ -3801,14 +3801,14 @@
       <jump line="112" column="37" filename="$USER_HOME$/Desarrollo/piksel/product-docs/docs/components/metadata/contentkb/api/index.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, providing:</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
