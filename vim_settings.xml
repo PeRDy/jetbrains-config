@@ -2526,11 +2526,10 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1519387545257">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="20" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1519677894266">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/installation.rst" timestamp="1517221211532">
         <mark key="[" line="36" column="0" />
@@ -3516,8 +3515,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/iam.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMub25SZWZyZXNoKCk7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3532,29 +3531,29 @@
         <text encoding="base64">ICBjb25zdCB1c2VybmFtZSA9IHlpZWxkIGZldGNoVXNlcm5hbWUoKTsKICBjb25zdCBwYXNzd29yZCA9IHlpZWxkIGZldGNoUGFzc3dvcmQoKTsKCiAgaWYgKHVzZXJuYW1lICE9PSBudWxsICYmIHBhc3N3b3JkICE9PSBudWxsKSB7CiAgICB0cnkgewogICAgICB5aWVsZCBwdXQoc2V0TG9naW5Mb2FkaW5nKHRydWUpKTsKICAgICAgY29uc3QgeyB0b2tlbiB9ID0geWllbGQgY2FsbChBUEkuSUFNLmxvZ2luLCB7CiAgICAgICAgdXNlcm5hbWUsCiAgICAgICAgcGFzc3dvcmQsCiAgICAgIH0pOwogICAgICB5aWVsZCBwdXQoc2V0TG9naW5FcnJvckdlbmVyaWMobnVsbCkpOwogICAgICB5aWVsZCBwdXQoc2V0VXNlclRva2VuKHRva2VuKSk7CiAgICAgIHlpZWxkIHB1dChzZXRMb2dpblVzZXJuYW1lKCcnKSk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB5aWVsZCBwdXQoc2V0TG9naW5FcnJvckdlbmVyaWMoJ1VzdWFyaW8gbyBjb250cmFzZcOxYSBpbmNvcnJlY3RvJykpOwogICAgfSBmaW5hbGx5IHsKICAgICAgeWllbGQgcHV0KHNldExvZ2luUGFzc3dvcmQoJycpKTsKICAgICAgeWllbGQgcHV0KHNldExvZ2luTG9hZGluZyhmYWxzZSkpOwogICAgfQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGxvYWRTdG9yZShzdG9yZSkgewo=</text>
+        <text encoding="base64">ICAgIHRoaXMub25SZWZyZXNoKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGxvYWRTdG9yZShzdG9yZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb2FkKHN0b3JlKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBsb2FkKHN0b3JlKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBsb2FkKHN0b3JlKTsKfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(store) {
   const load = storage.createLoader(engine);</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvblJlZnJlc2gnKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wb25lbnREaWRNb3VudCcpOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wb25lbnREaWRNb3VudCcpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
