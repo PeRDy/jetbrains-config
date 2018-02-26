@@ -719,7 +719,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518466322302">
+      <file name="/Dummy.txt" timestamp="1519687412246">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -2029,8 +2029,8 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1519385737785">
-        <mark key="[" line="117" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1519687577087">
+        <mark key="[" line="95" column="38" />
         <mark key="]" line="121" column="88" />
         <mark key="^" line="43" column="10" />
         <mark key="." line="43" column="10" />
@@ -2512,10 +2512,9 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1519683001023">
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/App.jsx" timestamp="1519685102538">
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/installation.rst" timestamp="1517221211532">
         <mark key="[" line="36" column="0" />
@@ -2777,6 +2776,9 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="41" column="40" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Drawer.jsx" timestamp="1519687664743">
+        <mark key="[" line="106" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/tests/viewsets/test_metadata_search.py" timestamp="1516707173521">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -2840,6 +2842,11 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/AppBar.jsx" timestamp="1519688424191">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/jobist_api/settings/tests.py" timestamp="1486057912679">
         <mark key="[" line="26" column="25" />
@@ -3302,12 +3309,12 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/iam.js" timestamp="1519387183796">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="68" column="31" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/iam.js" timestamp="1519685379888">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="12" column="67" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/core/templates/core/home.html" timestamp="1493152243329">
         <mark key="[" line="8" column="14" />
@@ -3495,47 +3502,47 @@
       <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/iam.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TG9naW4g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TG9naW4g</text>
+        <text encoding="base64">cG9zaXRpb249ImFic29sdXRlIiA=</text>
       </register>
       <register name="/" type="4">
         <text>Multi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VybmFtZSA9IHlpZWxkIGZldGNoVXNlcm5hbWUoKTsKICBjb25zdCBwYXNzd29yZCA9IHlpZWxkIGZldGNoUGFzc3dvcmQoKTsKCiAgaWYgKHVzZXJuYW1lICE9PSBudWxsICYmIHBhc3N3b3JkICE9PSBudWxsKSB7CiAgICB0cnkgewogICAgICB5aWVsZCBwdXQoc2V0TG9naW5Mb2FkaW5nKHRydWUpKTsKICAgICAgY29uc3QgeyB0b2tlbiB9ID0geWllbGQgY2FsbChBUEkuSUFNLmxvZ2luLCB7CiAgICAgICAgdXNlcm5hbWUsCiAgICAgICAgcGFzc3dvcmQsCiAgICAgIH0pOwogICAgICB5aWVsZCBwdXQoc2V0TG9naW5FcnJvckdlbmVyaWMobnVsbCkpOwogICAgICB5aWVsZCBwdXQoc2V0VXNlclRva2VuKHRva2VuKSk7CiAgICAgIHlpZWxkIHB1dChzZXRMb2dpblVzZXJuYW1lKCcnKSk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB5aWVsZCBwdXQoc2V0TG9naW5FcnJvckdlbmVyaWMoJ1VzdWFyaW8gbyBjb250cmFzZcOxYSBpbmNvcnJlY3RvJykpOwogICAgfSBmaW5hbGx5IHsKICAgICAgeWllbGQgcHV0KHNldExvZ2luUGFzc3dvcmQoJycpKTsKICAgICAgeWllbGQgcHV0KHNldExvZ2luTG9hZGluZyhmYWxzZSkpOwogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEljb24+cG93ZXJfc2V0dGluZ3NfbmV3PC9JY29uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSZWZyZXNoJyk7Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25SZWZyZXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgIHZlcnRpY2FsQWxpZ246ICdjZW50ZXInLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vbG9hZFN0b3JlKHN0b3JlKS50aGVuKChuZXdTdGF0ZSkgPT4geyBjb25zb2xlLmxvZyhuZXdTdGF0ZSk7IHRoaXMub25SZWZyZXNoKCk7IH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPEljb24+cG93ZXJfc2V0dGluZ3NfbmV3PC9JY29uPiovfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzYWdhTWlkZGxld2FyZSwK</text>
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IDM2LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9hZFN0b3JlKHN0b3JlKTsK</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25SZWZyZXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc05hbWVzKGNsYXNzZXMubG9nb3V0QnV0dG9uLCAhdGhpcy5wcm9wcy5pc1VzZXJMb2dnZWQgJiYgY2xhc3Nlcy5oaWRlKX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGxvYWRTdG9yZShzdG9yZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJpYS1sYWJlbD0ib3BlbiBkcmF3ZXIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2FkKHN0b3JlKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
