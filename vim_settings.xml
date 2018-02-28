@@ -578,11 +578,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519248726285">
-        <mark key="[" line="68" column="41" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="68" column="7" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519847876901">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/README.md" timestamp="1517225742020">
         <mark key="[" line="1" column="0" />
@@ -795,7 +796,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519687412246">
+      <file name="/Dummy.txt" timestamp="1519847557521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1863,8 +1864,11 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/make" timestamp="1519837220000">
-        <mark key="[" line="320" column="28" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/make" timestamp="1519848223559">
+        <mark key="[" line="140" column="110" />
+        <mark key="]" line="141" column="30" />
+        <mark key="^" line="141" column="30" />
+        <mark key="." line="141" column="30" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/parsers.py" timestamp="1518616409475">
         <mark key="[" line="10" column="0" />
@@ -2812,15 +2816,15 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" timestamp="1519837404593">
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" timestamp="1519847919531">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="49" column="3" />
+        <mark key="[" line="50" column="6" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegram/setup.cfg.j2" timestamp="1516463306098">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegram/setup.cfg.j2" timestamp="1519846634350">
+        <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -3301,6 +3305,12 @@
         <mark key="." line="14" column="6" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/nvidia.cfg.j2" timestamp="1519847328433">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504883786775">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
@@ -3745,8 +3755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="15" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="125" column="4" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="7" column="5" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="104" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
@@ -3845,31 +3853,33 @@
       <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/iam.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" />
       <jump line="40" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" />
+      <jump line="72" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgwOjgwCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9zaXRpb249ImFic29sdXRlIiA=</text>
+        <text encoding="base64">ZidodHRwczovLzxhcHBuYW1lPi5oZXJva3VhcHAuY29tL3tzZWxmLl90b2tlbn0nKQ==</text>
       </register>
       <register name="/" type="4">
         <text>restart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEljb24+cG93ZXJfc2V0dGluZ3NfbmV3PC9JY29uPgo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgwOjgwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVyLnN0YXJ0X3BvbGxpbmcodGltZW91dD0zMC4wKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZXIuZGlzcGF0Y2hlciA9IHNlbGYudXBkYXRlci5kaXNwYXRjaGVyCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
@@ -3878,19 +3888,19 @@
         <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAo=</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZlcnRpY2FsQWxpZ246ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPEljb24+cG93ZXJfc2V0dGluZ3NfbmV3PC9JY29uPiovfQo=</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IDM2LAo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3944,8 +3954,8 @@
         <entry>q</entry>
         <entry>%s/huerteo/dieteo</entry>
         <entry>%s/huerteo/dieteo/g</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
