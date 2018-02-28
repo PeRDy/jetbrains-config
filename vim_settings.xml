@@ -578,12 +578,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519849340366">
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519858485265">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="66" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="66" column="68" />
+        <mark key="]" line="66" column="12" />
+        <mark key="^" line="61" column="11" />
+        <mark key="." line="66" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/README.md" timestamp="1517225742020">
         <mark key="[" line="1" column="0" />
@@ -3858,7 +3858,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgwOjgwCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfZnJvbV9maWxlID0gQ29uZmlnUGFyc2VyKCkKICAgICAgICBjb25maWdfZnJvbV9maWxlLnJlYWQoY29uZmlnKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3873,16 +3873,16 @@
         <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDgwOjgwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfZnJvbV9maWxlID0gQ29uZmlnUGFyc2VyKCkKICAgICAgICBjb25maWdfZnJvbV9maWxlLnJlYWQoY29uZmlnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVyLnN0YXJ0X3BvbGxpbmcodGltZW91dD0zMC4wKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZXIuZGlzcGF0Y2hlciA9IHNlbGYudXBkYXRlci5kaXNwYXRjaGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVyLnN0YXJ0X3BvbGxpbmcodGltZW91dD0zMC4wKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwZGF0ZXIuZGlzcGF0Y2hlciA9IHNlbGYudXBkYXRlci5kaXNwYXRjaGVyCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
@@ -3897,7 +3897,7 @@
         <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAo=</text>
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
