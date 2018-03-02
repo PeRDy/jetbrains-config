@@ -491,6 +491,12 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1519989853620">
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="72" />
+        <mark key="^" line="19" column="72" />
+        <mark key="." line="19" column="72" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/apps.py" timestamp="1485789675966">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1244,6 +1250,12 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/make" timestamp="1519990878248">
+        <mark key="[" line="70" column="55" />
+        <mark key="]" line="70" column="55" />
+        <mark key="." line="70" column="55" />
+        <mark key="^" line="70" column="68" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/__init__.py" timestamp="1513641235939">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="8" />
@@ -1726,6 +1738,11 @@
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="59" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/__init__.py" timestamp="1519990926971">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/configuration.rst" timestamp="1507582816915">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -2026,6 +2043,12 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/Dockerfile" timestamp="1518998233026">
         <mark key="[" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/migrations/0001_initial.py" timestamp="1519989940016">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
         <mark key="[" line="16" column="14" />
@@ -3521,11 +3544,11 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519988995913">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="58" column="12" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519990963103">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3760,7 +3783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="7" column="5" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="104" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
       <jump line="94" column="16" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
@@ -3860,49 +3882,50 @@
       <jump line="40" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/docker-compose.yml.j2" />
       <jump line="72" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/migrations/0001_initial.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFtdCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9ydGlvbnMg</text>
+        <text>--skip-check</text>
       </register>
       <register name="/" type="4">
         <text>restart</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnRpb25zID0gZmFjdG9yeS5mdXp6eS5GdXp6eUludGVnZXIoMCwgMTAwMCkK</text>
+      <register name="0" type="4">
+        <text>--skip-check --quiet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">X19hbGxfXyA9IFtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBBIGxpc3Qgb2YgZ3JvdXBzIHdlcmUgcGFzc2VkIGluLCB1c2UgdGhlbQo=</text>
+        <text encoding="base64">IyBHZW5lcmF0ZWQgYnkgRGphbmdvIDIuMC4xIG9uIDIwMTgtMDMtMDIgMTE6MjUKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBTaW1wbGUgYnVpbGQsIGRvIG5vdGhpbmcuCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBBIGxpc3Qgb2YgZ3JvdXBzIHdlcmUgcGFzc2VkIGluLCB1c2UgdGhlbQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBTaW1wbGUgYnVpbGQsIGRvIG5vdGhpbmcuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZhY3RvcnkK</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZhY3RvcnkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
