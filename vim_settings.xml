@@ -1817,11 +1817,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1519999005652">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1519999635733">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/admin.py" timestamp="1505074302107">
         <mark key="[" line="75" column="20" />
@@ -3552,10 +3552,10 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519998917891">
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519999627068">
         <mark key="'" line="59" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="41" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="74" column="40" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
@@ -3895,7 +3895,23 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DjangoModelFactory</text>
+        <text>class Recipe(factory.DjangoModelFactory):
+    name = factory.Faker('word')
+    description = factory.Faker('text', max_nb_chars=1000)
+    portions = factory.fuzzy.FuzzyInteger(0, 1000)
+
+    @factory.post_generation
+    def ingredients(self, create, extracted, **kwargs):
+        if not create:
+            return
+
+        if extracted:
+            for ingredient in extracted:
+                self.ingredients.add(ingredient)
+
+    class Meta:
+        model = 'recipes.Recipe'
+        django_get_or_create = ('name', )</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3907,7 +3923,23 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgQWxsZXJnZW4oZmFjdG9yeS5EamFuZ29Nb2RlbEZhY3RvcnkpOgogICAgbmFtZSA9IGZhY3RvcnkuRmFrZXIoJ3dvcmQnKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5BbGxlcmdlbicKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
+        <text>class Recipe(factory.DjangoModelFactory):
+    name = factory.Faker('word')
+    description = factory.Faker('text', max_nb_chars=1000)
+    portions = factory.fuzzy.FuzzyInteger(0, 1000)
+
+    @factory.post_generation
+    def ingredients(self, create, extracted, **kwargs):
+        if not create:
+            return
+
+        if extracted:
+            for ingredient in extracted:
+                self.ingredients.add(ingredient)
+
+    class Meta:
+        model = 'recipes.Recipe'
+        django_get_or_create = ('name', )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
