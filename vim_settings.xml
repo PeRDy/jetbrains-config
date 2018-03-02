@@ -3521,11 +3521,11 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519988492578">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519988995913">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3869,40 +3869,40 @@
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Ingredient</text>
+        <text encoding="base64">cG9ydGlvbnMg</text>
       </register>
       <register name="/" type="4">
         <text>restart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvcnRpb24gPSBmYWN0b3J5LmZ1enp5LkZ1enp5SW50ZWdlcigwLCAxMDAwKQo=</text>
+        <text encoding="base64">ICAgIHBvcnRpb25zID0gZmFjdG9yeS5mdXp6eS5GdXp6eUludGVnZXIoMCwgMTAwMCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBBIGxpc3Qgb2YgZ3JvdXBzIHdlcmUgcGFzc2VkIGluLCB1c2UgdGhlbQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBTaW1wbGUgYnVpbGQsIGRvIG5vdGhpbmcuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZhY3RvcnkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmYWN0b3J5LmZha2VyIGltcG9ydCBGYWtlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGZhY3RvcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmYWN0b3J5IGltcG9ydCBEamFuZ29Nb2RlbEZhY3RvcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBuZXcgc3RhdGUgbWFjaGluZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
