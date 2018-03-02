@@ -491,7 +491,8 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1519989853620">
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1519992662731">
+        <mark key="'" line="35" column="8" />
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="72" />
         <mark key="^" line="19" column="72" />
@@ -2020,8 +2021,9 @@
         <mark key="]" line="1" column="71" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1519988066122">
-        <mark key="[" line="50" column="76" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1519992701291">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="73" column="62" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -3544,11 +3546,11 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519990963103">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="39" column="15" />
-        <mark key="." line="39" column="15" />
-        <mark key="^" line="39" column="15" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519992866032">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="2" column="76" />
+        <mark key="." line="2" column="76" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3783,14 +3785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="5" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="104" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="94" column="16" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="82" column="15" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="4" column="37" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="95" column="20" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.js" />
-      <jump line="9" column="60" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="49" column="20" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="77" column="30" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" />
       <jump line="23" column="26" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
       <jump line="60" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
@@ -3883,67 +3877,82 @@
       <jump line="72" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/migrations/0001_initial.py" />
+      <jump line="2" column="99" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" />
+      <jump line="24" column="31" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" />
+      <jump line="46" column="26" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" />
+      <jump line="60" column="23" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>--skip-check</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>restart</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="4">
-        <text>--skip-check --quiet</text>
+        <text>@factory.post_generation
+    def groups(self, create, extracted, **kwargs):
+        if not create:
+            return
+
+        if not extracted:
+            extracted = [FoodstuffGroup()]
+
+        for group in extracted:
+            self.groups.add(group)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBHZW5lcmF0ZWQgYnkgRGphbmdvIDIuMC4xIG9uIDIwMTgtMDMtMDIgMTE6MjUKCg==</text>
+        <text encoding="base64">CgojIFV0aWxpdHkgY2xhc3NlcyB0byBoYW5kbGUgTTJNCmNsYXNzIFJlY2lwZVdpdGhJbmdyZWRpZW50cyhSZWNpcGUpOgogICAgaW5ncmVkaWVudDEgPSBmYWN0b3J5LlJlbGF0ZWRGYWN0b3J5KEluZ3JlZGllbnQsICdpbmdyZWRpZW50cycpCiAgICBpbmdyZWRpZW50MiA9IGZhY3RvcnkuUmVsYXRlZEZhY3RvcnkoSW5ncmVkaWVudCwgJ2luZ3JlZGllbnRzJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBBIGxpc3Qgb2YgZ3JvdXBzIHdlcmUgcGFzc2VkIGluLCB1c2UgdGhlbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBTaW1wbGUgYnVpbGQsIGRvIG5vdGhpbmcuCg==</text>
+        <text encoding="base64">Y2xhc3MgSW5ncmVkaWVudFdpdGhGb29kc3R1ZmYoSW5ncmVkaWVudCk6CiAgICBmb29kc3R1ZmYgPSBmYWN0b3J5LlN1YkZhY3RvcnkoRm9vZHN0dWZmV2l0aEdyb3VwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgZXh0cmFjdGVkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZXh0cmFjdGVkLCAobGlzdCwgdHVwbGUsIHNldCkpOgogICAgICAgICAgICAgICAgZXh0cmFjdGVkID0gW2V4dHJhY3RlZF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZhY3RvcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>restart</last-search>
+      <last-search encoding="base64">PA==</last-search>
       <last-offset />
-      <last-pattern>restart</last-pattern>
-      <last-replace>dieteo</last-replace>
-      <last-substitute>huerteo</last-substitute>
+      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-replace>{{</last-replace>
+      <last-substitute encoding="base64">PA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trazabilidad</entry>
-        <entry>1</entry>
         <entry>REST</entry>
         <entry>, 'recipe'</entry>
         <entry>SUPERUSER</entry>
@@ -3962,10 +3971,10 @@
         <entry>logger</entry>
         <entry>request</entry>
         <entry>restart</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry encoding="base64">PA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlX3RleHQvc3RhdHVzX21lc3NhZ2UvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2RhdGEvZGF0YVsibmFub3Bvb2wiXQ==</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>%s/'build'/BUILD_PATH/g</entry>
         <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
@@ -3982,8 +3991,10 @@
         <entry>q</entry>
         <entry>%s/huerteo/dieteo</entry>
         <entry>%s/huerteo/dieteo/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JXMvPi99fS9n</entry>
+        <entry encoding="base64">JXMvPC97ey9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
