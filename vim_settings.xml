@@ -3546,12 +3546,12 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519995305051">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="77" column="54" />
-        <mark key="]" line="78" column="59" />
-        <mark key="." line="78" column="59" />
-        <mark key="^" line="78" column="59" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519997037969">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="43" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3889,13 +3889,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ingredients</text>
+        <text>oodstuffGroup</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>ingredients</text>
+        <text>oodstuffGroup</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
