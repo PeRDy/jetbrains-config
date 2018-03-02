@@ -3546,11 +3546,12 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519992866032">
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1519995305051">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="2" column="76" />
-        <mark key="]" line="2" column="76" />
-        <mark key="." line="2" column="76" />
+        <mark key="[" line="77" column="54" />
+        <mark key="]" line="78" column="59" />
+        <mark key="." line="78" column="59" />
+        <mark key="^" line="78" column="59" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3888,13 +3889,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>ingredients</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>ingredients</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
@@ -3912,34 +3913,34 @@
             self.groups.add(group)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdGVkID0gW0Zvb2RzdHVmZkdyb3VwKCldCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgojIFV0aWxpdHkgY2xhc3NlcyB0byBoYW5kbGUgTTJNCmNsYXNzIFJlY2lwZVdpdGhJbmdyZWRpZW50cyhSZWNpcGUpOgogICAgaW5ncmVkaWVudDEgPSBmYWN0b3J5LlJlbGF0ZWRGYWN0b3J5KEluZ3JlZGllbnQsICdpbmdyZWRpZW50cycpCiAgICBpbmdyZWRpZW50MiA9IGZhY3RvcnkuUmVsYXRlZEZhY3RvcnkoSW5ncmVkaWVudCwgJ2luZ3JlZGllbnRzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgojIFV0aWxpdHkgY2xhc3NlcyB0byBoYW5kbGUgTTJNCmNsYXNzIFJlY2lwZVdpdGhJbmdyZWRpZW50cyhSZWNpcGUpOgogICAgaW5ncmVkaWVudDEgPSBmYWN0b3J5LlJlbGF0ZWRGYWN0b3J5KEluZ3JlZGllbnQsICdpbmdyZWRpZW50cycpCiAgICBpbmdyZWRpZW50MiA9IGZhY3RvcnkuUmVsYXRlZEZhY3RvcnkoSW5ncmVkaWVudCwgJ2luZ3JlZGllbnRzJykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgSW5ncmVkaWVudFdpdGhGb29kc3R1ZmYoSW5ncmVkaWVudCk6CiAgICBmb29kc3R1ZmYgPSBmYWN0b3J5LlN1YkZhY3RvcnkoRm9vZHN0dWZmV2l0aEdyb3VwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgZXh0cmFjdGVkOgo=</text>
+        <text encoding="base64">Y2xhc3MgSW5ncmVkaWVudFdpdGhGb29kc3R1ZmYoSW5ncmVkaWVudCk6CiAgICBmb29kc3R1ZmYgPSBmYWN0b3J5LlN1YkZhY3RvcnkoRm9vZHN0dWZmV2l0aEdyb3VwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgZXh0cmFjdGVkOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZXh0cmFjdGVkLCAobGlzdCwgdHVwbGUsIHNldCkpOgogICAgICAgICAgICAgICAgZXh0cmFjdGVkID0gW2V4dHJhY3RlZF0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoZXh0cmFjdGVkLCAobGlzdCwgdHVwbGUsIHNldCkpOgogICAgICAgICAgICAgICAgZXh0cmFjdGVkID0gW2V4dHJhY3RlZF0K</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3991,10 +3992,10 @@
         <entry>q</entry>
         <entry>%s/huerteo/dieteo</entry>
         <entry>%s/huerteo/dieteo/g</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JXMvPi99fS9n</entry>
         <entry encoding="base64">JXMvPC97ey9n</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
