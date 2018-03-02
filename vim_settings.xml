@@ -1817,11 +1817,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1519999635733">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1520001374287">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/admin.py" timestamp="1505074302107">
         <mark key="[" line="75" column="20" />
@@ -3894,76 +3894,44 @@
       <jump line="35" column="8" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>class Recipe(factory.DjangoModelFactory):
-    name = factory.Faker('word')
-    description = factory.Faker('text', max_nb_chars=1000)
-    portions = factory.fuzzy.FuzzyInteger(0, 1000)
-
-    @factory.post_generation
-    def ingredients(self, create, extracted, **kwargs):
-        if not create:
-            return
-
-        if extracted:
-            for ingredient in extracted:
-                self.ingredients.add(ingredient)
-
-    class Meta:
-        model = 'recipes.Recipe'
-        django_get_or_create = ('name', )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>DjangoModelFactory</text>
+        <text encoding="base64">ZGVzY3JpcHRpb24g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
       </register>
-      <register name="0" type="4">
-        <text>class Recipe(factory.DjangoModelFactory):
-    name = factory.Faker('word')
-    description = factory.Faker('text', max_nb_chars=1000)
-    portions = factory.fuzzy.FuzzyInteger(0, 1000)
-
-    @factory.post_generation
-    def ingredients(self, create, extracted, **kwargs):
-        if not create:
-            return
-
-        if extracted:
-            for ingredient in extracted:
-                self.ingredients.add(ingredient)
-
-    class Meta:
-        model = 'recipes.Recipe'
-        django_get_or_create = ('name', )</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gZmFjdG9yeS5MYXp5QXR0cmlidXRlKCdyZWNpcGUuZGVzY3JpcHRpb24nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdGVkID0gW0Zvb2RzdHVmZkdyb3VwKCldCgo=</text>
+        <text encoding="base64">Y2xhc2tzIFJlY2lwZShmYWN0b3J5LkRqYW5nb01vZGVsRmFjdG9yeSk6CiAgICBuYW1lID0gZmFjdG9yeS5GYWtlcignd29yZCcpCiAgICBkZXNjcmlwdGlvbiA9IGZhY3RvcnkuRmFrZXIoJ3RleHQnLCBtYXhfbmJfY2hhcnM9MTAwMCkKICAgIHBvcnRpb25zID0gZmFjdG9yeS5mdXp6eS5GdXp6eUludGVnZXIoMCwgMTAwMCkKCiAgICBAZmFjdG9yeS5wb3N0X2dlbmVyYXRpb24KICAgIGRlZiBpbmdyZWRpZW50cyhzZWxmLCBjcmVhdGUsIGV4dHJhY3RlZCwgKiprd2FyZ3MpOgogICAgICAgIGlmIG5vdCBjcmVhdGU6CiAgICAgICAgICAgIHJldHVybgoKICAgICAgICBpZiBleHRyYWN0ZWQ6CiAgICAgICAgICAgIGZvciBpbmdyZWRpZW50IGluIGV4dHJhY3RlZDoKICAgICAgICAgICAgICAgIHNlbGYuaW5ncmVkaWVudHMuYWRkKGluZ3JlZGllbnQpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9ICdyZWNpcGVzLlJlY2lwZScKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc2tzIFJlY2lwZShmYWN0b3J5LkRqYW5nb01vZGVsRmFjdG9yeSk6CiAgICBuYW1lID0gZmFjdG9yeS5GYWtlcignd29yZCcpCiAgICBkZXNjcmlwdGlvbiA9IGZhY3RvcnkuRmFrZXIoJ3RleHQnLCBtYXhfbmJfY2hhcnM9MTAwMCkKICAgIHBvcnRpb25zID0gZmFjdG9yeS5mdXp6eS5GdXp6eUludGVnZXIoMCwgMTAwMCkKCiAgICBAZmFjdG9yeS5wb3N0X2dlbmVyYXRpb24KICAgIGRlZiBpbmdyZWRpZW50cyhzZWxmLCBjcmVhdGUsIGV4dHJhY3RlZCwgKiprd2FyZ3MpOgogICAgICAgIGlmIG5vdCBjcmVhdGU6CiAgICAgICAgICAgIHJldHVybgoKICAgICAgICBpZiBleHRyYWN0ZWQ6CiAgICAgICAgICAgIGZvciBpbmdyZWRpZW50IGluIGV4dHJhY3RlZDoKICAgICAgICAgICAgICAgIHNlbGYuaW5ncmVkaWVudHMuYWRkKGluZ3JlZGllbnQpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9ICdyZWNpcGVzLlJlY2lwZScKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCgpjbGFzcyBEaXNoKFJlY2lwZSk6CiAgICByZWNpcGUgPSBmYWN0b3J5LlN1YkZhY3RvcnkoUmVjaXBlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgojIFV0aWxpdHkgY2xhc3NlcyB0byBoYW5kbGUgTTJNCmNsYXNzIFJlY2lwZVdpdGhJbmdyZWRpZW50cyhSZWNpcGUpOgogICAgaW5ncmVkaWVudDEgPSBmYWN0b3J5LlJlbGF0ZWRGYWN0b3J5KEluZ3JlZGllbnQsICdpbmdyZWRpZW50cycpCiAgICBpbmdyZWRpZW50MiA9IGZhY3RvcnkuUmVsYXRlZEZhY3RvcnkoSW5ncmVkaWVudCwgJ2luZ3JlZGllbnRzJykK</text>
+        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdGVkID0gW0Zvb2RzdHVmZkdyb3VwKCldCgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgSW5ncmVkaWVudFdpdGhGb29kc3R1ZmYoSW5ncmVkaWVudCk6CiAgICBmb29kc3R1ZmYgPSBmYWN0b3J5LlN1YkZhY3RvcnkoRm9vZHN0dWZmV2l0aEdyb3VwKQo=</text>
+        <text encoding="base64">CgojIFV0aWxpdHkgY2xhc3NlcyB0byBoYW5kbGUgTTJNCmNsYXNzIFJlY2lwZVdpdGhJbmdyZWRpZW50cyhSZWNpcGUpOgogICAgaW5ncmVkaWVudDEgPSBmYWN0b3J5LlJlbGF0ZWRGYWN0b3J5KEluZ3JlZGllbnQsICdpbmdyZWRpZW50cycpCiAgICBpbmdyZWRpZW50MiA9IGZhY3RvcnkuUmVsYXRlZEZhY3RvcnkoSW5ncmVkaWVudCwgJ2luZ3JlZGllbnRzJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgZXh0cmFjdGVkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
