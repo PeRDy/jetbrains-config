@@ -491,12 +491,12 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1520003595433">
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1520004971779">
         <mark key="'" line="43" column="8" />
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="25" column="37" />
-        <mark key="^" line="25" column="37" />
-        <mark key="." line="25" column="37" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/apps.py" timestamp="1485789675966">
         <mark key="[" line="6" column="0" />
@@ -1822,12 +1822,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1520003023991">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="42" column="3" />
-        <mark key="." line="42" column="3" />
-        <mark key="^" line="42" column="3" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1520004250490">
+        <mark key="'" line="39" column="0" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/admin.py" timestamp="1505074302107">
         <mark key="[" line="75" column="20" />
@@ -2033,12 +2032,12 @@
         <mark key="]" line="1" column="71" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1520003386467">
-        <mark key="'" line="93" column="8" />
-        <mark key="[" line="82" column="33" />
-        <mark key="]" line="82" column="43" />
-        <mark key="^" line="82" column="43" />
-        <mark key="." line="82" column="43" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1520004949947">
+        <mark key="'" line="100" column="8" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="74" column="22" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -3562,12 +3561,11 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1520003093317">
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1520004887776">
         <mark key="'" line="59" column="8" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3905,46 +3903,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmsuYXV0aHRva2VuJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Dishes</text>
+        <text>Model</text>
       </register>
       <register name="/" type="4">
         <text>Dish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgdmVyYm9zZV9uYW1lID0gXygnRGlzaCcpCiAgICAgICAgdmVyYm9zZV9uYW1lX3BsdXJhbCA9IF8oJ0Rpc2hlcycpCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgdmVyYm9zZV9uYW1lID0gXygnUmVjaXBlJykKICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnUmVjaXBlcycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmsuYXV0aHRva2VuJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpZGUK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKF8oJ25hbWUnKSwgbWF4X2xlbmd0aD01MDAsIGhlbHBfdGV4dD1fKCdOYW1lJyksIGRiX2luZGV4PVRydWUpCiAgICBkZXNjcmlwdGlvbiA9IG1vZGVscy5UZXh0RmllbGQoXygnZGVzY3JpcHRpb24nKSwgaGVscF90ZXh0PV8oJ0Rlc2NyaXB0aW9uJykpCiAgICBpbmdyZWRpZW50cyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoRm9vZHN0dWZmLCB0aHJvdWdoPSdJbmdyZWRpZW50JywgdmVyYm9zZV9uYW1lPV8oJ3JlY2lwZScpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbGF0ZWRfbmFtZT0ncmVjaXBlcycsIGhlbHBfdGV4dD1fKCdMaXN0IG9mIGluZ3JlZGllbnRzJykpCiAgICBwb3J0aW9ucyA9IG1vZGVscy5Qb3NpdGl2ZVNtYWxsSW50ZWdlckZpZWxkKF8oJ3BvcnRpb25zJyksIGhlbHBfdGV4dD1fKCdQb3J0aW9ucycpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTWVudShmYWN0b3J5LkRqYW5nb01vZGVsRmFjdG9yeSk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gJ3JlY2lwZXMuTWVudScKICAgICAgICAKICAgIHN0YXJ0ZXIgPSBmYWN0b3J5LlN1YkZhY3RvcnkoRGlzaCkK</text>
+        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmsuYXV0aHRva2VuJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5BbGxlcmdlbicKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCg==</text>
+        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5Gb29kc3R1ZmZHcm91cCcKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCg==</text>
+        <text encoding="base64">ICAgIHNpZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5Gb29kc3R1ZmYnCiAgICAgICAgZGphbmdvX2dldF9vcl9jcmVhdGUgPSAoJ25hbWUnLCApCgo=</text>
+        <text encoding="base64">Y2xhc3MgTWVudShmYWN0b3J5LkRqYW5nb01vZGVsRmFjdG9yeSk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gJ3JlY2lwZXMuTWVudScKICAgICAgICAKICAgIHN0YXJ0ZXIgPSBmYWN0b3J5LlN1YkZhY3RvcnkoRGlzaCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5Gb29kc3R1ZmYnCiAgICAgICAgZGphbmdvX2dldF9vcl9jcmVhdGUgPSAoJ25hbWUnLCApCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5BbGxlcmdlbicKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5SZWNpcGUnCiAgICAgICAgZGphbmdvX2dldF9vcl9jcmVhdGUgPSAoJ25hbWUnLCApCgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5Gb29kc3R1ZmZHcm91cCcKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
