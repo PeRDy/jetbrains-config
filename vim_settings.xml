@@ -36,7 +36,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1518623521379">
+      <file name="/a.dummy" timestamp="1520075918877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -50,6 +50,12 @@
         <mark key="]" line="36" column="26" />
         <mark key="." line="36" column="26" />
         <mark key="^" line="36" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/admin/menu.py" timestamp="1520076060166">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/schemas/flights.avpr" timestamp="1511907950612">
         <mark key="[" line="60" column="19" />
@@ -88,6 +94,10 @@
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/run.py" timestamp="1516963543784">
         <mark key="[" line="48" column="54" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/admin/recipe.py" timestamp="1520076038331">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="67" column="49" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/README.rst" timestamp="1490051716655">
         <mark key="[" line="9" column="0" />
@@ -416,6 +426,13 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/schema.py" timestamp="1520076158952">
+        <mark key="'" line="107" column="4" />
+        <mark key="[" line="108" column="70" />
+        <mark key="]" line="109" column="3" />
+        <mark key="^" line="109" column="3" />
+        <mark key="." line="109" column="3" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/templates/barrenero_nvidia.service.jinja2" timestamp="1507475181983">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="27" />
@@ -491,12 +508,12 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1520004971779">
-        <mark key="'" line="43" column="8" />
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" timestamp="1520075931017">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/apps.py" timestamp="1485789675966">
         <mark key="[" line="6" column="0" />
@@ -1822,11 +1839,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1520004250490">
-        <mark key="'" line="39" column="0" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" timestamp="1520075964208">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/admin.py" timestamp="1505074302107">
         <mark key="[" line="75" column="20" />
@@ -1884,6 +1902,9 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" timestamp="1520075124186">
+        <mark key="'" line="568" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/trazabilidad/settings/base.py" timestamp="1513881407462">
         <mark key="[" line="177" column="0" />
@@ -2032,12 +2053,11 @@
         <mark key="]" line="1" column="71" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1520004949947">
-        <mark key="'" line="100" column="8" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="74" column="22" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1520075689961">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="107" column="112" />
+        <mark key="^" line="105" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -3561,11 +3581,12 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1520004887776">
-        <mark key="'" line="59" column="8" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" timestamp="1520075947733">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="81" column="39" />
+        <mark key="^" line="78" column="30" />
+        <mark key="." line="78" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3800,30 +3821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="26" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="60" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="58" column="7" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="31" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="32" column="4" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="28" column="4" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="67" column="46" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="87" column="3" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="8" column="14" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="91" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="3" column="19" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/index.js" />
-      <jump line="24" column="25" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="101" column="41" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="29" column="1" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/login.js" />
-      <jump line="3" column="9" filename="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/ducks/user.js" />
-      <jump line="5" column="44" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/src/apollo-client.js" />
-      <jump line="17" column="21" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
-      <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
-      <jump line="41" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="42" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="55" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
@@ -3900,69 +3897,89 @@
       <jump line="73" column="8" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" />
       <jump line="35" column="8" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/menu.py" />
+      <jump line="992" column="2" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1087" column="18" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1115" column="22" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1310" column="89" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1312" column="62" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1572" column="27" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1574" column="45" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1688" column="39" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1694" column="32" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="1695" column="65" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="515" column="65" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="522" column="21" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="523" column="14" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="525" column="30" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="528" column="16" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="530" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="560" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="563" column="34" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="565" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="566" column="40" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="568" column="4" filename="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-637073076/-337502517/django/db/models/base.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/factories/recipe.py" />
+      <jump line="73" column="26" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/schema.py" />
+      <jump line="107" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/schema.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlY2lwZV9pbmdyZWRpZW50ID0gcmVsYXkubm9kZS5GaWVsZChSZWNpcGVJbmdyZWRpZW50KQogICAgcmVjaXBlX2luZ3JlZGllbnRzID0gRGphbmdvRmlsdGVyQ29ubmVjdGlvbkZpZWxkKFJlY2lwZUluZ3JlZGllbnQpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text>Recipe</text>
       </register>
       <register name="/" type="4">
-        <text>Dish</text>
+        <text>Recipe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgdmVyYm9zZV9uYW1lID0gXygnUmVjaXBlJykKICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnUmVjaXBlcycpCg==</text>
+        <text encoding="base64">ICAgIHJlY2lwZV9pbmdyZWRpZW50ID0gcmVsYXkubm9kZS5GaWVsZChSZWNpcGVJbmdyZWRpZW50KQogICAgcmVjaXBlX2luZ3JlZGllbnRzID0gRGphbmdvRmlsdGVyQ29ubmVjdGlvbkZpZWxkKFJlY2lwZUluZ3JlZGllbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRGlzaEluZ3JlZGllbnQoZmFjdG9yeS5EamFuZ29Nb2RlbEZhY3RvcnkpOgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9ICdyZWNpcGVzLlJlY2lwZUluZ3JlZGllbnQnCgogICAgZm9vZHN0dWZmID0gZmFjdG9yeS5TdWJGYWN0b3J5KEZvb2RzdHVmZikKICAgIGRpc2ggPSBmYWN0b3J5LlN1YkZhY3RvcnkoRGlzaCkKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRGlzaEluZ3JlZGllbnQoZmFjdG9yeS5EamFuZ29Nb2RlbEZhY3RvcnkpOgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9ICdyZWNpcGVzLlJlY2lwZUluZ3JlZGllbnQnCgogICAgZm9vZHN0dWZmID0gZmFjdG9yeS5TdWJGYWN0b3J5KEZvb2RzdHVmZikKICAgIGRpc2ggPSBmYWN0b3J5LlN1YkZhY3RvcnkoRGlzaCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBtb2RlbHMuQ2hhckZpZWxkKF8oJ25hbWUnKSwgbWF4X2xlbmd0aD01MDAsIGhlbHBfdGV4dD1fKCdOYW1lJyksIGRiX2luZGV4PVRydWUpCiAgICBkZXNjcmlwdGlvbiA9IG1vZGVscy5UZXh0RmllbGQoXygnZGVzY3JpcHRpb24nKSwgaGVscF90ZXh0PV8oJ0Rlc2NyaXB0aW9uJykpCiAgICBpbmdyZWRpZW50cyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoRm9vZHN0dWZmLCB0aHJvdWdoPSdJbmdyZWRpZW50JywgdmVyYm9zZV9uYW1lPV8oJ3JlY2lwZScpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbGF0ZWRfbmFtZT0ncmVjaXBlcycsIGhlbHBfdGV4dD1fKCdMaXN0IG9mIGluZ3JlZGllbnRzJykpCiAgICBwb3J0aW9ucyA9IG1vZGVscy5Qb3NpdGl2ZVNtYWxsSW50ZWdlckZpZWxkKF8oJ3BvcnRpb25zJyksIGhlbHBfdGV4dD1fKCdQb3J0aW9ucycpKQo=</text>
+        <text encoding="base64">Y2xhc3MgRGlzaEluZ3JlZGllbnQoZmFjdG9yeS5EamFuZ29Nb2RlbEZhY3RvcnkpOgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9ICdyZWNpcGVzLlJlY2lwZUluZ3JlZGllbnQnCgogICAgZm9vZHN0dWZmID0gZmFjdG9yeS5TdWJGYWN0b3J5KEZvb2RzdHVmZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmsuYXV0aHRva2VuJywK</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IFRoaXMgZmFjdG9yeSBpcyBjcmVhdGluZyB0d28gZGlzaGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNpZGUK</text>
+        <text encoding="base64">Y2xhc3MgUmVjaXBlSW5ncmVkaWVudChCYXNlSW5ncmVkaWVudCk6CiAgICBkaXNoID0gbW9kZWxzLkZvcmVpZ25LZXkoRGlzaCwgdmVyYm9zZV9uYW1lPV8oJ3JlY2lwZScpLCBoZWxwX3RleHQ9XygnUmVjaXBlJyksIG9uX2RlbGV0ZT1tb2RlbHMuQ0FTQ0FERSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTWVudShmYWN0b3J5LkRqYW5nb01vZGVsRmFjdG9yeSk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gJ3JlY2lwZXMuTWVudScKICAgICAgICAKICAgIHN0YXJ0ZXIgPSBmYWN0b3J5LlN1YkZhY3RvcnkoRGlzaCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5BbGxlcmdlbicKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSAncmVjaXBlcy5Gb29kc3R1ZmZHcm91cCcKICAgICAgICBkamFuZ29fZ2V0X29yX2NyZWF0ZSA9ICgnbmFtZScsICkKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzdHIoc2VsZi5mb29kc3R1ZmYpCgogICAgZGVmIF9fcmVwcl9fKHNlbGYpOgogICAgICAgIHJldHVybiBmJ0luZ3JlZGllbnR7e3tzZWxmLmZvb2RzdHVmZn0sIHF1YW50aXR5PXtzZWxmLnF1YW50aXR5fWdyfX0nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>Dish</last-search>
+      <last-search>Recipe</last-search>
       <last-offset />
-      <last-pattern>Dish</last-pattern>
-      <last-replace>DishWithRecipe</last-replace>
-      <last-substitute>Dish</last-substitute>
+      <last-pattern>Recipe</last-pattern>
+      <last-replace>Dish</last-replace>
+      <last-substitute>Recipe</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>, 'recipe'</entry>
-        <entry>SUPERUSER</entry>
-        <entry>url</entry>
-        <entry>telegraf</entry>
         <entry>telegram</entry>
         <entry>%%</entry>
         <entry>jinja2</entry>
@@ -3979,10 +3996,12 @@
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">PA==</entry>
         <entry>Dish</entry>
+        <entry>id</entry>
+        <entry>pk</entry>
+        <entry>recipe</entry>
+        <entry>Recipe</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/'build'/BUILD_PATH/g</entry>
-        <entry>%s/trazabilidad/{{ cookiecutter.app_slug }}/g</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</entry>
@@ -4001,6 +4020,8 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0Rpc2gvRGlzaFdpdGhSZWNpcGUvZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3JlY2lwZS9kaXNoL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
