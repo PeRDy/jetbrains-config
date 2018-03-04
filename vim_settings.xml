@@ -230,6 +230,13 @@
         <mark key="." line="53" column="49" />
         <mark key="^" line="53" column="49" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/core/views/wallet.py" timestamp="1520201036424">
+        <mark key="'" line="125" column="20" />
+        <mark key="[" line="140" column="74" />
+        <mark key="]" line="142" column="58" />
+        <mark key="^" line="142" column="58" />
+        <mark key="." line="142" column="58" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/Dockerfile" timestamp="1497639108176">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="15" column="18" />
@@ -3821,7 +3828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="53" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
@@ -3921,66 +3927,66 @@
       <jump line="73" column="26" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/schema.py" />
       <jump line="107" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/schema.py" />
       <jump line="28" column="3" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" />
+      <jump line="125" column="20" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/core/views/wallet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnUmVjaXBlIGluZ3JlZGllbnRzJykK</text>
+      <register name="&quot;" type="4">
+        <text>{{account}}</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>aseRecipe</text>
+        <text>{{account}}</text>
       </register>
       <register name="/" type="4">
-        <text>Recipe</text>
+        <text>\(\w\+\):\(.\+\)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnUmVjaXBlIGluZ3JlZGllbnRzJykK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7CiAgICAgICAgICAgICdtb2R1bGUnOiAnc3RhdHMnLAogICAgICAgICAgICAnYWN0aW9uJzogJ2V0aHByaWNlJywKICAgICAgICAgICAgJ2FwaWtleSc6IHNldHRpbmdzLkVUSEVSU0NBTlsndG9rZW4nXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSBfKCdJbmdyZWRpZW50JykKICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnSW5ncmVkaWVudHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kdWxlOmFjY291bnQKICAgICAgICAgICAgYWN0aW9uOnR4bGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluZ3JlZGllbnRzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChGb29kc3R1ZmYsIHRocm91Z2g9J0luZ3JlZGllbnQnLCB2ZXJib3NlX25hbWU9XygncmVjaXBlJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVsYXRlZF9uYW1lPSdyZWNpcGVzJywgaGVscF90ZXh0PV8oJ0xpc3Qgb2YgaW5ncmVkaWVudHMnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBpa2V5Ont7ZXRoZXJzY2FuX2tleX19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSBfKCdSZWNpcGUnKQogICAgICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSBfKCdSZWNpcGVzJykK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7J2FwaUtleSc6IHNldHRpbmdzLkVUSFBMT1JFUlsndG9rZW4nXX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSB1cmxqb2luKHNldHRpbmdzLkVUSFBMT1JFUlsidXJsIl0sIGYnL2dldEFkZHJlc3NUcmFuc2FjdGlvbnMve2FjY291bnR9JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIHNlc3Npb24uZ2V0KHVybCwgcGFyYW1zPXBhcmFtcykgYXMgcmVzcG9uc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQmFzZVJlY2lwZShtb2RlbHMuTW9kZWwpOgogICAgY2xhc3MgTWV0YToKICAgICAgICB2ZXJib3NlX25hbWUgPSBfKCdSZWNpcGUnKQogICAgICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSBfKCdSZWNpcGVzJykKICAgICAgICBhYnN0cmFjdCA9IFRydWUKCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSBfKCdJbmdyZWRpZW50JykKICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnSW5ncmVkaWVudHMnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvcnRpb25zID0gbW9kZWxzLlBvc2l0aXZlU21hbGxJbnRlZ2VyRmllbGQoXygncG9ydGlvbnMnKSwgaGVscF90ZXh0PV8oJ1BvcnRpb25zJykpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGluZ3JlZGllbnRzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChGb29kc3R1ZmYsIHRocm91Z2g9J0luZ3JlZGllbnQnLCB2ZXJib3NlX25hbWU9XygncmVjaXBlJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVsYXRlZF9uYW1lPSdyZWNpcGVzJywgaGVscF90ZXh0PV8oJ0xpc3Qgb2YgaW5ncmVkaWVudHMnKSkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSBfKCdSZWNpcGUnKQogICAgICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSBfKCdSZWNpcGVzJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gbW9kZWxzLlRleHRGaWVsZChfKCdkZXNjcmlwdGlvbicpLCBoZWxwX3RleHQ9XygnRGVzY3JpcHRpb24nKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Recipe</last-search>
+      <last-search>\(\w\+\):\(.\+\)</last-search>
       <last-offset />
-      <last-pattern>Recipe</last-pattern>
-      <last-replace>Dish</last-replace>
-      <last-substitute>Recipe</last-substitute>
+      <last-pattern>\(\w\+\):\(.\+\)</last-pattern>
+      <last-replace>'\1': '\2',</last-replace>
+      <last-substitute>\(\w\+\):\(.\+\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>telegram</entry>
         <entry>%%</entry>
         <entry>jinja2</entry>
         <entry>\[\(.*\)\]=</entry>
@@ -4000,9 +4006,9 @@
         <entry>pk</entry>
         <entry>recipe</entry>
         <entry>Recipe</entry>
+        <entry>\(\w\+\):\(.\+\)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9kYXRhYmFzZS9n</entry>
@@ -4016,12 +4022,13 @@
         <entry>%s/huerteo/dieteo/g</entry>
         <entry encoding="base64">JXMvPi99fS9n</entry>
         <entry encoding="base64">JXMvPC97ey9n</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0Rpc2gvRGlzaFdpdGhSZWNpcGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlY2lwZS9kaXNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpOlwoLlwrXCkvJ1wxJzogJ1wyJyw=</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
