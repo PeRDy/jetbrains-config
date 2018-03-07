@@ -959,11 +959,11 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/package.json" timestamp="1520445235249">
-        <mark key="[" line="48" column="14" />
-        <mark key="]" line="50" column="51" />
-        <mark key="^" line="50" column="15" />
-        <mark key="." line="50" column="51" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/package.json" timestamp="1520446373396">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="47" />
+        <mark key="^" line="48" column="47" />
+        <mark key="." line="48" column="47" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.jsx" timestamp="1517235316962">
         <mark key="[" line="19" column="34" />
@@ -3936,8 +3936,8 @@
       <jump line="28" column="3" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3952,34 +3952,34 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBkb21Qcm9wcyB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCiAgICAic3RhcnQiOiAic3VwZXJ2aXNvcmQgLWMgc2VydmVyL3N1cGVydmlzb3IuY2ZnIiwK</text>
+        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCg==</text>
+        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCiAgICAic3RhcnQiOiAic3VwZXJ2aXNvcmQgLWMgc2VydmVyL3N1cGVydmlzb3IuY2ZnIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjbGFzc2VzOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBjbGFzc2VzOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMuY29udGFpbmVyfT4K</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY2xhc3NlcyB9ID0gdGhpcy5wcm9wczsKCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMuY29udGFpbmVyfT4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgY2xhc3NlcyB9ID0gdGhpcy5wcm9wczsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY2xhc3NlcyB9ID0gdGhpcy5wcm9wczsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMucm9vdH0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMuYXBwRnJhbWV9Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4029,12 +4029,12 @@
         <entry>%s/huerteo/dieteo/g</entry>
         <entry encoding="base64">JXMvPi99fS9n</entry>
         <entry encoding="base64">JXMvPC97ey9n</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0Rpc2gvRGlzaFdpdGhSZWNpcGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlY2lwZS9kaXNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
