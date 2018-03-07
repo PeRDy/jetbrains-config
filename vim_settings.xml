@@ -958,10 +958,10 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/package.json" timestamp="1520453746284">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/package.json" timestamp="1520456094951">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/pages/Login.jsx" timestamp="1517235316962">
         <mark key="[" line="19" column="34" />
@@ -1334,10 +1334,10 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/webpack.config.js" timestamp="1518194373826">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="20" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/webpack.config.js" timestamp="1520456181383">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" timestamp="1513640837882">
         <mark key="[" line="29" column="45" />
@@ -3941,7 +3941,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsCiAgICAgICAgfSwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3956,31 +3956,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBkb21Qcm9wcyB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsCiAgICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJub2RlLXNhc3MtY2hva2lkYXIiOiAiXjEuMS4wIiwK</text>
+        <text encoding="base64">ICAgICJjc3MtbG9hZGVyIjogIl4wLjI4LjEwIiwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCiAgICAic3RhcnQiOiAic3VwZXJ2aXNvcmQgLWMgc2VydmVyL3N1cGVydmlzb3IuY2ZnIiwK</text>
+        <text encoding="base64">ICAgICJub2RlLXNhc3MtY2hva2lkYXIiOiAiXjEuMS4wIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCg==</text>
+        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjbGFzc2VzOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCiAgICAic3RhcnQiOiAic3VwZXJ2aXNvcmQgLWMgc2VydmVyL3N1cGVydmlzb3IuY2ZnIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMuY29udGFpbmVyfT4K</text>
+        <text encoding="base64">ICBjbGFzc2VzOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY2xhc3NlcyB9ID0gdGhpcy5wcm9wczsKCg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
