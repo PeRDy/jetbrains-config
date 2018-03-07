@@ -230,12 +230,12 @@
         <mark key="." line="53" column="49" />
         <mark key="^" line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/core/views/wallet.py" timestamp="1520202784100">
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/core/views/wallet.py" timestamp="1520411067471">
         <mark key="'" line="125" column="20" />
-        <mark key="[" line="139" column="76" />
-        <mark key="]" line="139" column="77" />
+        <mark key="[" line="223" column="28" />
+        <mark key="]" line="177" column="48" />
         <mark key="^" line="138" column="19" />
-        <mark key="." line="139" column="77" />
+        <mark key="." line="177" column="48" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/Dockerfile" timestamp="1497639108176">
         <mark key="[" line="14" column="12" />
@@ -3930,14 +3930,14 @@
       <jump line="125" column="20" filename="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/core/views/wallet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZXN0YW1wJzogZGF0ZXRpbWUuZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChpbnQodFsndGltZXN0YW1wJ10pKSwK</text>
+      <register name="&quot;" type="4">
+        <text>content_type='text/html'</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>{{account}}</text>
+        <text>content_type='text/html'</text>
       </register>
       <register name="/" type="4">
         <text>\(\w\+\):\(.\+\)</text>
