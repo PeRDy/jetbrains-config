@@ -190,6 +190,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/glutenfree/src/App.vue" timestamp="1504346376285">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -222,8 +228,15 @@
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/wallet.py" timestamp="1519861694597">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="49" />
         <mark key="^" line="53" column="49" />
+        <mark key="." line="53" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/core/views/wallet.py" timestamp="1520411067471">
+        <mark key="'" line="125" column="20" />
+        <mark key="[" line="223" column="28" />
+        <mark key="]" line="177" column="48" />
+        <mark key="^" line="138" column="19" />
+        <mark key="." line="177" column="48" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/Dockerfile" timestamp="1497639108176">
         <mark key="[" line="14" column="12" />
@@ -662,12 +675,6 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/README.rst" timestamp="1492352281481">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
@@ -1037,6 +1044,11 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="70" column="16" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/requirements.txt" timestamp="1520883815256">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/serializers.py" timestamp="1465558116160">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="21" column="44" />
@@ -1086,8 +1098,8 @@
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/storj.py" timestamp="1519861710372">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="141" column="52" />
-        <mark key="^" line="141" column="49" />
         <mark key="." line="141" column="49" />
+        <mark key="^" line="141" column="49" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
@@ -1239,6 +1251,11 @@
         <mark key="]" line="287" column="40" />
         <mark key="^" line="287" column="40" />
         <mark key="." line="287" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/README.md" timestamp="1520883525498">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/ether/__init__.py" timestamp="1513787204655">
         <mark key="[" line="1" column="0" />
@@ -1483,6 +1500,12 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.gitignore" timestamp="1520883367858">
+        <mark key="'" line="6" column="3" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/production.py" timestamp="1516118596277">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1562,8 +1585,8 @@
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/miner.py" timestamp="1519379598812">
         <mark key="[" line="71" column="28" />
         <mark key="]" line="71" column="28" />
-        <mark key="^" line="55" column="28" />
         <mark key="." line="71" column="28" />
+        <mark key="^" line="55" column="28" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/recipes/schema.py" timestamp="1515159334447">
         <mark key="[" line="79" column="12" />
@@ -2182,6 +2205,12 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="54" column="39" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/setup.cfg" timestamp="1520883154737">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/Dockerfile" timestamp="1515082825861">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="3" column="8" />
@@ -2300,6 +2329,7 @@
         <mark key="[" line="86" column="35" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+        <mark key="^" line="43" column="10" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -3093,6 +3123,11 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/requirements_test.txt" timestamp="1520883836216">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner.service" timestamp="1504623405275">
         <mark key="[" line="10" column="66" />
         <mark key="]" line="12" column="44" />
@@ -3781,10 +3816,11 @@
         <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/ether.py" timestamp="1519861721110">
+        <mark key="'" line="0" column="12" />
         <mark key="[" line="180" column="38" />
         <mark key="]" line="180" column="43" />
-        <mark key="." line="180" column="43" />
         <mark key="^" line="180" column="43" />
+        <mark key="." line="180" column="43" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/.gitignore" timestamp="1520452813549">
         <mark key="'" line="16" column="0" />
@@ -3838,7 +3874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="53" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="19" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
       <jump line="20" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
@@ -3938,16 +3973,17 @@
       <jump line="107" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/schema.py" />
       <jump line="28" column="3" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/menu.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/.gitignore" />
+      <jump line="6" column="3" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Barrenero</text>
       </register>
       <register name="/" type="4">
         <text>Recipe</text>
@@ -3956,31 +3992,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBkb21Qcm9wcyB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjc3MtbG9hZGVyIjogIl4wLjI4LjEwIiwK</text>
+        <text encoding="base64">LS1pbmRleC11cmwgaHR0cHM6Ly9weXBpLnNlcXVvaWEucGlrc2VsLmNvbQotLWV4dHJhLWluZGV4LXVybCBodHRwczovL3B5cGkucHl0aG9uLm9yZy9zaW1wbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
+        <text encoding="base64">LS1pbmRleC11cmwgaHR0cHM6Ly9weXBpLnNlcXVvaWEucGlrc2VsLmNvbQotLWV4dHJhLWluZGV4LXVybCBodHRwczovL3B5cGkucHl0aG9uLm9yZy9zaW1wbGUKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJub2RlLXNhc3MtY2hva2lkYXIiOiAiXjEuMS4wIiwK</text>
+        <text encoding="base64">ZmFjdG9yeV9ib3kK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCiAgICAic3RhcnQiOiAic3VwZXJ2aXNvcmQgLWMgc2VydmVyL3N1cGVydmlzb3IuY2ZnIiwK</text>
+        <text encoding="base64">LS1pbmRleC11cmwgaHR0cHM6Ly9weXBpLnNlcXVvaWEucGlrc2VsLmNvbQotLWV4dHJhLWluZGV4LXVybCBodHRwczovL3B5cGkucHl0aG9uLm9yZy9zaW1wbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGFzc2VzOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">IyMgUzMKYm90b2NvcmUKCiMjIExvZ2dpbmcKbG9nc3Rhc2gtcHl0aG9uLWZvcm1hdHRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">c2NyYXB5LXNwbGFzaAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -3997,7 +4033,6 @@
     </search>
     <history>
       <history-search>
-        <entry>telegram</entry>
         <entry>%%</entry>
         <entry>jinja2</entry>
         <entry>\[\(.*\)\]=</entry>
@@ -4017,9 +4052,9 @@
         <entry>pk</entry>
         <entry>recipe</entry>
         <entry>Recipe</entry>
+        <entry>\(\w\+\):\(.\+\)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9kYXRhYmFzZS9n</entry>
@@ -4036,8 +4071,9 @@
         <entry encoding="base64">JzwsJz5zL0Rpc2gvRGlzaFdpdGhSZWNpcGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlY2lwZS9kaXNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpOlwoLlwrXCkvJ1wxJzogJ1wyJyw=</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
