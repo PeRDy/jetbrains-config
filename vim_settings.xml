@@ -356,10 +356,11 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Page.jsx" timestamp="1520444334687">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Page.jsx" timestamp="1521286081744">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="58" column="11" />
       </file>
       <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1517325598310">
         <mark key="[" line="14" column="0" />
@@ -661,6 +662,9 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/pages/Login/index.js" timestamp="1521286333977">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
         <mark key="[" line="0" column="0" />
@@ -1334,10 +1338,10 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/webpack.config.js" timestamp="1520456181383">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/webpack.config.js" timestamp="1521286968139">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" timestamp="1513640837882">
         <mark key="[" line="29" column="45" />
@@ -1782,6 +1786,11 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/pages/Login/Login.jsx" timestamp="1521286726046">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/gurumelo/telegraf/plugins/storj.py" timestamp="1508683657700">
         <mark key="[" line="39" column="25" />
         <mark key="]" line="30" column="0" />
@@ -2039,6 +2048,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/pages/Login/Login.scss" timestamp="1521286528254">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/sagas/index.js" timestamp="1518471281436">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="0" />
@@ -2295,11 +2310,11 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1520444564337">
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1521287434111">
         <mark key="'" line="100" column="31" />
-        <mark key="[" line="86" column="35" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="85" column="18" />
+        <mark key="]" line="85" column="18" />
+        <mark key="." line="85" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -3615,8 +3630,8 @@
         <mark key="]" line="8" column="44" />
         <mark key="." line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Routes.jsx" timestamp="1519384735440">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Routes.jsx" timestamp="1521286384386">
+        <mark key="[" line="2" column="44" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
@@ -3940,47 +3955,47 @@
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsCiAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>size={4} offset={8}</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>size={4} offset={8}</text>
       </register>
       <register name="/" type="4">
         <text>Recipe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgY2xhc3NlcywgdmFsdWUsIGVycm9yLCBkb21Qcm9wcyB9ID0gdGhpcy5wcm9wczsK</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gKCkgPT4gKHsKfSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjc3MtbG9hZGVyIjogIl4wLjI4LjEwIiwK</text>
+        <text encoding="base64">ICBjb250YWluZXI6IHsKICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgdG9wOiAnNTAlJywKICAgIGxlZnQ6ICc1MCUnLAogICAgdHJhbnNmb3JtOiAndHJhbnNsYXRlKC01MCUsIC01MCUpJywKICB9LAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBjb250YWluZXI6IHsKICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgdG9wOiAnNTAlJywKICAgIGxlZnQ6ICc1MCUnLAogICAgdHJhbnNmb3JtOiAndHJhbnNsYXRlKC01MCUsIC01MCUpJywKICB9LA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJub2RlLXNhc3MtY2hva2lkYXIiOiAiXjEuMS4wIiwK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4xLjIiLAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCiAgICAic3RhcnQiOiAic3VwZXJ2aXNvcmQgLWMgc2VydmVyL3N1cGVydmlzb3IuY2ZnIiwK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJkZXZlbG9wbWVudCI6ICJucG0tcnVuLWFsbCAtcCB3YXRjaC1jc3MgZGV2LXNlcnZlciIsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17Y2xhc3Nlcy5hcHBGcmFtZX0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbGFzc2VzOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdn0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMuYXBwRnJhbWV9Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
