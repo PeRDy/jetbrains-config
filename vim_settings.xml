@@ -603,11 +603,10 @@
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/index.jsx" timestamp="1520454122313">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/navigation.js" timestamp="1521490212912">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="6" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/navigation.js" timestamp="1521491352902">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519861138836">
         <mark key="'" line="66" column="0" />
@@ -731,11 +730,11 @@
         <mark key="." line="41" column="33" />
         <mark key="^" line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/store/index.js" timestamp="1521489534062">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/store/index.js" timestamp="1521491278395">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/uwsgi.ini" timestamp="1518466533150">
         <mark key="'" line="0" column="0" />
@@ -1476,10 +1475,10 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/App.js" timestamp="1521490114494">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/App.js" timestamp="1521491433763">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/SkillList.vue" timestamp="1498583281216">
         <mark key="[" line="6" column="16" />
@@ -3966,13 +3965,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>container</text>
@@ -3981,31 +3980,31 @@
         <text encoding="base64">PE5hdmlnYXRvcgogICAgICAgIG5hdmlnYXRpb249e2FkZE5hdmlnYXRpb25IZWxwZXJzKHsKICAgICAgICAgIGRpc3BhdGNoLAogICAgICAgICAgc3RhdGU6IG5hdiwKICAgICAgICAgIGFkZExpc3RlbmVyLAogICAgICAgIH0pfQogICAgICAvPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWF0ZXJpYWwtY2FyZHMiOiAiaHR0cHM6Ly9naXRodWIuY29tL1NpRGV2ZXNoL1JlYWN0LU5hdGl2ZS1NYXRlcmlhbC1DYXJkcyIsCg==</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBtaWRkbGV3YXJlID0gY3JlYXRlUmVhY3ROYXZpZ2F0aW9uUmVkdXhNaWRkbGV3YXJlKAogICdyb290JywKICBzdGF0ZSA9PiBzdGF0ZS5uYXYsCik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdG9yIH0gZnJvbSAnLi9zcmMvbmF2aWdhdGlvbic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pfQo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4uL25hdmlnYXRpb24nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGU6IG5hdiwKICAgICAgICAgICAgYWRkTGlzdGVuZXIsCg==</text>
+        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwKKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hdmlnYXRpb249e2FkZE5hdmlnYXRpb25IZWxwZXJzKHsKICAgICAgICAgICAgZGlzcGF0Y2gsCg==</text>
+        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWF0ZXJpYWwtY2FyZHMiOiAiaHR0cHM6Ly9naXRodWIuY29tL1NpRGV2ZXNoL1JlYWN0LU5hdGl2ZS1NYXRlcmlhbC1DYXJkcyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCB7CiAgYWRkTGlzdGVuZXIsCn07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdG9yIH0gZnJvbSAnLi9zcmMvbmF2aWdhdGlvbic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
