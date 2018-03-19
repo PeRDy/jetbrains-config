@@ -603,6 +603,11 @@
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/index.jsx" timestamp="1520454122313">
         <mark key="[" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/navigation.js" timestamp="1521486882621">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519861138836">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="71" column="17" />
@@ -725,11 +730,10 @@
         <mark key="." line="41" column="33" />
         <mark key="^" line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/store/index.js" timestamp="1518468012441">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/store/index.js" timestamp="1521486781393">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/uwsgi.ini" timestamp="1518466533150">
         <mark key="'" line="0" column="0" />
@@ -3956,14 +3960,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRhYmxldFNpemU9ezh9IHRhYmxldE9mZnNldD17Mn0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAuLi4K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRhYmxldFNpemU9ezh9IHRhYmxldE9mZnNldD17Mn0=</text>
+        <text>Enhancers</text>
       </register>
       <register name="/" type="4">
         <text>container</text>
@@ -3972,31 +3976,31 @@
         <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
+        <text encoding="base64">ICAuLi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpc1Byb2QgPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ3Byb2R1Y3Rpb24nOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci5pbnB1dCB7CiAgd2lkdGg6IDQ1MHB4Owp9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpc1Byb2QgPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ3Byb2R1Y3Rpb24nOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBDZWxsLCBHcmlkLCBMaW5lYXJQcm9ncmVzcywgUGFwZXIgfSBmcm9tICdyZWFjdC1tZCc7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjb21wb3NlOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
+        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci5pbnB1dCB7CiAgd2lkdGg6IDQ1MHB4Owp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXQgaXNWYWxpZCgpIHsKICAgIHJldHVybiB0aGlzLnByb3BzLmVycm9yID09PSBudWxsOwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBDZWxsLCBHcmlkLCBMaW5lYXJQcm9ncmVzcywgUGFwZXIgfSBmcm9tICdyZWFjdC1tZCc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgcmVuZGVyVmFsaWQoKSB7CiAgICBjb25zdCB7IG5hbWUsIGNsYXNzZXMsIHZhbHVlLCBkb21Qcm9wcyB9ID0gdGhpcy5wcm9wczsKCiAgICByZXR1cm4gKAogICAgICA8Rm9ybUNvbnRyb2wgYXJpYS1kZXNjcmliZWRieT17dGhpcy5zbHVnfT4KICAgICAgICA8SW5wdXRMYWJlbCBodG1sRm9yPXt0aGlzLnNsdWd9PntuYW1lfTwvSW5wdXRMYWJlbD4KICAgICAgICA8SW5wdXQKICAgICAgICAgIGlkPXt0aGlzLnNsdWd9CiAgICAgICAgICB2YWx1ZT17dmFsdWV9CiAgICAgICAgICBvbkNoYW5nZT17dGhpcy5vblZhbHVlQ2hhbmdlfQogICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLnRleHRGaWVsZH0KICAgICAgICAgIHsuLi5kb21Qcm9wc30KICAgICAgICAvPgogICAgICA8L0Zvcm1Db250cm9sPgogICAgKTsKICB9CgogIHJlbmRlckVycm9yKCkgewogICAgY29uc3QgeyBuYW1lLCBjbGFzc2VzLCB2YWx1ZSwgZXJyb3IsIGRvbVByb3BzIH0gPSB0aGlzLnByb3BzOwoKICAgIHJldHVybiAoCiAgICAgIDxGb3JtQ29udHJvbCBlcnJvciBhcmlhLWRlc2NyaWJlZGJ5PXt0aGlzLnNsdWd9PgogICAgICAgIDxJbnB1dExhYmVsIGh0bWxGb3I9e3RoaXMuc2x1Z30+e25hbWV9PC9JbnB1dExhYmVsPgogICAgICAgIDxJbnB1dAogICAgICAgICAgaWQ9e3RoaXMuc2x1Z30KICAgICAgICAgIHZhbHVlPXt2YWx1ZX0KICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLm9uVmFsdWVDaGFuZ2V9CiAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMudGV4dEZpZWxkfQogICAgICAgICAgey4uLmRvbVByb3BzfQogICAgICAgIC8+CiAgICAgICAgPEZvcm1IZWxwZXJUZXh0IGlkPXtgJHt0aGlzLnNsdWd9LXRleHRgfT57ZXJyb3J9PC9Gb3JtSGVscGVyVGV4dD4KICAgICAgPC9Gb3JtQ29udHJvbD4KICAgICk7CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
