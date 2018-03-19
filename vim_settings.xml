@@ -603,10 +603,10 @@
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/index.jsx" timestamp="1520454122313">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/navigation.js" timestamp="1521492280284">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/navigation.js" timestamp="1521495022063">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519861138836">
         <mark key="'" line="66" column="0" />
@@ -1475,10 +1475,10 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/App.js" timestamp="1521491433763">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/App.js" timestamp="1521494889253">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/SkillList.vue" timestamp="1498583281216">
         <mark key="[" line="6" column="16" />
@@ -2072,6 +2072,9 @@
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/screens/Landing.js" timestamp="1521494918951">
+        <mark key="[" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/README.rst" timestamp="1515153223211">
         <mark key="[" line="8" column="32" />
@@ -3052,11 +3055,11 @@
         <mark key="]" line="73" column="62" />
         <mark key="." line="73" column="61" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/atoms/Toolbar.android.js" timestamp="1521492340646">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/atoms/Toolbar.android.js" timestamp="1521494872532">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/mixins.py" timestamp="1485535808398">
         <mark key="[" line="130" column="22" />
@@ -3965,7 +3968,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IERyYXdlck5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uL3NyYy9uYXZpZ2F0b3JzL1N0YWNrTmF2aWdhdG9yJzsK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3980,31 +3983,31 @@
         <text encoding="base64">PE5hdmlnYXRvcgogICAgICAgIG5hdmlnYXRpb249e2FkZE5hdmlnYXRpb25IZWxwZXJzKHsKICAgICAgICAgIGRpc3BhdGNoLAogICAgICAgICAgc3RhdGU6IG5hdiwKICAgICAgICAgIGFkZExpc3RlbmVyLAogICAgICAgIH0pfQogICAgICAvPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IERyYXdlck5hdmlnYXRvciBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uL3NyYy9uYXZpZ2F0b3JzL1N0YWNrTmF2aWdhdG9yJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhciAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBtaWRkbGV3YXJlID0gY3JlYXRlUmVhY3ROYXZpZ2F0aW9uUmVkdXhNaWRkbGV3YXJlKAogICdyb290JywKICBzdGF0ZSA9PiBzdGF0ZS5uYXYsCik7Cg==</text>
+        <text encoding="base64">ICAgICAgPC9SZWFjdC5GcmFnbWVudD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFJlYWN0LkZyYWdtZW50PgogICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuc3RhdHVzQmFyVW5kZXJsYXl9IC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4uL25hdmlnYXRpb24nOwo=</text>
+        <text encoding="base64">ICB0aXRsZTogJ0RpZXRlbycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwKKTsKCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMCIK</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBtaWRkbGV3YXJlID0gY3JlYXRlUmVhY3ROYXZpZ2F0aW9uUmVkdXhNaWRkbGV3YXJlKAogICdyb290JywKICBzdGF0ZSA9PiBzdGF0ZS5uYXYsCik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWF0ZXJpYWwtY2FyZHMiOiAiaHR0cHM6Ly9naXRodWIuY29tL1NpRGV2ZXNoL1JlYWN0LU5hdGl2ZS1NYXRlcmlhbC1DYXJkcyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
