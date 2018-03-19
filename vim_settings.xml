@@ -603,10 +603,10 @@
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/index.jsx" timestamp="1520454122313">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/navigation.js" timestamp="1521491352902">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/navigation.js" timestamp="1521492280284">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/bot.py" timestamp="1519861138836">
         <mark key="'" line="66" column="0" />
@@ -730,11 +730,11 @@
         <mark key="." line="41" column="33" />
         <mark key="^" line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/store/index.js" timestamp="1521491278395">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="31" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/store/index.js" timestamp="1521492238330">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/uwsgi.ini" timestamp="1518466533150">
         <mark key="'" line="0" column="0" />
@@ -3052,8 +3052,8 @@
         <mark key="]" line="73" column="62" />
         <mark key="." line="73" column="61" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/atoms/Toolbar.android.js" timestamp="1518472669825">
-        <mark key="[" line="27" column="1" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/atoms/Toolbar.android.js" timestamp="1521492340646">
+        <mark key="[" line="20" column="47" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="2" column="23" />
         <mark key="." line="5" column="0" />
@@ -3964,8 +3964,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3980,31 +3980,31 @@
         <text encoding="base64">PE5hdmlnYXRvcgogICAgICAgIG5hdmlnYXRpb249e2FkZE5hdmlnYXRpb25IZWxwZXJzKHsKICAgICAgICAgIGRpc3BhdGNoLAogICAgICAgICAgc3RhdGU6IG5hdiwKICAgICAgICAgIGFkZExpc3RlbmVyLAogICAgICAgIH0pfQogICAgICAvPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBtaWRkbGV3YXJlID0gY3JlYXRlUmVhY3ROYXZpZ2F0aW9uUmVkdXhNaWRkbGV3YXJlKAogICdyb290JywKICBzdGF0ZSA9PiBzdGF0ZS5uYXYsCik7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBtaWRkbGV3YXJlID0gY3JlYXRlUmVhY3ROYXZpZ2F0aW9uUmVkdXhNaWRkbGV3YXJlKAogICdyb290JywKICBzdGF0ZSA9PiBzdGF0ZS5uYXYsCik7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4uL25hdmlnYXRpb24nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwKKTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4uL25hdmlnYXRpb24nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwK</text>
+        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwKKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMCIK</text>
+        <text encoding="base64">Y29uc3QgbmF2aWdhdGlvbk1pZGRsZXdhcmUgPSBjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmUoCiAgJ3Jvb3QnLAogIHN0YXRlID0+IHN0YXRlLm5hdiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWF0ZXJpYWwtY2FyZHMiOiAiaHR0cHM6Ly9naXRodWIuY29tL1NpRGV2ZXNoL1JlYWN0LU5hdGl2ZS1NYXRlcmlhbC1DYXJkcyIsCg==</text>
+        <text encoding="base64">ICAgICJzdXBlcmFnZW50IjogIl4zLjguMCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdG9yIH0gZnJvbSAnLi9zcmMvbmF2aWdhdGlvbic7Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtbWF0ZXJpYWwtY2FyZHMiOiAiaHR0cHM6Ly9naXRodWIuY29tL1NpRGV2ZXNoL1JlYWN0LU5hdGl2ZS1NYXRlcmlhbC1DYXJkcyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
