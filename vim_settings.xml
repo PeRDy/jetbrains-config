@@ -830,7 +830,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520443646870">
+      <file name="/Dummy.txt" timestamp="1521290142978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1786,8 +1786,8 @@
         <mark key="^" line="28" column="67" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/pages/Login/Login.jsx" timestamp="1521286726046">
-        <mark key="[" line="9" column="12" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/pages/Login/Login.jsx" timestamp="1521290161110">
+        <mark key="[" line="10" column="22" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -2048,11 +2048,10 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/pages/Login/Login.scss" timestamp="1521286528254">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/pages/Login/Login.scss" timestamp="1521289558746">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/sagas/index.js" timestamp="1518471281436">
         <mark key="[" line="4" column="3" />
@@ -2310,11 +2309,12 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1521287434111">
-        <mark key="'" line="100" column="31" />
-        <mark key="[" line="85" column="18" />
-        <mark key="]" line="85" column="18" />
-        <mark key="." line="85" column="18" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" timestamp="1521290364415">
+        <mark key="'" line="115" column="31" />
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -2508,10 +2508,11 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1520444081825">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/CheckableTextInput.jsx" timestamp="1521289012121">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/uwsgi.ini" timestamp="1516659334234">
         <mark key="[" line="3" column="12" />
@@ -3956,55 +3957,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>size={4} offset={8}</text>
+        <text encoding="base64">IHRhYmxldFNpemU9ezh9IHRhYmxldE9mZnNldD17Mn0=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>size={4} offset={8}</text>
+        <text encoding="base64">IHRhYmxldFNpemU9ezh9IHRhYmxldE9mZnNldD17Mn0=</text>
       </register>
       <register name="/" type="4">
-        <text>Recipe</text>
+        <text>container</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gKCkgPT4gKHsKfSk7Cgo=</text>
+        <text encoding="base64">ICBsZWZ0OiA1MCU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb250YWluZXI6IHsKICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgdG9wOiAnNTAlJywKICAgIGxlZnQ6ICc1MCUnLAogICAgdHJhbnNmb3JtOiAndHJhbnNsYXRlKC01MCUsIC01MCUpJywKICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBjb250YWluZXI6IHsKICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgdG9wOiAnNTAlJywKICAgIGxlZnQ6ICc1MCUnLAogICAgdHJhbnNmb3JtOiAndHJhbnNsYXRlKC01MCUsIC01MCUpJywKICB9LA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ci5pbnB1dCB7CiAgd2lkdGg6IDQ1MHB4Owp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBDZWxsLCBHcmlkLCBMaW5lYXJQcm9ncmVzcywgUGFwZXIgfSBmcm9tICdyZWFjdC1tZCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17Y2xhc3Nlcy5hcHBGcmFtZX0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBnZXQgaXNWYWxpZCgpIHsKICAgIHJldHVybiB0aGlzLnByb3BzLmVycm9yID09PSBudWxsOwogIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdn0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9e2NsYXNzZXMuYXBwRnJhbWV9Pgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgcmVuZGVyVmFsaWQoKSB7CiAgICBjb25zdCB7IG5hbWUsIGNsYXNzZXMsIHZhbHVlLCBkb21Qcm9wcyB9ID0gdGhpcy5wcm9wczsKCiAgICByZXR1cm4gKAogICAgICA8Rm9ybUNvbnRyb2wgYXJpYS1kZXNjcmliZWRieT17dGhpcy5zbHVnfT4KICAgICAgICA8SW5wdXRMYWJlbCBodG1sRm9yPXt0aGlzLnNsdWd9PntuYW1lfTwvSW5wdXRMYWJlbD4KICAgICAgICA8SW5wdXQKICAgICAgICAgIGlkPXt0aGlzLnNsdWd9CiAgICAgICAgICB2YWx1ZT17dmFsdWV9CiAgICAgICAgICBvbkNoYW5nZT17dGhpcy5vblZhbHVlQ2hhbmdlfQogICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc2VzLnRleHRGaWVsZH0KICAgICAgICAgIHsuLi5kb21Qcm9wc30KICAgICAgICAvPgogICAgICA8L0Zvcm1Db250cm9sPgogICAgKTsKICB9CgogIHJlbmRlckVycm9yKCkgewogICAgY29uc3QgeyBuYW1lLCBjbGFzc2VzLCB2YWx1ZSwgZXJyb3IsIGRvbVByb3BzIH0gPSB0aGlzLnByb3BzOwoKICAgIHJldHVybiAoCiAgICAgIDxGb3JtQ29udHJvbCBlcnJvciBhcmlhLWRlc2NyaWJlZGJ5PXt0aGlzLnNsdWd9PgogICAgICAgIDxJbnB1dExhYmVsIGh0bWxGb3I9e3RoaXMuc2x1Z30+e25hbWV9PC9JbnB1dExhYmVsPgogICAgICAgIDxJbnB1dAogICAgICAgICAgaWQ9e3RoaXMuc2x1Z30KICAgICAgICAgIHZhbHVlPXt2YWx1ZX0KICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLm9uVmFsdWVDaGFuZ2V9CiAgICAgICAgICBjbGFzc05hbWU9e2NsYXNzZXMudGV4dEZpZWxkfQogICAgICAgICAgey4uLmRvbVByb3BzfQogICAgICAgIC8+CiAgICAgICAgPEZvcm1IZWxwZXJUZXh0IGlkPXtgJHt0aGlzLnNsdWd9LXRleHRgfT57ZXJyb3J9PC9Gb3JtSGVscGVyVGV4dD4KICAgICAgPC9Gb3JtQ29udHJvbD4KICAgICk7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Recipe</last-search>
+      <last-search>container</last-search>
       <last-offset />
-      <last-pattern>Recipe</last-pattern>
+      <last-pattern>container</last-pattern>
       <last-replace>Dish</last-replace>
       <last-substitute>Recipe</last-substitute>
       <last-dir>1</last-dir>
@@ -4012,7 +4013,6 @@
     </search>
     <history>
       <history-search>
-        <entry>telegram</entry>
         <entry>%%</entry>
         <entry>jinja2</entry>
         <entry>\[\(.*\)\]=</entry>
@@ -4032,6 +4032,7 @@
         <entry>pk</entry>
         <entry>recipe</entry>
         <entry>Recipe</entry>
+        <entry>container</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RyYXphYmlsaWRhZC97eyBjb29raWVjdXR0ZXIuYXBwX3NsdWcgfX0vZw==</entry>
