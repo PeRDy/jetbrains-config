@@ -86,6 +86,10 @@
         <mark key="." line="139" column="10" />
         <mark key="^" line="139" column="10" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-282313868/249573927/json/decoder.py" timestamp="1522104495223">
+        <mark key="[" line="333" column="21" />
+        <mark key="]" line="333" column="42" />
+      </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegram/make" timestamp="1516031126297">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -1396,6 +1400,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.prospector.yaml" timestamp="1522104566861">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="12" column="7" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/topic_by_channel.html" timestamp="1465661970282">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="56" column="13" />
@@ -1886,10 +1896,10 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/spiders/storj_nodes.py" timestamp="1522075204738">
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="73" column="60" />
-        <mark key="." line="38" column="13" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/spiders/storj_nodes.py" timestamp="1522104467149">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
         <mark key="^" line="38" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516674236372">
@@ -1989,8 +1999,8 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/pipelines/resolve_geolocation.py" timestamp="1522058154754">
-        <mark key="[" line="22" column="87" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/pipelines/resolve_geolocation.py" timestamp="1522104037495">
+        <mark key="[" line="29" column="35" />
         <mark key="]" line="22" column="16" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="22" column="16" />
@@ -2028,10 +2038,10 @@
         <mark key="^" line="103" column="40" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/make" timestamp="1522099514500">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="37" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/make" timestamp="1522103974971">
+        <mark key="[" line="69" column="7" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -2435,11 +2445,11 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1522102409892">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1522104875276">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="35" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="31" column="6" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/setup.py" timestamp="1453065841303">
         <mark key="[" line="78" column="45" />
@@ -2657,10 +2667,11 @@
         <mark key="]" line="18" column="41" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/utils.py" timestamp="1522078925228">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/utils.py" timestamp="1522104507460">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
@@ -3872,56 +3883,56 @@
       <jump line="30" column="13" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/spiders/test_storj_nodes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlX2luc3RhbGw6IAo=</text>
+      <register name="&quot;" type="4">
+        <text>before_script: &quot;./make build&quot;</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>pip install codecov</text>
+        <text>lint</text>
       </register>
       <register name="/" type="4">
-        <text>mark.core</text>
+        <text>no-self</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhZyA9IFsnLXQnLCBmJ3trd2FyZ3NbImltYWdlIl19L3trd2FyZ3NbInRhZyJdfSddCiAgICByZXR1cm4gc2hsZXguc3BsaXQoZidkb2NrZXIgYnVpbGQnKSArIHRhZyArIFsnLiddICsgbGlzdChhcmdzKQo=</text>
+      <register name="0" type="4">
+        <text>before_script: &quot;./make build&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlX2luc3RhbGw6IAo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlX3NjcmlwdDogIi4vbWFrZSBidWlsZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICIuL21ha2UgbGludCAtLXNvdXJjZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGJ1aWxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWZ0ZXJfc3VjY2VzczoKICAtIGNvZGVjb3YK</text>
+        <text encoding="base64">ICAtIGRvY3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIHBpcCBpbnN0YWxsIGNsaW5uZXIK</text>
+        <text encoding="base64">ICAtIC4qXC5mZWF0dXJlJAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHBpcCBpbnN0YWxsIGNvZGVjb3YK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXMgPSBbJy12JywgZid7b3MuZ2V0Y3dkKCl9OntBUFBfUEFUSH0nXSBpZiBrd2FyZ3NbJ3NvdXJjZSddIGVsc2UgW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlX2luc3RhbGw6CiAgICAgICAgLSBwaXAgaW5zdGFsbCBjb2RlY292CiAgICAgICAgLSBwaXAgaW5zdGFsbCBjbGlubmVyCg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlX2luc3RhbGw6IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmVmb3JlX2luc3RhbGw6CiAgLSBwaXAgaW5zdGFsbCBjb2RlY292CiAgLSBwaXAgaW5zdGFsbCBjbGlubmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWZ0ZXJfc3VjY2VzczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/mark.core/mark.unit/g</text>
       </register>
     </registers>
     <search>
-      <last-search>mark.core</last-search>
+      <last-search>no-self</last-search>
       <last-offset />
-      <last-pattern>mark.core</last-pattern>
+      <last-pattern>no-self</last-pattern>
       <last-replace>mark.unit</last-replace>
       <last-substitute>mark.core</last-substitute>
       <last-dir>1</last-dir>
@@ -3929,8 +3940,6 @@
     </search>
     <history>
       <history-search>
-        <entry>celery</entry>
-        <entry>scrapy</entry>
         <entry>client</entry>
         <entry>huerteo</entry>
         <entry>simple</entry>
@@ -3949,6 +3958,8 @@
         <entry>conf</entry>
         <entry>item</entry>
         <entry>mark.core</entry>
+        <entry>differ</entry>
+        <entry>no-self</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3VybC91c2VybmFtZS9n</entry>
