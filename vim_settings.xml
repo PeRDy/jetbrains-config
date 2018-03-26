@@ -1442,12 +1442,6 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.gitignore" timestamp="1522053656786">
-        <mark key="'" line="6" column="3" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="13" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/production.py" timestamp="1516118596277">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -2034,11 +2028,11 @@
         <mark key="^" line="103" column="40" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/make" timestamp="1520885207671">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/make" timestamp="1522081777874">
+        <mark key="[" line="37" column="68" />
+        <mark key="]" line="36" column="7" />
+        <mark key="^" line="36" column="7" />
+        <mark key="." line="36" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -2440,6 +2434,11 @@
         <mark key="]" line="12" column="9" />
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1522081857503">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/setup.py" timestamp="1453065841303">
         <mark key="[" line="78" column="45" />
@@ -3873,46 +3872,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, storj_node, storj_node_json):</text>
+        <text>docker build -t goobox/goobox-nodes-scraper:latest .</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, storj_node, storj_node_json):</text>
+        <text>docker build -t goobox/goobox-nodes-scraper:latest .</text>
       </register>
       <register name="/" type="4">
         <text>mark.core</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlY29kZShzZWxmLCBkZWNvZGVyLCBzdG9yal9ub2RlLCBzdG9yal9ub2RlX2pzb24pOgogICAgICAgIHJlc3VsdCA9IGRlY29kZXIuZGVjb2RlKCdbJyArIHN0b3JqX25vZGVfanNvbiArICddJykKICAgICAgICAKICAgICAgICBhc3NlcnQgcmVzdWx0ID09IHN0b3JqX25vZGUKICAgICAgICAK</text>
+      <register name="0" type="4">
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlNIRUxMLAogICAgICAgICBhcmdzPSgoKCctaScsICctLWltYWdlJyksIHsnaGVscCc6ICdEb2NrZXIgaW1hZ2UgbmFtZScsICdkZWZhdWx0JzogSU1BR0VfTkFNRX0pLAogICAgICAgICAgICAgICAoKCctdCcsICctLXRhZycpLCB7J2hlbHAnOiAnRG9ja2VyIHRhZycsICdkZWZhdWx0JzogJ2xhdGVzdCd9KSwpLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnJ30pCmRlZiBydW4oKmFyZ3MsICoqa3dhcmdzKSAtPiBMaXN0W0xpc3Rbc3RyXV06CiAgICBjbWQgPSBzaGxleC5zcGxpdChmJ2RvY2tlciBydW4ge2t3YXJnc1siaW1hZ2UiXX0ve2t3YXJnc1sidGFnIl19JykgKyBsaXN0KGFyZ3MpCiAgICByZXR1cm4gW2NtZF0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2xhc3MgTWFpbihCYXNlTWFpbik6CiAgICBjb21tYW5kcyA9ICgKICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHl0ZXN0LnB5dGVzdCcsCiAgICAgICAgJ2NsaW5uZXIucnVuLmNvbW1hbmRzLnByb3NwZWN0b3IucHJvc3BlY3RvcicsCiAgICAgICAgJ3NjcmFweScsCiAgICApCgogICAgZGVmIGFkZF9hcmd1bWVudHMoc2VsZiwgcGFyc2VyOiBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcik6CiAgICAgICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1jbGlubmVyLXNldHRpbmdzJywgZGVmYXVsdD0nZ29vYm94X25vZGVzX3NjcmFwZXIucGx1Z2luX3NldHRpbmdzLmNsaW5uZXI6RGV2ZWxvcG1lbnQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nQ2xpbm5lciBzZXR0aW5ncycpCiAgICAgICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1zY3JhcHktc2V0dGluZ3MnLCBkZWZhdWx0PSdnb29ib3hfbm9kZXNfc2NyYXBlci5zY3JhcHlfc2V0dGluZ3MuZGV2ZWxvcG1lbnQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nU2NyYXB5IHNldHRpbmdzJykKCiAgICBkZWYgaW5qZWN0X2FwcF9zZXR0aW5ncyhzZWxmKToKICAgICAgICAiIiIKICAgICAgICBJbmplY3Rpbmcgb3duIHNldHRpbmdzLgogICAgICAgICIiIgogICAgICAgIG9zLmVudmlyb25bJ1NDUkFQWV9TRVRUSU5HU19NT0RVTEUnXSA9IHNlbGYuYXJncy5zY3JhcHlfc2V0dGluZ3MKICAgICAgICBvcy5lbnZpcm9uWydDTElOTkVSX1NFVFRJTkdTJ10gPSBzZWxmLmFyZ3MuY2xpbm5lcl9zZXR0aW5ncwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgYXJncz0oKCgnLXQnLCAnLS10YWcnKSwgeydoZWxwJzogJ0RvY2tlciB0YWcnLCAnZGVmYXVsdCc6IGYne0lNQUdFX05BTUV9OmxhdGVzdCd9KSwpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">U0NSQVBZID0gJ3NjcmFweScK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICcibm9kZUlEIjoiNWQ5MzExZTI0N2UxOGJmYTY3YWY0NGY0YjY0NzIyZWE5MWE4YjQyNyJ9JyBcCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICd7Imxhc3RTZWVuIjoiMjAxOC0wMy0yNlQxNDo0NTo1Ny40NTBaIiwicG9ydCI6MzU5MjIsImFkZHJlc3MiOiI4NC4yLjUwLjc1IiwnIFwKICAgICcidXNlckFnZW50IjoiOC42LjAiLCJwcm90b2NvbCI6IjEuMi4wIiwic3BhY2VBdmFpbGFibGUiOnRydWUsJyBcCiAgICAnInJlc3BvbnNlVGltZSI6NDg0LjcyNTc0MDk0MjY0NjUsInJlcHV0YXRpb24iOjQ4OTYsJyBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnWycgXAogICAgICAgICAgICAgICAgICAgICAgICAneyJzcGFjZUF2YWlsYWJsZSI6dHJ1ZSwibGFzdFNlZW4iOiIyMDE4LTAzLTI2VDE0OjQ1OjU3LjQ1MVoiLCJwb3J0Ijo5MTY1LCcgXAogICAgICAgICAgICAgICAgICAgICAgICAnImFkZHJlc3MiOiI2Mi4yNTEuNzkuNTIiLCJwcm90b2NvbCI6IjEuMi4wIiwicmVzcG9uc2VUaW1lIjoxMTMyMi45NjAwNjUwMjE3NjQsJyBcCiAgICAgICAgICAgICAgICAgICAgICAgICcidXNlckFnZW50IjoiOC43LjIiLCJyZXB1dGF0aW9uIjoyNzg1LCJub2RlSUQiOiIwY2I0ZDhiOWQ5NDU5MjhiN2NiMTgwMTVhMDZjOWZlOWJiMzVmNGZkIn0sJyBcCiAgICAgICAgICAgICAgICAgICAgICAgICd7Imxhc3RTZWVuIjoiMjAxOC0wMy0yNlQxNDo0NTo1Ny40NTBaIiwicG9ydCI6MzU5MjIsImFkZHJlc3MiOiI4NC4yLjUwLjc1IiwnIFwKICAgICAgICAgICAgICAgICAgICAgICAgJyJ1c2VyQWdlbnQiOiI4LjYuMCIsInByb3RvY29sIjoiMS4yLjAiLCJzcGFjZUF2YWlsYWJsZSI6dHJ1ZSwnIFwKICAgICAgICAgICAgICAgICAgICAgICAgJyJyZXNwb25zZVRpbWUiOjQ4NC43MjU3NDA5NDI2NDY1LCJyZXB1dGF0aW9uIjo0ODk2LCcgXAogICAgICAgICAgICAgICAgICAgICAgICAnIm5vZGVJRCI6IjVkOTMxMWUyNDdlMThiZmE2N2FmNDRmNGI2NDcyMmVhOTFhOGI0MjcifScgXAogICAgICAgICAgICAgICAgICAgICAgICAnXScK</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbmV4dF9yZXF1ZXN0LnVybCA9PSBzcGlkZXIuYmFzZV91cmwgKyBmJz9wYWdlPXtzcGlkZXIuX3N0ZXAgKyAxfScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/mark.core/mark.unit/g</text>
