@@ -353,11 +353,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_stats.py" timestamp="1522007331272">
-        <mark key="[" line="57" column="88" />
-        <mark key="]" line="57" column="88" />
-        <mark key="." line="57" column="88" />
-        <mark key="^" line="57" column="88" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_stats.py" timestamp="1522069115914">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/requirements.txt" timestamp="1517325598310">
         <mark key="[" line="14" column="0" />
@@ -445,10 +445,10 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/test_spiders.py" timestamp="1522007092391">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/test_spiders.py" timestamp="1522069128889">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
@@ -791,6 +791,11 @@
         <mark key="]" line="13" column="46" />
         <mark key="^" line="13" column="46" />
         <mark key="." line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/test_items.py" timestamp="1522069124295">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/tasks.py" timestamp="1452301362170">
         <mark key="[" line="29" column="0" />
@@ -1285,6 +1290,9 @@
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/utils.py" timestamp="1522066918947">
+        <mark key="[" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero/templates/docker-compose.yml" timestamp="1516099121655">
         <mark key="[" line="18" column="22" />
@@ -1872,11 +1880,11 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" timestamp="1522057807451">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="98" column="44" />
-        <mark key="^" line="98" column="44" />
-        <mark key="." line="98" column="44" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" timestamp="1522069079575">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516674236372">
         <mark key="[" line="3" column="23" />
@@ -2153,10 +2161,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_required_fields.py" timestamp="1522054185758">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_required_fields.py" timestamp="1522068993087">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="54" column="19" />
+        <mark key="^" line="54" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.dockerignore" timestamp="1522053660375">
         <mark key="[" line="2" column="0" />
@@ -3714,30 +3724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/ducks/login.js" />
-      <jump line="63" column="72" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" />
-      <jump line="16" column="15" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Login.jsx" />
-      <jump line="38" column="16" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" />
-      <jump line="53" column="12" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/CheckableTextInput.jsx" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="79" column="46" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/molecules/login/Register.jsx" />
-      <jump line="42" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" />
-      <jump line="56" column="34" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" />
-      <jump line="32" column="2" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.config.js" />
-      <jump line="34" column="6" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.dev.js" />
-      <jump line="29" column="6" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.prod.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.config.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/sagas/login.js" />
-      <jump line="41" column="9" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/LoginUsername.jsx" />
-      <jump line="48" column="48" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/LoginUsername.jsx" />
-      <jump line="44" column="3" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
-      <jump line="19" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/ducks/login.js" />
-      <jump line="29" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
-      <jump line="33" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="107" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="106" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="31" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
@@ -3814,67 +3800,89 @@
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/.gitignore" />
       <jump line="6" column="3" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.gitignore" />
       <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="45" column="1" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="88" column="4" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="90" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="92" column="4" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="94" column="4" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="105" column="4" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="108" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="117" column="4" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="120" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="122" column="36" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="109" column="4" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="52" column="16" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="96" column="60" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" />
+      <jump line="15" column="20" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/test_items.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_required_fields.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>drop_address_not_found</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>drop_address_not_found</text>
+        <text>high</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>mark.core</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc2VkX2l0ZW0gPSBwaXBlbGluZS5wcm9jZXNzX2l0ZW0oaXRlbSwgc3BpZGVyKQoKICAgICAgICBhc3NlcnQgcHJvY2Vzc2VkX2l0ZW0gPT0gaXRlbQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgJ3RvX3Jlc29sdmVfZ2VvbG9jYXRpb24nIG5vdCBpbiBwcm9jZXNzZWRfaXRlbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXMK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlwZWxpbmUucHJvY2Vzc19pdGVtKGl0ZW0sIHNwaWRlcikK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBlbGluZS5yZXNvbHZlciA9IHJlc29sdmVyX21vY2sKICAgICAgICB3aXRoIHBhdGNoKCdjb3JlLnBpcGVsaW5lcy5yZXNvbHZlX2dlb2xvY2F0aW9uLnNvY2tldC5nZXRob3N0YnluYW1lJyksIHB5dGVzdC5yYWlzZXMoRHJvcEl0ZW0pOgo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5jb3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlcl9tb2NrID0gTW9jaygpCiAgICAgICAgcmVzb2x2ZXJfbW9jay5jaXR5LnNpZGVfZWZmZWN0ID0gQWRkcmVzc05vdEZvdW5kRXJyb3IK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5jb3JlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5jb3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5jb3JlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBAcHl0ZXN0Lm1hcmsuaGlnaAogICAgZGVmIHRlc3RfcHJvY2Vzc19pdGVtX29rKHNlbGYsIGl0ZW0sIHBpcGVsaW5lLCBzcGlkZXIpOgogICAgICAgIGl0ZW1bJ3RvX3Jlc29sdmVfZ2VvbG9jYXRpb24nXSA9ICdmb29iYXInCgogICAgICAgIHJlc29sdmVyX21vY2sgPSBNb2NrKCkKICAgICAgICByZXNvbHZlcl9tb2NrLmNvdW50cnkubmFtZSA9ICdmb28nCiAgICAgICAgcmVzb2x2ZXJfbW9jay5jaXR5Lm5hbWUgPSAnYmFyJwogICAgICAgIHJlc29sdmVyX21vY2subG9jYXRpb24ubGF0aXR1ZGUgPSAwLjAKICAgICAgICByZXNvbHZlcl9tb2NrLmxvY2F0aW9uLmxvbmdpdHVkZSA9IDEuMAoKICAgICAgICB3aXRoIHBhdGNoKCdjb3JlLnBpcGVsaW5lcy5yZXNvbHZlX2dlb2xvY2F0aW9uLnNvY2tldCcpOgogICAgICAgICAgICBwaXBlbGluZS5yZXNvbHZlciA9IE1vY2soKQogICAgICAgICAgICBwaXBlbGluZS5yZXNvbHZlci5jaXR5LnJldHVybl92YWx1ZSA9IHJlc29sdmVyX21vY2sKICAgICAgICAgICAgcHJvY2Vzc2VkX2l0ZW0gPSBwaXBlbGluZS5wcm9jZXNzX2l0ZW0oaXRlbSwgc3BpZGVyKQoKICAgICAgICBhc3NlcnQgcHJvY2Vzc2VkX2l0ZW1bJ2NvdW50cnknXSA9PSAnZm9vJwogICAgICAgIGFzc2VydCBwcm9jZXNzZWRfaXRlbVsnY2l0eSddID09ICdiYXInCiAgICAgICAgYXNzZXJ0IHByb2Nlc3NlZF9pdGVtWydsYXRpdHVkZSddID09IDAuMAogICAgICAgIGFzc2VydCBwcm9jZXNzZWRfaXRlbVsnbG9uZ2l0dWRlJ10gPT0gMS4wCiAgICAgICAgYXNzZXJ0ICd0b19yZXNvbHZlX2dlb2xvY2F0aW9uJyBub3QgaW4gcHJvY2Vzc2VkX2l0ZW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBlbGluZS5yZXNvbHZlci5jaXR5LnNpZGVfZWZmZWN0ID0gQWRkcmVzc05vdEZvdW5kRXJyb3IK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/mark.core/mark.unit/g</text>
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>mark.core</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
-      <last-replace>Dish</last-replace>
-      <last-substitute>Recipe</last-substitute>
+      <last-pattern>mark.core</last-pattern>
+      <last-replace>mark.unit</last-replace>
+      <last-substitute>mark.core</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jinja2</entry>
-        <entry>\[\(.*\)\]=</entry>
         <entry>celery</entry>
         <entry>scrapy</entry>
         <entry>client</entry>
@@ -3893,11 +3901,10 @@
         <entry>Recipe</entry>
         <entry>\(\w\+\):\(.\+\)</entry>
         <entry>conf</entry>
+        <entry>item</entry>
+        <entry>mark.core</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
-        <entry encoding="base64">JzwsJz5zLywgJ3JlY2lwZScvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3VybC9kYXRhYmFzZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3VybC91c2VybmFtZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFmL3RlbGVncmFtL2c=</entry>
@@ -3915,6 +3922,9 @@
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpOlwoLlwrXCkvJ1wxJzogJ1wyJyw=</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/mark.core/mark.fast/g</entry>
+        <entry encoding="base64">JzwsJz5zL2l0ZW0vcHJvY2Vzc2VkX2l0ZW0vZw==</entry>
+        <entry>%s/mark.core/mark.unit/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
