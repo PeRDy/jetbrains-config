@@ -1892,9 +1892,9 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/spiders/storj_nodes.py" timestamp="1522073179330">
-        <mark key="[" line="23" column="94" />
-        <mark key="]" line="25" column="97" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/spiders/storj_nodes.py" timestamp="1522075204738">
+        <mark key="[" line="73" column="30" />
+        <mark key="]" line="73" column="60" />
         <mark key="." line="38" column="13" />
         <mark key="^" line="38" column="12" />
       </file>
@@ -2845,11 +2845,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/spiders/test_storj_nodes.py" timestamp="1522073337463">
-        <mark key="[" line="31" column="59" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="32" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/spiders/test_storj_nodes.py" timestamp="1522075416976">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegram/setup.cfg.j2" timestamp="1519846634350">
         <mark key="[" line="1" column="28" />
@@ -3858,8 +3858,8 @@
       <jump line="37" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_required_fields.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>low</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53aXAK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3870,35 +3870,35 @@
       <register name="/" type="4">
         <text>mark.core</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5sb3cK</text>
+      <register name="0" type="4">
+        <text>f'?{urlencode({&quot;page&quot;: page})}'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcwo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53aXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X3NlZW5fZmlsdGVyID0gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkgLSBkYXRldGltZS50aW1lZGVsdGEoZGF5cz0xKQogICAgICAgIGxhc3Rfc2Vlbl9maWx0ZXIgPSBsYXN0X3NlZW5fZmlsdGVyLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTApCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKHJlc3VsdCkgPT0gc3BpZGVyLl9zdGVwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBwcmFnbWE6IG5vIGNvdmVyCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgOnBhcmFtIHJlc3BvbnNlOiBSZXNwb25zZS4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgCiAgICAiIiIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsYXN0X3NlZW5fZmlsdGVyID0gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkgLSBkYXRldGltZS50aW1lZGVsdGEoZGF5cz0xKQogICAgICAgIGxhc3Rfc2Vlbl9maWx0ZXIgPSBsYXN0X3NlZW5fZmlsdGVyLnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTApCiAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdFN0b3JqTm9kZURlY29kZQoK</text>
+        <text encoding="base64">IyBwcmFnbWE6IG5vIGNvdmVyCgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/mark.core/mark.unit/g</text>
