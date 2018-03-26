@@ -2845,11 +2845,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/spiders/test_storj_nodes.py" timestamp="1522076510732">
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="19" />
-        <mark key="^" line="54" column="19" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/spiders/test_storj_nodes.py" timestamp="1522077095347">
+        <mark key="[" line="62" column="64" />
+        <mark key="]" line="62" column="65" />
+        <mark key="." line="62" column="35" />
+        <mark key="^" line="62" column="34" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegram/setup.cfg.j2" timestamp="1519846634350">
         <mark key="[" line="1" column="28" />
@@ -3859,7 +3859,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wip</text>
+        <text>spider.base_url + f'?page={i}'</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3870,8 +3870,8 @@
       <register name="/" type="4">
         <text>mark.core</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53aXAK</text>
+      <register name="0" type="4">
+        <text>spider.base_url + f'?page={i}'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJyJyZXB1dGF0aW9uIjo4NiwidXNlckFnZW50IjoiOC43LjIiLCJub2RlSUQiOiJlMzI0YTk1ZDc5MzMwZDI3Nzg5M2FiMDVmOGE4YjJjNWFlYjI4OTY2In0nIFwK</text>
