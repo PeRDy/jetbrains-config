@@ -151,12 +151,12 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" timestamp="1522233029341">
-        <mark key="'" line="38" column="11" />
-        <mark key="[" line="80" column="28" />
-        <mark key="]" line="80" column="26" />
-        <mark key="." line="80" column="26" />
-        <mark key="^" line="80" column="26" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" timestamp="1522236931132">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="103" column="15" />
+        <mark key="]" line="103" column="33" />
+        <mark key="^" line="103" column="33" />
+        <mark key="." line="103" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
@@ -3859,9 +3859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="32" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
-      <jump line="70" column="40" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
-      <jump line="3256" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
       <jump line="3943" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
       <jump line="3944" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
       <jump line="3945" column="4" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/yarn.lock" />
@@ -3959,67 +3956,68 @@
       <jump line="19" column="0" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/run" />
       <jump line="38" column="11" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" />
       <jump line="54" column="36" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/base.py" />
+      <jump line="84" column="12" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" />
+      <jump line="74" column="40" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" />
+      <jump line="52" column="16" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>self.args.</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>settings</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uWydIRUFMVEhfQ0hFQ0tfU0VUVElOR1MnXSA9IGYncGVyZHlfc2l0ZS5wbHVnaW5fc2V0dGluZ3MuaGVhbHRoX2NoZWNrOntzZWxmLmFyZ3Muc2V0dGluZ3N9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC51cGRhdGVkICs9IDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgY2xzLkxPR0dJTkdbJ3Jvb3QnXVsnbGV2ZWwnXSA9ICdERUJVRycK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IHNlbGYuYXJncy5zZXR0aW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQubmV3LCByZXN1bHQudXBkYXRlZCA9IDAsIDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGRvdXQud3JpdGUoZid7fScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENMSU5ORVJfREVGQVVMVF9BUkdTID0gewogICAgICAgICdydW5zZXJ2ZXInOiAnMC4wLjAuMDo4MDAwJywKICAgICAgICAnc3RhcnQnOiAnLS1pbmkgdXdzZ2kuaW5pJywKICAgICAgICAndW5pdF90ZXN0cyc6ICctLW5vLWlucHV0JywKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgQ2hlY2sgcHJvdmlkZXJzIGZvciBoZWFsdGgtY2hlY2sK</text>
+        <text encoding="base64">CiMgICAgIGRlZiBzdGFydF9yZXF1ZXN0cyhzZWxmKToKIyAgICAgICAgIHJldHVybiBbc2VsZi5fYnVpbGRfcmVxdWVzdCgpXQojCiMgICAgIGRlZiBwYXJzZV9yZXBvc2l0b3JpZXMoc2VsZiwgcmVzcG9uc2UsIHBheWxvYWQ9Tm9uZSk6CiMgICAgICAgICBpZiBwYXlsb2FkIGlzIE5vbmU6CiMgICAgICAgICAgICAgcGF5bG9hZCA9IGpzb24ubG9hZHMocmVzcG9uc2UudGV4dClbJ2RhdGEnXQojCiMgICAgICAgICBmb3IgcmVwb3NpdG9yeSBpbiBwYXlsb2FkWyd1c2VyJ11bJ3JlcG9zaXRvcmllcyddWydlZGdlcyddOgojICAgICAgICAgICAgIGRhdGEgPSByZXBvc2l0b3J5Wydub2RlJ10KIyAgICAgICAgICAgICB5aWVsZCBSZXBvc2l0b3J5SXRlbSgKIyAgICAgICAgICAgICAgICAgbmFtZT1kYXRhWyduYW1lJ10sCiMgICAgICAgICAgICAgICAgIHVybD1kYXRhWyd1cmwnXSwKIyAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdD1kYXRhWydjcmVhdGVkQXQnXSwKIyAgICAgICAgICAgICAgICAgcHVzaGVkX2F0PWRhdGFbJ3B1c2hlZEF0J10sCiMgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPWRhdGFbJ2Rlc2NyaXB0aW9uJ10sCiMgICAgICAgICAgICAgICAgIGlzX2Zvcms9ZGF0YVsnaXNGb3JrJ10sCiMgICAgICAgICAgICAgICAgIGZvcmtzPWRhdGFbJ2ZvcmtzJ11bJ3RvdGFsQ291bnQnXSwKIyAgICAgICAgICAgICAgICAgc3RhcnM9ZGF0YVsnc3RhcmdhemVycyddWyd0b3RhbENvdW50J10KIyAgICAgICAgICAgICApCiMKIyAgICAgICAgIGlmIHBheWxvYWRbJ3VzZXInXVsncmVwb3NpdG9yaWVzJ11bJ3BhZ2VJbmZvJ11bJ2hhc05leHRQYWdlJ106CiMgICAgICAgICAgICAgeWllbGQgc2VsZi5fYnVpbGRfcmVxdWVzdChjYWxsYmFjaz1zZWxmLnBhcnNlX3JlcG9zaXRvcmllcywKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnNvcj1wYXlsb2FkWyd1c2VyJ11bJ3JlcG9zaXRvcmllcyddWydwYWdlSW5mbyddWydlbmRDdXJzb3InXSkKIwojICAgICBkZWYgcGFyc2Uoc2VsZiwgcmVzcG9uc2UpOgojICAgICAgICAgcGF5bG9hZCA9IGpzb24ubG9hZHMocmVzcG9uc2UudGV4dClbJ2RhdGEnXQojCiMgICAgICAgICB5aWVsZCBVc2VySXRlbSgqKntrOiB2IGZvciBrLCB2IGluIHBheWxvYWRbJ3VzZXInXS5pdGVtcygpIGlmIGsgaW4gKCduYW1lJywgJ2xvZ2luJywgJ2VtYWlsJywgJ2NvbXBhbnknKX0pCiMKIyAgICAgICAgIHlpZWxkIGZyb20gc2VsZi5wYXJzZV9yZXBvc2l0b3JpZXMocmVzcG9uc2UsIHBheWxvYWQ9cGF5bG9hZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGNyZWF0ZWQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQ2hlY2sgcHJvdmlkZXJzIGZvciBoZWFsdGgtY2hlY2sKICAgIEhFQUxUSF9DSEVDS19QUk9WSURFUlMgPSB7CiAgICAgICAgJ2hlYWx0aCc6ICgKICAgICAgICAgICAgKCdwaW5nJywgJ2hlYWx0aF9jaGVjay5wcm92aWRlcnMuaGVhbHRoLnBpbmcnLCBOb25lLCBOb25lKSwKICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uaGVhbHRoLmRhdGFiYXNlcycsIE5vbmUsIE5vbmUpLAogICAgICAgICksCiAgICAgICAgJ3N0YXRzJzogKAogICAgICAgICAgICAoJ2RhdGFiYXNlcycsICdoZWFsdGhfY2hlY2sucHJvdmlkZXJzLmRqYW5nby5zdGF0cy5kYXRhYmFzZXMnLCBOb25lLCBOb25lKSwKICAgICAgICAgICAgKCdjb2RlJywgJ2hlYWx0aF9jaGVjay5wcm92aWRlcnMuc3RhdHMuY29kZScsIE5vbmUsIE5vbmUpLAogICAgICAgICkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zLywvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>settings</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>settings</last-pattern>
-      <last-replace>mark.unit</last-replace>
-      <last-substitute>mark.core</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace />
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>huerteo</entry>
-        <entry>simple</entry>
         <entry>numpy</entry>
         <entry>logger</entry>
         <entry>request</entry>
@@ -4038,10 +4036,10 @@
         <entry>differ</entry>
         <entry>no-self</entry>
         <entry>settings</entry>
+        <entry>\(\w\+\)=</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3VybC91c2VybmFtZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL3VybC9wYXNzd29yZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFmL3RlbGVncmFtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
@@ -4060,6 +4058,8 @@
         <entry>%s/mark.core/mark.unit/g</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS9yZXBvc2l0b3J5LlwxPS9n</entry>
+        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
