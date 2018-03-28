@@ -86,10 +86,6 @@
         <mark key="." line="139" column="10" />
         <mark key="^" line="139" column="10" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-282313868/249573927/json/decoder.py" timestamp="1522104495223">
-        <mark key="[" line="333" column="21" />
-        <mark key="]" line="333" column="42" />
-      </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegram/make" timestamp="1516031126297">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -150,9 +146,9 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" timestamp="1522225202377">
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="24" column="8" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" timestamp="1522230462640">
+        <mark key="[" line="44" column="117" />
+        <mark key="]" line="39" column="69" />
         <mark key="." line="24" column="8" />
         <mark key="^" line="24" column="8" />
       </file>
@@ -380,7 +376,7 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1517348024100">
+      <file name="/GraphQL.result.json" timestamp="1522229085629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/pages/Login.jsx" timestamp="1517344559836">
@@ -797,7 +793,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520443646870">
+      <file name="/Dummy.txt" timestamp="1522228011643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1254,6 +1250,12 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/linkedin/models.py" timestamp="1522228067302">
+        <mark key="[" line="33" column="94" />
+        <mark key="]" line="33" column="120" />
+        <mark key="^" line="138" column="114" />
+        <mark key="." line="33" column="94" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/make" timestamp="1519990878248">
         <mark key="[" line="70" column="55" />
         <mark key="]" line="70" column="55" />
@@ -1436,6 +1438,12 @@
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/graphql.config.json" timestamp="1522230384959">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/permissions.py" timestamp="1452552179145">
         <mark key="[" line="35" column="12" />
         <mark key="]" line="39" column="12" />
@@ -1486,6 +1494,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/linkedin/schema.py" timestamp="1522228590623">
+        <mark key="[" line="96" column="11" />
+        <mark key="]" line="96" column="11" />
+        <mark key="." line="96" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/dieteo_api/settings/tests.py" timestamp="1518466190256">
         <mark key="[" line="4" column="5" />
@@ -1636,6 +1649,11 @@
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/.env" timestamp="1518465671331">
         <mark key="[" line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/schema.py" timestamp="1522228573255">
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/piksel/contentkb/contentkb-api/contentkb_api/settings/base.py" timestamp="1518778082807">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -1707,6 +1725,9 @@
         <mark key="]" line="9" column="31" />
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/models.py" timestamp="1522227971632">
+        <mark key="[" line="24" column="88" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy_site/settings/base.py" timestamp="1517261703882">
         <mark key="[" line="180" column="0" />
@@ -1960,6 +1981,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/.env" timestamp="1522229665472">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="58" />
+      </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/Dockerfile" timestamp="1515153352044">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="42" />
@@ -2183,6 +2208,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1522229085638">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
         <mark key="[" line="46" column="20" />
@@ -2685,8 +2713,8 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/Dockerfile" timestamp="1522226176178">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/Dockerfile" timestamp="1522227372611">
+        <mark key="[" line="9" column="58" />
         <mark key="]" line="13" column="143" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="26" />
@@ -2821,6 +2849,9 @@
         <mark key="]" line="9" column="44" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="44" />
+      </file>
+      <file name="perdy-site-api.graphqls" timestamp="1522229878817">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511908134776">
         <mark key="[" line="23" column="63" />
@@ -2967,6 +2998,12 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/core/urls.py" timestamp="1522228681177">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/exceptions.py" timestamp="1516630436510">
         <mark key="[" line="52" column="20" />
@@ -3141,16 +3178,24 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="14" column="57" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/run" timestamp="1522227928256">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="88" column="54" />
+        <mark key="." line="88" column="54" />
+        <mark key="^" line="88" column="54" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/requirements_base.txt" timestamp="1487273343700">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/perdy_site/urls.py" timestamp="1517356139039">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/perdy_site/urls.py" timestamp="1522228646650">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="15" column="50" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/sass.js" timestamp="1489336231361">
         <mark key="[" line="0" column="0" />
@@ -3301,6 +3346,11 @@
         <mark key="]" line="12" column="1" />
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/constraints.txt" timestamp="1522227680123">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/default.babel.js" timestamp="1498425921514">
         <mark key="[" line="9" column="26" />
@@ -3781,7 +3831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="31" column="0" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
       <jump line="34" column="36" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/AppBar.jsx" />
       <jump line="103" column="32" filename="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/molecules/Login.jsx" />
@@ -3881,52 +3930,53 @@
       <jump line="15" column="20" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/test_items.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_required_fields.py" />
       <jump line="30" column="13" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/spiders/test_storj_nodes.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/run" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53aXAK</text>
+        <text encoding="base64">ICAiUkVBRE1FX2VuZHBvaW50cyI6ICJBIGxpc3Qgb2YgR3JhcGhRTCBlbmRwb2ludHMgdGhhdCBjYW4gYmUgcXVlcmllZCBmcm9tICcuZ3JhcGhxbCcgZmlsZXMgaW4gdGhlIElERSIsCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVxdWlyZW1lbnRzX3Rlc3QudHh0IA==</text>
+        <text>http://localhost:8080/graphql</text>
       </register>
       <register name="/" type="4">
         <text>no-self</text>
       </register>
-      <register name="0" type="4">
-        <text>'%Y-%m-%dT%H:%M:%S.%fZ'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICJBdXRob3JpemF0aW9uIiA6ICJiZWFyZXIgOTRiNDA3Y2RiYjg1NzJjMzU0NDQyNzdkZjcyZWRkM2M5YTJmNWFmOSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53aXAK</text>
+        <text encoding="base64">ICAiUkVBRE1FX2VuZHBvaW50cyI6ICJBIGxpc3Qgb2YgR3JhcGhRTCBlbmRwb2ludHMgdGhhdCBjYW4gYmUgcXVlcmllZCBmcm9tICcuZ3JhcGhxbCcgZmlsZXMgaW4gdGhlIElERSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53aXAK</text>
+        <text encoding="base64">ICAgICAgICAgICJ1c2VyLWFnZW50IiA6ICJKUyBHcmFwaFFMIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QubWFyay53aXAK</text>
+        <text encoding="base64">ICAgICAgICAgIHsnQXV0aG9yaXphdGlvbic6IGYnYmVhcmVyIHtzZXR0aW5ncy5HSVRIVUJfVE9LRU59J30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWJhc2UgbGlieHNsdC1kZXYgbGlieG1sMi1kZXYgbGliZmZpLWRldiBqcGVnLWRldiB0aWZmLWRldiBsaWJwbmctZGV2IHpsaWItZGV2IG9wZW5zc2wtZGV2IHBvc3RncmVzcWwtZGV2IGxpbnV4LWhlYWRlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHNfdGVzdC50eHQgLWMgY29uc3RyYWludHMudHh0ICYmIFwK</text>
+        <text encoding="base64">ICAgICJSRUFETUVfcmVxdWVzdCIgOiAiVG8gcmVxdWVzdCB0aGUgc2NoZW1hIGZyb20gYSB1cmwgaW5zdGVhZCwgcmVtb3ZlIHRoZSAnZmlsZScgSlNPTiBwcm9wZXJ0eSBhYm92ZSAoYW5kIG9wdGlvbmFsbHkgZGVsZXRlIHRoZSBkZWZhdWx0IGdyYXBocWwuc2NoZW1hLmpzb24gZmlsZSkuIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHBpcCByZXF1aXJlbWVudHMKQ09QWSByZXF1aXJlbWVudHMudHh0IGNvbnN0cmFpbnRzLnR4dCAkV09SS0RJUi8KUlVOIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBybSAtcmYgJEhPTUUvLmNhY2hlL3BpcC8qCg==</text>
+        <text encoding="base64">ICAgICAgIlJFQURNRV9wb3N0SW50cm9zcGVjdGlvblF1ZXJ5IiA6ICJXaGV0aGVyIHRvIFBPU1QgYW4gaW50cm9zcGVjdGlvblF1ZXJ5IHRvIHRoZSB1cmwuIElmIHRoZSB1cmwgYWx3YXlzIHJldHVybnMgdGhlIHNjaGVtYSBKU09OLCBzZXQgdG8gZmFsc2UgYW5kIGNvbnNpZGVyIHVzaW5nIEdFVCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuanBlZy1kZXYgXAogICAgICAgIHRpZmYtZGV2IFwKICAgICAgICB0ay1kZXYgXAogICAgICAgIHRjbC1kZXYgXAogICAgICAgIGhhcmZidXp6LWRldiBcCiAgICAgICAgZnJpYmlkaS1kZXYgJiYgXAogICAgcm0gLXJmIC92YXIvY2FjaGUvYXBrLyoKCg==</text>
+        <text encoding="base64">ICAgICAgIlJFQURNRV9vcHRpb25zIiA6ICJTZWUgdGhlICdPcHRpb25zJyBzZWN0aW9uIGF0IGh0dHBzOi8vZ2l0aHViLmNvbS90aGVuL3RoZW4tcmVxdWVzdCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnaXQgXAogICAgICAgIGJ1aWxkLWJhc2UgXAogICAgICAgIGxpbnV4LWhlYWRlcnMgXAogICAgICAgIHB5dGhvbjMtZGV2IFwKICAgICAgICBwb3N0Z3Jlc3FsLWRldiBcCiAgICAgICAganBlZy1kZXYgXAogICAgICAgIHpsaWItZGV2IFwKICAgICAgICBmcmVldHlwZS1kZXYgXAogICAgICAgIGxjbXMyLWRldiBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHN5c3RlbSBkZXBlbmRlbmNpZXMKUlVOIGFwayAtLW5vLWNhY2hlIGFkZCBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3977,11 +4027,11 @@
         <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpOlwoLlwrXCkvJ1wxJzogJ1wyJyw=</entry>
-        <entry>w</entry>
         <entry>%s/mark.core/mark.fast/g</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW0vcHJvY2Vzc2VkX2l0ZW0vZw==</entry>
         <entry>%s/mark.core/mark.unit/g</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
