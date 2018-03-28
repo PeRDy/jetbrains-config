@@ -805,7 +805,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522228011643">
+      <file name="/Dummy.txt" timestamp="1522249876683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1512,6 +1512,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/linkedin/schema.py" timestamp="1522249357576">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/dieteo_api/settings/tests.py" timestamp="1518466190256">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="9" />
@@ -1991,10 +1997,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/.env" timestamp="1522229665472">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/Dockerfile" timestamp="1515153352044">
         <mark key="[" line="0" column="12" />
@@ -2741,11 +2743,11 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/Dockerfile" timestamp="1522227372611">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="13" column="143" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="26" />
+      <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/Dockerfile" timestamp="1522249158603">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/requirements-tests.txt" timestamp="1513874849419">
         <mark key="[" line="0" column="0" />
@@ -3960,35 +3962,35 @@
       <jump line="52" column="16" filename="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/github/management/commands/fetch_github.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uc3RhdHMuZGF0YWJhc2VzJywgTm9uZSwgTm9uZSksCiAgICAgICAgICAgICgnY29kZScsICdoZWFsdGhfY2hlY2sucHJvdmlkZXJzLnN0YXRzLmNvZGUnLCBOb25lLCBOb25lKSwK</text>
+      <register name="&quot;" type="4">
+        <text>, info, **kwargs</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC51cGRhdGVkICs9IDEK</text>
+      <register name="0" type="4">
+        <text>, info, **kwargs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uc3RhdHMuZGF0YWJhc2VzJywgTm9uZSwgTm9uZSksCiAgICAgICAgICAgICgnY29kZScsICdoZWFsdGhfY2hlY2sucHJvdmlkZXJzLnN0YXRzLmNvZGUnLCBOb25lLCBOb25lKSwK</text>
+        <text encoding="base64">IyBDb3B5IGFwcGxpY2F0aW9uCkNPUFkgLiAvc3J2L2FwcHMvJEFQUC8KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uc3RhdHMuZGF0YWJhc2VzJywgTm9uZSwgTm9uZSksCiAgICAgICAgICAgICgnY29kZScsICdoZWFsdGhfY2hlY2sucHJvdmlkZXJzLnN0YXRzLmNvZGUnLCBOb25lLCBOb25lKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgY2xzLkhFQUxUSF9DSEVDS19QUk9WSURFUlNbJ3N0YXRzJ10gPSAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5taWRkbGV3YXJlLlNlc3Npb25BdXRoZW50aWNkZGF0aW9uTWlkZGxld2FyZScsCg==</text>
+        <text encoding="base64">CiAgICAgICAgY2xzLkhFQUxUSF9DSEVDS19QUk9WSURFUlNbJ3N0YXRzJ10gPSAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
+        <text encoding="base64">ICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5taWRkbGV3YXJlLlNlc3Npb25BdXRoZW50aWNkZGF0aW9uTWlkZGxld2FyZScsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
@@ -3997,13 +3999,13 @@
         <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQubmV3LCByZXN1bHQudXBkYXRlZCA9IDAsIDAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGRvdXQud3JpdGUoZid7fScpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQubmV3LCByZXN1bHQudXBkYXRlZCA9IDAsIDAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLywvL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4055,10 +4057,10 @@
         <entry>%s/mark.core/mark.fast/g</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW0vcHJvY2Vzc2VkX2l0ZW0vZw==</entry>
         <entry>%s/mark.core/mark.unit/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS9yZXBvc2l0b3J5LlwxPS9n</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
