@@ -91,6 +91,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/requirements_tests.txt" timestamp="1522406833164">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="11" />
@@ -1577,6 +1582,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/make" timestamp="1522407211029">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_base.scss" timestamp="1490228166230">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="2" column="0" />
@@ -2596,6 +2606,11 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="32" column="7" />
         <mark key="." line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/requirements.txt" timestamp="1522406840952">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news_challenge/settings/development.py" timestamp="1465336625613">
         <mark key="[" line="24" column="25" />
@@ -3840,6 +3855,12 @@
       <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/requirements.txt" timestamp="1518782878175">
         <mark key="[" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/Dockerfile" timestamp="1522406914520">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="24" column="61" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-django-project/{{cookiecutter.project_slug}}/core/templates/core/base/base.html" timestamp="1493151645502">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="66" column="0" />
@@ -3963,7 +3984,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, info, **kwargs</text>
+        <text encoding="base64">CnRyeToKICAgIGZyb20gY2xpbm5lci5jb21tYW5kIGltcG9ydCBjb21tYW5kLCBUeXBlIGFzIENvbW1hbmRUeXBlCiAgICBmcm9tIGNsaW5uZXIucnVuIGltcG9ydCBNYWluCmV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgIGltcG9ydCBpbXAKICAgIGltcG9ydCBwaXAKICAgIGltcG9ydCBzaXRlCgogICAgcHJpbnQoJ0luc3RhbGxpbmcgQ2xpbm5lcicpCiAgICBwaXAubWFpbihbJ2luc3RhbGwnLCAnLS11c2VyJywgJy1xcScsICdjbGlubmVyJ10pCgogICAgaW1wLnJlbG9hZChzaXRlKQoKICAgIGZyb20gY2xpbm5lci5jb21tYW5kIGltcG9ydCBjb21tYW5kLCBUeXBlIGFzIENvbW1hbmRUeXBlCiAgICBmcm9tIGNsaW5uZXIucnVuIGltcG9ydCBNYWluCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3974,35 +3995,35 @@
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>, info, **kwargs</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBDb3B5IGFwcGxpY2F0aW9uCkNPUFkgLiAvc3J2L2FwcHMvJEFQUC8KCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnRyeToKICAgIGZyb20gY2xpbm5lci5jb21tYW5kIGltcG9ydCBjb21tYW5kLCBUeXBlIGFzIENvbW1hbmRUeXBlCiAgICBmcm9tIGNsaW5uZXIucnVuIGltcG9ydCBNYWluCmV4Y2VwdCBJbXBvcnRFcnJvcjoKICAgIGltcG9ydCBpbXAKICAgIGltcG9ydCBwaXAKICAgIGltcG9ydCBzaXRlCgogICAgcHJpbnQoJ0luc3RhbGxpbmcgQ2xpbm5lcicpCiAgICBwaXAubWFpbihbJ2luc3RhbGwnLCAnLS11c2VyJywgJy1xcScsICdjbGlubmVyJ10pCgogICAgaW1wLnJlbG9hZChzaXRlKQoKICAgIGZyb20gY2xpbm5lci5jb21tYW5kIGltcG9ydCBjb21tYW5kLCBUeXBlIGFzIENvbW1hbmRUeXBlCiAgICBmcm9tIGNsaW5uZXIucnVuIGltcG9ydCBNYWluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uc3RhdHMuZGF0YWJhc2VzJywgTm9uZSwgTm9uZSksCiAgICAgICAgICAgICgnY29kZScsICdoZWFsdGhfY2hlY2sucHJvdmlkZXJzLnN0YXRzLmNvZGUnLCBOb25lLCBOb25lKSwK</text>
+        <text encoding="base64">Q01EICJzdGFydCIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgY2xzLkhFQUxUSF9DSEVDS19QUk9WSURFUlNbJ3N0YXRzJ10gPSAoKQo=</text>
+        <text encoding="base64">IyMgU3lzdGVtIGRlcGVuZGVuY2llcyBhbmQgdXRpbGl0aWVzCmNsaW5uZXIKaGVhbHRoX2NoZWNrClBpbGxvdwpwc3ljb3BnMgoKIyMgRGphbmdvCkRqYW5nbwpkamFuZ28tY29uZmlndXJhdGlvbnMKZGphbmdvLWV4dGVuc2lvbnMKZGphbmdvLXJlZGlzLWNhY2hlCmRqYW5nby1jbGVhbnVwCmRqYW5nby1maWx0ZXIKCiMjIERqYW5nbyBmaWVsZHMKZGphbmdvLWltYWdla2l0CmRqYW5nby1tYXJrZG93bngKCiMjIEZyb250ZW5kCndoaXRlbm9pc2UKCiMjIFJFU1QgZnJhbWV3b3JrCmRqYW5nb3Jlc3RmcmFtZXdvcmsKbWFya2Rvd24KCiMjIEdyYXBoUUwKZ3JhcGhlbmVfZGphbmdvCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnZGphbmdvLmNvbnRyaWIuYXV0aC5taWRkbGV3YXJlLlNlc3Npb25BdXRoZW50aWNkZGF0aW9uTWlkZGxld2FyZScsCg==</text>
+        <text encoding="base64">IyMgVGVzdHMKY292ZXJhZ2UKbWl4ZXIKCiMjIElQeXRob24KaXBkYgppcHl0aG9uCgojIyBTdGF0aWMgQW5hbHlzaXMKcHJvc3BlY3RvcgoKIyMgRGphbmdvIHBhcmFsbGVsIHRlc3RzCnRibGliCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
+        <text encoding="base64">IyBDb3B5IGFwcGxpY2F0aW9uCkNPUFkgLiAvc3J2L2FwcHMvJEFQUC8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCdkYXRhYmFzZXMnLCAnaGVhbHRoX2NoZWNrLnByb3ZpZGVycy5kamFuZ28uc3RhdHMuZGF0YWJhc2VzJywgTm9uZSwgTm9uZSksCiAgICAgICAgICAgICgnY29kZScsICdoZWFsdGhfY2hlY2sucHJvdmlkZXJzLnN0YXRzLmNvZGUnLCBOb25lLCBOb25lKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoMCwgMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQubmV3LCByZXN1bHQudXBkYXRlZCA9IDAsIDAK</text>
+        <text encoding="base64">CiAgICAgICAgY2xzLkhFQUxUSF9DSEVDS19QUk9WSURFUlNbJ3N0YXRzJ10gPSAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
