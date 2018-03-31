@@ -3896,9 +3896,9 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/.gitlab-ci.yml" timestamp="1522501332246">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="67" />
+      <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/.gitlab-ci.yml" timestamp="1522513143134">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="31" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/Dockerfile" timestamp="1516113284217">
@@ -4038,7 +4038,24 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>docker login ...</text>
+        <text>image: docker:latest
+
+services:
+    - docker:dind
+
+variables:
+    IMAGE_TAG: $CI_REGISTRY_IMAGE:latest
+
+before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+
+build:
+    stage: build
+    only:
+        - master
+    script:
+        - docker build --no-cache -t $IMAGE_TAG --build-arg REGISTRY_TOKEN=$CI_JOB_TOKEN --build-arg REGISTRY=$CI_REGISTRY .
+        - docker push $IMAGE_TAG</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
