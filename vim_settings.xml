@@ -3887,6 +3887,11 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/.gitlab-ci.yml" timestamp="1522499917802">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/Dockerfile" timestamp="1516113284217">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="37" />
@@ -4024,7 +4029,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CjpUZWFtOiBTb3VmdAo=</text>
+        <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4039,31 +4044,31 @@
         <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBSZWNpcGUKICAgICAgICBmaWx0ZXJfZmllbGRzID0gewogICAgICAgICAgICAndGl0bGUnOiBbJ2V4YWN0JywgJ2NvbnRhaW5zJywgJ2lleGFjdCcsICdpY29udGFpbnMnXSwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogWydjb250YWlucyddLAogICAgICAgICAgICAnc2VydmluZ3MnOiBbJ2V4YWN0JywgJ2d0JywgJ2x0JywgJ2d0ZScsICdsdGUnXSwKICAgICAgICAgICAgJ3ByZXBhcmF0aW9uX3RpbWUnOiBbJ2V4YWN0JywgJ2d0JywgJ2x0JywgJ2d0ZScsICdsdGUnXSwKICAgICAgICAgICAgJ2RpcmVjdGlvbnMnOiBbJ2NvbnRhaW5zJ10sCiAgICAgICAgICAgICdsYW5ndWFnZSc6IFsnZXhhY3QnXSwKICAgICAgICAgICAgJ3ZlcmlmaWVkJzogWydleGFjdCddLAogICAgICAgICAgICAnY2F0ZWdvcmllc19fbmFtZSc6IFsnY29udGFpbnMnXSwKICAgICAgICB9CiAgICAgICAgaW50ZXJmYWNlcyA9IChyZWxheS5Ob2RlLCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CjpUZWFtOiBTb3VmdAo=</text>
+        <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcmlmaWVkJzogWydleGFjdCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RpcmVjdGlvbnMnOiBbJ2NvbnRhaW5zJ10sCg==</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgLVUgImRvY2tlcjwzLjAiIGRvY2tlci1zcXVhc2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcmlmaWVkJzogWydleGFjdCddLAo=</text>
+        <text encoding="base64">ICAgIC0gYXBrIHVwZGF0ZSAmJiBhcGsgYWRkIHB5LXBpcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CjpUZWFtOiBTb3VmdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcmlmaWVkJzogWydleGFjdCddLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiMgY2xhc3MgUmFuZG9tUmVjaXBlKERqYW5nb09iamVjdFR5cGUpOgojICAgICBzYW1wbGUgPSBncmFwaGVuZS5JbnQoKQojCiMgICAgIGNsYXNzIE1ldGE6CiMgICAgICAgICBtb2RlbCA9IFJlY2lwZQojICAgICAgICAgZmlsdGVyX2ZpZWxkcyA9IHsKIyAgICAgICAgICAgICAnY2F0ZWdvcnlfX25hbWUnOiBbJ2V4YWN0J10sCiMgICAgICAgICB9CiMgICAgICAgICBpbnRlcmZhY2VzID0gKHJlbGF5Lk5vZGUsKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2RpcmVjdGlvbnMnOiBbJ2NvbnRhaW5zJ10sCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/title/name/g</text>
