@@ -1005,6 +1005,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/stalkeo/stalkeo-app/src/admobs.js" timestamp="1522521626918">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1517223119863">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="38" />
@@ -2663,6 +2669,11 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/ducks/random-recipe.js" timestamp="1522442981561">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="68" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/urls.py" timestamp="1465564024967">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="17" />
@@ -2774,6 +2785,9 @@
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/ducks/user.js" timestamp="1522439457940">
+        <mark key="[" line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/make" timestamp="1513875593993">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="41" />
@@ -2867,6 +2881,12 @@
         <mark key="]" line="98" column="7" />
         <mark key="^" line="98" column="7" />
         <mark key="." line="98" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/ducks/recipes.js" timestamp="1522442489570">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/run" timestamp="1517225524823">
         <mark key="[" line="0" column="22" />
@@ -3185,6 +3205,12 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/requirements_test.txt" timestamp="1522007501801">
         <mark key="[" line="3" column="12" />
@@ -3684,12 +3710,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/App.js" timestamp="1516129751639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -4044,13 +4064,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>$IMAGE_TAG</text>
+        <text>'ca-app-pub-3831892007791024/3977291814',</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -4059,31 +4079,31 @@
         <text>docker login -u gitlab-ci-token -p $CI_JOB_TOOKEN $CI_REGISTRY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFmdGVyX3N1Y2Nlc3M6Cg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gZG9ja2VyIGxvZ2luIC11IGdpdGxhYi1jaS10b2tlbiAtcCAkQ0lfSk9CX1RPS0VOICRDSV9SRUdJU1RSWQoK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIGludGVyc3RpdGlhbDogX19ERVZfXwogICAgPyAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0LzEwMzMxNzM3MTInCiAgICA6ICdjYS1hcHAtcHViLTM4MzE4OTIwMDc3OTEwMjQvNTM0NzQ2NjgxMScsCiAgcmV3YXJkZWQ6IF9fREVWX18KICAgID8gKFBsYXRmb3JtLk9TID09PSAnYW5kcm9pZCcKICAgICAgPyAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0LzUyMjQzNTQ5MTcnCiAgICAgIDogJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NC8xNzEyNDg1MzEzJykKICAgIDogJ2NhLWFwcC1wdWItMzgzMTg5MjAwNzc5MTAyNC8zOTc3MjkxODE0JywKfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gZG9ja2VyIGxvZ2luIC11IGdpdGxhYi1jaS10b2tlbiAtcCAkQ0lfSk9CX1RPS0VOICRDSV9SRUdJU1RSWQo=</text>
+        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
+        <text encoding="base64">ICAgIGFmdGVyX3N1Y2Nlc3M6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -4119,7 +4139,7 @@
         <entry>,</entry>
         <entry>url(</entry>
         <entry>content</entry>
-        <entry>title</entry>
+        <entry>SET</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
@@ -4138,10 +4158,10 @@
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS9yZXBvc2l0b3J5LlwxPS9n</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>w</entry>
+        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>q</entry>
-        <entry>%s/title/name/g</entry>
-        <entry>wq</entry>
+        <entry>s/SET/ADD/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
