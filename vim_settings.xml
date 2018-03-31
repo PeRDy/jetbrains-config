@@ -1583,8 +1583,11 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/Dockerfile" timestamp="1522497634846">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/Dockerfile" timestamp="1522500997431">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/miner.py" timestamp="1519379598812">
         <mark key="[" line="71" column="28" />
@@ -3887,9 +3890,9 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/.gitlab-ci.yml" timestamp="1522499917802">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/.gitlab-ci.yml" timestamp="1522501332246">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="67" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/Dockerfile" timestamp="1516113284217">
@@ -4028,20 +4031,20 @@
       <jump line="107" column="11" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
+      <register name="&quot;" type="4">
+        <text>docker login ...</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>DjangoObjectType</text>
+        <text>docker login ...</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBSZWNpcGUKICAgICAgICBmaWx0ZXJfZmllbGRzID0gewogICAgICAgICAgICAndGl0bGUnOiBbJ2V4YWN0JywgJ2NvbnRhaW5zJywgJ2lleGFjdCcsICdpY29udGFpbnMnXSwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogWydjb250YWlucyddLAogICAgICAgICAgICAnc2VydmluZ3MnOiBbJ2V4YWN0JywgJ2d0JywgJ2x0JywgJ2d0ZScsICdsdGUnXSwKICAgICAgICAgICAgJ3ByZXBhcmF0aW9uX3RpbWUnOiBbJ2V4YWN0JywgJ2d0JywgJ2x0JywgJ2d0ZScsICdsdGUnXSwKICAgICAgICAgICAgJ2RpcmVjdGlvbnMnOiBbJ2NvbnRhaW5zJ10sCiAgICAgICAgICAgICdsYW5ndWFnZSc6IFsnZXhhY3QnXSwKICAgICAgICAgICAgJ3ZlcmlmaWVkJzogWydleGFjdCddLAogICAgICAgICAgICAnY2F0ZWdvcmllc19fbmFtZSc6IFsnY29udGFpbnMnXSwKICAgICAgICB9CiAgICAgICAgaW50ZXJmYWNlcyA9IChyZWxheS5Ob2RlLCkK</text>
+      <register name="0" type="4">
+        <text>docker login -u gitlab-ci-token -p $CI_JOB_TOOKEN $CI_REGISTRY</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
