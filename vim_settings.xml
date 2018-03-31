@@ -156,11 +156,12 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/schema.py" timestamp="1522495354258">
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/schema.py" timestamp="1522496469292">
         <mark key="'" line="11" column="15" />
-        <mark key="[" line="82" column="45" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="113" column="38" />
+        <mark key="]" line="113" column="46" />
+        <mark key="." line="113" column="46" />
+        <mark key="^" line="113" column="46" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
@@ -1199,6 +1200,9 @@
         <mark key="]" line="5" column="18" />
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" timestamp="1522496263213">
+        <mark key="'" line="107" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
@@ -3908,8 +3912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3094" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3107" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3120" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3133" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3146" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4008,6 +4010,8 @@
       <jump line="2153" column="2" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2152" column="2" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="10" column="15" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/schema.py" />
+      <jump line="16" column="6" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
+      <jump line="107" column="11" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4020,7 +4024,7 @@
         <text>DjangoObjectType</text>
       </register>
       <register name="/" type="4">
-        <text>content</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsYXNzIE1ldGE6CiAgICAgICAgbW9kZWwgPSBSZWNpcGUKICAgICAgICBmaWx0ZXJfZmllbGRzID0gewogICAgICAgICAgICAndGl0bGUnOiBbJ2V4YWN0JywgJ2NvbnRhaW5zJywgJ2lleGFjdCcsICdpY29udGFpbnMnXSwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogWydjb250YWlucyddLAogICAgICAgICAgICAnc2VydmluZ3MnOiBbJ2V4YWN0JywgJ2d0JywgJ2x0JywgJ2d0ZScsICdsdGUnXSwKICAgICAgICAgICAgJ3ByZXBhcmF0aW9uX3RpbWUnOiBbJ2V4YWN0JywgJ2d0JywgJ2x0JywgJ2d0ZScsICdsdGUnXSwKICAgICAgICAgICAgJ2RpcmVjdGlvbnMnOiBbJ2NvbnRhaW5zJ10sCiAgICAgICAgICAgICdsYW5ndWFnZSc6IFsnZXhhY3QnXSwKICAgICAgICAgICAgJ3ZlcmlmaWVkJzogWydleGFjdCddLAogICAgICAgICAgICAnY2F0ZWdvcmllc19fbmFtZSc6IFsnY29udGFpbnMnXSwKICAgICAgICB9CiAgICAgICAgaW50ZXJmYWNlcyA9IChyZWxheS5Ob2RlLCkK</text>
@@ -4053,21 +4057,20 @@
         <text encoding="base64">ICAgIHNhbXBsZSA9IGdyYXBoZW5lLkludCgpCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>%s/title/name/g</text>
       </register>
     </registers>
     <search>
-      <last-search>content</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>content</last-pattern>
-      <last-replace>path(</last-replace>
-      <last-substitute>url(</last-substitute>
+      <last-pattern>title</last-pattern>
+      <last-replace>name</last-replace>
+      <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
         <entry>restart</entry>
         <entry encoding="base64">Pg==</entry>
         <entry encoding="base64">PA==</entry>
@@ -4087,9 +4090,9 @@
         <entry>,</entry>
         <entry>url(</entry>
         <entry>content</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RlbGVncmFtL2FwaS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
         <entry>%s/huerteo/dieteo</entry>
@@ -4109,6 +4112,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>q</entry>
+        <entry>%s/title/name/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
