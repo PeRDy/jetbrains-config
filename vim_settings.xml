@@ -1005,11 +1005,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/stalkeo/stalkeo-app/src/admobs.js" timestamp="1522519344866">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="44" />
+      <file name="$USER_HOME$/Desarrollo/souft/stalkeo/stalkeo-app/src/admobs.js" timestamp="1522521626918">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1517223119863">
         <mark key="[" line="30" column="38" />
@@ -4064,13 +4064,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>$IMAGE_TAG</text>
+        <text>'ca-app-pub-3831892007791024/3977291814',</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -4079,31 +4079,31 @@
         <text>docker login -u gitlab-ci-token -p $CI_JOB_TOOKEN $CI_REGISTRY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFmdGVyX3N1Y2Nlc3M6Cg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gZG9ja2VyIGxvZ2luIC11IGdpdGxhYi1jaS10b2tlbiAtcCAkQ0lfSk9CX1RPS0VOICRDSV9SRUdJU1RSWQoK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIGludGVyc3RpdGlhbDogX19ERVZfXwogICAgPyAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0LzEwMzMxNzM3MTInCiAgICA6ICdjYS1hcHAtcHViLTM4MzE4OTIwMDc3OTEwMjQvNTM0NzQ2NjgxMScsCiAgcmV3YXJkZWQ6IF9fREVWX18KICAgID8gKFBsYXRmb3JtLk9TID09PSAnYW5kcm9pZCcKICAgICAgPyAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0LzUyMjQzNTQ5MTcnCiAgICAgIDogJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NC8xNzEyNDg1MzEzJykKICAgIDogJ2NhLWFwcC1wdWItMzgzMTg5MjAwNzc5MTAyNC8zOTc3MjkxODE0JywKfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gZG9ja2VyIGxvZ2luIC11IGdpdGxhYi1jaS10b2tlbiAtcCAkQ0lfSk9CX1RPS0VOICRDSV9SRUdJU1RSWQo=</text>
+        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
+        <text encoding="base64">ICAgIGFmdGVyX3N1Y2Nlc3M6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
