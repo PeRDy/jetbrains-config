@@ -1166,6 +1166,12 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/.gitlab-ci.yml" timestamp="1522513594410">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="8" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="25" column="11" />
@@ -4037,31 +4043,14 @@
       <jump line="107" column="11" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>image: docker:latest
-
-services:
-    - docker:dind
-
-variables:
-    IMAGE_TAG: $CI_REGISTRY_IMAGE:latest
-
-before_script:
-    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
-
-build:
-    stage: build
-    only:
-        - master
-    script:
-        - docker build --no-cache -t $IMAGE_TAG --build-arg REGISTRY_TOKEN=$CI_JOB_TOKEN --build-arg REGISTRY=$CI_REGISTRY .
-        - docker push $IMAGE_TAG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>docker login ...</text>
+        <text>$IMAGE_TAG</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -4070,34 +4059,34 @@ build:
         <text>docker login -u gitlab-ci-token -p $CI_JOB_TOOKEN $CI_REGISTRY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
+        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
+        <text encoding="base64">ICAgIGFmdGVyX3N1Y2Nlc3M6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgLVUgImRvY2tlcjwzLjAiIGRvY2tlci1zcXVhc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gYXBrIHVwZGF0ZSAmJiBhcGsgYWRkIHB5LXBpcAo=</text>
+        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gZG9ja2VyIGxvZ2luIC11IGdpdGxhYi1jaS10b2tlbiAtcCAkQ0lfSk9CX1RPS0VOICRDSV9SRUdJU1RSWQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CjpUZWFtOiBTb3VmdAo=</text>
+        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gZG9ja2VyIGxvZ2luIC11IGdpdGxhYi1jaS10b2tlbiAtcCAkQ0lfSk9CX1RPS0VOICRDSV9SRUdJU1RSWQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZlcmlmaWVkJzogWydleGFjdCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAtIGRvY2tlci1zcXVhc2ggLXQgJENJX1JFR0lTVFJZX0lNQUdFL3NtZXRyaWNzOmxhdGVzdCAkSU1BR0VfVEFHCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RpcmVjdGlvbnMnOiBbJ2NvbnRhaW5zJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWV9JTUFHRS9zbWV0cmljczpsYXRlc3QK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/title/name/g</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4149,10 +4138,10 @@ build:
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS9yZXBvc2l0b3J5LlwxPS9n</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>w</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>q</entry>
         <entry>%s/title/name/g</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
