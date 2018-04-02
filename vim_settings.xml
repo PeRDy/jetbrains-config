@@ -3742,11 +3742,10 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1522686685896">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="23" column="47" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1522687975888">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1517225515838">
         <mark key="[" line="63" column="13" />
@@ -4078,14 +4077,14 @@
       <jump line="107" column="11" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>libxslt libxml2 jpeg tiff libpng zlib</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">V09SS0RJUiAkQVBQRElSCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>libxslt libxml2 jpeg tiff libpng zlib</text>
+        <text>$CONSENSUSDIR</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -4094,31 +4093,31 @@
         <text encoding="base64">ICAgIGdvIGdldCAtdSBnaXRodWIuY29tL05lYnVsb3VzTGFicy9TaWEvLi4uICYmIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWJhc2UgbGlieHNsdC1kZXYgbGlieG1sMi1kZXYgbGliZmZpLWRldiBqcGVnLWRldiB0aWZmLWRldiBsaWJwbmctZGV2IHpsaWItZGV2IG9wZW5zc2wtZGV2Cg==</text>
+        <text encoding="base64">V09SS0RJUiAkQVBQRElSCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGdpdCBidWlsZC1iYXNlCg==</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWJhc2UgbGlieHNsdC1kZXYgbGlieG1sMi1kZXYgbGliZmZpLWRldiBqcGVnLWRldiB0aWZmLWRldiBsaWJwbmctZGV2IHpsaWItZGV2IG9wZW5zc2wtZGV2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGdpdCBidWlsZC1iYXNlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbJ3NoJ10KQ01EIFsnc2lhZCcsICctZCcsICckQVBQRElSJywgJy0tYXBpLWFkZHInLCAnMC4wLjAuMDo5OTgwJ10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">RU5UUllQT0lOVCBbJ3NoJ10KQ01EIFsnc2lhZCcsICctZCcsICckQVBQRElSJywgJy0tYXBpLWFkZHInLCAnMC4wLjAuMDo5OTgwJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGUgaW5pdGlhbCBkaXJzClJVTiBta2RpciAtcCAkQVBQRElSIAo=</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbJ3NoJ10KQ01EIFsnc2lhZCcsICctZCcsICckQVBQRElSJywgJy0tYXBpLWFkZHInLCAnMC4wLjAuMDo5OTgwJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAKCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgaW5pdGlhbCBkaXJzClJVTiBta2RpciAtcCAkQVBQRElSIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIExPR0RJUj0kQkFTRURJUi9sb2dzCkVOViBPVVRQVVRESVI9JEJBU0VESVIvb3V0cHV0Cg==</text>
+        <text encoding="base64">IyAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
