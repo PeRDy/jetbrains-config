@@ -1456,6 +1456,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/LICENSE" timestamp="1522668910794">
+        <mark key="[" line="654" column="13" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/topic_by_channel.html" timestamp="1465661970282">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="56" column="13" />
@@ -3206,12 +3209,6 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/requirements_test.txt" timestamp="1522007501801">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="7" column="0" />
@@ -3642,6 +3639,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="126" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/README.md" timestamp="1522668677993">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/models.py" timestamp="1522495247872">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="143" column="0" />
@@ -3710,6 +3713,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/App.js" timestamp="1516129751639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3732,6 +3741,12 @@
         <mark key="]" line="60" column="39" />
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1522669346509">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="45" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1517225515838">
         <mark key="[" line="63" column="13" />
@@ -4064,46 +4079,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgIGFwayBkZWwgJEJVSUxEX1BBQ0tBR0VTCgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>'ca-app-pub-3831892007791024/3977291814',</text>
+        <text>requirements</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
-      <register name="0" type="4">
-        <text>docker login -u gitlab-ci-token -p $CI_JOB_TOOKEN $CI_REGISTRY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFwayBkZWwgJEJVSUxEX1BBQ0tBR0VTCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgIGFwayBkZWwgJEJVSUxEX1BBQ0tBR0VTCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBweXRob24gLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzX3Rlc3QudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6IAo=</text>
+        <text encoding="base64">Q09QWSByZXF1aXJlbWVudHMudHh0IHJlcXVpcmVtZW50c190ZXN0LnR4dCBjb25zdHJhaW50cy50eHQgJEFQUERJUi8KICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwICYmIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCAkQlVJTERfUEFDS0FHRVMgJiYgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIGludGVyc3RpdGlhbDogX19ERVZfXwogICAgPyAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0LzEwMzMxNzM3MTInCiAgICA6ICdjYS1hcHAtcHViLTM4MzE4OTIwMDc3OTEwMjQvNTM0NzQ2NjgxMScsCiAgcmV3YXJkZWQ6IF9fREVWX18KICAgID8gKFBsYXRmb3JtLk9TID09PSAnYW5kcm9pZCcKICAgICAgPyAnY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0LzUyMjQzNTQ5MTcnCiAgICAgIDogJ2NhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NC8xNzEyNDg1MzEzJykKICAgIDogJ2NhLWFwcC1wdWItMzgzMTg5MjAwNzc5MTAyNC8zOTc3MjkxODE0JywKfTsK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHB5dGhvbiByZXF1aXJlbWVudHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyaWFibGVzOgogIElNQUdFX1RBRzogCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFmdGVyX3N1Y2Nlc3M6Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgaW5pdGlhbCBkaXJzClJVTiBta2RpciAtcCAkQVBQRElSICRMT0dESVIgJE9VVFBVVERJUgpXT1JLRElSICRBUFBESVIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCAkUlVOVElNRV9QQUNLQUdFUwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGdpdCAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
