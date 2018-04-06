@@ -459,6 +459,12 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/run" timestamp="1523054504611">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="20" column="11" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1516118319895">
         <mark key="[" line="157" column="4" />
         <mark key="]" line="157" column="0" />
@@ -600,6 +606,12 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/requirements.txt" timestamp="1523054349387">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1520003563955">
         <mark key="[" line="196" column="0" />
@@ -2293,12 +2305,11 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523037412225">
-        <mark key="'" line="8" column="14" />
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="9" column="36" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523054412755">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
         <mark key="[" line="46" column="20" />
@@ -4102,46 +4113,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NAME</text>
+        <text>[shlex.split(</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>NAME</text>
+        <text>[shlex.split(</text>
       </register>
       <register name="/" type="4">
         <text>DB_DEFAULT</text>
       </register>
-      <register name="0" type="4">
-        <text>min_length=1</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlNIRUxMLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnU3RhcnQgc2VydmVyJ30pCmRlZiBzdGFydCgqYXJncywgKiprd2FyZ3MpIC0+IExpc3RbTGlzdFtzdHJdXToKICAgIHJldHVybiBbc2hsZXguc3BsaXQoCiAgICAgICAgZid7VVZJQ09STn0gJwogICAgICAgIGYne0FQUH0uYXBwOmFwcCAnCiAgICAgICAgZictLXdvcmtlcnM9NCAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmJ3tVVklDT1JOfSAnCiAgICAgICAgZid7QVBQfS5hcHA6YXBwICcKICAgICAgICBmJy0td29ya2Vycz00ICcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">REpBTkdPX0FQUF9MT0dfRElSPS9zcnYvYXBwcy90cmF6YWJpbGlkYWQtYXBpL2xvZ3MKREpBTkdPX0NPUlNfV0hJVEVMSVNUPTEyNy4wLjAuMTo4MDAwLGxvY2FsaG9zdDo4MDAwCg==</text>
+        <text encoding="base64">ICAgICAgICAnTUVUQURBVEEnOiBCYXNlLm1ldGFkYXRhCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UEdEQVRBPS92YXIvbGliL3Bvc3RncmVzcWwvZGF0YS9wZ2RhdGEK</text>
+        <text encoding="base64">ICAgICdEQVRBQkFTRSc6IHsKICAgICAgICAnVVJMJzogZidwb3N0Z3Jlc3FsOi8vJwogICAgICAgICAgICAgICBmJ3tlbnZbIkRBVEFCQVNFX1VTRVIiXX06e2VudlsiREFUQUJBU0VfUEFTU1dPUkQiXX0nCiAgICAgICAgICAgICAgIGYnQHtlbnZbIkRBVEFCQVNFX0hPU1QiXX06e2VudlsiREFUQUJBU0VfUE9SVCJdfScKICAgICAgICAgICAgICAgZicve2VudlsiREFUQUJBU0VfTkFNRSJdfScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REpBTkdPX1NFQ1JFVF9LRVk9MTIzNAo=</text>
+        <text encoding="base64">ICAgICAgICAnTUVUQURBVEEnOiBCYXNlLm1ldGFkYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBQR0RBVEE9Lwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZidAe2VudlsiREFUQUJBU0VfSE9TVCJdfTp7ZW52WyJEQVRBQkFTRV9QT1JUIl19JwogICAgICAgICAgICAgICBmJy97ZW52WyJEQVRBQkFTRV9OQU1FIl19JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnREFUQUJBU0VfVVJMJzogdHlwZXN5c3RlbS5zdHJpbmcoZGVmYXVsdD0nc3FsaXRlOi8vJyksCg==</text>
+        <text encoding="base64">ICAgICdEQVRBQkFTRSc6IHsKICAgICAgICAnVVJMJzogZidwb3N0Z3Jlc3FsOi8vJwogICAgICAgICAgICAgICBmJ3tlbnZbIkRBVEFCQVNFX1VTRVIiXX06e2VudlsiREFUQUJBU0VfUEFTU1dPUkQiXX0nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBESkFOR09fU0VDUkVUX0tFWT0ke0RKQU5HT19TRUNSRVRfS0VZfQo=</text>
+        <text encoding="base64">c3FsYWxjaGVteQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REJfQ09NUFJFU1NFRF9GSUxFPSIvdG1wL2NvbnNlbnN1cy5kYi5neiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IC1vICR7REJfQ09NUFJFU1NFRF9GSUxFfQoKZWNobyAiRGVjb21wcmVzc2luZy4uLiIK</text>
+        <text encoding="base64">REpBTkdPX0FQUF9MT0dfRElSPS9zcnYvYXBwcy90cmF6YWJpbGlkYWQtYXBpL2xvZ3MKREpBTkdPX0NPUlNfV0hJVEVMSVNUPTEyNy4wLjAuMTo4MDAwLGxvY2FsaG9zdDo4MDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvZw==</text>
