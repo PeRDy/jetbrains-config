@@ -36,7 +36,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1523196510518">
+      <file name="/a.dummy" timestamp="1523205419708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -95,9 +95,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2018.1/system/remote_sources/758130256/-337502517/apistar/typesystem.py" timestamp="1523036738914">
-        <mark key="'" line="178" column="45" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
@@ -1226,9 +1223,6 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" timestamp="1522496263213">
-        <mark key="'" line="107" column="11" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="29" column="0" />
@@ -1292,6 +1286,7 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/views/storj_node.py" timestamp="1523205968455" />
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/development.py" timestamp="1500924409140">
         <mark key="[" line="45" column="56" />
         <mark key="]" line="49" column="0" />
@@ -2483,6 +2478,12 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="19" column="5" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models.py" timestamp="1523205217541">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-react-app/{{cookiecutter.project_slug}}/README.rst" timestamp="1515081973151">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -3178,6 +3179,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="23" column="37" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/models/nodes.py" timestamp="1523205574289">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/README.rst" timestamp="1516031514078">
         <mark key="[" line="28" column="0" />
@@ -4131,47 +4137,47 @@
       <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/var/lib/postgresql/data/pgdata</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>/var/lib/postgresql/data/pgdata</text>
+        <text>torj</text>
       </register>
       <register name="/" type="4">
         <text>scrapy.Field()</text>
       </register>
-      <register name="0" type="4">
-        <text>Column(Integer, primary_key=True)</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgU3RvcmpOb2RlKE5vZGVNaXhpbiwgQmFzZSk6CiAgICBfX3RhYmxlbmFtZV9fID0gInN0b3JqX25vZGUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAncnVuJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNwYWNlX2F2YWlsYWJsZSA9IENvbHVtbihJbnRlZ2VyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBDb2x1bW4oU3RyaW5nKQo=</text>
+        <text encoding="base64">Y2xhc3MgU2lhTm9kZShOb2RlTWl4aW4sIEJhc2UpOgogICAgX190YWJsZW5hbWVfXyA9ICJzdG9yal9ub2RlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKFN0cmluZywgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vZGVfaWQgPSBDb2x1bW4oKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHRvX3Jlc29sdmVfZ2VvbG9jYXRpb24gPSBDb2x1bW4oKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAncnVuJywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNwYWNlX2F2YWlsYWJsZSA9IENvbHVtbihJbnRlZ2VyKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpbWVvdXRfcmF0ZSA9IENvbHVtbigpCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBDb2x1bW4oU3RyaW5nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
