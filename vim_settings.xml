@@ -638,12 +638,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523212998110">
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523214846549">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="39" column="25" />
-        <mark key="." line="24" column="27" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="50" column="47" />
+        <mark key="^" line="50" column="47" />
+        <mark key="." line="50" column="47" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/requirements.txt" timestamp="1488281734736">
         <mark key="[" line="1" column="8" />
@@ -2023,6 +2023,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/models.py" timestamp="1523214230807">
+        <mark key="[" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/run_tests.py" timestamp="1465205993605">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -3351,11 +3354,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" timestamp="1523213559548">
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="20" column="84" />
-        <mark key="^" line="12" column="81" />
-        <mark key="." line="20" column="70" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" timestamp="1523214782552">
+        <mark key="'" line="14" column="74" />
+        <mark key="[" line="19" column="78" />
+        <mark key="]" line="12" column="76" />
+        <mark key="^" line="12" column="76" />
+        <mark key="." line="12" column="76" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/status.py" timestamp="1505669167298">
         <mark key="[" line="12" column="36" />
@@ -4079,7 +4083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3276" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3289" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3302" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3315" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4179,22 +4182,23 @@
       <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" />
       <jump line="14" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/types/storj_node.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
+      <jump line="14" column="74" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, default=None</text>
+        <text>None</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>rue</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>\(\w\+\) =.*</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="4">
-        <text>, default=None</text>
+        <text encoding="base64">ICAjIFRPRE86IE5vbmUgaW4gdjAuNA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
@@ -4224,21 +4228,20 @@
         <text encoding="base64">CiAgICA6cGFyYW0gc2Vzc2lvbjogRGF0YWJhc2Ugc2Vzc2lvbi4KICAgIDpwYXJhbSBzdG9yal9ub2RlOiBTdG9yaiBub2RlIGRhdGEuCiAgICA6cmV0dXJuOiBTdG9yaiBub2RlIGlkLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1RPRE8vRklYTUUvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>\(\w\+\) =.*</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>\(\w\+\) =.*</last-pattern>
-      <last-replace>'\1': None,</last-replace>
-      <last-substitute>\(\w\+\) =.*</last-substitute>
+      <last-pattern>TODO</last-pattern>
+      <last-replace>FIXME</last-replace>
+      <last-substitute>TODO</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>recipe</entry>
         <entry>Recipe</entry>
         <entry>\(\w\+\):\(.\+\)</entry>
         <entry>conf</entry>
@@ -4258,9 +4261,9 @@
         <entry>DB_DEFAULT</entry>
         <entry>scrapy.Field()</entry>
         <entry>\(\w\+\) =.*</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JlY2lwZS9kaXNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpOlwoLlwrXCkvJ1wxJzogJ1wyJyw=</entry>
         <entry>%s/mark.core/mark.fast/g</entry>
@@ -4280,6 +4283,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpID0uKi8nXDEnOiBOb25lLC9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1RPRE8vRklYTUUvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
