@@ -638,10 +638,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523209698238">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523212998110">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="39" column="25" />
+        <mark key="." line="24" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/requirements.txt" timestamp="1488281734736">
         <mark key="[" line="1" column="8" />
@@ -795,11 +797,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/routes.py" timestamp="1523209595597">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/routes.py" timestamp="1523212253081">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/nvidia.py" timestamp="1500581177224">
         <mark key="[" line="51" column="29" />
@@ -1213,6 +1215,9 @@
         <mark key="]" line="25" column="11" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/core/models/node.py" timestamp="1523213524815">
+        <mark key="[" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
@@ -2328,11 +2333,11 @@
       <file name="/GraphQL.variables.json" timestamp="1522229085638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523203310147">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523211547325">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
         <mark key="[" line="46" column="20" />
@@ -3245,10 +3250,10 @@
         <mark key="." line="130" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/routes.py" timestamp="1523209685076">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="74" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="74" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/js/topics_best_segments.js" timestamp="1465662897670">
         <mark key="[" line="12" column="71" />
@@ -3346,11 +3351,11 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" timestamp="1523209214896">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" timestamp="1523213559548">
+        <mark key="[" line="20" column="70" />
+        <mark key="]" line="20" column="84" />
+        <mark key="^" line="12" column="81" />
+        <mark key="." line="20" column="70" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/status.py" timestamp="1505669167298">
         <mark key="[" line="12" column="36" />
@@ -3768,6 +3773,11 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/migrations/versions/9acc5e8dedb9_create_storj_node.py" timestamp="1523213535544">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Experience.vue" timestamp="1498584250503">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="24" />
@@ -4069,7 +4079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3263" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3276" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3289" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3302" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4169,49 +4178,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/.env" />
       <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" />
       <jump line="14" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/types/storj_node.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QGFubm90YXRlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>, default=None</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>rue</text>
       </register>
       <register name="/" type="4">
         <text>\(\w\+\) =.*</text>
       </register>
       <register name="0" type="4">
-        <text>@annotate(authentication=None, permissions=None, exclude_from_schema=True)</text>
+        <text>, default=None</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGFubm90YXRlKCkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBzZXNzaW9uOiAKICAgIDpwYXJhbSBub2RlX2lkOiAK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICA6cGFyYW0gc2Vzc2lvbjogRGF0YWJhc2Ugc2Vzc2lvbi4KICAgIDpwYXJhbSBzdG9yal9ub2RlOiBTdG9yaiBub2RlIGRhdGEuCiAgICA6cmV0dXJuOiBTdG9yaiBub2RlIGlkLgo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICA6cGFyYW0gc2Vzc2lvbjogRGF0YWJhc2Ugc2Vzc2lvbi4KICAgIDpyZXR1cm46IFN0b3JqIG5vZGVzLgo=</text>
+        <text encoding="base64">ICAgICBzZXNzaW9uOiAKICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFJvdXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJvdXRlKCcvJywgJ0RFTEVURScsIGNyZWF0ZV9zdG9yal9ub2RlLCBuYW1lPSdkZWxldGUnKSwKICAgIFJvdXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnJvdXRlcyA9IFsKCl0K</text>
+        <text encoding="base64">QGFubm90YXRlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBub2Rlcy5tb2RlbHMgaW1wb3J0ICogICMgbm9xYQo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICA6cGFyYW0gc2Vzc2lvbjogRGF0YWJhc2Ugc2Vzc2lvbi4KICAgIDpwYXJhbSBzdG9yal9ub2RlOiBTdG9yaiBub2RlIGRhdGEuCiAgICA6cmV0dXJuOiBTdG9yaiBub2RlIGlkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4340,6 +4350,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
