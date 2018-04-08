@@ -1870,8 +1870,12 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" timestamp="1523193986225">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" timestamp="1523194644250">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/index.ios.js" timestamp="1504439037050">
         <mark key="[" line="41" column="32" />
@@ -3530,9 +3534,9 @@
       <file name="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/index.jsx" timestamp="1517344791916">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/items.py" timestamp="1522072914951">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/items.py" timestamp="1523194598024">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="21" column="29" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
@@ -4021,7 +4025,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3237" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3250" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3263" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3276" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4121,10 +4124,11 @@
       <jump line="177" column="52" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/758130256/-337502517/apistar/typesystem.py" />
       <jump line="178" column="45" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/758130256/-337502517/apistar/typesystem.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/.env" />
+      <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Column(Integer, primary_key=True)</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4133,10 +4137,10 @@
         <text>env[&quot;DATABASE_PASSWORD&quot;]</text>
       </register>
       <register name="/" type="4">
-        <text>DB_DEFAULT</text>
+        <text>scrapy.Field()</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlNIRUxMLAogICAgICAgICBwYXJzZXJfb3B0cz17J2hlbHAnOiAnU3RhcnQgc2VydmVyJ30pCmRlZiBzdGFydCgqYXJncywgKiprd2FyZ3MpIC0+IExpc3RbTGlzdFtzdHJdXToKICAgIHJldHVybiBbc2hsZXguc3BsaXQoCiAgICAgICAgZid7VVZJQ09STn0gJwogICAgICAgIGYne0FQUH0uYXBwOmFwcCAnCiAgICAgICAgZictLXdvcmtlcnM9NCAnCg==</text>
+      <register name="0" type="4">
+        <text>Column(Integer, primary_key=True)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QmFzZSA9IGRlY2xhcmF0aXZlX2Jhc2UoKQo=</text>
@@ -4166,21 +4170,20 @@
         <text encoding="base64">ICAgICdEQVRBQkFTRSc6IHsKICAgICAgICAnVVJMJzogZidwb3N0Z3Jlc3FsOi8vJwogICAgICAgICAgICAgICBmJ3tlbnZbIkRBVEFCQVNFX1VTRVIiXX06e2VudlsiREFUQUJBU0VfUEFTU1dPUkQiXX0nCiAgICAgICAgICAgICAgIGYnQHtlbnZbIkRBVEFCQVNFX0hPU1QiXX06e2VudlsiREFUQUJBU0VfUE9SVCJdfScKICAgICAgICAgICAgICAgZicve2VudlsiREFUQUJBU0VfTkFNRSJdfScsCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvZw==</text>
+        <text encoding="base64">JzwsJz5zL3NjcmFweS5GaWVsZCgpL0NvbHVtbigpL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>DB_DEFAULT</last-search>
+      <last-search>scrapy.Field()</last-search>
       <last-offset />
-      <last-pattern>DB_DEFAULT</last-pattern>
-      <last-replace>DATABASE</last-replace>
-      <last-substitute>DB_DEFAULT</last-substitute>
+      <last-pattern>scrapy.Field()</last-pattern>
+      <last-replace>Column()</last-replace>
+      <last-substitute>scrapy.Field()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>pk</entry>
         <entry>recipe</entry>
         <entry>Recipe</entry>
@@ -4200,9 +4203,9 @@
         <entry>default=''</entry>
         <entry>default</entry>
         <entry>DB_DEFAULT</entry>
+        <entry>scrapy.Field()</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvPC97ey9n</entry>
         <entry encoding="base64">JzwsJz5zL0Rpc2gvRGlzaFdpdGhSZWNpcGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlY2lwZS9kaXNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
@@ -4222,6 +4225,7 @@
         <entry encoding="base64">JzwsJz5zL2RlZmF1bHQ9JycvL2c=</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3NjcmFweS5GaWVsZCgpL0NvbHVtbigpL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
