@@ -171,6 +171,9 @@
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/migrations/env.py" timestamp="1523203852151">
+        <mark key="[" line="21" column="21" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/telegram/index.rst" timestamp="1507585576491">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="0" />
@@ -1448,11 +1451,11 @@
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/docker-compose.yml" timestamp="1523198282130">
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/docker-compose.yml" timestamp="1523203711043">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
         <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/flask.py" timestamp="1515000260956">
@@ -2313,7 +2316,7 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523199067778">
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523203310147">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
         <mark key="^" line="10" column="36" />
@@ -4129,13 +4132,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>/var/lib/postgresql/data/pgdata</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>/var/lib/postgresql/data/pgdata</text>
       </register>
       <register name="/" type="4">
         <text>scrapy.Field()</text>
