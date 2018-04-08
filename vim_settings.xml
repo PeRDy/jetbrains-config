@@ -638,12 +638,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523214846549">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="50" column="47" />
-        <mark key="^" line="50" column="47" />
-        <mark key="." line="50" column="47" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523216885302">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/requirements.txt" timestamp="1488281734736">
         <mark key="[" line="1" column="8" />
@@ -3777,10 +3776,11 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="26" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/migrations/versions/9acc5e8dedb9_create_storj_node.py" timestamp="1523213535544">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="23" column="45" />
-        <mark key="." line="23" column="45" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/migrations/versions/9acc5e8dedb9_create_storj_node.py" timestamp="1523216859448">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Experience.vue" timestamp="1498584250503">
         <mark key="[" line="15" column="15" />
@@ -4083,7 +4083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3289" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3302" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3315" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3328" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4183,66 +4182,66 @@
       <jump line="14" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/types/storj_node.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
       <jump line="14" column="74" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text encoding="base64">ZGVmIA==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAjIFRPRE86IE5vbmUgaW4gdjAuNA==</text>
+        <text>nodes = session.query(models.StorjNode).count()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZXNzaW9uOiAKICAgIDpwYXJhbSBub2RlX2lkOiAK</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IFJlbW92ZSBvbiB2MC40IHdoZW4gdGhvc2UgZmllbGRzIGNhbiBiZSBudWxsYWJsZQogICAgbm9kZSA9IGRpY3Qobm9kZSkKICAgIG5vZGUucG9ydCA9IG5vZGUucG9ydCBvciAwCiAgICBub2RlLnJlcHV0YXRpb24gPSBub2RlLnJlcHV0YXRpb24gb3IgMAogICAgbm9kZS5yZXNwb25zZV90aW1lID0gbm9kZS5yZXNwb25zZV90aW1lIG9yIDAuMAogICAgbm9kZS5zcGFjZV9hdmFpbGFibGUgPSBub2RlLnNwYWNlX2F2YWlsYWJsZSBvciAwLjAKICAgIG5vZGUudGltZW91dF9yYXRlID0gbm9kZS50aW1lb3V0X3JhdGUgb3IgMC4wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgICMgbnVtX25vZGVzID0gc2Vzc2lvbi5xdWVyeShzYS5mdW5jLmNvdW50KG1vZGVscy5TdG9yak5vZGUuaWQpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBzZXNzaW9uOiAKICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgIG5vZGVzLmRlbGV0ZShub2RlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJvdXRlCg==</text>
+        <text encoding="base64">ICAgIG51bV9ub2RlcyA9IG1vZGVscy5TdG9yak5vZGUucXVlcnkoKS5jb3VudCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJvdXRlKCcvJywgJ0RFTEVURScsIGNyZWF0ZV9zdG9yal9ub2RlLCBuYW1lPSdkZWxldGUnKSwKICAgIFJvdXRlCg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGFubm90YXRlKCkK</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN0b3JqX25vZGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICA6cGFyYW0gc2Vzc2lvbjogRGF0YWJhc2Ugc2Vzc2lvbi4KICAgIDpwYXJhbSBzdG9yal9ub2RlOiBTdG9yaiBub2RlIGRhdGEuCiAgICA6cmV0dXJuOiBTdG9yaiBub2RlIGlkLgo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1RPRE8vRklYTUUvZw==</text>
+        <text>%s/def /async def /g</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search encoding="base64">ZGVmIA==</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
-      <last-replace>FIXME</last-replace>
-      <last-substitute>TODO</last-substitute>
+      <last-pattern encoding="base64">ZGVmIA==</last-pattern>
+      <last-replace encoding="base64">YXN5bmMgZGVmIA==</last-replace>
+      <last-substitute encoding="base64">ZGVmIA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Recipe</entry>
         <entry>\(\w\+\):\(.\+\)</entry>
         <entry>conf</entry>
         <entry>item</entry>
@@ -4262,9 +4261,9 @@
         <entry>scrapy.Field()</entry>
         <entry>\(\w\+\) =.*</entry>
         <entry>TODO</entry>
+        <entry encoding="base64">ZGVmIA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpOlwoLlwrXCkvJ1wxJzogJ1wyJyw=</entry>
         <entry>%s/mark.core/mark.fast/g</entry>
         <entry encoding="base64">JzwsJz5zL2l0ZW0vcHJvY2Vzc2VkX2l0ZW0vZw==</entry>
@@ -4284,6 +4283,7 @@
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpID0uKi8nXDEnOiBOb25lLC9n</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1RPRE8vRklYTUUvZw==</entry>
+        <entry>%s/def /async def /g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
