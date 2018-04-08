@@ -660,6 +660,9 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/Dockerfile" timestamp="1523199114817">
+        <mark key="[" line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/navigation/reducer.js" timestamp="1518193051782">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="17" />
@@ -2310,11 +2313,11 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523192514973">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523199067778">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
         <mark key="^" line="10" column="36" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
         <mark key="[" line="46" column="20" />
@@ -4126,13 +4129,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>run</text>
+        <text>S</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>scrapy.Field()</text>
@@ -4168,7 +4171,7 @@
         <text encoding="base64">ICAgIHRpbWVvdXRfcmF0ZSA9IENvbHVtbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4216,7 +4219,6 @@
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
         <entry>q</entry>
         <entry>s/SET/ADD/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvRw==</entry>
         <entry encoding="base64">JzwsJz5zL0RBVEFCQVNFL0RCL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0RBVEFCQVNFL0RC</entry>
@@ -4224,6 +4226,7 @@
         <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3NjcmFweS5GaWVsZCgpL0NvbHVtbigpL2c=</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
