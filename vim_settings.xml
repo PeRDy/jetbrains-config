@@ -638,11 +638,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523216885302">
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523217875300">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/requirements.txt" timestamp="1488281734736">
         <mark key="[" line="1" column="8" />
@@ -796,11 +797,11 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/routes.py" timestamp="1523212253081">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="64" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="63" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/routes.py" timestamp="1523217912850">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/nvidia.py" timestamp="1500581177224">
         <mark key="[" line="51" column="29" />
@@ -4185,47 +4186,47 @@
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>retrieve</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>retrieve</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ZGVmIA==</text>
       </register>
-      <register name="0" type="4">
-        <text>nodes = session.query(models.StorjNode).count()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFJvdXRlKCcve25vZGVfaWR9LycsICdHRVQnLCByZXRyaWV2ZV9ub2RlLCBuYW1lPSdyZXRyaWV2ZScpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzZXNzaW9uOiAKICAgIDpwYXJhbSBub2RlX2lkOiAKICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgRklYTUU6IFJlbW92ZSBvbiB2MC40IHdoZW4gdGhvc2UgZmllbGRzIGNhbiBiZSBudWxsYWJsZQogICAgbm9kZSA9IGRpY3Qobm9kZSkKICAgIG5vZGUucG9ydCA9IG5vZGUucG9ydCBvciAwCiAgICBub2RlLnJlcHV0YXRpb24gPSBub2RlLnJlcHV0YXRpb24gb3IgMAogICAgbm9kZS5yZXNwb25zZV90aW1lID0gbm9kZS5yZXNwb25zZV90aW1lIG9yIDAuMAogICAgbm9kZS5zcGFjZV9hdmFpbGFibGUgPSBub2RlLnNwYWNlX2F2YWlsYWJsZSBvciAwLjAKICAgIG5vZGUudGltZW91dF9yYXRlID0gbm9kZS50aW1lb3V0X3JhdGUgb3IgMC4wCg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgbnVtX25vZGVzID0gc2Vzc2lvbi5xdWVyeShzYS5mdW5jLmNvdW50KG1vZGVscy5TdG9yak5vZGUuaWQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vZGVzLmRlbGV0ZShub2RlcykK</text>
+        <text encoding="base64">ICAgICMgRklYTUU6IFJlbW92ZSBvbiB2MC40IHdoZW4gdGhvc2UgZmllbGRzIGNhbiBiZSBudWxsYWJsZQogICAgbm9kZSA9IGRpY3Qobm9kZSkKICAgIG5vZGUucG9ydCA9IG5vZGUucG9ydCBvciAwCiAgICBub2RlLnJlcHV0YXRpb24gPSBub2RlLnJlcHV0YXRpb24gb3IgMAogICAgbm9kZS5yZXNwb25zZV90aW1lID0gbm9kZS5yZXNwb25zZV90aW1lIG9yIDAuMAogICAgbm9kZS5zcGFjZV9hdmFpbGFibGUgPSBub2RlLnNwYWNlX2F2YWlsYWJsZSBvciAwLjAKICAgIG5vZGUudGltZW91dF9yYXRlID0gbm9kZS50aW1lb3V0X3JhdGUgb3IgMC4wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG51bV9ub2RlcyA9IG1vZGVscy5TdG9yak5vZGUucXVlcnkoKS5jb3VudCgpCg==</text>
+        <text encoding="base64">ICAgICMgbnVtX25vZGVzID0gc2Vzc2lvbi5xdWVyeShzYS5mdW5jLmNvdW50KG1vZGVscy5TdG9yak5vZGUuaWQpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
+        <text encoding="base64">ICAgIG5vZGVzLmRlbGV0ZShub2RlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
+        <text encoding="base64">ICAgIG51bV9ub2RlcyA9IG1vZGVscy5TdG9yak5vZGUucXVlcnkoKS5jb3VudCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0b3JqX25vZGUpCg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/def /async def /g</text>
