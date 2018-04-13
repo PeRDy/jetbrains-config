@@ -472,11 +472,11 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/run" timestamp="1523635106029">
-        <mark key="[" line="60" column="49" />
-        <mark key="]" line="60" column="49" />
-        <mark key="." line="57" column="48" />
-        <mark key="^" line="57" column="47" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/run" timestamp="1523636347702">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="31" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="43" column="31" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1516118319895">
         <mark key="[" line="157" column="4" />
@@ -620,11 +620,11 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/requirements.txt" timestamp="1523185453939">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="8" column="5" />
-        <mark key="." line="8" column="5" />
-        <mark key="^" line="8" column="5" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/requirements.txt" timestamp="1523635359702">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/trazabilidad_api/settings/base.py" timestamp="1520003563955">
         <mark key="[" line="196" column="0" />
@@ -652,6 +652,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" timestamp="1523635687988" />
       <file name="$USER_HOME$/Desarrollo/clinner/requirements.txt" timestamp="1488281734736">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="0" column="7" />
@@ -2949,11 +2950,10 @@
         <mark key="^" line="97" column="73" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/app.py" timestamp="1523185116398">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/app.py" timestamp="1523636358329">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/website/wsgi.py" timestamp="1487708364547">
         <mark key="[" line="11" column="0" />
@@ -4196,53 +4196,47 @@
       <jump line="33" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f'postgresql://'
-               f'{os.environ[&quot;DATABASE_USER&quot;]}:{os.environ[&quot;DATABASE_PASSWORD&quot;]}'
-               f'@{os.environ[&quot;DATABASE_HOST&quot;]}:{os.environ[&quot;DATABASE_PORT&quot;]}'
-               f'/{os.environ[&quot;DATABASE_NAME&quot;]}',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text encoding="base64">Q3JlYXRlIA==</text>
       </register>
       <register name="/" type="4">
         <text>type_</text>
       </register>
-      <register name="0" type="4">
-        <text>f'postgresql://'
-               f'{os.environ[&quot;DATABASE_USER&quot;]}:{os.environ[&quot;DATABASE_PASSWORD&quot;]}'
-               f'@{os.environ[&quot;DATABASE_HOST&quot;]}:{os.environ[&quot;DATABASE_PORT&quot;]}'
-               f'/{os.environ[&quot;DATABASE_NAME&quot;]}',</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlBZVEhPTiwKICAgICAgICAgcGFyc2VyX29wdHM9eydoZWxwJzogJ0NyZWF0ZSB0YWJsZXMnfSkKZGVmIGNyZWF0ZV90YWJsZXMoKmFyZ3MsICoqa3dhcmdzKToKICAgIGZyb20gYXBpc3Rhcl9zcWxhbGNoZW15IGltcG9ydCBkYXRhYmFzZQogICAgZGF0YWJhc2UuQmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGRhdGFiYXNlLmdldF9lbmdpbmUoKSkKICAgIAoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q3JlYXRlIGFuICogdHlwZSogZm9yIHlvdXIgcmVzb3VyY2U6CgouLiBjb2RlOjogcHl0aG9uCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZCA9IHZhbGlkYXRvcnMuSW50ZWdlcigpCg==</text>
+        <text encoding="base64">ZGF0YWJhc2UuQmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGRhdGFiYXNlLmdldF9lbmdpbmUoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGFwcC5zZXJ2ZSgnMC4wLjAuMCcsIDgwMDAsIHVzZV9kZWJ1Z2dlcj1UcnVlLCB1c2VfcmVsb2FkZXI9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzID0gewo=</text>
+        <text encoding="base64">ZnJvbSBnb29ib3hfbm9kZXNfYXBpLmRhdGFiYXNlIGltcG9ydCBCYXNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKCd7fSBuZWVkcyB0byBkZWZpbmUgYXR0cmlidXRlOiAib3V0cHV0X3R5cGUiJy5mb3JtYXQobmFtZSkpCgo=</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZShzZXR0aW5nc1snREFUQUJBU0UnXVsnVVJMJ10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcigne30gbmVlZHMgdG8gZGVmaW5lIGF0dHJpYnV0ZTogImlucHV0X3R5cGUiJy5mb3JtYXQobmFtZSkpCgogICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAnYXBpc3RhcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X3R5cGUgPSBuYW1lc3BhY2VbJ291dHB1dF90eXBlJ10K</text>
+        <text encoding="base64">QVBJU1RBUiA9ICdhcGlzdGFyJwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfdHlwZSA9IG5hbWVzcGFjZVsnaW5wdXRfdHlwZSddCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5TSEVMTCwKICAgICAgICAgcGFyc2VyX29wdHM9eydoZWxwJzogJ1J1biBhcGlzdGFyIGNvbW1hbmQnfSkKZGVmIGFwaXN0YXIoKmFyZ3MsICoqa3dhcmdzKSAtPiBMaXN0W0xpc3Rbc3RyXV06CiAgICByZXR1cm4gW1tBUElTVEFSXSArIGxpc3QoYXJncyldCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF90eXBlID0gUHVwcHlPdXRwdXRUeXBlCg==</text>
+        <text encoding="base64">Q3JlYXRlIGFuICogdHlwZSogZm9yIHlvdXIgcmVzb3VyY2U6CgouLiBjb2RlOjogcHl0aG9uCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</text>
