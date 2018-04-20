@@ -2209,8 +2209,9 @@
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/Dockerfile" timestamp="1518998233026">
-        <mark key="[" line="6" column="20" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/Dockerfile" timestamp="1524220113978">
+        <mark key="[" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
         <mark key="[" line="16" column="14" />
@@ -4196,10 +4197,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f'postgresql://{os.environ[&quot;DATABASE_USER&quot;]}:{os.environ[&quot;DATABASE_PASSWORD&quot;]}'
-                              f'@{os.environ[&quot;DATABASE_HOST&quot;]}:{os.environ[&quot;DATABASE_PORT&quot;]}'
-                              f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyoK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4216,31 +4215,31 @@
                               f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyoK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ClJVTiBweXRob24gLW0gcGlwIGluc3RhbGwgLS11cGdyYWRlIEN5dGhvbg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YWJhc2UuQmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGRhdGFiYXNlLmdldF9lbmdpbmUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcC5zZXJ2ZSgnMC4wLjAuMCcsIDgwMDAsIHVzZV9kZWJ1Z2dlcj1UcnVlLCB1c2VfcmVsb2FkZXI9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnb29ib3hfbm9kZXNfYXBpLmRhdGFiYXNlIGltcG9ydCBCYXNlCg==</text>
+        <text encoding="base64">ZGF0YWJhc2UuQmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGRhdGFiYXNlLmdldF9lbmdpbmUoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZShzZXR0aW5nc1snREFUQUJBU0UnXVsnVVJMJ10pCg==</text>
+        <text encoding="base64">ICAgIGFwcC5zZXJ2ZSgnMC4wLjAuMCcsIDgwMDAsIHVzZV9kZWJ1Z2dlcj1UcnVlLCB1c2VfcmVsb2FkZXI9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnYXBpc3RhcicsCg==</text>
+        <text encoding="base64">ZnJvbSBnb29ib3hfbm9kZXNfYXBpLmRhdGFiYXNlIGltcG9ydCBCYXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVBJU1RBUiA9ICdhcGlzdGFyJwo=</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZShzZXR0aW5nc1snREFUQUJBU0UnXVsnVVJMJ10pCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5TSEVMTCwKICAgICAgICAgcGFyc2VyX29wdHM9eydoZWxwJzogJ1J1biBhcGlzdGFyIGNvbW1hbmQnfSkKZGVmIGFwaXN0YXIoKmFyZ3MsICoqa3dhcmdzKSAtPiBMaXN0W0xpc3Rbc3RyXV06CiAgICByZXR1cm4gW1tBUElTVEFSXSArIGxpc3QoYXJncyldCgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAnYXBpc3RhcicsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</text>
