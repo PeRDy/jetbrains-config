@@ -472,9 +472,9 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/run" timestamp="1523636347702">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="31" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/run" timestamp="1524219130781">
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="66" column="63" />
         <mark key="^" line="46" column="30" />
         <mark key="." line="43" column="31" />
       </file>
@@ -4197,7 +4197,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Api stored successfully')</text>
+        <text>f'postgresql://{os.environ[&quot;DATABASE_USER&quot;]}:{os.environ[&quot;DATABASE_PASSWORD&quot;]}'
+                              f'@{os.environ[&quot;DATABASE_HOST&quot;]}:{os.environ[&quot;DATABASE_PORT&quot;]}'
+                              f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4209,7 +4211,9 @@
         <text>type_</text>
       </register>
       <register name="0" type="4">
-        <text>Cannot register Barrenero API')</text>
+        <text>f'postgresql://{os.environ[&quot;DATABASE_USER&quot;]}:{os.environ[&quot;DATABASE_PASSWORD&quot;]}'
+                              f'@{os.environ[&quot;DATABASE_HOST&quot;]}:{os.environ[&quot;DATABASE_PORT&quot;]}'
+                              f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
