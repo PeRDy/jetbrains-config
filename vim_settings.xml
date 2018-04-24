@@ -285,7 +285,7 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/dieteo_api/plugins_settings/clinner.py" timestamp="1522407755961">
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/dieteo_api/plugins_settings/clinner.py" timestamp="1524598177519">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -2075,11 +2075,11 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/run" timestamp="1522411774980">
-        <mark key="[" line="57" column="36" />
-        <mark key="]" line="58" column="44" />
-        <mark key="^" line="58" column="44" />
-        <mark key="." line="58" column="44" />
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/run" timestamp="1524598229729">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="93" column="67" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/urls.py" timestamp="1518623470291">
         <mark key="[" line="8" column="18" />
@@ -4205,7 +4205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CkNPUFkgcmVxdWlyZW1lbnRzLnR4dCByZXF1aXJlbWVudHNfdGVzdHMudHh0IGNvbnN0cmFpbnRzLnR4dCAkQVBQRElSLwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4222,31 +4222,31 @@
                               f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkNPUFkgcmVxdWlyZW1lbnRzLnR4dCByZXF1aXJlbWVudHNfdGVzdHMudHh0IGNvbnN0cmFpbnRzLnR4dCAkQVBQRElSLwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBDb3B5IGFwcGxpY2F0aW9uCkNPUFkgLiAvc3J2L2FwcHMvJEFQUC8K</text>
+        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uWydDTElOTkVSX1NFVFRJTkdTJ10gPSBmJ2RpZXRlb19hcGkucGx1Z2luc19zZXR0aW5ncy5jbGlubmVyOntzZXR0aW5nc30nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBweXRob24gLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzX3Rlc3RzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAo=</text>
+        <text encoding="base64">ICAgICAgICAndXdzZ2knOiAnLS1pbmkgdXdzZ2kuaW5pJywKICAgICAgICAndW5pdF90ZXN0cyc6ICctLW5vLWlucHV0JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwIHBpcGVudiAmJiBcCiAgICBwaXBlbnYgaW5zdGFsbCAtLXN5c3RlbSAtLWRlcGxveSAtLWlnbm9yZS1waXBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAncnVuc2VydmVyJzogJzAuMC4wLjA6ODAwMCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyoK</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ClJVTiBweXRob24gLW0gcGlwIGluc3RhbGwgLS11cGdyYWRlIEN5dGhvbg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">CkNPUFkgcmVxdWlyZW1lbnRzLnR4dCByZXF1aXJlbWVudHNfdGVzdHMudHh0IGNvbnN0cmFpbnRzLnR4dCAkQVBQRElSLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDb3B5IGFwcGxpY2F0aW9uCkNPUFkgLiAvc3J2L2FwcHMvJEFQUC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YWJhc2UuQmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGRhdGFiYXNlLmdldF9lbmdpbmUoKSkK</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBweXRob24gLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzX3Rlc3RzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
