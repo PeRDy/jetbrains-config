@@ -988,11 +988,11 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/Dockerfile" timestamp="1525703170981">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="1" column="62" />
-        <mark key="." line="1" column="62" />
-        <mark key="^" line="1" column="62" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/Dockerfile" timestamp="1525704298330">
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/__main__.py" timestamp="1504624623725">
         <mark key="[" line="9" column="22" />
@@ -2340,10 +2340,6 @@
       <file name="/GraphQL.variables.json" timestamp="1522229085638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523635081770">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="9" column="48" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
         <mark key="[" line="46" column="20" />
         <mark key="]" line="46" column="20" />
@@ -2604,10 +2600,6 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2018.1/system/remote_sources/758130256/-337502517/apistar/handlers.py" timestamp="1523209675387">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="73" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/entrypoint.sh" timestamp="1522692837876">
         <mark key="[" line="7" column="25" />
@@ -2930,9 +2922,9 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1525702835359">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="43" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1525704055758">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="27" />
         <mark key="^" line="6" column="42" />
         <mark key="." line="10" column="0" />
       </file>
@@ -3883,10 +3875,11 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1517225515838">
-        <mark key="[" line="63" column="13" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525704459472">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/models.py" timestamp="1519250201354">
         <mark key="[" line="47" column="17" />
@@ -4213,8 +4206,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6CiAgICBwcmludCgiSW4iKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ClJVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmpvbmF0aG9uZi9weXRob24tMy42ICYmIFwKICAgIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24zLjYgcHl0aG9uMy1waXAgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCiAgICBybSAtcmYgL3RtcC8qIFwKICAgICAgICAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9wYXNzZW5nZXIubGlzdCBcCiAgICAgICAgL3Zhci90bXAvKiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4226,21 +4219,27 @@
         <text>type_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAvdG1wL25wbSoK</text>
+        <text encoding="base64">ICAgIGFwayBkZWwgJEJVSUxEX1BBQ0tBR0VTCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6CiAgICBwcmludCgiSW4iKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ClJVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmpvbmF0aG9uZi9weXRob24tMy42ICYmIFwKICAgIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24zLjYgcHl0aG9uMy1waXAgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCiAgICBybSAtcmYgL3RtcC8qIFwKICAgICAgICAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9wYXNzZW5nZXIubGlzdCBcCiAgICAgICAgL3Zhci90bXAvKiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIi4vcnVuIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZyb20gY2xpbm5lci5ydW4gaW1wb3J0IE1haW4KZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6Cg==</text>
+        <text encoding="base64">ZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6CiAgICBwcmludCgiSW4iKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">dHJ5Ogo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZyb20gY2xpbm5lci5ydW4gaW1wb3J0IE1haW4KZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dHJ5OgogICAgZnJvbSBjbGlubmVyLmNvbW1hbmQgaW1wb3J0IGNvbW1hbmQsIFR5cGUgYXMgQ29tbWFuZFR5cGUK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>import pip
     import site
     import importlib
@@ -4253,20 +4252,14 @@
     from clinner.command import command, Type as CommandType
     from clinner.run import Main</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyBJbnN0YWxsIFN0b3JqCgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHJtIC1yZiAvdG1wL25wbSoKICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuc3NsLWRldiBcCiAgICAgICAgcHl0aG9uICYmIFwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwayBkZWwgXAogICAgICAgIGdpdCBcCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4313,7 +4306,6 @@
         <entry encoding="base64">JzwsJz5zL2RlZmF1bHQ9JycvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3NjcmFweS5GaWVsZCgpL0NvbHVtbigpL2c=</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpID0uKi8nXDEnOiBOb25lLC9n</entry>
         <entry encoding="base64">JzwsJz5zL1RPRE8vRklYTUUvZw==</entry>
         <entry>%s/def /async def /g</entry>
@@ -4322,6 +4314,7 @@
         <entry encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
