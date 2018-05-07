@@ -2922,9 +2922,9 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1525704055758">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1525705184899">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="34" />
         <mark key="^" line="6" column="42" />
         <mark key="." line="10" column="0" />
       </file>
@@ -3875,11 +3875,11 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525704459472">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525705241920">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="49" column="43" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/models.py" timestamp="1519250201354">
         <mark key="[" line="47" column="17" />
@@ -4207,56 +4207,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ClJVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmpvbmF0aG9uZi9weXRob24tMy42ICYmIFwKICAgIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24zLjYgcHl0aG9uMy1waXAgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCiAgICBybSAtcmYgL3RtcC8qIFwKICAgICAgICAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9wYXNzZW5nZXIubGlzdCBcCiAgICAgICAgL3Zhci90bXAvKiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
+        <text encoding="base64">CiMgSW5zdGFsbCBwaXAgcmVxdWlyZW1lbnRzClJVTiBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcCAmJiBcCiAgICBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAogICAgcm0gLXJmICRIT01FLy5jYWNoZS9waXAvKg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UlVOIA==</text>
+        <text>$HOME/.cache/pip/*</text>
       </register>
       <register name="/" type="4">
         <text>type_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwayBkZWwgJEJVSUxEX1BBQ0tBR0VTCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwIHBpcGVudiAmJiBcCiAgICBwaXBlbnYgaW5zdGFsbCAtLXN5c3RlbSAtLWRlcGxveSAtLWlnbm9yZS1waXBmaWxlICYmIFwKICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyogJiYgXAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ClJVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmpvbmF0aG9uZi9weXRob24tMy42ICYmIFwKICAgIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24zLjYgcHl0aG9uMy1waXAgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCiAgICBybSAtcmYgL3RtcC8qIFwKICAgICAgICAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9wYXNzZW5nZXIubGlzdCBcCiAgICAgICAgL3Zhci90bXAvKiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
+        <text encoding="base64">CiMgSW5zdGFsbCBwaXAgcmVxdWlyZW1lbnRzClJVTiBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcCAmJiBcCiAgICBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAogICAgcm0gLXJmICRIT01FLy5jYWNoZS9waXAvKg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi4vcnVuIl0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiPCoEluc3RhbGwgYnVpbGQgcmVxdWlyZW1lbnRzClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgLXkgXAogICAgICAgIGJ1aWxkLWVzc2VudGlhbCBcCiAgICAgICAgcHl0aG9uMyBcCiAgICAgICAgcHl0aG9uMy1waXAgXAogICAgICAgIGxpYmlkbjExLWRldiBcCiAgICAgICAgYXB0LXRyYW5zcG9ydC1odHRwcyBcCiAgICAgICAgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb25cCiAgICAgICAgZ2l0IFwKICAgICAgICBjdXJsIFwKICAgICAgICBjbWFrZSAmJiBcCiAgICBhcHQtZ2V0IGNsZWFuICYmIFwKICAgIHJtIC1yZiAvdG1wLyogXAogICAgICAgIC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL3Bhc3Nlbmdlci5saXN0IFwKICAgICAgICAvdmFyL3RtcC8qIFwKICAgICAgICAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzL3BhcnRpYWwvKi5kZWIgXAogICAgICAgIC92YXIvY2FjaGUvYXB0LyouYmlu</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6CiAgICBwcmludCgiSW4iKQo=</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAgJiYgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">IyBDcmVhdGUgcHJvamVjdCBkaXJzClJVTiBta2RpciAtcCAvc3J2L2FwcHMvJEFQUC9sb2dzCldPUktESVIgL3Nydi9hcHBzLyRBUFAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gY2xpbm5lci5ydW4gaW1wb3J0IE1haW4KZXhjZXB0IChJbXBvcnRFcnJvciwgTW9kdWxlTm90Rm91bmRFcnJvcik6Cg==</text>
+        <text encoding="base64">Q09QWSByZXF1aXJlbWVudHMudHh0IGNvbnN0cmFpbnRzLnR4dCAvc3J2L2FwcHMvJEFQUC8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJ5OgogICAgZnJvbSBjbGlubmVyLmNvbW1hbmQgaW1wb3J0IGNvbW1hbmQsIFR5cGUgYXMgQ29tbWFuZFR5cGUK</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIC90bXAvKiBcCiAgICAgICAgL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvcGFzc2VuZ2VyLmxpc3QgXAogICAgICAgIC92YXIvdG1wLyogXAogICAgICAgIC92YXIvbGliL2FwdC9saXN0cy8qIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvcGFydGlhbC8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvKi5iaW4gJiYK</text>
       </register>
-      <register name="7" type="4">
-        <text>import pip
-    import site
-    import importlib
-
-    print('Installing Clinner')
-    pip.main(['install', '--user', '-qq', 'clinner'])
-
-    importlib.reload(site)
-
-    from clinner.command import command, Type as CommandType
-    from clinner.run import Main</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIC90bXAvKiBcCiAgICAgICAgL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvcGFzc2VuZ2VyLmxpc3QgXAogICAgICAgIC92YXIvdG1wLyogXAogICAgICAgIC92YXIvbGliL2FwdC9saXN0cy8qIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvcGFydGlhbC8qLmRlYiBcCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIFN0b3JqCgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ClJVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmpvbmF0aG9uZi9weXRob24tMy42ICYmIFwKICAgIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24zLjYgcHl0aG9uMy1waXAgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCiAgICBybSAtcmYgL3RtcC8qIFwKICAgICAgICAvZXRjL2FwdC9zb3VyY2VzLmxpc3QuZC9wYXNzZW5nZXIubGlzdCBcCiAgICAgICAgL3Zhci90bXAvKiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC92YXIvY2FjaGUvYXB0L2FyY2hpdmVzLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAvdG1wL25wbSoKICAgIAo=</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIi4vcnVuIl0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
