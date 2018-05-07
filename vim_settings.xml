@@ -3875,11 +3875,11 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525705241920">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="49" column="43" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525706713902">
+        <mark key="[" line="39" column="74" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/models.py" timestamp="1519250201354">
         <mark key="[" line="47" column="17" />
@@ -4207,7 +4207,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiMgSW5zdGFsbCBwaXAgcmVxdWlyZW1lbnRzClJVTiBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcCAmJiBcCiAgICBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAogICAgcm0gLXJmICRIT01FLy5jYWNoZS9waXAvKg==</text>
+        <text encoding="base64">YXB0LXRyYW5zcG9ydC1odHRwcyBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbiA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4218,8 +4218,8 @@
       <register name="/" type="4">
         <text>type_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwIHBpcGVudiAmJiBcCiAgICBwaXBlbnYgaW5zdGFsbCAtLXN5c3RlbSAtLWRlcGxveSAtLWlnbm9yZS1waXBmaWxlICYmIFwKICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyogJiYgXAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">YXB0LXRyYW5zcG9ydC1odHRwcyBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbiA=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiMgSW5zdGFsbCBwaXAgcmVxdWlyZW1lbnRzClJVTiBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcCAmJiBcCiAgICBweXRob24zLjYgLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAogICAgcm0gLXJmICRIT01FLy5jYWNoZS9waXAvKg==</text>
