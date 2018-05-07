@@ -2209,9 +2209,11 @@
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/Dockerfile" timestamp="1524220113978">
-        <mark key="[" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/Dockerfile" timestamp="1525685707368">
+        <mark key="[" line="1" column="56" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
         <mark key="[" line="16" column="14" />
@@ -2927,11 +2929,11 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1516657232667">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="29" column="48" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1525686045098">
+        <mark key="[" line="57" column="11" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="1" column="62" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-api/templates/env.jinja2" timestamp="1516013567078">
         <mark key="[" line="3" column="47" />
@@ -2962,11 +2964,11 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/Dockerfile" timestamp="1516660006333">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/Dockerfile" timestamp="1525686028666">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/README.rst" timestamp="1500557128798">
         <mark key="[" line="36" column="8" />
@@ -4205,48 +4207,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UlVOIA==</text>
+        <text>libs</text>
       </register>
       <register name="/" type="4">
         <text>type_</text>
       </register>
-      <register name="0" type="4">
-        <text>f'postgresql://{os.environ[&quot;DATABASE_USER&quot;]}:{os.environ[&quot;DATABASE_PASSWORD&quot;]}'
-                              f'@{os.environ[&quot;DATABASE_HOST&quot;]}:{os.environ[&quot;DATABASE_PORT&quot;]}'
-                              f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBJbnN0YWxsIHB5dGhvbiByZXF1aXJlbWVudHMKQ09QWSBQaXBmaWxlIFBpcGZpbGUubG9jayAvc3J2L2FwcHMvJEFQUC8KUlVOIHB5dGhvbjMgLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLS11cGdyYWRlIHBpcCBwaXBlbnYgJiYgXAogICAgcGlwZW52IGluc3RhbGwgLS1zeXN0ZW0gLS1kZXBsb3kgLS1pZ25vcmUtcGlwZmlsZSAmJiBcCiAgICBybSAtcmYgJEhPTUUvLmNhY2hlL3BpcC8qCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uWydDTElOTkVSX1NFVFRJTkdTJ10gPSBmJ2RpZXRlb19hcGkucGx1Z2luc19zZXR0aW5ncy5jbGlubmVyOntzZXR0aW5nc30nCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBybSAtcmYgJEhPTUUvLmNhY2hlL3BpcC8qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAndXdzZ2knOiAnLS1pbmkgdXdzZ2kuaW5pJywKICAgICAgICAndW5pdF90ZXN0cyc6ICctLW5vLWlucHV0JywK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHBpcCByZXF1aXJlbWVudHMKQ09QWSByZXF1aXJlbWVudHMudHh0IGNvbnN0cmFpbnRzLnR4dCAvc3J2L2FwcHMvJEFQUC8KUlVOIHB5dGhvbjMuNiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwICYmIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAncnVuc2VydmVyJzogJzAuMC4wLjA6ODAwMCcsCg==</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWJhc2UgbGludXgtaGVhZGVycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBweXRob24zICYmIFwKICAgIHJtIC1yZiAvdmFyL2NhY2hlL2Fway8qCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgLS1uby1jYWNoZSBweXRob24zICYmIFwKICAgIHJtIC1yZiAvdmFyL2NhY2hlL2Fway8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CkNPUFkgcmVxdWlyZW1lbnRzLnR4dCByZXF1aXJlbWVudHNfdGVzdHMudHh0IGNvbnN0cmFpbnRzLnR4dCAkQVBQRElSLwo=</text>
+        <text encoding="base64">ICAgICAgICBsaW51eC1oZWFkZXJzICYmIFwKICAgIHJtIC1yZiAvdmFyL2NhY2hlL2Fway8qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDb3B5IGFwcGxpY2F0aW9uCkNPUFkgLiAvc3J2L2FwcHMvJEFQUC8K</text>
+        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCBcCiAgICAgICAgYnVpbGQtYmFzZSBcCiAgICAgICAgc3FsaXRlLWRldiBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBweXRob24gLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzX3Rlc3RzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAo=</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwLyoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
