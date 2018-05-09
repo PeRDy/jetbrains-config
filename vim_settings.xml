@@ -163,18 +163,11 @@
         <mark key="^" line="71" column="25" />
         <mark key="." line="71" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/state_machine.py" timestamp="1516491705064">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="36" column="3" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/schema.py" timestamp="1522496469292">
-        <mark key="'" line="11" column="15" />
-        <mark key="[" line="113" column="38" />
-        <mark key="]" line="113" column="46" />
-        <mark key="." line="113" column="46" />
-        <mark key="^" line="113" column="46" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/state_machine.py" timestamp="1525680437953">
+        <mark key="[" line="31" column="96" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
@@ -995,10 +988,11 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/Dockerfile" timestamp="1517225492293">
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-storj/Dockerfile" timestamp="1525704298330">
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/__main__.py" timestamp="1504624623725">
         <mark key="[" line="9" column="22" />
@@ -1545,9 +1539,9 @@
         <mark key="^" line="35" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/App.js" timestamp="1518472613333">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/SkillList.vue" timestamp="1498583281216">
         <mark key="[" line="6" column="16" />
@@ -2041,8 +2035,8 @@
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" timestamp="1523055625781">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
         <mark key="^" line="38" column="19" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/spiders/storj_nodes.py" timestamp="1522226770590">
         <mark key="[" line="25" column="75" />
@@ -2085,8 +2079,8 @@
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/run" timestamp="1524598229729">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
-        <mark key="^" line="93" column="67" />
         <mark key="." line="57" column="0" />
+        <mark key="^" line="93" column="67" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/search/urls.py" timestamp="1518623470291">
         <mark key="[" line="8" column="18" />
@@ -2216,9 +2210,11 @@
         <mark key="." line="84" column="20" />
         <mark key="^" line="84" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/Dockerfile" timestamp="1524220113978">
-        <mark key="[" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/Dockerfile" timestamp="1525687776917">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
         <mark key="[" line="16" column="14" />
@@ -2343,10 +2339,6 @@
       </file>
       <file name="/GraphQL.variables.json" timestamp="1522229085638">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" timestamp="1523635081770">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
         <mark key="[" line="46" column="20" />
@@ -2609,10 +2601,6 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2018.1/system/remote_sources/758130256/-337502517/apistar/handlers.py" timestamp="1523209675387">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="73" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/entrypoint.sh" timestamp="1522692837876">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="26" />
@@ -2765,6 +2753,11 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/ducks/random-recipe.js" timestamp="1522442981561">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="68" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/urls.py" timestamp="1465564024967">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="17" />
@@ -2795,9 +2788,9 @@
         <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/ducks/index.js" timestamp="1518472710767">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/hashcode_pizza/base_app.py" timestamp="1518791772759">
         <mark key="[" line="7" column="4" />
@@ -2929,10 +2922,9 @@
         <mark key="." line="59" column="24" />
         <mark key="^" line="54" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1516657232667">
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/Dockerfile" timestamp="1525889086622">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="29" column="48" />
+        <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-api/templates/env.jinja2" timestamp="1516013567078">
@@ -2964,11 +2956,11 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/Dockerfile" timestamp="1516660006333">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegraf/Dockerfile" timestamp="1525686028666">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/miner/README.rst" timestamp="1500557128798">
         <mark key="[" line="36" column="8" />
@@ -3330,12 +3322,6 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="10" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/requirements_test.txt" timestamp="1522007501801">
         <mark key="[" line="3" column="12" />
@@ -3859,6 +3845,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/App.js" timestamp="1516129751639">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -3882,10 +3874,11 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1517225515838">
-        <mark key="[" line="63" column="13" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525710460752">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="75" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/models.py" timestamp="1519250201354">
         <mark key="[" line="47" column="17" />
@@ -4096,6 +4089,12 @@
         <mark key="." line="32" column="52" />
         <mark key="^" line="32" column="52" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/run" timestamp="1525689168183">
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="55" />
+        <mark key="^" line="53" column="55" />
+        <mark key="." line="53" column="55" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/config.babel.js" timestamp="1500119322886">
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="35" />
@@ -4207,51 +4206,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
+        <text encoding="base64">ClJVTiBlY2hvICI5MS4xODkuOTIuMjAxIGFyY2hpdmUudWJ1bnR1LmNvbSIgPj4gL2V0Yy9ob3N0cwo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UlVOIA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>type_</text>
       </register>
       <register name="0" type="4">
-        <text>f'postgresql://{os.environ[&quot;DATABASE_USER&quot;]}:{os.environ[&quot;DATABASE_PASSWORD&quot;]}'
-                              f'@{os.environ[&quot;DATABASE_HOST&quot;]}:{os.environ[&quot;DATABASE_PORT&quot;]}'
-                              f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
+        <text encoding="base64">IyBJbnN0YWxsIGV0aG1pbmVyIGFuZCBweXRob24gcmVxdWlyZW1lbnRzCkNPUFkgcmVxdWlyZW1lbnRzLnR4dCBjb25zdHJhaW50cy50eHQgL3Nydi9hcHBzLyRBUFAvClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCiAgICBhcHQtZ2V0IGluc3RhbGwgLXkgLS1uby1pbnN0YWxsLXJlY29tbWVuZHMgJEJVSUxEX1BBQ0tBR0VTICYmIFwKICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vZXRoZXJldW0tbWluaW5nL2V0aG1pbmVyIC9zcnYvYXBwcy9ldGhtaW5lciAmJiBcCiAgICBjZCAvc3J2L2FwcHMvZXRobWluZXIgJiYgXAogICAgbWtkaXIgYnVpbGQ7IGNkIGJ1aWxkICYmIFwKICAgIGNtYWtlIC4uIC1ERVRIQVNIQ1VEQT1PTiAtREVUSEFTSENMPU9GRiAmJiBcCiAgICBjbWFrZSAtLWJ1aWxkIC4gJiYgXAogICAgbWFrZSBpbnN0YWxsICYmIFwKICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwIHBpcGVudiAmJiBcCiAgICBwaXBlbnYgaW5zdGFsbCAtLXN5c3RlbSAtLWRlcGxveSAtLWlnbm9yZS1waXBmaWxlICYmIFwKICAgIGFwdC1nZXQgcmVtb3ZlIC0tcHVyZ2UgLXkgJEJVSUxEX1BBQ0tBR0VTICYmIFwKICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIC90bXAvKiBcCiAgICAgICAgL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvcGFzc2VuZ2VyLmxpc3QgXAogICAgICAgIC92YXIvdG1wLyogXAogICAgICAgIC92YXIvbGliL2FwdC9saXN0cy8qIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvcGFydGlhbC8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvKi5iaW4gXAogICAgICAgICRIT01FLy5jYWNoZS9waXAvKiBcCiAgICAgICAgL3Nydi9hcHBzL2V0aG1pbmVy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
+        <text encoding="base64">ClJVTiBlY2hvICI5MS4xODkuOTIuMjAxIGFyY2hpdmUudWJ1bnR1LmNvbSIgPj4gL2V0Yy9ob3N0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uWydDTElOTkVSX1NFVFRJTkdTJ10gPSBmJ2RpZXRlb19hcGkucGx1Z2luc19zZXR0aW5ncy5jbGlubmVyOntzZXR0aW5nc30nCg==</text>
+        <text encoding="base64">ICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy9wYXJ0aWFsLyouZGViIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC8qLmJpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAndXdzZ2knOiAnLS1pbmkgdXdzZ2kuaW5pJywKICAgICAgICAndW5pdF90ZXN0cyc6ICctLW5vLWlucHV0JywK</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvKi5kZWIgXAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAncnVuc2VydmVyJzogJzAuMC4wLjA6ODAwMCcsCg==</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgaW5zdGFsbCAteSBsb2NhbGVzIGxvY2FsZXMtYWxsICYmIFwKICAgIGFwdC1nZXQgY2xlYW4gJiYgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">IyBJbnN0YWxsIGxvY2FsZXMKUlVOIGFwdC1nZXQgdXBkYXRlICYmIFwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnYXJnczoge2FyZ3N9LCBrd2FyZ3M6IHtrd2FyZ3N9JykK</text>
+      <register name="6" type="4">
+        <text encoding="base64">JiYgXAogICAgYXB0LWdldCBpbnN0YWxsIC15IC0tbm8taW5zdGFsbC1yZWNvbW1lbmRzIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CkNPUFkgcmVxdWlyZW1lbnRzLnR4dCByZXF1aXJlbWVudHNfdGVzdHMudHh0IGNvbnN0cmFpbnRzLnR4dCAkQVBQRElSLwo=</text>
+        <text encoding="base64">ClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBcCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDb3B5IGFwcGxpY2F0aW9uCkNPUFkgLiAvc3J2L2FwcHMvJEFQUC8K</text>
+        <text encoding="base64">IyBJbnN0YWxsIFB5dGhvbiAzLjYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtLXVwZ3JhZGUgcGlwICYmIFwKICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCiAgICBweXRob24gLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZS1kaXIgLXIgcmVxdWlyZW1lbnRzX3Rlc3RzLnR4dCAtYyBjb25zdHJhaW50cy50eHQgJiYgXAo=</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgY2xlYW4gJiYgXAogICAgcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qIFwKICAgICAgICAvdmFyL2NhY2hlL2FwdC9hcmNoaXZlcy8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvYXJjaGl2ZXMvcGFydGlhbC8qLmRlYiBcCiAgICAgICAgL3Zhci9jYWNoZS9hcHQvKi5iaW4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4265,17 +4262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restart</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry encoding="base64">PA==</entry>
-        <entry>Dish</entry>
-        <entry>id</entry>
-        <entry>pk</entry>
-        <entry>recipe</entry>
-        <entry>Recipe</entry>
-        <entry>\(\w\+\):\(.\+\)</entry>
-        <entry>conf</entry>
-        <entry>item</entry>
         <entry>mark.core</entry>
         <entry>differ</entry>
         <entry>no-self</entry>
@@ -4285,28 +4271,39 @@
         <entry>url(</entry>
         <entry>content</entry>
         <entry>SET</entry>
+        <entry>DATABASE</entry>
+        <entry>default=''</entry>
+        <entry>default</entry>
+        <entry>DB_DEFAULT</entry>
+        <entry>scrapy.Field()</entry>
+        <entry>\(\w\+\) =.*</entry>
+        <entry>TODO</entry>
+        <entry encoding="base64">ZGVmIA==</entry>
+        <entry>(session: Session</entry>
+        <entry>input</entry>
+        <entry>type_</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ppbmphMi95YW1sL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1xbXCguKlwpXF09LyAgICAnXDEnOiAvZw==</entry>
-        <entry>%s/huerteo/dieteo</entry>
-        <entry>%s/huerteo/dieteo/g</entry>
-        <entry encoding="base64">JXMvPi99fS9n</entry>
-        <entry encoding="base64">JXMvPC97ey9n</entry>
-        <entry encoding="base64">JzwsJz5zL0Rpc2gvRGlzaFdpdGhSZWNpcGUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3JlY2lwZS9kaXNoL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1JlY2lwZS9EaXNoL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpOlwoLlwrXCkvJ1wxJzogJ1wyJyw=</entry>
-        <entry>%s/mark.core/mark.fast/g</entry>
-        <entry encoding="base64">JzwsJz5zL2l0ZW0vcHJvY2Vzc2VkX2l0ZW0vZw==</entry>
         <entry>%s/mark.core/mark.unit/g</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS9yZXBvc2l0b3J5LlwxPS9n</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
+        <entry>s/SET/ADD/g</entry>
+        <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvRw==</entry>
+        <entry encoding="base64">JzwsJz5zL0RBVEFCQVNFL0RCL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0RBVEFCQVNFL0RC</entry>
+        <entry encoding="base64">JzwsJz5zL2RlZmF1bHQ9JycvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3NjcmFweS5GaWVsZCgpL0NvbHVtbigpL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpID0uKi8nXDEnOiBOb25lLC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1RPRE8vRklYTUUvZw==</entry>
+        <entry>%s/def /async def /g</entry>
+        <entry>%s/(session: Session/(self, session: Session/g</entry>
+        <entry encoding="base64">JzwsJz5zL2lucHV0L291dHB1dC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</entry>
+        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
-        <entry>q</entry>
-        <entry>s/SET/ADD/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
