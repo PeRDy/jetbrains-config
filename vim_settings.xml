@@ -405,6 +405,11 @@
         <mark key="^" line="9" column="118" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" timestamp="1525952074836">
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy_site/settings/production.py" timestamp="1517261592129">
         <mark key="[" line="38" column="75" />
         <mark key="]" line="25" column="0" />
@@ -675,11 +680,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/Dockerfile" timestamp="1525949752066">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="52" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/Dockerfile" timestamp="1525952094264">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/navigation/reducer.js" timestamp="1518193051782">
         <mark key="[" line="10" column="7" />
@@ -3301,6 +3306,12 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/apistar/server/app.py" timestamp="1525951924948">
+        <mark key="[" line="331" column="47" />
+        <mark key="]" line="328" column="52" />
+        <mark key="^" line="328" column="52" />
+        <mark key="." line="328" column="52" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-web/package.json" timestamp="1517345688164">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="30" />
@@ -4213,13 +4224,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'replace',</text>
+        <text>:</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>'replace',</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>type_</text>
@@ -4230,31 +4241,31 @@
                               f'/{os.environ[&quot;DATABASE_NAME&quot;]}')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2ZvbycpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidAe29zLmVudmlyb25bIkRBVEFCQVNFX0hPU1QiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BPUlQiXX0nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYnL3tvcy5lbnZpcm9uWyJEQVRBQkFTRV9OQU1FIl19JykK</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoJ1NRTEFMQ0hFTVlfVVJMJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidwb3N0Z3Jlc3FsOi8ve29zLmVudmlyb25bIkRBVEFCQVNFX1VTRVIiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BBU1NXT1JEIl19Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidAe29zLmVudmlyb25bIkRBVEFCQVNFX0hPU1QiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BPUlQiXX0nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYnL3tvcy5lbnZpcm9uWyJEQVRBQkFTRV9OQU1FIl19JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoJ1NRTEFMQ0hFTVlfVVJMJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidwb3N0Z3Jlc3FsOi8ve29zLmVudmlyb25bIkRBVEFCQVNFX1VTRVIiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BBU1NXT1JEIl19Jwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29tcG9uZW50cyA9IFsKICAgIFNRTEFsY2hlbXlTZXNzaW9uQ29tcG9uZW50KHVybD0nc3FsaXRlOi8vJyksCl0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmV2ZW50X2hvb2tzID0gWwogICAgU1FMQWxjaGVteVRyYW5zYWN0aW9uSG9vaygpLApdCg==</text>
+        <text encoding="base64">Y29tcG9uZW50cyA9IFsKICAgIFNRTEFsY2hlbXlTZXNzaW9uQ29tcG9uZW50KHVybD0nc3FsaXRlOi8vJyksCl0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHNfdGVzdC50eHQgLWMgY29uc3RyYWludHMudHh0ICYmIFwK</text>
+        <text encoding="base64">CmV2ZW50X2hvb2tzID0gWwogICAgU1FMQWxjaGVteVRyYW5zYWN0aW9uSG9vaygpLApdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBpc3Rhci1hbGVtYmljLW1pZ3JhdGlvbnMgPSAiKiIK</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHNfdGVzdC50eHQgLWMgY29uc3RyYWludHMudHh0ICYmIFwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
