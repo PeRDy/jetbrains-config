@@ -1504,6 +1504,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/miner/ether.cfg.j2" timestamp="1525965011658">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="107" />
+        <mark key="^" line="5" column="107" />
+        <mark key="." line="5" column="107" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/LICENSE" timestamp="1522668910794">
         <mark key="[" line="654" column="13" />
       </file>
@@ -2237,6 +2243,11 @@
         <mark key="]" line="16" column="49" />
         <mark key="." line="16" column="49" />
         <mark key="^" line="16" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/miner/ether.py" timestamp="1525964865698">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="98" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tests/acceptance/requirements.txt" timestamp="1511875358883">
         <mark key="[" line="0" column="7" />
@@ -4235,53 +4246,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>foo: Foo</text>
+        <text>-S {pool_primary} -FS {pool_secondary} -O {worker}</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
       </register>
-      <register name="0" type="4">
-        <text>if static_url:
-            static_url = static_url.rstrip('/') + '/{+filename}'
-            extra_routes += [
-                Route(
-                    static_url, method='GET', handler=serve_static_wsgi,
-                    name='static', documented=False, standalone=True
-                )
-            ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN0cmF0dW0xK3RjcDovL3t7IGNvbW1vbi53YWxsZXQgfX1AZXRoLWV1MS5uYW5vcG9vbC5vcmc6OTk5OS97eyBtaW5lci5ldGhlci53b3JrZXIgfX0ve3sgY29tbW9uLmVtYWlsIH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBnb29ib3hfbm9kZXNfYXBpLmNvbXBvbmVudHMgaW1wb3J0IEZvbwo=</text>
+        <text encoding="base64">cG9vbF9zZWNvbmRhcnkgPSBldGgtZXUyLm5hbm9wb29sLm9yZzo5OTk5CndhbGxldCA9IHt7IGNvbW1vbi53YWxsZXQgfX0Kd29ya2VyID0ge3sgbWluZXIuZXRoZXIud29ya2VyIH19CmVtYWlsID0ge3sgY29tbW9uLmVtYWlsIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2FsbGV0ID0ge3sgY29tbW9uLndhbGxldCB9fQp3b3JrZXIgPSB7eyBtaW5lci5ldGhlci53b3JrZXIgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyIGltcG9ydCBDb21wb25lbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZW1haWw6CiAgICAgICAgICAgICAgICB3b3JrZXIgKz0gZicve2VtYWlsfScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZhaWxDb21wb25lbnQoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWwgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ2VtYWlsJywgZmFsbGJhY2s9Tm9uZSkKICAgICAgICAgICAgd29ya2VyID0gZid7c2VsZi5hY2NvdW50fS57d29ya2VyX25hbWV9Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9vbHMgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3Bvb2xzJykKICAgICAgICAgICAgd29ya2VyX25hbWUgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3dvcmtlcicsIGZhbGxiYWNrPSdXb3JrZXInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0ZvbycpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZW1haWw6CiAgICAgICAgICAgICAgICB3b3JrZXIgKz0gZicve2VtYWlsfScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgRmFpbENvbXBvbmVudChDb21wb25lbnQpOgogICAgZGVmIHJlc29sdmUoc2VsZikgLT4gRm9vOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWwgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ2VtYWlsJywgZmFsbGJhY2s9Tm9uZSkKICAgICAgICAgICAgd29ya2VyID0gZid7c2VsZi5hY2NvdW50fS57d29ya2VyX25hbWV9Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9vbHMgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3Bvb2xzJykKICAgICAgICAgICAgd29ya2VyX25hbWUgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3dvcmtlcicsIGZhbGxiYWNrPSdXb3JrZXInKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
