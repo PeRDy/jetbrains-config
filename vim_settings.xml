@@ -2973,8 +2973,8 @@
         <mark key="^" line="97" column="73" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/app.py" timestamp="1525959390076">
-        <mark key="[" line="14" column="29" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/app.py" timestamp="1525962608827">
+        <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -3278,11 +3278,10 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="130" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/routes.py" timestamp="1525951224899">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/routes.py" timestamp="1525962969521">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/js/topics_best_segments.js" timestamp="1465662897670">
         <mark key="[" line="12" column="71" />
@@ -3838,11 +3837,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/components.py" timestamp="1525961263694">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/components.py" timestamp="1525962598036">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="0" column="8" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources/status.rst" timestamp="1517223228280">
         <mark key="[" line="28" column="15" />
@@ -4235,14 +4234,14 @@
       <jump line="14" column="20" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_async</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QKCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>_async</text>
+        <text>foo: Foo</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
@@ -4258,31 +4257,31 @@
             ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFfcm91dGVzICs9IFsKICAgICAgICAgICAgICAgIFJvdXRlKHN0YXRpY191cmwsIG1ldGhvZD0nR0VUJywgaGFuZGxlcj1zZXJ2ZV9zdGF0aWNfYXNnaSwgZG9jdW1lbnRlZD1GYWxzZSwgbmFtZT0nc3RhdGljJywgc3RhbmRhbG9uZT1UcnVlKQogICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljX3VybCA9IHN0YXRpY191cmwucnN0cmlwKCcvJykgKyAnL3srZmlsZW5hbWV9Jwo=</text>
+        <text encoding="base64">ZnJvbSBnb29ib3hfbm9kZXNfYXBpLmNvbXBvbmVudHMgaW1wb3J0IEZvbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhdGljX3VybDoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAiYXBpc3RhciI6IHsKICAgICAgICAgICAgImhhc2hlcyI6IFsKICAgICAgICAgICAgICAgICJzaGEyNTY6NzJhOGFhODQxYmYzOTBiMTFiZjk4ZDU3OGYxMGNhZWQ3ZTZmMGUwYTVkOGJmYTJlYzYwYmYwODkzMjk2ZDUwYiIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgInZlcnNpb24iOiAiPT0wLjUuMTIiCiAgICAgICAgfSw=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBhcGlzdGFyIGltcG9ydCBDb21wb25lbnQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEZhaWxDb21wb25lbnQoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2ZvbycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0ZvbycpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidAe29zLmVudmlyb25bIkRBVEFCQVNFX0hPU1QiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BPUlQiXX0nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYnL3tvcy5lbnZpcm9uWyJEQVRBQkFTRV9OQU1FIl19JykK</text>
+        <text encoding="base64">Y2xhc3MgRmFpbENvbXBvbmVudChDb21wb25lbnQpOgogICAgZGVmIHJlc29sdmUoc2VsZikgLT4gRm9vOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoJ1NRTEFMQ0hFTVlfVVJMJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZidwb3N0Z3Jlc3FsOi8ve29zLmVudmlyb25bIkRBVEFCQVNFX1VTRVIiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BBU1NXT1JEIl19Jwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
