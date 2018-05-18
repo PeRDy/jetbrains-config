@@ -3909,6 +3909,10 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1526640022197">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="120" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525945722071">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="25" />
@@ -4245,8 +4249,8 @@
       <jump line="14" column="20" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://github.com/NebulousLabs/Sia/releases/download/v${SIA_VERSION}/Sia-v${SIA_VERSION}-linux-amd64.zip</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
