@@ -3909,9 +3909,11 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1526640022197">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="120" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1526984133398">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525945722071">
         <mark key="[" line="0" column="21" />
@@ -4249,8 +4251,8 @@
       <jump line="14" column="20" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://github.com/NebulousLabs/Sia/releases/download/v${SIA_VERSION}/Sia-v${SIA_VERSION}-linux-amd64.zip</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLXkgJEJVSUxEX1BBQ0tBR0VTICYmIFwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4265,34 +4267,34 @@
         <text encoding="base64">ICAgIHN0cmF0dW0xK3RjcDovL3t7IGNvbW1vbi53YWxsZXQgfX1AZXRoLWV1MS5uYW5vcG9vbC5vcmc6OTk5OS97eyBtaW5lci5ldGhlci53b3JrZXIgfX0ve3sgY29tbW9uLmVtYWlsIH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLXkgJEJVSUxEX1BBQ0tBR0VTICYmIFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG9vbF9zZWNvbmRhcnkgPSBldGgtZXUyLm5hbm9wb29sLm9yZzo5OTk5CndhbGxldCA9IHt7IGNvbW1vbi53YWxsZXQgfX0Kd29ya2VyID0ge3sgbWluZXIuZXRoZXIud29ya2VyIH19CmVtYWlsID0ge3sgY29tbW9uLmVtYWlsIH19Cg==</text>
+        <text encoding="base64">ICAgIGFwayBkZWwgJEJVSUxEX1BBQ0tBR0VTICYmIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2FsbGV0ID0ge3sgY29tbW9uLndhbGxldCB9fQp3b3JrZXIgPSB7eyBtaW5lci5ldGhlci53b3JrZXIgfX0K</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZW1haWw6CiAgICAgICAgICAgICAgICB3b3JrZXIgKz0gZicve2VtYWlsfScK</text>
+        <text encoding="base64">ICAgIHB5dGhvbjMgLW0gcGlwIGluc3RhbGwgLS1uby1jYWNoZSAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWwgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ2VtYWlsJywgZmFsbGJhY2s9Tm9uZSkKICAgICAgICAgICAgd29ya2VyID0gZid7c2VsZi5hY2NvdW50fS57d29ya2VyX25hbWV9Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9vbHMgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3Bvb2xzJykKICAgICAgICAgICAgd29ya2VyX25hbWUgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3dvcmtlcicsIGZhbGxiYWNrPSdXb3JrZXInKQo=</text>
+        <text encoding="base64">cG9vbF9zZWNvbmRhcnkgPSBldGgtZXUyLm5hbm9wb29sLm9yZzo5OTk5CndhbGxldCA9IHt7IGNvbW1vbi53YWxsZXQgfX0Kd29ya2VyID0ge3sgbWluZXIuZXRoZXIud29ya2VyIH19CmVtYWlsID0ge3sgY29tbW9uLmVtYWlsIH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZW1haWw6CiAgICAgICAgICAgICAgICB3b3JrZXIgKz0gZicve2VtYWlsfScK</text>
+        <text encoding="base64">d2FsbGV0ID0ge3sgY29tbW9uLndhbGxldCB9fQp3b3JrZXIgPSB7eyBtaW5lci5ldGhlci53b3JrZXIgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWwgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ2VtYWlsJywgZmFsbGJhY2s9Tm9uZSkKICAgICAgICAgICAgd29ya2VyID0gZid7c2VsZi5hY2NvdW50fS57d29ya2VyX25hbWV9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZW1haWw6CiAgICAgICAgICAgICAgICB3b3JrZXIgKz0gZicve2VtYWlsfScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9vbHMgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3Bvb2xzJykKICAgICAgICAgICAgd29ya2VyX25hbWUgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ3dvcmtlcicsIGZhbGxiYWNrPSdXb3JrZXInKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWwgPSBzZWxmLmNvbmZpZy5nZXQoJ2V0aGVyJywgJ2VtYWlsJywgZmFsbGJhY2s9Tm9uZSkKICAgICAgICAgICAgd29ya2VyID0gZid7c2VsZi5hY2NvdW50fS57d29ya2VyX25hbWV9Jwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4346,8 +4348,8 @@
         <entry encoding="base64">JzwsJz5zL2lucHV0L291dHB1dC9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
