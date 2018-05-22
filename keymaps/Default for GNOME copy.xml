@@ -5,9 +5,13 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="OptimizeImports" />
   <action id="ReformatCode" />
   <action id="Tool_External Tools_Black">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Tool_External Tools_isort">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="Vcs.ReformatCommitMessage" />
 </keymap>

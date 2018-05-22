@@ -25,10 +25,11 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_sqlalchemy.py" timestamp="1526993719260">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_sqlalchemy.py" timestamp="1527000731189">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="29" column="71" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Github.vue" timestamp="1498431379345">
         <mark key="[" line="54" column="17" />
@@ -564,6 +565,9 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/Pipfile.lock" timestamp="1527005336472">
+        <mark key="'" line="569" column="33" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/screens/Landing.js" timestamp="1518471924954">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="0" column="0" />
@@ -837,7 +841,7 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526985034007">
+      <file name="/Dummy.txt" timestamp="1526999491904">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -2637,10 +2641,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/.pre-commit-config.yaml" timestamp="1526993589276">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/.pre-commit-config.yaml" timestamp="1527004840194">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1518198917353">
         <mark key="[" line="20" column="6" />
@@ -3030,10 +3034,11 @@
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1526993594235">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1527002864835">
+        <mark key="[" line="34" column="21" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -3504,6 +3509,12 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.cfg" timestamp="1526996484115">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/schema.py" timestamp="1497478655653">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="4" column="0" />
@@ -3777,10 +3788,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" timestamp="1526993636264">
-        <mark key="[" line="57" column="29" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" timestamp="1526999396281">
+        <mark key="'" line="93" column="8" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="12" />
+        <mark key="^" line="92" column="12" />
+        <mark key="." line="92" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run.py" timestamp="1486056999851">
         <mark key="[" line="0" column="0" />
@@ -3923,6 +3936,11 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/.prospector.yaml" timestamp="1526996768454">
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/make.py" timestamp="1497534369047">
         <mark key="[" line="17" column="22" />
@@ -4071,11 +4089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3484" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3497" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3510" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3523" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3536" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3549" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3562" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3575" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4171,68 +4184,70 @@
       <jump line="281" column="34" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" />
       <jump line="303" column="42" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" />
       <jump line="14" column="20" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.cfg" />
+      <jump line="93" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/.pre-commit-config.yaml" />
+      <jump line="263" column="35" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/Pipfile.lock" />
+      <jump line="569" column="33" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/Pipfile.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>stable</text>
+        <text>isort</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>astroid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0cmF0dW0xK3RjcDovL3t7IGNvbW1vbi53YWxsZXQgfX1AZXRoLWV1MS5uYW5vcG9vbC5vcmc6OTk5OS97eyBtaW5lci5ldGhlci53b3JrZXIgfX0ve3sgY29tbW9uLmVtYWlsIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzOiBbLS1saW5lLWxlbmd0aD0xMjAsIC0tc2FmZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICBhcmdzOgogICAgICAgIC0gLXEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X25ld19ub19tb2RlbChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAtIC0tc2lsZW50LW92ZXJ3cml0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICAtIC13IDEyMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOmRkIHV0Zi04IC0qLQo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdzOgogICAgICAgIC0gLXcgMTIwCiAgICAgICAgLSAtcQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeTogcGlwZW52IHJ1biBwcm9zcGVjdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gICBpZDogZml4LWVuY29kaW5nLXByYWdtYQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRyeTogcGlwZW52IHJ1biBwcm9zcGVjdG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gICBpZDogdHJhaWxpbmctd2hpdGVzcGFjZQo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdzOiBbLS1saW5lLWxlbmd0aD0xMjAsIC0tc2FmZV0KICAgICAgICBweXRob25fdmVyc2lvbjogcHl0aG9uMy42Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gICBpZDogZW5kLW9mLWZpbGUtZml4ZXIK</text>
+        <text encoding="base64">ICAgIGhvb2tzOgogICAgLSAgIGlkOiBibGFjawo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3Jlc291cmNlL1NwZWNpYWxpemVkUHVwcHlSZXNvdXJjZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>astroid</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
-      <last-replace>input_type, output_type</last-replace>
-      <last-substitute>type_</last-substitute>
+      <last-pattern>astroid</last-pattern>
+      <last-replace>SpecializedPuppyResource</last-replace>
+      <last-substitute>resource</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>differ</entry>
-        <entry>no-self</entry>
-        <entry>settings</entry>
         <entry>\(\w\+\)=</entry>
         <entry>,</entry>
         <entry>url(</entry>
@@ -4250,9 +4265,11 @@
         <entry>input</entry>
         <entry>type_</entry>
         <entry>router</entry>
+        <entry>resource</entry>
+        <entry>prospector</entry>
+        <entry>astroid</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/mark.core/mark.unit/g</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS9yZXBvc2l0b3J5LlwxPS9n</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VybCgvcGF0aCgvZw==</entry>
@@ -4272,6 +4289,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc291cmNlL1NwZWNpYWxpemVkUHVwcHlSZXNvdXJjZS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
