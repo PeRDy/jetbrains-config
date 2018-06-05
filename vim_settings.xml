@@ -42,7 +42,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528194245824">
+      <file name="/a.dummy" timestamp="1528195680742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -586,9 +586,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/Pipfile.lock" timestamp="1527005336472">
-        <mark key="'" line="625" column="33" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/screens/Landing.js" timestamp="1518471924954">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="0" column="0" />
@@ -1082,6 +1079,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/main.py" timestamp="1528196538806">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1517223119863">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="38" />
@@ -1162,6 +1165,11 @@
         <mark key="]" line="141" column="52" />
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/routes.py" timestamp="1528196043629">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
@@ -1260,6 +1268,9 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/core/models/node.py" timestamp="1523213524815">
         <mark key="[" line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/app.py" timestamp="1528196012402">
+        <mark key="[" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
@@ -1625,8 +1636,8 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1528194387580">
-        <mark key="[" line="12" column="23" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1528196498959">
+        <mark key="[" line="72" column="23" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
@@ -4351,14 +4362,14 @@
       <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tc3lzdGVtIC0tZGVwbG95IC0taWdub3JlLXBpcGZpbGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tc3lzdGVtIC0tZGVwbG95IC0taWdub3JlLXBpcGZpbGUg</text>
+        <text>goobox_nodes_api</text>
       </register>
       <register name="/" type="4">
         <text>GooBox</text>
@@ -4367,34 +4378,34 @@
         <text encoding="base64">ICAgIHJtIC1yZiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC90bXAvKiBcCiAgICAgICAgL3Zhci90bXAvKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
+        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCAkQlVJTERfUEFDS0FHRVMgJiYgXAo=</text>
+        <text encoding="base64">ICAgIEluY2x1ZGUoJy9zdG9yal9ub2RlJywgJ3N0b3JqX25vZGUnLCBTdG9yak5vZGUucm91dGVzKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KE1haW4oKS5ydW4oKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAvdmFyL2xpYgo=</text>
+        <text encoding="base64">ZnJvbSBzdG9yal9ub2RlLnZpZXdzIGltcG9ydCBTdG9yak5vZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIHN5c3RlbSBkZXBlbmRlbmNpZXMK</text>
+        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCAkQlVJTERfUEFDS0FHRVMgJiYgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN5cy5leGl0KE1haW4oKS5ydW4oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WIExDX0FMTD0nQy5VVEYtOCcgUFlUSE9OSU9FTkNPRElORz0ndXRmLTgnCg==</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAvdmFyL2xpYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIEFQUD1naWxnYW1lc2gtYXBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -4447,9 +4458,9 @@
         <entry encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc291cmNlL1NwZWNpYWxpemVkUHVwcHlSZXNvdXJjZS9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -4523,6 +4534,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
