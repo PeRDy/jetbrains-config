@@ -1171,10 +1171,10 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/routes.py" timestamp="1528196043629">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/routes.py" timestamp="1528208608981">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
@@ -1640,12 +1640,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1528196498959">
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/__init__.py" timestamp="1514480183870">
         <mark key="[" line="0" column="20" />
@@ -2885,6 +2879,12 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/.pre-commit-config.yaml" timestamp="1528208583427">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/ducks/random-recipe.js" timestamp="1522442981561">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="68" />
@@ -3455,6 +3455,12 @@
         <mark key="]" line="27" column="67" />
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528209587122">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -4384,47 +4390,47 @@
       <jump line="469" column="4" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/serving.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>simple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC90bXAvKiBcCiAgICAgICAgL3Zhci90bXAvKgo=</text>
+        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Clt0b29sLnBvZXRyeS5zY3JpcHRzXQptYWluID0gImdpbGdhbWVzaF9hcGkubWFpbjptYWluIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEluY2x1ZGUoJy9zdG9yal9ub2RlJywgJ3N0b3JqX25vZGUnLCBTdG9yak5vZGUucm91dGVzKSwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gICBpZDogZmxha2U4Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Clt0b29sLnBvZXRyeS5zY3JpcHRzXQptYWluID0gImdpbGdhbWVzaF9hcGkubWFpbjptYWluIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzdG9yal9ub2RlLnZpZXdzIGltcG9ydCBTdG9yak5vZGUK</text>
+        <text encoding="base64">ICAgIEluY2x1ZGUoJy9zdG9yal9ub2RlJywgJ3N0b3JqX25vZGUnLCBTdG9yak5vZGUucm91dGVzKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCAkQlVJTERfUEFDS0FHRVMgJiYgXAo=</text>
+        <text encoding="base64">ZnJvbSBzdG9yal9ub2RlLnZpZXdzIGltcG9ydCBTdG9yak5vZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KE1haW4oKS5ydW4oKSkK</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
