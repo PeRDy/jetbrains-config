@@ -2777,12 +2777,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" timestamp="1528199369192">
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" timestamp="1528200205921">
         <mark key="'" line="9" column="6" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="9" column="34" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
         <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="34" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/.pre-commit-config.yaml" timestamp="1527009626029">
         <mark key="[" line="20" column="26" />
@@ -4376,14 +4376,14 @@
       <jump line="9" column="6" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
+      <register name="&quot;" type="4">
+        <text>development</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>goobox_nodes_api</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
         <text>goobox-nodes</text>
