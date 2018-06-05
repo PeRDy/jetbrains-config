@@ -3456,11 +3456,10 @@
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528209587122">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="1" column="38" />
-        <mark key="." line="1" column="38" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528213108874">
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -4390,47 +4389,47 @@
       <jump line="469" column="4" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/serving.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJub3RlcyI6IG51bGwsCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>simple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGFncmVlX3Rlcm1zID0gQ29sdW1uKEJvb2xlYW4sIHNlcnZlcl9kZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJub3RlcyI6IG51bGwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gICBpZDogZmxha2U4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Clt0b29sLnBvZXRyeS5zY3JpcHRzXQptYWluID0gImdpbGdhbWVzaF9hcGkubWFpbjptYWluIgo=</text>
+        <text encoding="base64">ICAgIGxhc3RfbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
+        <text encoding="base64">ICAgIGZpcnN0X25hbWUgPSBDb2x1bW4oVW5pY29kZSkKICAgIGxhc3RfbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEluY2x1ZGUoJy9zdG9yal9ub2RlJywgJ3N0b3JqX25vZGUnLCBTdG9yak5vZGUucm91dGVzKSwK</text>
+        <text encoding="base64">ZnJvbSBwc3ljb3BnMi50ZXN0cy50ZXN0X3R5cGVzX2V4dHJhcyBpbXBvcnQgUG9zaXRpdmVJbnRSYW5nZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzdG9yal9ub2RlLnZpZXdzIGltcG9ydCBTdG9yak5vZGUK</text>
+        <text encoding="base64">ICAgIC0gICBpZDogZmxha2U4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
+        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
