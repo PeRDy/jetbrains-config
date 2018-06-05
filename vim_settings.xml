@@ -42,7 +42,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528195680742">
+      <file name="/a.dummy" timestamp="1528205612059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -365,6 +365,9 @@
         <mark key="]" line="1" column="71" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/serving.py" timestamp="1528205039332">
+        <mark key="'" line="469" column="4" />
+      </file>
       <file name="$USER_HOME$/Development/perdy/trazabilidad/trazabilidad-api/iam/urls.py" timestamp="1517331259475">
         <mark key="[" line="7" column="18" />
       </file>
@@ -586,16 +589,18 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/Pipfile.lock" timestamp="1527005336472">
+        <mark key="'" line="625" column="33" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/screens/Landing.js" timestamp="1518471924954">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/pyproject.toml" timestamp="1528194940920">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/pyproject.toml" timestamp="1528205878085">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/.dockerignore" timestamp="1513874907189">
         <mark key="[" line="0" column="0" />
@@ -1067,11 +1072,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/Dockerfile" timestamp="1528198885641">
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/Dockerfile" timestamp="1528205855222">
         <mark key="[" line="30" column="34" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-        <mark key="^" line="29" column="34" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="10" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/stalkeo/stalkeo-app/src/admobs.js" timestamp="1522521626918">
         <mark key="[" line="12" column="4" />
@@ -1828,6 +1833,9 @@
         <mark key="]" line="98" column="48" />
         <mark key="^" line="98" column="48" />
         <mark key="." line="98" column="48" />
+      </file>
+      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" timestamp="1528205012392">
+        <mark key="'" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/.env" timestamp="1524595288754">
         <mark key="[" line="8" column="51" />
@@ -4274,9 +4282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3588" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3601" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3614" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3627" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3640" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3653" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4374,10 +4379,13 @@
       <jump line="10" column="24" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.cfg" />
       <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" />
       <jump line="9" column="6" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" />
+      <jump line="43" column="26" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" />
+      <jump line="469" column="4" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/serving.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>development</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4386,46 +4394,46 @@
         <text>development</text>
       </register>
       <register name="/" type="4">
-        <text>goobox-nodes</text>
+        <text>simple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJtIC1yZiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAogICAgICAgIC90bXAvKiBcCiAgICAgICAgL3Zhci90bXAvKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
+        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEluY2x1ZGUoJy9zdG9yal9ub2RlJywgJ3N0b3JqX25vZGUnLCBTdG9yak5vZGUucm91dGVzKSwK</text>
+        <text encoding="base64">Clt0b29sLnBvZXRyeS5zY3JpcHRzXQptYWluID0gImdpbGdhbWVzaF9hcGkubWFpbjptYWluIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHJvc3BlY3Rvci5wcm9zcGVjdG9yJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzdG9yal9ub2RlLnZpZXdzIGltcG9ydCBTdG9yak5vZGUK</text>
+        <text encoding="base64">ICAgIEluY2x1ZGUoJy9zdG9yal9ub2RlJywgJ3N0b3JqX25vZGUnLCBTdG9yak5vZGUucm91dGVzKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCAkQlVJTERfUEFDS0FHRVMgJiYgXAo=</text>
+        <text encoding="base64">ZnJvbSBzdG9yal9ub2RlLnZpZXdzIGltcG9ydCBTdG9yak5vZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN5cy5leGl0KE1haW4oKS5ydW4oKSkK</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAkSE9NRS8uY2FjaGUvcGlwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAvdmFyL2xpYgo=</text>
+        <text encoding="base64">UlVOIGFwayAtLW5vLWNhY2hlIGFkZCAkQlVJTERfUEFDS0FHRVMgJiYgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN5cy5leGl0KE1haW4oKS5ydW4oKSkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>goobox-nodes</last-search>
+      <last-search>simple</last-search>
       <last-offset />
-      <last-pattern>goobox-nodes</last-pattern>
+      <last-pattern>simple</last-pattern>
       <last-replace>gilgamesh</last-replace>
       <last-substitute>goobox-nodes</last-substitute>
       <last-dir>1</last-dir>
@@ -4433,8 +4441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DATABASE</entry>
-        <entry>default=''</entry>
         <entry>default</entry>
         <entry>DB_DEFAULT</entry>
         <entry>scrapy.Field()</entry>
@@ -4453,6 +4459,8 @@
         <entry>goobox</entry>
         <entry>GooBox</entry>
         <entry>goobox-nodes</entry>
+        <entry>run_simple</entry>
+        <entry>simple</entry>
       </history-search>
       <history-cmd>
         <entry>s/SET/ADD/g</entry>
