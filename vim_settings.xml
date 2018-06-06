@@ -42,7 +42,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528282373669">
+      <file name="/a.dummy" timestamp="1528291047423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -3457,9 +3457,9 @@
         <mark key="^" line="27" column="67" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528213108874">
-        <mark key="[" line="61" column="41" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="63" column="41" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -3898,9 +3898,11 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/users.py" timestamp="1528283982771">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="105" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/users.py" timestamp="1528290904349">
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/index.rst" timestamp="1507585629101">
         <mark key="[" line="30" column="0" />
@@ -4401,46 +4403,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgRmFjZWJvb2soQmFzZSk6CiAgICBfX3RhYmxlbmFtZV9fID0gIkZhY2Vib29rIgoKICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCiAgICBjcmVhdG9yX2lkID0gQ29sdW1uKEludGVnZXIsIEZvcmVpZ25LZXkoImNyZWF0b3IuaWQiKSkKICAgIGNyZWF0b3IgPSByZWxhdGlvbnNoaXAoIkNyZWF0b3IiLCBiYWNrX3BvcHVsYXRlcz0iY2hpbGQiKQogICAgYnJhbmRfaWQgPSBDb2x1bW4oSW50ZWdlciwgRm9yZWlnbktleSgiYnJhbmQuaWQiKSkKICAgIGJyYW5kID0gcmVsYXRpb25zaGlwKCJCcmFuZCIsIGJhY2tfcG9wdWxhdGVzPSJjaGlsZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Parent</text>
+        <text encoding="base64">dmltZW8g</text>
       </register>
       <register name="/" type="4">
         <text>Facebook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgRmFjZWJvb2soQmFzZSk6CiAgICBfX3RhYmxlbmFtZV9fID0gIkZhY2Vib29rIgoKICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCiAgICBjcmVhdG9yX2lkID0gQ29sdW1uKEludGVnZXIsIEZvcmVpZ25LZXkoImNyZWF0b3IuaWQiKSkKICAgIGNyZWF0b3IgPSByZWxhdGlvbnNoaXAoIkNyZWF0b3IiLCBiYWNrX3BvcHVsYXRlcz0iY2hpbGQiKQogICAgYnJhbmRfaWQgPSBDb2x1bW4oSW50ZWdlciwgRm9yZWlnbktleSgiYnJhbmQuaWQiKSkKICAgIGJyYW5kID0gcmVsYXRpb25zaGlwKCJCcmFuZCIsIGJhY2tfcG9wdWxhdGVzPSJjaGlsZCIpCg==</text>
+        <text encoding="base64">ICAgIHZpbWVvID0gQ29sdW1uKEpTT05CKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGluc3RhZ3JhbSA9IENvbHVtbihKU09OQikKICAgIGZhY2Vib29rID0gQ29sdW1uKEpTT05CKQogICAgdHdpdHRlciA9IENvbHVtbihKU09OQikKICAgIHlvdXR1YmUgPSBDb2x1bW4oSlNPTkIpCiAgICB2aW1lbyA9IENvbHVtbihKU09OQikKICAgIHBpbnRlcmVzdCA9IENvbHVtbihKU09OQikKICAgIHNuYXAgPSBDb2x1bW4oSlNPTkIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgSW5zdGEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJub3RlcyI6IG51bGwsCg==</text>
+        <text encoding="base64">Y2xhc3MgSW5zdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJub3RlcyI6IG51bGwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhc3RfbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0ZhY2Vib29rL1BpbnRlcmVzdC9n</text>
