@@ -3484,11 +3484,12 @@
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" timestamp="1528283987721">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="1" column="105" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" timestamp="1528289643316">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="81" column="57" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="73" column="3" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/development.py" timestamp="1516118259772">
         <mark key="[" line="39" column="0" />
@@ -4297,12 +4298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3627" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3640" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3653" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3666" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3679" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3692" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3705" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3718" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3731" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4397,66 +4392,71 @@
       <jump line="0" column="0" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" />
       <jump line="43" column="26" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" />
       <jump line="469" column="4" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/serving.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
+      <jump line="27" column="6" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
+      <jump line="38" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
+      <jump line="57" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBDb2x1bW4sIEludGVnZXIsIFVuaWNvZGUsIEFSUkFZLCBGbG9hdCwgRGF0ZSwgRGF0ZVRpbWUsIGZ1bmMsIFVuaWNvZGVUZXh0LCBCb29sZWFuCg==</text>
+        <text encoding="base64">Y2xhc3MgRmFjZWJvb2soQmFzZSk6CiAgICBfX3RhYmxlbmFtZV9fID0gIkZhY2Vib29rIgoKICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCiAgICBjcmVhdG9yX2lkID0gQ29sdW1uKEludGVnZXIsIEZvcmVpZ25LZXkoImNyZWF0b3IuaWQiKSkKICAgIGNyZWF0b3IgPSByZWxhdGlvbnNoaXAoIkNyZWF0b3IiLCBiYWNrX3BvcHVsYXRlcz0iY2hpbGQiKQogICAgYnJhbmRfaWQgPSBDb2x1bW4oSW50ZWdlciwgRm9yZWlnbktleSgiYnJhbmQuaWQiKSkKICAgIGJyYW5kID0gcmVsYXRpb25zaGlwKCJCcmFuZCIsIGJhY2tfcG9wdWxhdGVzPSJjaGlsZCIpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>Parent</text>
       </register>
       <register name="/" type="4">
-        <text>simple</text>
+        <text>Facebook</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBDb2x1bW4sIEludGVnZXIsIFVuaWNvZGUsIEFSUkFZLCBGbG9hdCwgRGF0ZSwgRGF0ZVRpbWUsIGZ1bmMsIFVuaWNvZGVUZXh0LCBCb29sZWFuCg==</text>
+        <text encoding="base64">Y2xhc3MgRmFjZWJvb2soQmFzZSk6CiAgICBfX3RhYmxlbmFtZV9fID0gIkZhY2Vib29rIgoKICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCiAgICBjcmVhdG9yX2lkID0gQ29sdW1uKEludGVnZXIsIEZvcmVpZ25LZXkoImNyZWF0b3IuaWQiKSkKICAgIGNyZWF0b3IgPSByZWxhdGlvbnNoaXAoIkNyZWF0b3IiLCBiYWNrX3BvcHVsYXRlcz0iY2hpbGQiKQogICAgYnJhbmRfaWQgPSBDb2x1bW4oSW50ZWdlciwgRm9yZWlnbktleSgiYnJhbmQuaWQiKSkKICAgIGJyYW5kID0gcmVsYXRpb25zaGlwKCJCcmFuZCIsIGJhY2tfcG9wdWxhdGVzPSJjaGlsZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJub3RlcyI6IG51bGwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhc3RfbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
+        <text encoding="base64">Y2xhc3MgSW5zdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpcnN0X25hbWUgPSBDb2x1bW4oVW5pY29kZSkKICAgIGxhc3RfbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBwc3ljb3BnMi50ZXN0cy50ZXN0X3R5cGVzX2V4dHJhcyBpbXBvcnQgUG9zaXRpdmVJbnRSYW5nZQo=</text>
+        <text encoding="base64">ICAgICJub3RlcyI6IG51bGwsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gICBpZDogZmxha2U4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHN5Y29wZzIgPSAiXjIuNyIK</text>
+        <text encoding="base64">ICAgIGxhc3RfbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL0ZhY2Vib29rL1BpbnRlcmVzdC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>simple</last-search>
+      <last-search>Facebook</last-search>
       <last-offset />
-      <last-pattern>simple</last-pattern>
-      <last-replace>gilgamesh</last-replace>
-      <last-substitute>goobox-nodes</last-substitute>
+      <last-pattern>Facebook</last-pattern>
+      <last-replace>Pinterest</last-replace>
+      <last-substitute>Facebook</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
         <entry>DB_DEFAULT</entry>
         <entry>scrapy.Field()</entry>
         <entry>\(\w\+\) =.*</entry>
@@ -4476,13 +4476,9 @@
         <entry>goobox-nodes</entry>
         <entry>run_simple</entry>
         <entry>simple</entry>
+        <entry>Facebook</entry>
       </history-search>
       <history-cmd>
-        <entry>s/SET/ADD/g</entry>
-        <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvRw==</entry>
-        <entry encoding="base64">JzwsJz5zL0RBVEFCQVNFL0RCL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0RBVEFCQVNFL0RC</entry>
-        <entry encoding="base64">JzwsJz5zL2RlZmF1bHQ9JycvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0RCX0RFRkFVTFQvREFUQUJBU0UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3NjcmFweS5GaWVsZCgpL0NvbHVtbigpL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpID0uKi8nXDEnOiBOb25lLC9n</entry>
@@ -4498,6 +4494,11 @@
         <entry>%s/goobox-nodes/gilgamesh/</entry>
         <entry>%s/goobox-nodes/gilgamesh/g</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL0luc3RhZ3JhbQ==</entry>
+        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1R3aXR0ZXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1lvdXR1YmUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1ZpbWVvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1BpbnRlcmVzdC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
