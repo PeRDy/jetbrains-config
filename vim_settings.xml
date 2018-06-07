@@ -1443,8 +1443,12 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" timestamp="1528293479205">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" timestamp="1528362274148">
+        <mark key="'" line="27" column="19" />
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+        <mark key="." line="8" column="63" />
       </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/python/tags.yaml" timestamp="1516204994507">
         <mark key="[" line="5" column="12" />
@@ -1690,10 +1694,10 @@
         <mark key="." line="27" column="67" />
         <mark key="^" line="27" column="67" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528296104915">
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528361638666">
         <mark key="'" line="29" column="50" />
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="88" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="31" column="54" />
         <mark key="." line="88" column="20" />
         <mark key="^" line="29" column="50" />
       </file>
@@ -4305,8 +4309,6 @@
       <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/apistar_sqlalchemy/database.py" timestamp="1528291791988" />
     </filemarks>
     <jumps>
-      <jump line="3731" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3744" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3757" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3770" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3783" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4405,68 +4407,67 @@
       <jump line="57" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/resources.py" />
       <jump line="29" column="50" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="8" column="20" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" />
+      <jump line="27" column="19" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGxpbnV4LWhlYWRlcnM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxpbnV4LWhlYWRlcnM=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>server_default</text>
+        <text>\([a-z_]\+\) = Column(Unicode)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEluY2x1ZGUoIi9icmFuZC8iLCBCcmFuZC5yb3V0ZXMpLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gQ29sdW1uKFVuaWNvZGUpCiAgICBwYXNzd29yZCA9IENvbHVtbihVbmljb2RlKQogICAgZW1haWwgPSBDb2x1bW4oVW5pY29kZSkKICAgIHNlY29uZGFyeV9lbWFpbHMgPSBDb2x1bW4oQVJSQVkoVW5pY29kZSkpCiAgICBwaG9uZSA9IENvbHVtbihVbmljb2RlKQogICAgbW9iaWxlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBhZGRyZXNzID0gQ29sdW1uKFVuaWNvZGUpCiAgICBzZWNvbmRhcnlfYWRkcmVzcyA9IENvbHVtbihVbmljb2RlKQogICAgY2l0eSA9IENvbHVtbihVbmljb2RlKQogICAgc3RhdGUgPSBDb2x1bW4oVW5pY29kZSkKICAgIHBvc3Rjb2RlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBjb3VudHJ5ID0gQ29sdW1uKFVuaWNvZGUpCiAgICBjb250aW5lbnQgPSBDb2x1bW4oVW5pY29kZSkKICAgIGxhdGl0dWRlID0gQ29sdW1uKEZsb2F0KQogICAgbG9uZ2l0dWRlID0gQ29sdW1uKEZsb2F0KQogICAgcHJvZmlsZV9pbWFnZSA9IENvbHVtbihVbmljb2RlKQogICAgbGFzdF9sb2dpbiA9IENvbHVtbihEYXRlVGltZSkKICAgIGxvZ2luX2NvdW50ZXIgPSBDb2x1bW4oSW50ZWdlciwgZGVmYXVsdD0wKQogICAgY3JlYXRlZCA9IENvbHVtbihEYXRlVGltZSwgZGVmYXVsdD1mdW5jLnV0Y25vdygpKQogICAgbW9kaWZpZWQgPSBDb2x1bW4oRGF0ZVRpbWUsIG9udXBkYXRlPWZ1bmMudXRjbm93KCkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">InBzeWNvcGcyLWIiID0gIioiCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">InBzeWNvcGcyLWIiID0gIioiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCmNsYXNzIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCmNsYXNzIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluc3RhZ3JhbSA9IENvbHVtbihKU09OQikKICAgIGZhY2Vib29rID0gQ29sdW1uKEpTT05CKQogICAgdHdpdHRlciA9IENvbHVtbihKU09OQikKICAgIHlvdXR1YmUgPSBDb2x1bW4oSlNPTkIpCiAgICB2aW1lbyA9IENvbHVtbihKU09OQikKICAgIHBpbnRlcmVzdCA9IENvbHVtbihKU09OQikKICAgIHNuYXAgPSBDb2x1bW4oSlNPTkIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGluc3RhZ3JhbSA9IENvbHVtbihKU09OQikKICAgIGZhY2Vib29rID0gQ29sdW1uKEpTT05CKQogICAgdHdpdHRlciA9IENvbHVtbihKU09OQikKICAgIHlvdXR1YmUgPSBDb2x1bW4oSlNPTkIpCiAgICB2aW1lbyA9IENvbHVtbihKU09OQikKICAgIHBpbnRlcmVzdCA9IENvbHVtbihKU09OQikKICAgIHNuYXAgPSBDb2x1bW4oSlNPTkIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHZhbGlkYXRvcnMuU3RyaW5nKHRpdGxlPSJcMSIsIGRlc2NyaXB0aW9uPSIiKS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>server_default</last-search>
+      <last-search>\([a-z_]\+\) = Column(Unicode)</last-search>
       <last-offset />
-      <last-pattern>server_default</last-pattern>
-      <last-replace>default</last-replace>
-      <last-substitute>server_default</last-substitute>
+      <last-pattern>\([a-z_]\+\) = Column(Unicode)</last-pattern>
+      <last-replace>\1 = validators.String(title=&quot;\1&quot;, description=&quot;&quot;)</last-replace>
+      <last-substitute>\([a-z_]\+\) = Column(Unicode)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\(\w\+\) =.*</entry>
-        <entry>TODO</entry>
-        <entry encoding="base64">ZGVmIA==</entry>
         <entry>(session: Session</entry>
         <entry>input</entry>
         <entry>type_</entry>
@@ -4484,13 +4485,11 @@
         <entry>Facebook</entry>
         <entry>Brand</entry>
         <entry>server_default</entry>
+        <entry>\(.+\) = Column(Unicode)</entry>
+        <entry>\(.\+\) = Column(Unicode)</entry>
+        <entry>\([a-z_]\+\) = Column(Unicode)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpID0uKi8nXDEnOiBOb25lLC9n</entry>
-        <entry encoding="base64">JzwsJz5zL1RPRE8vRklYTUUvZw==</entry>
-        <entry>%s/def /async def /g</entry>
-        <entry>%s/(session: Session/(self, session: Session/g</entry>
-        <entry encoding="base64">JzwsJz5zL2lucHV0L291dHB1dC9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc291cmNlL1NwZWNpYWxpemVkUHVwcHlSZXNvdXJjZS9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -4506,6 +4505,11 @@
         <entry encoding="base64">JzwsJz5zL0JyYW5kL0NyZWF0b3IvZw==</entry>
         <entry>%s/server_default/default/g</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL1woLitcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHR5cGVzLlN0cmluZyh0aXRsZT1cMSwgZGVzY3JpcHRpb249IiIpL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1woLlwrXCkgPSBDb2x1bW4oVW5pY29kZSkvXDEgPSB0eXBlcy5TdHJpbmcodGl0bGU9XDEsIGRlc2NyaXB0aW9uPSIiKS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHR5cGVzLlN0cmluZyh0aXRsZT1cMSwgZGVzY3JpcHRpb249IiIpL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHR5cGVzLlN0cmluZyh0aXRsZT0iXDEiLCBkZXNjcmlwdGlvbj0iIikvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHZhbGlkYXRvcnMuU3RyaW5nKHRpdGxlPSJcMSIsIGRlc2NyaXB0aW9uPSIiKS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
