@@ -741,10 +741,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.rst" timestamp="1523633674603">
-        <mark key="[" line="79" column="71" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.rst" timestamp="1528385559385">
+        <mark key="'" line="86" column="50" />
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="23" />
+        <mark key="." line="86" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/perdy-site-api/graphql.config.json" timestamp="1522230384959">
         <mark key="[" line="7" column="20" />
@@ -816,6 +817,9 @@
         <mark key="]" line="6" column="4" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/LICENSE" timestamp="1528384814324">
+        <mark key="[" line="654" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/client/src/scss/_base.scss" timestamp="1490228166230">
         <mark key="[" line="7" column="6" />
@@ -1639,8 +1643,11 @@
         <mark key="]" line="27" column="30" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/CHANGELOG.rst" timestamp="1527008042095">
-        <mark key="[" line="1" column="7" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/CHANGELOG.rst" timestamp="1528384846386">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegraf/README.rst" timestamp="1516031514078">
         <mark key="[" line="28" column="0" />
@@ -2334,9 +2341,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.py" timestamp="1527009819677">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.py" timestamp="1528384608037">
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="75" column="101" />
         <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/ducks/index.js" timestamp="1517952732594">
@@ -3129,8 +3136,8 @@
         <mark key="^" line="176" column="21" />
         <mark key="." line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tox.ini" timestamp="1527008133796">
-        <mark key="[" line="15" column="29" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tox.ini" timestamp="1528385024375">
+        <mark key="[" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/app.json" timestamp="1518469108217">
         <mark key="[" line="6" column="19" />
@@ -3857,6 +3864,12 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/pyproject.toml" timestamp="1528383952279">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/mixins.py" timestamp="1485535808398">
         <mark key="[" line="130" column="22" />
         <mark key="]" line="130" column="7" />
@@ -4010,6 +4023,9 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.cfg" timestamp="1528385402098">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/schema.py" timestamp="1497478655653">
         <mark key="[" line="7" column="29" />
@@ -4303,10 +4319,8 @@
         <mark key="^" line="58" column="35" />
         <mark key="." line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/apistar_sqlalchemy/database.py" timestamp="1528291791988" />
     </filemarks>
     <jumps>
-      <jump line="3757" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3770" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3783" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3796" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -4406,60 +4420,61 @@
       <jump line="29" column="50" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
       <jump line="8" column="20" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" />
       <jump line="27" column="19" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" />
+      <jump line="86" column="50" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.rst" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>API Star tools to create CRUD resources.</text>
+        <text>/</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>\([a-z_]\+\) = Column(Unicode)</text>
+        <text>'</text>
       </register>
-      <register name="0" type="4">
-        <text>API Star tools to create CRUD resources.</text>
+      <register name="0" type="2">
+        <text encoding="base64">djAuMi4zIC0gMjAxOC0wNS0yMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKGVuY29kaW5nPSdhcHBsaWNhdGlvbi9qc29uJywgc3RhdHVzX2NvZGU9YW5ub3RhdGlvbi5zdGF0dXNfY29kZSwgc2NoZW1hPWFubm90YXRpb24pICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiBpc2luc3RhbmNlKGFubm90YXRpb24sIGh0dHAuSlNPTlJlc3BvbnNlKToK</text>
+        <text encoding="base64">W21ldGFkYXRhXQpkZXNjcmlwdGlvbi1maWxlID0gUkVBRE1FLnJzdApsaWNlbnNlLWZpbGUgPSBMSUNFTlNFCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyLmh0dHAgaW1wb3J0IEpTT05SZXNwb25zZQo=</text>
+        <text encoding="base64">W21ldGFkYXRhXQpkZXNjcmlwdGlvbi1maWxlID0gUkVBRE1FLnJzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKGVuY29kaW5nPSdhcHBsaWNhdGlvbi9qc29uJywgc3RhdHVzX2NvZGU9YW5ub3RhdGlvbi5zdGF0dXNfY29kZSwgc2NoZW1hPWFubm90YXRpb24pICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">InBzeWNvcGcyLWIiID0gIioiCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiBpc2luc3RhbmNlKGFubm90YXRpb24sIGh0dHAuSlNPTlJlc3BvbnNlKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyLmh0dHAgaW1wb3J0IEpTT05SZXNwb25zZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCmNsYXNzIAo=</text>
+        <text encoding="base64">InBzeWNvcGcyLWIiID0gIioiCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>\([a-z_]\+\) = Column(Unicode)</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>\([a-z_]\+\) = Column(Unicode)</last-pattern>
-      <last-replace>\1 = validators.String(title=&quot;\1&quot;, description=&quot;&quot;)</last-replace>
-      <last-substitute>\([a-z_]\+\) = Column(Unicode)</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -4472,7 +4487,6 @@
         <entry>resource</entry>
         <entry>prospector</entry>
         <entry>astroid</entry>
-        <entry>'</entry>
         <entry>Goobox</entry>
         <entry>goobox</entry>
         <entry>GooBox</entry>
@@ -4485,13 +4499,12 @@
         <entry>\(.+\) = Column(Unicode)</entry>
         <entry>\(.\+\) = Column(Unicode)</entry>
         <entry>\([a-z_]\+\) = Column(Unicode)</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3R5cGVfL2lucHV0X3R5cGUsIG91dHB1dF90eXBlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc291cmNlL1NwZWNpYWxpemVkUHVwcHlSZXNvdXJjZS9n</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>%s/goobox-nodes/gilgamesh/</entry>
         <entry>%s/goobox-nodes/gilgamesh/g</entry>
         <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL0luc3RhZ3JhbQ==</entry>
@@ -4507,6 +4520,8 @@
         <entry encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHR5cGVzLlN0cmluZyh0aXRsZT0iXDEiLCBkZXNjcmlwdGlvbj0iIikvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHZhbGlkYXRvcnMuU3RyaW5nKHRpdGxlPSJcMSIsIGRlc2NyaXB0aW9uPSIiKS9n</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>%s/'/&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
