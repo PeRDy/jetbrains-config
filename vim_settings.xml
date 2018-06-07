@@ -684,9 +684,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/__init__.py" timestamp="1526993602086">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/__init__.py" timestamp="1528383249785">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="58" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/run" timestamp="1513640837882">
@@ -1358,11 +1358,6 @@
         <mark key="]" line="58" column="0" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/.pre-commit-config.yaml" timestamp="1527009626029">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/uwsgi.ini" timestamp="1516659334234">
         <mark key="[" line="3" column="12" />
@@ -4413,8 +4408,8 @@
       <jump line="27" column="19" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKGVuY29kaW5nPSdhcHBsaWNhdGlvbi9qc29uJywgc3RhdHVzX2NvZGU9YW5ub3RhdGlvbi5zdGF0dXNfY29kZSwgc2NoZW1hPWFubm90YXRpb24pICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>API Star tools to create CRUD resources.</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4426,7 +4421,7 @@
         <text>\([a-z_]\+\) = Column(Unicode)</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHVzZXJuYW1lID0gQ29sdW1uKFVuaWNvZGUpCiAgICBwYXNzd29yZCA9IENvbHVtbihVbmljb2RlKQogICAgZW1haWwgPSBDb2x1bW4oVW5pY29kZSkKICAgIHNlY29uZGFyeV9lbWFpbHMgPSBDb2x1bW4oQVJSQVkoVW5pY29kZSkpCiAgICBwaG9uZSA9IENvbHVtbihVbmljb2RlKQogICAgbW9iaWxlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBhZGRyZXNzID0gQ29sdW1uKFVuaWNvZGUpCiAgICBzZWNvbmRhcnlfYWRkcmVzcyA9IENvbHVtbihVbmljb2RlKQogICAgY2l0eSA9IENvbHVtbihVbmljb2RlKQogICAgc3RhdGUgPSBDb2x1bW4oVW5pY29kZSkKICAgIHBvc3Rjb2RlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBjb3VudHJ5ID0gQ29sdW1uKFVuaWNvZGUpCiAgICBjb250aW5lbnQgPSBDb2x1bW4oVW5pY29kZSkKICAgIGxhdGl0dWRlID0gQ29sdW1uKEZsb2F0KQogICAgbG9uZ2l0dWRlID0gQ29sdW1uKEZsb2F0KQogICAgcHJvZmlsZV9pbWFnZSA9IENvbHVtbihVbmljb2RlKQogICAgbGFzdF9sb2dpbiA9IENvbHVtbihEYXRlVGltZSkKICAgIGxvZ2luX2NvdW50ZXIgPSBDb2x1bW4oSW50ZWdlciwgZGVmYXVsdD0wKQogICAgY3JlYXRlZCA9IENvbHVtbihEYXRlVGltZSwgZGVmYXVsdD1mdW5jLnV0Y25vdygpKQogICAgbW9kaWZpZWQgPSBDb2x1bW4oRGF0ZVRpbWUsIG9udXBkYXRlPWZ1bmMudXRjbm93KCkp</text>
+        <text>API Star tools to create CRUD resources.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKGVuY29kaW5nPSdhcHBsaWNhdGlvbi9qc29uJywgc3RhdHVzX2NvZGU9YW5ub3RhdGlvbi5zdGF0dXNfY29kZSwgc2NoZW1hPWFubm90YXRpb24pICAgICAgICAgICAgCg==</text>
