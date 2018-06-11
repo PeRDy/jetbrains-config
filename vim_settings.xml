@@ -303,6 +303,11 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="50" column="19" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_sqlalchemy.py" timestamp="1528720058586">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_nvidia.service" timestamp="1504689032849">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="29" />
@@ -848,8 +853,10 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/apistar_pagination/http.py" timestamp="1528717279137">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/apistar_pagination/http.py" timestamp="1528718897970">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/Dockerfile" timestamp="1528294235249">
         <mark key="[" line="3" column="45" />
@@ -1676,6 +1683,11 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/apistar_pagination/__init__.py" timestamp="1528719005226">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/flights_analyzer/settings.py" timestamp="1512000924289">
         <mark key="[" line="77" column="53" />
@@ -3607,46 +3619,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xpbm5lci5ydW4uY29tbWFuZHMuZGlzdC5kaXN0IiwK</text>
+        <text encoding="base64">ICAgIGRlZiBhbm90aGVyX3B1cHB5KHNlbGYpOgogICAgICAgIHJldHVybiB7Im5hbWUiOiAicHVwcGl0byJ9Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>resource</text>
+        <text>Include</text>
       </register>
       <register name="/" type="4">
         <text>crud</text>
       </register>
       <register name="0" type="4">
-        <text>https://badge.fury.io/py/apistar-pagination.svg</text>
+        <text>[Include(&quot;/puppy&quot;, &quot;puppy&quot;, PuppyResource.routes)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xpbm5lci5ydW4uY29tbWFuZHMuZGlzdC5kaXN0IiwK</text>
+        <text encoding="base64">ICAgIGRlZiBhbm90aGVyX3B1cHB5KHNlbGYpOgogICAgICAgIHJldHVybiB7Im5hbWUiOiAicHVwcGl0byJ9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xpbm5lci5ydW4uY29tbWFuZHMuc3BoaW54LnNwaGlueCIsCg==</text>
+        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xpbm5lci5ydW4uY29tbWFuZHMuc3BoaW54LnNwaGlueCIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YWlvZmlsZXMgPSAiXjAuMy4yIgp3aGl0ZW5vaXNlID0gIl4zLjMiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3FsYWxjaGVteSA9ICJeMS4yIgphcGlzdGFyLXNxbGFsY2hlbXkgPSAiXjAuMy4xIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fCAgICAgICAgIHwgICAgICAgfAp8IC0tLS0tLS0gfCAtLS0tLSB8Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YXN5bmNfYXBwID0gQVN5bmNBcHAocm91dGVzPXJvdXRlcykKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cm91dGVzID0gW0luY2x1ZGUoIi9wdXBweSIsICJwdXBweSIsIFB1cHB5UmVzb3VyY2Uucm91dGVzKV0KCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGNvbnRlbnQoc2VsZik6CiAgICAgICAgcmV0dXJuIGxpc3QocmFuZ2UoMjUpKQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Li4gfGJ1aWxkLXN0YXR1c3wgaW1hZ2U6OiBodHRwczovL3RyYXZpcy1jaS5vcmcvUGVSRHkvYXBpc3Rhci1wYWdpbmF0aW9uLnN2Zz9icmFuY2g9bWFzdGVyCiAgICA6YWx0OiBidWlsZCBzdGF0dXMKICAgIDpzY2FsZTogMTAwJQogICAgOnRhcmdldDogaHR0cHM6Ly90cmF2aXMtY2kub3JnL1BlUkR5L2FwaXN0YXItcGFnaW5hdGlvbgouLiB8Y292ZXJhZ2V8IGltYWdlOjogaHR0cHM6Ly9jb2RlY292LmlvL2doL1BlUkR5L2FwaXN0YXItcGFnaW5hdGlvbi9icmFuY2gvbWFzdGVyL2dyYXBoL2JhZGdlLnN2ZwogICAgOmFsdDogY292ZXJhZ2UKICAgIDpzY2FsZTogMTAwJQogICAgOnRhcmdldDogaHR0cHM6Ly9jb2RlY292LmlvL2doL1BlUkR5L2FwaXN0YXItcGFnaW5hdGlvbi9icmFuY2gvbWFzdGVyL2dyYXBoL2JhZGdlLnN2ZwouLiB8dmVyc2lvbnwgaW1hZ2U6OiBodHRwczovL2JhZGdlLmZ1cnkuaW8vcHkvYXBpc3Rhci1wYWdpbmF0aW9uLnN2ZwogICAgOmFsdDogdmVyc2lvbgogICAgOnNjYWxlOiAxMDAlCiAgICA6dGFyZ2V0OiBodHRwczovL2JhZGdlLmZ1cnkuaW8vcHkvYXBpc3Rhci1wYWdpbmF0aW9uCg==</text>
+        <text encoding="base64">YXBwID0gQXBwKHJvdXRlcz1yb3V0ZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NydWQvcGFnaW5hdGlvbi9n</text>
