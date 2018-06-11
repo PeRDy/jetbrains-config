@@ -473,6 +473,9 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/run" timestamp="1528710780976">
+        <mark key="[" line="15" column="59" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/__main__.py" timestamp="1487620591508">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="19" />
@@ -3193,6 +3196,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="126" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/README.md" timestamp="1528710681461">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="53" />
+        <mark key="^" line="20" column="53" />
+        <mark key="." line="20" column="53" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/models.py" timestamp="1522495247872">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="143" column="0" />
@@ -3299,11 +3308,8 @@
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1526984133398">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/docker-sia/Dockerfile" timestamp="1528710185050">
+        <mark key="[" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525945722071">
         <mark key="[" line="0" column="21" />
@@ -3587,7 +3593,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJvdXRlKCIvIiwgIkdFVCIsIGhvbWUsIG5hbWU9ImhvbWUiLCBkb2N1bWVudGVkPUZhbHNlKSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3599,34 +3605,34 @@
         <text>gilgamesh_api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlKCIvIiwgIkdFVCIsIGhvbWUsIG5hbWU9ImhvbWUiLCBkb2N1bWVudGVkPUZhbHNlKSwK</text>
+        <text encoding="base64">ICAgIGRvY2tlciBydW4gLXAgODAwMDo4MDAwIGdvb2JveC9kb2NrZXItc2lhOmxhdGVzdCBzdGFydAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgXAogICAgYXB0LWdldCBpbnN0YWxsIC15ICRCVUlMRF9QQUNLQUdFUyAmJiBc</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC92YXIvdG1wLyoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSAkQlVJTERfUEFDS0FHRVMgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCiAgICBybSAtcmYgXAogICAgICAgIC92YXIvbGliL2FwdC9saXN0cy8qIFwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Im1lc3NhZ2UiOiAiV2VsY29tZSB0byBTb3VmdCBXZWJzaXRlLCBjaGVjayAvZG9jcyBmb3IgZnVsbCBkb2N1bWVudGF0aW9uLiJ9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEluY2x1ZGUoIi9icmFuZCIsICJCcmFuZCIsIEJyYW5kLnJvdXRlcyksCiAgICBJbmNsdWRlKCIvY3JlYXRvciIsICJDcmVhdG9yIiwgQ3JlYXRvci5yb3V0ZXMpLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1c2Vycy5yZXNvdXJjZXMgaW1wb3J0IEJyYW5kLCBDcmVhdG9yCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIF9kb3dubG9hZF9jb25zZW5zdXMoKToKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBfZG93bmxvYWRfY29uc2Vuc3VzKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlY29tcHJlc3MgPSB6bGliLmRlY29tcHJlc3NvYmooMTYremxpYi5NQVhfV0JJVFMpCiAgICB3aXRoIG9wZW4oREJfRklMRSwgJ3diJykgYXMgb3V0cHV0X2ZpbGUsIHJlcXVlc3RzLmdldChEQl9VUkwsIHN0cmVhbT1UcnVlKSBhcyByOgogICAgICAgIHRvdGFsID0gaW50KHIuaGVhZGVycy5nZXQoJ2NvbnRlbnQtbGVuZ3RoJywgMCkpCgogICAgICAgIHdpdGggdHFkbSh0b3RhbD10b3RhbCwgdW5pdD0nQicsIHVuaXRfc2NhbGU9VHJ1ZSwgdW5pdF9kaXZpc29yPTIgKiogMTApIGFzIHBiYXI6CiAgICAgICAgICAgIGZvciBkYXRhIGluIHIuaXRlcl9jb250ZW50KDMyICogKDIgKiogMTApKToKICAgICAgICAgICAgICAgIG91dHB1dF9maWxlLndyaXRlKGRlY29tcHJlc3MuZGVjb21wcmVzcyhkYXRhKSkKICAgICAgICAgICAgICAgIHBiYXIudXBkYXRlKGxlbihkYXRhKSkKCiAgICAgICAgb3V0cHV0X2ZpbGUud3JpdGUoZGVjb21wcmVzcy5mbHVzaCgpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlY29tcHJlc3MgPSB6bGliLmRlY29tcHJlc3NvYmooMTYremxpYi5NQVhfV0JJVFMpCiAgICB3aXRoIG9wZW4oREJfRklMRSwgJ3diJykgYXMgb3V0cHV0X2ZpbGUsIHJlcXVlc3RzLmdldChEQl9VUkwsIHN0cmVhbT1UcnVlKSBhcyByOgogICAgICAgIHRvdGFsID0gaW50KHIuaGVhZGVycy5nZXQoJ2NvbnRlbnQtbGVuZ3RoJywgMCkpCgogICAgICAgIHdpdGggdHFkbSh0b3RhbD10b3RhbCwgdW5pdD0nQicsIHVuaXRfc2NhbGU9VHJ1ZSwgdW5pdF9kaXZpc29yPTIgKiogMTApIGFzIHBiYXI6CiAgICAgICAgICAgIGZvciBkYXRhIGluIHIuaXRlcl9jb250ZW50KDMyICogKDIgKiogMTApKToKICAgICAgICAgICAgICAgIG91dHB1dF9maWxlLndyaXRlKGRlY29tcHJlc3MuZGVjb21wcmVzcyhkYXRhKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycygnY29uc2Vuc3VzJywgZXhpc3Rfb2s9VHJ1ZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIAo=</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">CkBjb21tYW5kKGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5QWVRIT04sIHBhcnNlcl9vcHRzPXsiaGVscCI6ICJDcmVhdGUgdGFibGVzIn0pCmRlZiBjcmVhdGVfdGFibGVzKCphcmdzLCAqKmt3YXJncyk6CiAgICBmcm9tIGFwaXN0YXJfc3FsYWxjaGVteSBpbXBvcnQgZGF0YWJhc2UKICAgIGZyb20gd2Vic2l0ZS5hcHAgaW1wb3J0IGNvbXBvbmVudHMKCiAgICBkYXRhYmFzZS5CYXNlLm1ldGFkYXRhLmNyZWF0ZV9hbGwoY29tcG9uZW50c1swXS5lbmdpbmUpCgoKQGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlBZVEhPTiwgcGFyc2VyX29wdHM9eyJoZWxwIjogIkRyb3AgdGFibGVzIn0pCmRlZiBkcm9wX3RhYmxlcygqYXJncywgKiprd2FyZ3MpOgogICAgZnJvbSBhcGlzdGFyX3NxbGFsY2hlbXkgaW1wb3J0IGRhdGFiYXNlCiAgICBmcm9tIHdlYnNpdGUuYXBwIGltcG9ydCBjb21wb25lbnRzCgogICAgZGF0YWJhc2UuQmFzZS5tZXRhZGF0YS5kcm9wX2FsbChjb21wb25lbnRzWzBdLmVuZ2luZSkK</text>
+        <text encoding="base64">YXB0LWdldCB1cGRhdGUgJiYgXAogICAgYXB0LWdldCBpbnN0YWxsIC15ICRCVUlMRF9QQUNLQUdFUyAmJiBc</text>
       </register>
       <register name=":" type="4">
         <text>%s/gilgamesh_api/website/g</text>
