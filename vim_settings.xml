@@ -27,7 +27,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528722621180">
+      <file name="/a.dummy" timestamp="1528730469482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -849,11 +849,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/apistar_pagination/http.py" timestamp="1528729289849">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="31" column="75" />
-        <mark key="." line="31" column="75" />
-        <mark key="^" line="31" column="75" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/apistar_pagination/http.py" timestamp="1528730400823">
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/Dockerfile" timestamp="1528294235249">
         <mark key="[" line="3" column="45" />
@@ -2076,8 +2076,8 @@
         <mark key="." line="10" column="81" />
         <mark key="^" line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/setup.cfg" timestamp="1528716454883">
-        <mark key="[" line="10" column="10" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/setup.cfg" timestamp="1528730883522">
+        <mark key="[" line="15" column="80" />
         <mark key="]" line="77" column="0" />
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
@@ -2817,11 +2817,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" timestamp="1528729181721">
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="27" />
-        <mark key="^" line="39" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" timestamp="1528730644560">
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="59" column="7" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -3621,47 +3621,47 @@
       <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>default_offset_explicit_limit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>default_offset_explicit_limit</text>
+        <text>limit_offset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">KHNlbGYsIA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlZmF1bHRfb2Zmc2V0X2V4cGxpY2l0X2xpbWl0KHNlbGYsIGNsaWVudCk6CiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KCIvZm9vIiwgcGFyYW1zPXsibGltaXQiOiA1fSkKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAwCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBsaXN0KHJhbmdlKDUpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlZmF1bHRfcGFyYW1zKHNlbGYsIGNsaWVudCk6CiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KCIvcGFnZV9udW1iZXIiKQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDAKICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IGxpc3QocmFuZ2UoMTApKQogICAgICAgIAogICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGxpbWl0IGlzIE5vbmU6CiAgICAgICAgbGltaXQgPSAxMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG9mZnNldCBpcyBOb25lOgogICAgICAgIG9mZnNldCA9IDAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpAcHl0ZXN0LmZpeHR1cmUKZGVmIGFzeW5jX2FwcChyb3V0ZXMpOgo=</text>
+        <text encoding="base64">ICAgIGlmIGxpbWl0IGlzIE5vbmU6CiAgICAgICAgbGltaXQgPSAxMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGlmIG9mZnNldCBpcyBOb25lOgogICAgICAgIG9mZnNldCA9IDAKICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHAocm91dGVzKToK</text>
+        <text encoding="base64">CgpAcHl0ZXN0LmZpeHR1cmUKZGVmIGFzeW5jX2FwcChyb3V0ZXMpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHAocm91dGVzKToK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhzZWxmLCAvKC9n</text>
