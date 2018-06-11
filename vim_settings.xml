@@ -2831,11 +2831,8 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" timestamp="1528732174491">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="86" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" timestamp="1528733150369">
         <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -3548,7 +3545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3835" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3848" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3861" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3874" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3648,6 +3644,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" />
       <jump line="3" column="97" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" />
       <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" />
+      <jump line="8" column="35" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/pyproject.toml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3825,6 +3822,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
