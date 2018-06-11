@@ -2817,8 +2817,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" timestamp="1528723002161">
-        <mark key="[" line="14" column="20" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" timestamp="1528727151289">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="72" />
+        <mark key="^" line="14" column="82" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -3516,7 +3519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3822" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3835" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3848" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3861" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3616,66 +3618,66 @@
       <jump line="40" column="44" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.rst" />
       <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" />
       <jump line="3" column="97" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gY29udGVudFtzZWxmLm9mZnNldCA6IHNlbGYub2Zmc2V0ICsgc2VsZi5saW1pdF0K</text>
+      <register name="&quot;" type="4">
+        <text>, static_dir=None, docs_url=None, schema_url=None</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>((self.page_number - 1) * self.page_size) : (self.page_number * self.page_size)</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>crud</text>
+        <text encoding="base64">KHNlbGYsIA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gY29udGVudFsoKHNlbGYucGFnZV9udW1iZXIgLSAxKSAqIHNlbGYucGFnZV9zaXplKSA6IChzZWxmLnBhZ2VfbnVtYmVyICogc2VsZi5wYWdlX3NpemUpXQo=</text>
+      <register name="0" type="4">
+        <text>, static_dir=None, docs_url=None, schema_url=None</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gY29udGVudFtzZWxmLm9mZnNldCA6IHNlbGYub2Zmc2V0ICsgc2VsZi5saW1pdF0K</text>
+        <text encoding="base64">CgpAcHl0ZXN0LmZpeHR1cmUKZGVmIGFzeW5jX2FwcChyb3V0ZXMpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gY29udGVudFtpbml0OmVuZF0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhcHAocm91dGVzKToK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9jcmVhdGUoc2VsZiwgY2xpZW50LCBwdXBweSk6CiAgICAgICAgIyBTdWNjZXNzZnVsbHkgY3JlYXRlIGEgbmV3IHJlY29yZAogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnBvc3QoIi9wdXBweS8iLCBqc29uPXB1cHB5KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBjcmVhdGVkX3B1cHB5ID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0IGNyZWF0ZWRfcHVwcHlbIm5hbWUiXSA9PSAiY2FubmEiCgogICAgICAgICMgTGlzdCBhbGwgdGhlIGV4aXN0aW5nIHJlY29yZHMKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5nZXQoIi9wdXBweS8iKQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDAKICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtjcmVhdGVkX3B1cHB5XQoKICAgIGRlZiB0ZXN0X3JldHJpZXZlKHNlbGYsIGNsaWVudCwgcHVwcHkpOgogICAgICAgICMgU3VjY2Vzc2Z1bGx5IGNyZWF0ZSBhIG5ldyByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wb3N0KCIvcHVwcHkvIiwganNvbj1wdXBweSkKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAxCiAgICAgICAgY3JlYXRlZF9wdXBweSA9IHJlc3BvbnNlLmpzb24oKQogICAgICAgIGFzc2VydCBjcmVhdGVkX3B1cHB5WyJuYW1lIl0gPT0gImNhbm5hIgoKICAgICAgICAjIFJldHJpZXZlIHNhbWUgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KCIvcHVwcHkve30iLmZvcm1hdChjcmVhdGVkX3B1cHB5WyJpZCJdKSkKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAwCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBjcmVhdGVkX3B1cHB5CgogICAgZGVmIHRlc3RfcmV0cmlldmVfbm90X2ZvdW5kKHNlbGYsIGNsaWVudCk6CiAgICAgICAgIyByZXRyaWV2ZSB3cm9uZyByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5nZXQoIi9wdXBweS9mb28vIikKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gNDA0CgogICAgZGVmIHRlc3RfdXBkYXRlKHNlbGYsIGNsaWVudCwgcHVwcHksIGFub3RoZXJfcHVwcHkpOgogICAgICAgICMgU3VjY2Vzc2Z1bGx5IGNyZWF0ZSBhIG5ldyByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wb3N0KCIvcHVwcHkvIiwganNvbj1wdXBweSkKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAxCiAgICAgICAgY3JlYXRlZF9wdXBweSA9IHJlc3BvbnNlLmpzb24oKQogICAgICAgIGFzc2VydCBjcmVhdGVkX3B1cHB5WyJuYW1lIl0gPT0gImNhbm5hIgoKICAgICAgICAjIFVwZGF0ZSByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wdXQoIi9wdXBweS97fS8iLmZvcm1hdChjcmVhdGVkX3B1cHB5WyJpZCJdKSwganNvbj1hbm90aGVyX3B1cHB5KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDAKICAgICAgICB1cGRhdGVkX3B1cHB5ID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0IHVwZGF0ZWRfcHVwcHlbIm5hbWUiXSA9PSAicHVwcGl0byIKCiAgICAgICAgIyBMaXN0IGFsbCB0aGUgZXhpc3RpbmcgcmVjb3JkcwogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCgiL3B1cHB5LyIpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gW3VwZGF0ZWRfcHVwcHldCgogICAgZGVmIHRlc3RfdXBkYXRlX25vdF9mb3VuZChzZWxmLCBjbGllbnQsIHB1cHB5KToKICAgICAgICAjIHJldHJpZXZlIHdyb25nIHJlY29yZAogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnB1dCgiL3B1cHB5L2Zvby8iLCBqc29uPXB1cHB5KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSA0MDQKCiAgICBkZWYgdGVzdF9kZWxldGUoc2VsZiwgY2xpZW50LCBwdXBweSk6CiAgICAgICAgIyBTdWNjZXNzZnVsbHkgY3JlYXRlIGEgbmV3IHJlY29yZAogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnBvc3QoIi9wdXBweS8iLCBqc29uPXB1cHB5KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBjcmVhdGVkX3B1cHB5ID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0IGNyZWF0ZWRfcHVwcHlbIm5hbWUiXSA9PSAiY2FubmEiCgogICAgICAgICMgUmV0cmlldmUgc2FtZSByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5nZXQoIi9wdXBweS97fS8iLmZvcm1hdChjcmVhdGVkX3B1cHB5WyJpZCJdKSkKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAwCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBjcmVhdGVkX3B1cHB5CgogICAgICAgICMgRGVsZXRlIHJlY29yZAogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmRlbGV0ZSgiL3B1cHB5L3t9LyIuZm9ybWF0KGNyZWF0ZWRfcHVwcHlbImlkIl0pKQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDQKCiAgICAgICAgIyBSZXRyaWV2ZSBkZWxldGVkIHJlY29yZAogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCgiL3B1cHB5L3t9Ii5mb3JtYXQoY3JlYXRlZF9wdXBweVsiaWQiXSkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDQwNAoKICAgIGRlZiB0ZXN0X2xpc3Qoc2VsZiwgY2xpZW50LCBwdXBweSwgYW5vdGhlcl9wdXBweSk6CiAgICAgICAgIyBTdWNjZXNzZnVsbHkgY3JlYXRlIGEgbmV3IHJlY29yZAogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LnBvc3QoIi9wdXBweS8iLCBqc29uPXB1cHB5KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBjcmVhdGVkX3B1cHB5ID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0IGNyZWF0ZWRfcHVwcHlbIm5hbWUiXSA9PSAiY2FubmEiCgogICAgICAgICMgU3VjY2Vzc2Z1bGx5IGNyZWF0ZSBhbm90aGVyIG5ldyByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wb3N0KCIvcHVwcHkvIiwganNvbj1hbm90aGVyX3B1cHB5KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBjcmVhdGVkX3NlY29uZF9wdXBweSA9IHJlc3BvbnNlLmpzb24oKQogICAgICAgIGFzc2VydCBjcmVhdGVkX3NlY29uZF9wdXBweVsibmFtZSJdID09ICJwdXBwaXRvIgoKICAgICAgICAjIExpc3QgYWxsIHRoZSBleGlzdGluZyByZWNvcmRzCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KCIvcHVwcHkvIikKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAwCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbY3JlYXRlZF9wdXBweSwgY3JlYXRlZF9zZWNvbmRfcHVwcHldCgogICAgZGVmIHRlc3RfZHJvcChzZWxmLCBjbGllbnQsIHB1cHB5KToKICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdCgiL3B1cHB5LyIsIGpzb249cHVwcHkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMQogICAgICAgIGNyZWF0ZWRfcHVwcHkgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBhc3NlcnQgY3JlYXRlZF9wdXBweVsibmFtZSJdID09ICJjYW5uYSIKCiAgICAgICAgIyBMaXN0IGFsbCB0aGUgZXhpc3RpbmcgcmVjb3JkcwogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldCgiL3B1cHB5LyIpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gW2NyZWF0ZWRfcHVwcHldCgogICAgICAgICMgRHJvcCBjb2xsZWN0aW9uCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZGVsZXRlKCIvcHVwcHkvIiwganNvbj1bcHVwcHldKQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDQKICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IHsiZGVsZXRlZCI6IDF9CgogICAgICAgICMgTGlzdCBhbGwgdGhlIGV4aXN0aW5nIHJlY29yZHMKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5nZXQoIi9wdXBweS8iKQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDAKICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbm90aGVyX3B1cHB5KHNlbGYpOgogICAgICAgIHJldHVybiB7Im5hbWUiOiAicHVwcGl0byJ9Cg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQpkZWYgY29udGVudCgpOgogICAgcmV0dXJuIGxpc3QocmFuZ2UoMjUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUK</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKHNjb3BlPSJtb2R1bGUiKQpkZWYgcm91dGVzKGNvbnRlbnQpOgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGFwcChzZWxmLCByb3V0ZXMpOgogICAgICAgIHJldHVybiBBcHAocm91dGVzPXJvdXRlcykKCiAgICBAcHl0ZXN0LmZpeHR1cmUKICAgIGRlZiBhc3luY19hcHAoc2VsZiwgcm91dGVzKToKICAgICAgICByZXR1cm4gQVN5bmNBcHAocm91dGVzPXJvdXRlcykKCiAgICBAcHl0ZXN0LmZpeHR1cmUocGFyYW1zPVthcHAsIGFzeW5jX2FwcF0pCiAgICBkZWYgY2xpZW50KHNlbGYsIHJlcXVlc3QpOgogICAgICAgIHJldHVybiBUZXN0Q2xpZW50KHJlcXVlc3QucGFyYW0pCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGFwcChzZWxmLCByb3V0ZXMpOgogICAgICAgIHJldHVybiBBcHAocm91dGVzPXJvdXRlcykKCiAgICBAcHl0ZXN0LmZpeHR1cmUKICAgIGRlZiBhc3luY19hcHAoc2VsZiwgcm91dGVzKToKICAgICAgICByZXR1cm4gQVN5bmNBcHAocm91dGVzPXJvdXRlcykKCiAgICBAcHl0ZXN0LmZpeHR1cmUocGFyYW1zPVthcHAsIGFzeW5jX2FwcF0pCiAgICBkZWYgY2xpZW50KHNlbGYsIHJlcXVlc3QpOgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2NydWQvcGFnaW5hdGlvbi9n</text>
+        <text encoding="base64">JzwsJz5zLyhzZWxmLCAvKC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>crud</last-search>
+      <last-search encoding="base64">KHNlbGYsIA==</last-search>
       <last-offset />
-      <last-pattern>crud</last-pattern>
-      <last-replace>pagination</last-replace>
-      <last-substitute>crud</last-substitute>
+      <last-pattern encoding="base64">KHNlbGYsIA==</last-pattern>
+      <last-replace>(</last-replace>
+      <last-substitute encoding="base64">KHNlbGYsIA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resource</entry>
         <entry>prospector</entry>
         <entry>astroid</entry>
         <entry>Goobox</entry>
@@ -3695,9 +3697,9 @@
         <entry>gilga</entry>
         <entry>gilgamesh_api</entry>
         <entry>crud</entry>
+        <entry encoding="base64">KHNlbGYsIA==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/goobox-nodes/gilgamesh/</entry>
         <entry>%s/goobox-nodes/gilgamesh/g</entry>
         <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL0luc3RhZ3JhbQ==</entry>
         <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1R3aXR0ZXIvZw==</entry>
@@ -3717,6 +3719,7 @@
         <entry>%s/gilgamesh_api/website/g</entry>
         <entry encoding="base64">PCw+cy9jcnVkL3BhZ2luYXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NydWQvcGFnaW5hdGlvbi9n</entry>
+        <entry encoding="base64">JzwsJz5zLyhzZWxmLCAvKC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
