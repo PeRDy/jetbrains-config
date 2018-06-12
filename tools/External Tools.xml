@@ -9,7 +9,7 @@
   <tool name="isort" description="Sort imports" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/sbin/isort" />
-      <option name="PARAMETERS" value="-e -m 4 -w 120 $FilePath$" />
+      <option name="PARAMETERS" value="-e -m 5 -w 120 $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>

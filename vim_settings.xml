@@ -54,11 +54,10 @@
         <mark key="." line="60" column="19" />
         <mark key="^" line="60" column="19" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/components.py" timestamp="1528798218045">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="21" column="27" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/components.py" timestamp="1528803075492">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/.eslintrc.json" timestamp="1517942253300">
         <mark key="[" line="13" column="27" />
@@ -191,6 +190,12 @@
         <mark key="]" line="53" column="52" />
         <mark key="^" line="53" column="49" />
         <mark key="." line="53" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/.pre-commit-config.yaml" timestamp="1528800526264">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="36" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/Dockerfile" timestamp="1497639108176">
         <mark key="[" line="14" column="12" />
@@ -1997,6 +2002,10 @@
         <mark key="." line="38" column="64" />
         <mark key="^" line="38" column="61" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_end_to_end.py" timestamp="1528802634385">
+        <mark key="[" line="9" column="50" />
+        <mark key="^" line="33" column="15" />
+      </file>
       <file name="/GraphQL.variables.json" timestamp="1522229085638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -2820,6 +2829,12 @@
         <mark key="^" line="130" column="7" />
         <mark key="." line="130" column="7" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/event_hooks.py" timestamp="1528803087941">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="50" column="32" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/js/topics_best_segments.js" timestamp="1465662897670">
         <mark key="[" line="12" column="71" />
         <mark key="]" line="12" column="71" />
@@ -3197,6 +3212,11 @@
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/LICENSE" timestamp="1528716529372">
         <mark key="[" line="654" column="16" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/database.py" timestamp="1528801594610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/README.md" timestamp="1518467006198">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="6" column="29" />
@@ -3511,6 +3531,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="31" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/__init__.py" timestamp="1528801604959">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/miner/__main__.py" timestamp="1500644259305">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -3582,7 +3607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3861" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3874" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3887" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3900" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3682,68 +3706,66 @@
       <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" />
       <jump line="8" column="35" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/pyproject.toml" />
       <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/components.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFiYXNlLmNsb3NlKCkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcG9uZW50cyBmb3IgaW5qZWN0aW5nIFBlZXdlZSBPUk0gc2Vzc2lvbnMgaW50byB5b3VyIHZpZXdzIGFuZCA=</text>
+        <text>, str(kwargs)</text>
       </register>
       <register name="/" type="4">
-        <text>apistar-pagination</text>
+        <text>\(&quot;[a-z+]*&quot;\): \(.*\),</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YGBgcHl0aG9uCmZyb20gYXBpc3Rhcl9wYWdpbmF0aW9uIGltcG9ydCAgTGltaXRPZmZzZXRSZXNwb25zZSwgUGFnZU51bWJlclJlc3BvbnNlCgpkZWYgbGltaXRfb2Zmc2V0KG9mZnNldDogaHR0cC5RdWVyeVBhcmFtLCBsaW1pdDogaHR0cC5RdWVyeVBhcmFtKSAtPiB0eXBpbmcuTGlzdFtpbnRdOgogICAgY29sbGVjdGlvbiA9IC4uLiAgIyBHZXQgeW91ciB3aG9sZSBjb2xsZWN0aW9uCgogICAgcmV0dXJuIExpbWl0T2Zmc2V0UmVzcG9uc2Uob2Zmc2V0PW9mZnNldCwgbGltaXQ9bGltaXQsIGNvbnRlbnQ9Y29sbGVjdGlvbikKCmRlZiBwYWdlX251bWJlcihwYWdlOiBodHRwLlF1ZXJ5UGFyYW0sIHBhZ2Vfc2l6ZTogaHR0cC5RdWVyeVBhcmFtKSAtPiB0eXBpbmcuTGlzdFtpbnRdOgogICAgY29sbGVjdGlvbiA9IC4uLiAgIyBHZXQgeW91ciB3aG9sZSBjb2xsZWN0aW9uCgogICAgcmV0dXJuIFBhZ2VOdW1iZXJSZXNwb25zZShwYWdlPXBhZ2UsIHBhZ2Vfc2l6ZT1wYWdlX3NpemUsIGNvbnRlbnQ9Y29sbGVjdGlvbikKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFiYXNlLmNsb3NlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lCmZyb20gc3FsYWxjaGVteS5vcm0gaW1wb3J0IFNlc3Npb24K</text>
+        <text encoding="base64">ZnJvbSBwbGF5aG91c2UuYXBzd19leHQgaW1wb3J0IEFQU1dEYXRhYmFzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwbGF5aG91c2UucG9vbCBpbXBvcnQgKAogICAgUG9vbGVkTXlTUUxEYXRhYmFzZSwgUG9vbGVkUG9zdGdyZXNxbERhdGFiYXNlLCBQb29sZWRQb3N0Z3Jlc3FsRXh0RGF0YWJhc2UsCiAgICBQb29sZWRTcWxpdGVEYXRhYmFzZSwgUG9vbGVkU3FsaXRlRXh0RGF0YWJhc2UKKQpmcm9tIHBsYXlob3VzZS5wb3N0Z3Jlc19leHQgaW1wb3J0IFBvc3RncmVzcWxFeHREYXRhYmFzZQpmcm9tIHBsYXlob3VzZS5zcWxpdGVfZXh0IGltcG9ydCBTcWxpdGVFeHREYXRhYmFzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Clt0b29sLnBvZXRyeS5leHRyYXNdCnNxbGFsY2hlbXkgPSBbImFwaXN0YXItc3FsYWxjaGVteSJdCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAic3FsaXRlK3Bvb2wiOiBQb29sZWRTcWxpdGVEYXRhYmFzZSwKICAgICAgICAic3FsaXRlZXh0K3Bvb2wiOiBQb29sZWRTcWxpdGVFeHREYXRhYmFzZSwKICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogVXBncmFkZWQgZm9yIGFwaXN0YXIgdjAuNC4KICogVXNhZ2Ugb2YgZGlmZmVyZW50IHR5cGVzIGZvciBpbnB1dCBhbmQgb3V0cHV0Lgo=</text>
+        <text encoding="base64">ICAgIHNjaGVtYSA9IHsKICAgICAgICAiYXBzdyI6IEFQU1dEYXRhYmFzZSwKICAgICAgICAibXlzcWwiOiBwZWV3ZWUuTXlTUUxEYXRhYmFzZSwKICAgICAgICAibXlzcWwrcG9vbCI6IFBvb2xlZE15U1FMRGF0YWJhc2UsCiAgICAgICAgInBvc3RncmVzIjogcGVld2VlLlBvc3RncmVzcWxEYXRhYmFzZSwKICAgICAgICAicG9zdGdyZXMrcG9vbCI6IFBvb2xlZFBvc3RncmVzcWxEYXRhYmFzZSwKICAgICAgICAicG9zdGdyZXNleHQiOiBQb3N0Z3Jlc3FsRXh0RGF0YWJhc2UsCiAgICAgICAgInBvc3RncmVzZXh0K3Bvb2wiOiBQb29sZWRQb3N0Z3Jlc3FsRXh0RGF0YWJhc2UsCiAgICAgICAgInNxbGl0ZSI6IHBlZXdlZS5TcWxpdGVEYXRhYmFzZSwKICAgICAgICAic3FsaXRlZXh0IjogU3FsaXRlRXh0RGF0YWJhc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnYwLjIuMCAtIDIwMTgtMDQtMTQK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbmFtZTogRGF0YWJhc2UgbmFtZS4KICAgICAgICA6cGFyYW0ga3dhcmdzOiBEYXRhYmFzZSBjb25uZWN0aW9uIHBhcmFtZXRlcnMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">djAuMi4xIC0gMjAxOC0wNC0xOAogKiBSZW1vdmUgcGlwIGRlcGVuZGVuY3kgZnJvbSBzZXR1cC5weS4K</text>
+        <text encoding="base64">ZW5naW5lID0gY29tcG9uZW50c1swXS5lbmdpbmUKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">djAuMi40IC0gMjAxOC0wNi0wNwogKiBVc2UgcG9ldHJ5IGluc3RlYWQgb2YgcGlwZW52LgogKiBNb2RpZnkgb3V0cHV0IHR5cGVzIHRvIGZpeCBzY2hlbWEgZ2VuZXJhdGlvbi4KCnYwLjIuMyAtIDIwMTgtMDUtMjIKICogUmVzb3VyY2Ugcm91dGVzIGlzIGEgcHJvcGVydHkgaW5zdGVhZCBvZiBhIHN0YXRpYyBsaXN0LgoKdjAuMi4yIC0gMjAxOC0wNC0yNgogKiBBZGQgbG9uZyBkZXNjcmlwdGlvbiBmb3IgUHlQSSBwcm9qZWN0IGRlc2NyaXB0aW9uLgoK</text>
+        <text encoding="base64">ICAgIHNlc3Npb24uZmx1c2goKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2FwaXN0YXItcGFnaW5hdGlvbi9hcGlzdGFyLXBlZXdlZS1vcm0vZw==</text>
+        <text encoding="base64">JzwsJz5zL1woIlthLXorXSoiXCk6IFwoLipcKSwvXDE6IHBlZXdlZS5cMiwvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>apistar-pagination</last-search>
+      <last-search>\(&quot;[a-z+]*&quot;\): \(.*\),</last-search>
       <last-offset />
-      <last-pattern>apistar-pagination</last-pattern>
-      <last-replace>apistar-peewee-orm</last-replace>
-      <last-substitute>apistar-pagination</last-substitute>
+      <last-pattern>\(&quot;[a-z+]*&quot;\): \(.*\),</last-pattern>
+      <last-replace>\1: peewee.\2,</last-replace>
+      <last-substitute>\(&quot;[a-z+]*&quot;\): \(.*\),</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>astroid</entry>
-        <entry>Goobox</entry>
-        <entry>goobox</entry>
         <entry>GooBox</entry>
         <entry>goobox-nodes</entry>
         <entry>run_simple</entry>
@@ -3761,11 +3783,11 @@
         <entry>crud</entry>
         <entry encoding="base64">KHNlbGYsIA==</entry>
         <entry>apistar-pagination</entry>
+        <entry>\([a-z+]\): \(.*\)</entry>
+        <entry>\([a-z+]*\): \(.*\)</entry>
+        <entry>\(&quot;[a-z+]*&quot;\): \(.*\),</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL0luc3RhZ3JhbQ==</entry>
-        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1R3aXR0ZXIvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1lvdXR1YmUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1ZpbWVvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1BpbnRlcmVzdC9n</entry>
         <entry encoding="base64">JzwsJz5zL0JyYW5kL0NyZWF0b3IvZw==</entry>
@@ -3783,6 +3805,9 @@
         <entry encoding="base64">JzwsJz5zLyhzZWxmLCAvKC9n</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2FwaXN0YXItcGFnaW5hdGlvbi9hcGlzdGFyLXBlZXdlZS1vcm0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1woW2EteitdXCk6IFwoLipcKS8iXDEiOiBcMiwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1woW2EteitdKlwpOiBcKC4qXCkvIlwxIjogXDIsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1woIlthLXorXSoiXCk6IFwoLipcKSwvXDE6IHBlZXdlZS5cMiwvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
