@@ -123,7 +123,6 @@
         <mark key="." line="8" column="55" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" timestamp="1528882928223">
-        <mark key="'" line="4" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2844,10 +2843,10 @@
         <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/pyproject.toml" timestamp="1528881812468">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
         <mark key="^" line="5" column="18" />
-        <mark key="." line="32" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/README.rst" timestamp="1518465398250">
         <mark key="[" line="0" column="0" />
@@ -3127,6 +3126,11 @@
         <mark key="]" line="6" column="41" />
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.cfg" timestamp="1528884978899">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/schema.py" timestamp="1497478655653">
         <mark key="[" line="7" column="29" />
@@ -3526,6 +3530,12 @@
         <mark key="^" line="43" column="14" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_peewee.py" timestamp="1528885923853">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/items/no_items.html" timestamp="1465647572094">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -3741,55 +3751,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>isort</text>
+        <text>SQLAlchemy</text>
       </register>
       <register name="/" type="4">
-        <text>\(Dict\|Iterable\|Any\)</text>
+        <text>session</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcmVjb3JkID0gbW9kZWwuZ2V0KGVsZW1lbnRfaWQpCiAgICAgICAgICAgIGV4Y2VwdCBEb2VzTm90RXhpc3Q6CiAgICAgICAgICAgICAgICByYWlzZSBOb3RGb3VuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CltmbGFrZThdCm1heC1saW5lLWxlbmd0aCA9IDEyMAppZ25vcmUgPSBOODA0Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZShzY29wZT0iZnVuY3Rpb24iLCBwYXJhbXM9W2FwcCwgYXN5bmNfYXBwXSkKICAgIGRlZiBjbGllbnQoc2VsZiwgcmVxdWVzdCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3V0cHV0ID0gLnRlc3RfcmVwb3J0L2NvdmVyYWdlLnhtbAoK</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIHB1cHB5KHNlbGYpOgogICAgICAgIHJldHVybiB7Im5hbWUiOiAiY2FubmEifQoKICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGFub3RoZXJfcHVwcHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHsibmFtZSI6ICJwdXBwaXRvIn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cltjb3ZlcmFnZTp4bWxdCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBUZXN0Q2xpZW50KHJlcXVlc3QucGFyYW0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W2NvdmVyYWdlOmh0bWxdCmRpcmVjdG9yeSA9IC50ZXN0X3JlcG9ydC9jb3ZlcmFnZV9odG1sLwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhYmFzZS5CYXNlLm1ldGFkYXRhLmRyb3BfYWxsKHNxbGFsY2hlbXlfY29tcG9uZW50LmVuZ2luZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c291cmNlID0gLi8KCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhYmFzZS5CYXNlLm1ldGFkYXRhLmNyZWF0ZV9hbGwoc3FsYWxjaGVteV9jb21wb25lbnQuZW5naW5lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cltjb3ZlcmFnZTpwYXRoc10K</text>
+        <text encoding="base64">c3FsYWxjaGVteV9jb21wb25lbnQgPSBTUUxBbGNoZW15U2Vzc2lvbkNvbXBvbmVudCh1cmw9InNxbGl0ZTovLyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIGNsc1wuZGVidWcKCWlmIHNldHRpbmdzXC5ERUJVRwo=</text>
+        <text encoding="base64">Zm9yY2Vfc29ydF93aXRoaW5fc2VjdGlvbnMgPSBmYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CglkZWYgX19yZXByX18K</text>
+        <text encoding="base64">aW1wb3J0IHBlZXdlZQppbXBvcnQgcHl0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\(Dict\|Iterable\|Any\)/typing.\1/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\(Dict\|Iterable\|Any\)</last-search>
+      <last-search>session</last-search>
       <last-offset />
-      <last-pattern>\(Dict\|Iterable\|Any\)</last-pattern>
+      <last-pattern>session</last-pattern>
       <last-replace>typing.\1</last-replace>
       <last-substitute>\(Dict\|Iterable\|Any\)</last-substitute>
       <last-dir>1</last-dir>
@@ -3797,7 +3807,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\(.\+\) = Column(Unicode)</entry>
         <entry>\([a-z_]\+\) = Column(Unicode)</entry>
         <entry>'</entry>
         <entry>whalar</entry>
@@ -3817,6 +3826,7 @@
         <entry>\(Dict|List|Any\)</entry>
         <entry>\(Dict\|List\|Any\)</entry>
         <entry>\(Dict\|Iterable\|Any\)</entry>
+        <entry>session</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHR5cGVzLlN0cmluZyh0aXRsZT0iXDEiLCBkZXNjcmlwdGlvbj0iIikvZw==</entry>
@@ -3831,7 +3841,6 @@
         <entry encoding="base64">JzwsJz5zL1woW2EteitdXCk6IFwoLipcKS8iXDEiOiBcMiwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woW2EteitdKlwpOiBcKC4qXCkvIlwxIjogXDIsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1woIlthLXorXSoiXCk6IFwoLipcKSwvXDE6IHBlZXdlZS5cMiwvZw==</entry>
-        <entry>w</entry>
         <entry>%s/session: Session//g</entry>
         <entry>%s/session: Session\(, \)?//g</entry>
         <entry>%s/session: Session\(\, \)?//g</entry>
@@ -3839,6 +3848,7 @@
         <entry>%s/\(Dict|List|Any\)/typing.\1/g</entry>
         <entry>%s/\(Dict\|List\|Any\)/typing.\1/g</entry>
         <entry>%s/\(Dict\|Iterable\|Any\)/typing.\1/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
