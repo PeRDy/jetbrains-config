@@ -2377,6 +2377,13 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1528882063665">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news_challenge/settings/development.py" timestamp="1465336625613">
         <mark key="[" line="24" column="25" />
         <mark key="]" line="24" column="25" />
@@ -2825,11 +2832,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/pyproject.toml" timestamp="1528383952279">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="5" column="18" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/pyproject.toml" timestamp="1528881812468">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/README.rst" timestamp="1518465398250">
         <mark key="[" line="0" column="0" />
@@ -3627,8 +3634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3900" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="3913" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3926" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3939" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="3952" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3727,69 +3732,67 @@
       <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/components.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar/test.py" />
       <jump line="140" column="19" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar/test.py" />
+      <jump line="79" column="32" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVjb3JkIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VHJ1ZSAg</text>
+        <text encoding="base64">c3FsYWxjaGVteSA=</text>
       </register>
       <register name="/" type="4">
-        <text>exception</text>
+        <text>session: Session\(, \)\?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFuc2FjdGlvbi5yb2xsYmFjaygpCg==</text>
+        <text encoding="base64">c3FsYWxjaGVteSA9IFsiYXBpc3Rhci1zcWxhbGNoZW15Il0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVjb3JkIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhYmFzZS5jbG9zZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgU2Vzc2lvbgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5hZGQocmVjb3JkKQogICAgICAgICAgICBzZXNzaW9uLmZsdXNoKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5hZGQocmVjb3JkKQogICAgICAgICAgICBzZXNzaW9uLmZsdXNoKCkKICAgICAgICAgICAgcmV0dXJuIGh0dHAuSlNPTlJlc3BvbnNlKG91dHB1dF90eXBlKHJlY29yZCksIHN0YXR1c19jb2RlPTIwMSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IEFueSwgRGljdCwgTGlzdAoKZnJvbSBzcWxhbGNoZW15Lm9ybSBpbXBvcnQgU2Vzc2lvbgoKZnJvbSBhcGlzdGFyIGltcG9ydCBodHRwLCB0eXBlcywgdmFsaWRhdG9ycwpmcm9tIGFwaXN0YXIuZXhjZXB0aW9ucyBpbXBvcnQgTm90Rm91bmQKZnJvbSBhcGlzdGFyX2NydWQuYmFzZSBpbXBvcnQgQmFzZVJlc291cmNlCgoKY2xhc3MgUmVzb3VyY2UoQmFzZVJlc291cmNlKToKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBhZGRfY3JlYXRlKG1jcywgbmFtZXNwYWNlOiBEaWN0W3N0ciwgQW55XSwgbW9kZWwsIGlucHV0X3R5cGUsIG91dHB1dF90eXBlKToKCiAgICAgICAgZGVmIGNyZWF0ZShzZXNzaW9uOiBTZXNzaW9uLCBlbGVtZW50OiBpbnB1dF90eXBlKSAtPiBvdXRwdXRfdHlwZToKICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIENyZWF0ZSBhIG5ldyBlbGVtZW50IGZvciB0aGlzIHJlc291cmNlLgogICAgICAgICAgICAiIiIKICAgICAgICAgICAgcmVjb3JkID0gbW9kZWwoKiplbGVtZW50KQogICAgICAgICAgICBzZXNzaW9uLmFkZChyZWNvcmQpCiAgICAgICAgICAgIHNlc3Npb24uZmx1c2goKQogICAgICAgICAgICByZXR1cm4gaHR0cC5KU09OUmVzcG9uc2Uob3V0cHV0X3R5cGUocmVjb3JkKSwgc3RhdHVzX2NvZGU9MjAxKQoKICAgICAgICBuYW1lc3BhY2VbImNyZWF0ZSJdID0gY3JlYXRlCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgYWRkX3JldHJpZXZlKG1jcywgbmFtZXNwYWNlOiBEaWN0W3N0ciwgQW55XSwgbW9kZWwsIGlucHV0X3R5cGUsIG91dHB1dF90eXBlKToKCiAgICAgICAgZGVmIHJldHJpZXZlKHNlc3Npb246IFNlc3Npb24sIGVsZW1lbnRfaWQ6IHN0cikgLT4gb3V0cHV0X3R5cGU6CiAgICAgICAgICAgICIiIgogICAgICAgICAgICBSZXRyaWV2ZSBhbiBlbGVtZW50IG9mIHRoaXMgcmVzb3VyY2UuCiAgICAgICAgICAgICIiIgogICAgICAgICAgICByZWNvcmQgPSBzZXNzaW9uLnF1ZXJ5KG1vZGVsKS5nZXQoZWxlbWVudF9pZCkKICAgICAgICAgICAgaWYgcmVjb3JkIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByYWlzZSBOb3RGb3VuZAoKICAgICAgICAgICAgcmV0dXJuIG91dHB1dF90eXBlKHJlY29yZCkKCiAgICAgICAgbmFtZXNwYWNlWyJyZXRyaWV2ZSJdID0gcmV0cmlldmUKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBhZGRfdXBkYXRlKG1jcywgbmFtZXNwYWNlOiBEaWN0W3N0ciwgQW55XSwgbW9kZWwsIGlucHV0X3R5cGUsIG91dHB1dF90eXBlKToKCiAgICAgICAgZGVmIHVwZGF0ZShzZXNzaW9uOiBTZXNzaW9uLCBlbGVtZW50X2lkOiBzdHIsIGVsZW1lbnQ6IGlucHV0X3R5cGUpIC0+IG91dHB1dF90eXBlOgogICAgICAgICAgICAiIiIKICAgICAgICAgICAgVXBkYXRlIGFuIGVsZW1lbnQgb2YgdGhpcyByZXNvdXJjZS4KICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIHJlY29yZCA9IHNlc3Npb24ucXVlcnkobW9kZWwpLmdldChlbGVtZW50X2lkKQogICAgICAgICAgICBpZiByZWNvcmQgaXMgTm9uZToKICAgICAgICAgICAgICAgIHJhaXNlIE5vdEZvdW5kCgogICAgICAgICAgICBmb3IgaywgdmFsdWUgaW4gZWxlbWVudC5pdGVtcygpOgogICAgICAgICAgICAgICAgc2V0YXR0cihyZWNvcmQsIGssIHZhbHVlKQoKICAgICAgICAgICAgcmV0dXJuIGh0dHAuSlNPTlJlc3BvbnNlKG91dHB1dF90eXBlKHJlY29yZCksIHN0YXR1c19jb2RlPTIwMCkKCiAgICAgICAgbmFtZXNwYWNlWyJ1cGRhdGUiXSA9IHVwZGF0ZQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGFkZF9kZWxldGUobWNzLCBuYW1lc3BhY2U6IERpY3Rbc3RyLCBBbnldLCBtb2RlbCwgaW5wdXRfdHlwZSwgb3V0cHV0X3R5cGUpOgoKICAgICAgICBkZWYgZGVsZXRlKHNlc3Npb246IFNlc3Npb24sIGVsZW1lbnRfaWQ6IHN0cik6CiAgICAgICAgICAgICIiIgogICAgICAgICAgICBEZWxldGUgYW4gZWxlbWVudCBvZiB0aGlzIHJlc291cmNlLgogICAgICAgICAgICAiIiIKICAgICAgICAgICAgc2Vzc2lvbi5xdWVyeShtb2RlbCkuZmlsdGVyX2J5KGlkPWVsZW1lbnRfaWQpLmRlbGV0ZSgpCiAgICAgICAgICAgIHJldHVybiBodHRwLkpTT05SZXNwb25zZShOb25lLCBzdGF0dXNfY29kZT0yMDQpCgogICAgICAgIG5hbWVzcGFjZVsiZGVsZXRlIl0gPSBkZWxldGUKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBhZGRfbGlzdChtY3MsIG5hbWVzcGFjZTogRGljdFtzdHIsIEFueV0sIG1vZGVsLCBpbnB1dF90eXBlLCBvdXRwdXRfdHlwZSk6CgogICAgICAgIGRlZiBsaXN0XyhzZXNzaW9uOiBTZXNzaW9uKSAtPiBMaXN0W291dHB1dF90eXBlXToKICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIExpc3QgcmVzb3VyY2UgY29sbGVjdGlvbi4KICAgICAgICAgICAgIiIiCiAgICAgICAgICAgIHJldHVybiBbb3V0cHV0X3R5cGUocmVjb3JkKSBmb3IgcmVjb3JkIGluIHNlc3Npb24ucXVlcnkobW9kZWwpLmFsbCgpXQoKICAgICAgICBuYW1lc3BhY2VbImxpc3QiXSA9IGxpc3Rf</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhYmFzZS5jbG9zZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/session: Session\(, \)\?//g</text>
       </register>
     </registers>
     <search>
-      <last-search>exception</last-search>
+      <last-search>session: Session\(, \)\?</last-search>
       <last-offset />
-      <last-pattern>exception</last-pattern>
-      <last-replace>\1: peewee.\2,</last-replace>
-      <last-substitute>\(&quot;[a-z+]*&quot;\): \(.*\),</last-substitute>
+      <last-pattern>session: Session\(, \)\?</last-pattern>
+      <last-replace />
+      <last-substitute>session: Session\(, \)\?</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>goobox-nodes</entry>
-        <entry>run_simple</entry>
-        <entry>simple</entry>
-        <entry>Facebook</entry>
         <entry>Brand</entry>
         <entry>server_default</entry>
         <entry>\(.+\) = Column(Unicode)</entry>
@@ -3806,12 +3809,12 @@
         <entry>\([a-z+]*\): \(.*\)</entry>
         <entry>\(&quot;[a-z+]*&quot;\): \(.*\),</entry>
         <entry>exception</entry>
+        <entry>session: Session</entry>
+        <entry>session: Session\(, \)?</entry>
+        <entry>session: Session\(\, \)?</entry>
+        <entry>session: Session\(, \)\?</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1ZpbWVvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0ZhY2Vib29rL1BpbnRlcmVzdC9n</entry>
-        <entry encoding="base64">JzwsJz5zL0JyYW5kL0NyZWF0b3IvZw==</entry>
-        <entry>%s/server_default/default/g</entry>
         <entry encoding="base64">JzwsJz5zL1woLitcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHR5cGVzLlN0cmluZyh0aXRsZT1cMSwgZGVzY3JpcHRpb249IiIpL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1woLlwrXCkgPSBDb2x1bW4oVW5pY29kZSkvXDEgPSB0eXBlcy5TdHJpbmcodGl0bGU9XDEsIGRlc2NyaXB0aW9uPSIiKS9n</entry>
         <entry encoding="base64">JzwsJz5zL1woW2Etel9dXCtcKSA9IENvbHVtbihVbmljb2RlKS9cMSA9IHR5cGVzLlN0cmluZyh0aXRsZT1cMSwgZGVzY3JpcHRpb249IiIpL2c=</entry>
@@ -3828,6 +3831,10 @@
         <entry encoding="base64">JzwsJz5zL1woW2EteitdKlwpOiBcKC4qXCkvIlwxIjogXDIsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1woIlthLXorXSoiXCk6IFwoLipcKSwvXDE6IHBlZXdlZS5cMiwvZw==</entry>
         <entry>w</entry>
+        <entry>%s/session: Session//g</entry>
+        <entry>%s/session: Session\(, \)?//g</entry>
+        <entry>%s/session: Session\(\, \)?//g</entry>
+        <entry>%s/session: Session\(, \)\?//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
