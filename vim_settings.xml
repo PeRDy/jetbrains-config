@@ -2824,12 +2824,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528967931782">
-        <mark key="'" line="15" column="29" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="20" column="48" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528970574744">
+        <mark key="'" line="68" column="5" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -3543,9 +3542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4043" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="4056" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="4069" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4082" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4095" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4108" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3643,67 +3639,68 @@
       <jump line="41" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
       <jump line="85" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
       <jump line="15" column="29" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="37" column="15" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="66" column="27" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="68" column="5" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Column(DateTime, default=func.utcnow())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN1c3BlbmRlZF9yZWFzb24gPSBDb2x1bW4oVW5pY29kZVRleHQpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Column(DateTime, default=func.utcnow())</text>
+        <text>Column(ARRAY(Unicode))</text>
       </register>
       <register name="/" type="4">
-        <text>Column(Unicode)</text>
+        <text>Column(Date)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VGhlIHJlc291cmNlIGdlbmVyYXRlcyBoaXMgb3duICoqcm91dGVzKio6Cg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWQgPSBwZWV3ZWUuRGF0ZVRpbWVGaWVsZChkZWZhdWx0PWRhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdykK</text>
       </register>
-      <register name="1" type="4">
-        <text>Column(DateTime, default=func.utcnow())</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHN1c3BlbmRlZF9yZWFzb24gPSBDb2x1bW4oVW5pY29kZVRleHQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBwb3N0Y29kZSA9IENvbHVtbihVbmljb2RlKQo=</text>
+        <text encoding="base64">ICAgIG9uX3BsYXRmb3JtID0gQ29sdW1uKEJvb2xlYW4sIGRlZmF1bHQ9RmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlY29uZGFyeV9hZGRyZXNzID0gQ29sdW1uKFVuaWNvZGUpCg==</text>
+        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3MgPSBDb2x1bW4oVW5pY29kZSkK</text>
+        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAiQ3JlYXRvciIKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBCb29sZWFuLCBDb2x1bW4sIERhdGUsIERhdGVUaW1lLCBGbG9hdCwgSW50ZWdlciwgVW5pY29kZSwgVW5pY29kZVRleHQsIGZ1bmMKZnJvbSBzcWxhbGNoZW15LmRpYWxlY3RzLnBvc3RncmVzcWwgaW1wb3J0IEFSUkFZLCBKU09OQgo=</text>
+        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAiQnJhbmQiCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vYmlsZSA9IENvbHVtbihVbmljb2RlKQo=</text>
+        <text encoding="base64">ICAgIG1vZGlmaWVkID0gQ29sdW1uKERhdGVUaW1lLCBvbnVwZGF0ZT1mdW5jLnV0Y25vdygpKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlY29uZGFyeV9lbWFpbHMgPSBDb2x1bW4oQVJSQVkoVW5pY29kZSkpCg==</text>
+      <register name="7" type="4">
+        <text>Column(DateTime, default=func.utcnow())</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBwb3N0Y29kZSA9IENvbHVtbihVbmljb2RlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyX3BlZXdlZV9vcm0uZGF0YWJhc2UgaW1wb3J0IEJhc2UK</text>
+        <text encoding="base64">ICAgIHNlY29uZGFyeV9hZGRyZXNzID0gQ29sdW1uKFVuaWNvZGUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</text>
+        <text encoding="base64">JzwsJz5zL0NvbHVtbihEYXRlKS9wZWV3ZWUuRGF0ZUZpZWxkKCkvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>Column(Unicode)</last-search>
+      <last-search>Column(Date)</last-search>
       <last-offset />
-      <last-pattern>Column(Unicode)</last-pattern>
-      <last-replace>peewee.CharField()</last-replace>
-      <last-substitute>Column(Unicode)</last-substitute>
+      <last-pattern>Column(Date)</last-pattern>
+      <last-replace>peewee.DateField()</last-replace>
+      <last-substitute>Column(Date)</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gilgamesh_api</entry>
-        <entry>crud</entry>
         <entry encoding="base64">KHNlbGYsIA==</entry>
         <entry>apistar-pagination</entry>
         <entry>\([a-z+]\): \(.*\)</entry>
@@ -3721,11 +3718,11 @@
         <entry>peewee-orm</entry>
         <entry>=</entry>
         <entry encoding="base64">XDxDaGFuZ2VzXD4=</entry>
+        <entry>Column(JSONB)</entry>
         <entry>Column(Unicode)</entry>
+        <entry>Column(Date)</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/gilgamesh_api/website/g</entry>
-        <entry encoding="base64">PCw+cy9jcnVkL3BhZ2luYXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NydWQvcGFnaW5hdGlvbi9n</entry>
         <entry encoding="base64">JzwsJz5zLyhzZWxmLCAvKC9n</entry>
         <entry encoding="base64">JzwsJz5zL2FwaXN0YXItcGFnaW5hdGlvbi9hcGlzdGFyLXBlZXdlZS1vcm0vZw==</entry>
@@ -3743,7 +3740,9 @@
         <entry encoding="base64">JzwsJz5zL3BlZXdlZS1vcm0vY3J1ZC9n</entry>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL0NvbHVtbihKU09OQikvcGxheWhvdXNlLnBvc3RncmVzX2V4dC5CaW5hcnlKU09ORmllbGQoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0NvbHVtbihEYXRlKS9wZWV3ZWUuRGF0ZUZpZWxkKCkvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
