@@ -2824,10 +2824,12 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528903636709">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528967931782">
+        <mark key="'" line="15" column="29" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -3541,7 +3543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4030" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4043" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4056" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4069" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3641,66 +3642,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/CHANGELOG.rst" />
       <jump line="41" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
       <jump line="85" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
+      <jump line="15" column="29" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Column(DateTime, default=func.utcnow())</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>sqlalchemy</text>
+        <text>Column(DateTime, default=func.utcnow())</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDaGFuZ2VzXD4=</text>
+        <text>Column(Unicode)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VGhlIHJlc291cmNlIGdlbmVyYXRlcyBoaXMgb3duICoqcm91dGVzKio6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Column(DateTime, default=func.utcnow())</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyX3BlZXdlZV9vcm0uZGF0YWJhc2UgaW1wb3J0IEJhc2UK</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBwb3N0Y29kZSA9IENvbHVtbihVbmljb2RlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBpc3Rhci09ICJeMC4zLjEiCg==</text>
+        <text encoding="base64">ICAgIHNlY29uZGFyeV9hZGRyZXNzID0gQ29sdW1uKFVuaWNvZGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QW5kIHRoZSAqKnJvdXRlcyoqOgo=</text>
+        <text encoding="base64">ICAgIGFkZHJlc3MgPSBDb2x1bW4oVW5pY29kZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBCb29sZWFuLCBDb2x1bW4sIERhdGUsIERhdGVUaW1lLCBGbG9hdCwgSW50ZWdlciwgVW5pY29kZSwgVW5pY29kZVRleHQsIGZ1bmMKZnJvbSBzcWxhbGNoZW15LmRpYWxlY3RzLnBvc3RncmVzcWwgaW1wb3J0IEFSUkFZLCBKU09OQgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MS4gQ3JlYXRlIGFuICoqaW5wdXQgdHlwZSoqIGFuZCAqKm91dHB1dF90eXBlKiogZm9yIHlvdXIgcmVzb3VyY2U6CgpgYGBweXRob24KY2xhc3MgUHVwcHlJbnB1dFR5cGUodHlwZXMuVHlwZSk6CiAgICBuYW1lID0gdmFsaWRhdG9ycy5TdHJpbmcoKQoKY2xhc3MgUHVwcHlPdXRwdXRUeXBlKHR5cGVzLlR5cGUpOgogICAgaWQgPSB2YWxpZGF0b3JzLkludGVnZXIoKQogICAgbmFtZSA9IHZhbGlkYXRvcnMuU3RyaW5nKCkKYGBgCgo=</text>
+        <text encoding="base64">ICAgIG1vYmlsZSA9IENvbHVtbihVbmljb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgcHl0aG9uCmNsYXNzIFB1cHB5SW5wdXRUeXBlKHR5cGVzLlR5cGUpOgogICAgbmFtZSA9IHZhbGlkYXRvcnMuU3RyaW5nKCkKCmNsYXNzIFB1cHB5T3V0cHV0VHlwZSh0eXBlcy5UeXBlKToKICAgIGlkID0gdmFsaWRhdG9ycy5JbnRlZ2VyKCkKICAgIG5hbWUgPSB2YWxpZGF0b3JzLlN0cmluZygpCmBgYAo=</text>
+        <text encoding="base64">ICAgIHNlY29uZGFyeV9lbWFpbHMgPSBDb2x1bW4oQVJSQVkoVW5pY29kZSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkNyZWF0ZSBhbiAqKmlucHV0IHR5cGUqKiBhbmQgKipvdXRwdXRfdHlwZSoqIGZvciB5b3VyIHJlc291cmNlOgoKYGBgcHl0aG9uCmNsYXNzIFB1cHB5SW5wdXRUeXBlKHR5cGVzLlR5cGUpOgogICAgbmFtZSA9IHZhbGlkYXRvcnMuU3RyaW5nKCkKCmNsYXNzIFB1cHB5T3V0cHV0VHlwZSh0eXBlcy5UeXBlKToKICAgIGlkID0gdmFsaWRhdG9ycy5JbnRlZ2VyKCkKICAgIG5hbWUgPSB2YWxpZGF0b3JzLlN0cmluZygpCmBgYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBlZXdlZQoK</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyX3BlZXdlZV9vcm0uZGF0YWJhc2UgaW1wb3J0IEJhc2UK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDaGFuZ2VzXD4=</last-search>
+      <last-search>Column(Unicode)</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDaGFuZ2VzXD4=</last-pattern>
-      <last-replace>-</last-replace>
-      <last-substitute>=</last-substitute>
+      <last-pattern>Column(Unicode)</last-pattern>
+      <last-replace>peewee.CharField()</last-replace>
+      <last-substitute>Column(Unicode)</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gilga</entry>
         <entry>gilgamesh_api</entry>
         <entry>crud</entry>
         <entry encoding="base64">KHNlbGYsIA==</entry>
@@ -3720,9 +3721,9 @@
         <entry>peewee-orm</entry>
         <entry>=</entry>
         <entry encoding="base64">XDxDaGFuZ2VzXD4=</entry>
+        <entry>Column(Unicode)</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/'/&quot;/g</entry>
         <entry>%s/gilgamesh_api/website/g</entry>
         <entry encoding="base64">PCw+cy9jcnVkL3BhZ2luYXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NydWQvcGFnaW5hdGlvbi9n</entry>
@@ -3742,6 +3743,7 @@
         <entry encoding="base64">JzwsJz5zL3BlZXdlZS1vcm0vY3J1ZC9n</entry>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
