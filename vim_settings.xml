@@ -2824,7 +2824,7 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528970574744">
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528971177663">
         <mark key="'" line="68" column="5" />
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -3644,20 +3644,20 @@
       <jump line="68" column="5" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1c3BlbmRlZF9yZWFzb24gPSBDb2x1bW4oVW5pY29kZVRleHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIGFncmVlX3Rlcm1z</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Column(ARRAY(Unicode))</text>
+        <text encoding="base64">ICAgIGFncmVlX3Rlcm1z</text>
       </register>
       <register name="/" type="4">
         <text>Column(Date)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWQgPSBwZWV3ZWUuRGF0ZVRpbWVGaWVsZChkZWZhdWx0PWRhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdykK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN1c3BlbmRlZF9yZWFzb24gPSBDb2x1bW4oVW5pY29kZVRleHQpCg==</text>
