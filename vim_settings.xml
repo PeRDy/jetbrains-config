@@ -2369,11 +2369,11 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" timestamp="1528984550456">
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="13" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="40" column="13" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" timestamp="1528984685653">
+        <mark key="[" line="4" column="73" />
+        <mark key="]" line="4" column="90" />
+        <mark key="^" line="41" column="24" />
+        <mark key="." line="4" column="73" />
       </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/python/tags.yaml" timestamp="1516204994507">
         <mark key="[" line="5" column="12" />
@@ -3663,7 +3663,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Output</text>
+        <text>, allow_null=True</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3674,8 +3674,8 @@
       <register name="/" type="4">
         <text>Column(Date)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtcyA9IFBsYXRmb3Jtcwo=</text>
+      <register name="0" type="4">
+        <text>, allow_null=True</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
