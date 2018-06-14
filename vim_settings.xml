@@ -27,6 +27,9 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1528984533816">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="27" />
@@ -858,11 +861,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/Dockerfile" timestamp="1528294235249">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="40" />
-        <mark key="^" line="11" column="40" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/Dockerfile" timestamp="1528982946803">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="59" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/stalkeo/stalkeo-app/src/admobs.js" timestamp="1522521626918">
         <mark key="[" line="12" column="4" />
@@ -1061,6 +1064,11 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
         <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/event_hooks.py" timestamp="1528983306465">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/github.graphql" timestamp="1497528958182">
         <mark key="[" line="0" column="43" />
@@ -2361,6 +2369,12 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="20" column="22" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types.py" timestamp="1528984550456">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="40" column="13" />
+      </file>
       <file name="$USER_HOME$/Development/piksel/dockerfiles/python/tags.yaml" timestamp="1516204994507">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="13" />
@@ -2824,12 +2838,12 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528974696218">
-        <mark key="'" line="68" column="5" />
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="4" />
-        <mark key="." line="78" column="4" />
-        <mark key="^" line="77" column="50" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528975739999">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="85" column="22" />
+        <mark key="]" line="85" column="83" />
+        <mark key="." line="85" column="22" />
+        <mark key="^" line="85" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -2933,12 +2947,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" timestamp="1528901970281">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" timestamp="1528984619024">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="63" column="72" />
+        <mark key="]" line="63" column="72" />
+        <mark key="." line="63" column="72" />
+        <mark key="^" line="63" column="72" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/jobist_api/settings/tests.py" timestamp="1486057912679">
         <mark key="[" line="26" column="25" />
@@ -3229,6 +3243,9 @@
         <mark key="." line="191" column="7" />
         <mark key="^" line="191" column="7" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/components.py" timestamp="1528983271772">
+        <mark key="[" line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run.py" timestamp="1488285198849">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -3393,10 +3410,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/resources.py" timestamp="1528901944141">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/resources.py" timestamp="1528984565000">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Gulpfile.babel.js" timestamp="1497824028736">
         <mark key="[" line="0" column="0" />
@@ -3543,10 +3560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4082" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="4095" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="4108" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="4121" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4134" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4147" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="4160" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3641,54 +3654,58 @@
       <jump line="85" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
       <jump line="15" column="29" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
       <jump line="37" column="15" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
-      <jump line="66" column="27" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
       <jump line="68" column="5" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="82" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
+      <jump line="70" column="12" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3VzcGVuZGVkIA==</text>
+        <text>Output</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VzcGVuZGVkIA==</text>
+        <text>Output</text>
       </register>
       <register name="/" type="4">
         <text>Column(Date)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1c3BlbmRlZCA9IHBlZXdlZS5DaGFyRmllbGQobnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtcyA9IFBsYXRmb3Jtcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1c3BlbmRlZF9yZWFzb24gPSBDb2x1bW4oVW5pY29kZVRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9uX3BsYXRmb3JtID0gQ29sdW1uKEJvb2xlYW4sIGRlZmF1bHQ9RmFsc2UpCg==</text>
+        <text encoding="base64">Y2xhc3MgQ3JlYXRvcklucHV0KHR5cGVzLlR5cGUpOgogICAgcGxhdGZvcm1zID0gUGxhdGZvcm1zCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkID0gQ29sdW1uKEludGVnZXIsIHByaW1hcnlfa2V5PVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAiQ3JlYXRvciIKCg==</text>
+        <text encoding="base64">Y2xhc3MgQnJhbmRJbnB1dCh0eXBlcy5UeXBlKToKICAgIHBsYXRmb3JtcyA9IFBsYXRmb3JtcwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAiQnJhbmQiCgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGlmaWVkID0gQ29sdW1uKERhdGVUaW1lLCBvbnVwZGF0ZT1mdW5jLnV0Y25vdygpKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="7" type="4">
-        <text>Column(DateTime, default=func.utcnow())</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBhcGlzdGFyX3NxbGFsY2hlbXkuZXZlbnRfaG9va3MgaW1wb3J0IFNRTEFsY2hlbXlUcmFuc2FjdGlvbkhvb2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRlID0gQ29sdW1uKFVuaWNvZGUpCiAgICBwb3N0Y29kZSA9IENvbHVtbihVbmljb2RlKQo=</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWVzc2VudGlhbCBsaWJwcS1kZXYgbGlic3FsaXRlMy1kZXYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlY29uZGFyeV9hZGRyZXNzID0gQ29sdW1uKFVuaWNvZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0NvbHVtbihEYXRlKS9wZWV3ZWUuRGF0ZUZpZWxkKCkvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3737,13 +3754,13 @@
         <entry>%s/\(Dict|List|Any\)/typing.\1/g</entry>
         <entry>%s/\(Dict\|List\|Any\)/typing.\1/g</entry>
         <entry>%s/\(Dict\|Iterable\|Any\)/typing.\1/g</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3BlZXdlZS1vcm0vY3J1ZC9n</entry>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihKU09OQikvcGxheWhvdXNlLnBvc3RncmVzX2V4dC5CaW5hcnlKU09ORmllbGQoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihEYXRlKS9wZWV3ZWUuRGF0ZUZpZWxkKCkvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
