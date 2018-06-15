@@ -27,7 +27,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528986285775">
+      <file name="/a.dummy" timestamp="1529055291613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -178,6 +178,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_database.py" timestamp="1529056947753">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/telegram_bot/persistence.py" timestamp="1513649130837">
         <mark key="[" line="35" column="21" />
@@ -369,6 +375,12 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__init__.py" timestamp="1529054442081">
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run_ci.py" timestamp="1486057004672">
         <mark key="[" line="0" column="0" />
@@ -704,6 +716,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/database.py" timestamp="1529055728615">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/models/helpers.py" timestamp="1516636252535">
         <mark key="[" line="19" column="44" />
@@ -1297,6 +1315,12 @@
         <mark key="^" line="5" column="107" />
         <mark key="." line="5" column="107" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/components.py" timestamp="1529055809107">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="22" column="44" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/topic_by_channel.html" timestamp="1465661970282">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="56" column="13" />
@@ -1400,10 +1424,10 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/CHANGELOG.md" timestamp="1528795423062">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/CHANGELOG.md" timestamp="1529056124447">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
         <mark key="[" line="13" column="0" />
@@ -1560,6 +1584,12 @@
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/base.py" timestamp="1529053856737">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/index.android.js" timestamp="1504439044732">
         <mark key="[" line="5" column="21" />
@@ -1979,10 +2009,11 @@
         <mark key="." line="38" column="64" />
         <mark key="^" line="38" column="61" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_end_to_end.py" timestamp="1528825340130">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_end_to_end.py" timestamp="1529057382166">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="46" column="20" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
         <mark key="[" line="46" column="20" />
@@ -2008,8 +2039,8 @@
         <mark key="^" line="269" column="55" />
         <mark key="." line="269" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/setup.cfg" timestamp="1528817977992">
-        <mark key="[" line="15" column="76" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/setup.cfg" timestamp="1529056687643">
+        <mark key="[" line="72" column="26" />
         <mark key="]" line="15" column="82" />
         <mark key="." line="15" column="82" />
         <mark key="^" line="15" column="82" />
@@ -2049,6 +2080,12 @@
         <mark key="]" line="48" column="15" />
         <mark key="^" line="23" column="16" />
         <mark key="." line="48" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_model.py" timestamp="1529055280831">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="14" column="54" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/miner_nvidia_tuning.service" timestamp="1504623126470">
         <mark key="[" line="8" column="34" />
@@ -2205,12 +2242,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" timestamp="1528794787852">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="53" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" timestamp="1529057437813">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="56" column="12" />
+        <mark key="^" line="56" column="12" />
+        <mark key="." line="56" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1522104875276">
         <mark key="[" line="31" column="6" />
@@ -2615,11 +2652,8 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.toml" timestamp="1528881378640">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.toml" timestamp="1529055844197">
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/creator.py" timestamp="1528987656918">
         <mark key="[" line="27" column="16" />
@@ -3608,7 +3642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4212" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2158" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2167" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2176" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3708,6 +3741,7 @@
       <jump line="18" column="5" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/creator.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/creator.py" />
       <jump line="49" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/creator.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3717,40 +3751,40 @@
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVybXMg</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>date_of_birth</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpcnN0X25hbWUgPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0iZmlyc3RfbmFtZSIsIGRlc2NyaXB0aW9uPSJGaXJzdCBuYW1lIiwgYWxsb3dfbnVsbD1UcnVlKQogICAgbGFzdF9uYW1lID0gdmFsaWRhdG9ycy5TdHJpbmcodGl0bGU9Imxhc3RfbmFtZSIsIGRlc2NyaXB0aW9uPSJMYXN0IG5hbWUiLCBhbGxvd19udWxsPVRydWUpCiAgICBuYW1lID0gdmFsaWRhdG9ycy5TdHJpbmcodGl0bGU9Im5hbWUiLCBkZXNjcmlwdGlvbj0iTmFtZSIsIGFsbG93X251bGw9VHJ1ZSkKICAgIGdlbmRlciA9IHZhbGlkYXRvcnMuU3RyaW5nKHRpdGxlPSJnZW5kZXIiLCBkZXNjcmlwdGlvbj0iR2VuZGVyIiwgYWxsb3dfbnVsbD1UcnVlKQogICAgdGFncyA9IHZhbGlkYXRvcnMuQXJyYXkodmFsaWRhdG9ycy5TdHJpbmcsIHRpdGxlPSJ0YWdzIiwgZGVzY3JpcHRpb249IlRhZ3MiLCBhbGxvd19udWxsPVRydWUpCiAgICBkYXRlX29mX2JpcnRoID0gdmFsaWRhdG9ycy5EYXRlKHRpdGxlPSJkYXRlX29mX2JpcnRoIiwgZGVzY3JpcHRpb249IkRhdGUgb2YgYmlydGgiLCBhbGxvd19udWxsPVRydWUpCiAgICBiaW8gPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0iYmlvIiwgZGVzY3JpcHRpb249IkJpbyIsIGFsbG93X251bGw9VHJ1ZSkKICAgIG9uX3BsYXRmb3JtID0gdmFsaWRhdG9ycy5EYXRlVGltZSgKICAgICAgICB0aXRsZT0ib25fcGxhdGZvcm0iLCBkZXNjcmlwdGlvbj0iRGF0ZSBvZiByZWdpc3RyYXRpb24gb24gcGxhdGZvcm0iLCBhbGxvd19udWxsPVRydWUKICAgICkKICAgIG9uX3BsYXRmb3JtX2VtYWlsX3NlbnQgPSB2YWxpZGF0b3JzLkRhdGVUaW1lKAogICAgICAgIHRpdGxlPSJvbl9wbGF0Zm9ybV9lbWFpbF9zZW50IiwgZGVzY3JpcHRpb249IkRhdGUgb2YgZW1haWwgc2VudCBmb3IgcmVnaXN0cmF0aW9uIG9uIHBsYXRmb3JtIiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCiAgICBzdXNwZW5kZWQgPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0ic3VzcGVuZGVkIiwgZGVzY3JpcHRpb249IlN1c3BlbnNpb24gcmVhc29ucyIsIGFsbG93X251bGw9VHJ1ZSkKICAgIGFncmVlX3Rlcm1zID0gdmFsaWRhdG9ycy5Cb29sZWFuKHRpdGxlPSJhZ3JlZV90ZXJtcyIsIGRlc2NyaXB0aW9uPSJBZ3JlZW1lbnQgb2YgdGVybXMiLCBhbGxvd19udWxsPVRydWUpCiAgICBhZ3JlZV9wcml2YWN5X3BvbGljeSA9IHZhbGlkYXRvcnMuQm9vbGVhbigKICAgICAgICB0aXRsZT0iYWdyZWVfcHJpdmFjeV9wb2xpY3kiLCBkZXNjcmlwdGlvbj0iQWdyZWVtZW50IG9mIHByaXZhY3kgcG9saWN5IiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCiAgICB3ZWJfc3RhdHVzID0gdmFsaWRhdG9ycy5JbnRlZ2VyKHRpdGxlPSJ3ZWJfc3RhdHVzIiwgZGVzY3JpcHRpb249IlN0YXR1cyBmbGFnIGZvciB3ZWJzaXRlIiwgYWxsb3dfbnVsbD1UcnVlKQogICAgd2hhbGFyX3N0YXIgPSB2YWxpZGF0b3JzLkJvb2xlYW4oCiAgICAgICAgdGl0bGU9IndoYWxhcl9zdGFyIiwgZGVzY3JpcHRpb249IkZsYWcgdG8gaW5kaWNhdGUgaWYgaXQncyBhIHdoYWxhciBzdGFyIiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCiAgICBwcmljZSA9IHZhbGlkYXRvcnMuT2JqZWN0KHRpdGxlPSJwcmljZSIsIGRlc2NyaXB0aW9uPSJDb250ZW50IHByaWNlcyIsIGFsbG93X251bGw9VHJ1ZSkKICAgIHBheW1lbnQgPSB2YWxpZGF0b3JzLk9iamVjdCh0aXRsZT0icGF5bWVudCIsIGRlc2NyaXB0aW9uPSJQYXltZW50IGluZm9ybWF0aW9uIiwgYWxsb3dfbnVsbD1UcnVlKQogICAgc3RhdHVzID0gdmFsaWRhdG9ycy5TdHJpbmcodGl0bGU9InN0YXR1cyIsIGRlc2NyaXB0aW9uPSJJbnRlcm5hbCBzdGF0dXMiLCBhbGxvd19udWxsPVRydWUpCiAgICBzb3VyY2UgPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0ic291cmNlIiwgZGVzY3JpcHRpb249IlNvdXJjZSIsIGFsbG93X251bGw9VHJ1ZSkKICAgIG5vdGVzID0gdmFsaWRhdG9ycy5TdHJpbmcodGl0bGU9Im5vdGVzIiwgZGVzY3JpcHRpb249Ik5vdGVzIiwgYWxsb3dfbnVsbD1UcnVlKQogICAgcmVxdWVzdF9kYXRhX2RlbGV0aW9uID0gdmFsaWRhdG9ycy5EYXRlVGltZSgKICAgICAgICB0aXRsZT0icmVxdWVzdF9kYXRhX2RlbGV0aW9uIiwgZGVzY3JpcHRpb249IkRhdGUgd2hlbiB0aGUgY3JlYXRvciByZXF1ZXN0IGZvciBhIGRhdGEgZGVsZXRpb24iLCBhbGxvd19udWxsPVRydWUKICAgICkKICAgIHNlbGVjdGVkX3Bvc3RzID0gdmFsaWRhdG9ycy5BcnJheSgKICAgICAgICB2YWxpZGF0b3JzLlN0cmluZywgdGl0bGU9InNlbGVjdGVkX3Bvc3RzIiwgZGVzY3JpcHRpb249IlNlbGVjdGVkIHBvc3RzIiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCgoKY2xhc3MgQ3JlYXRvck91dHB1dCh0eXBlcy5UeXBlKToKICAgIHVzZXIgPSBVc2VyT3V0cHV0CiAgICBwbGF0Zm9ybXMgPSBQbGF0Zm9ybXMK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2xhc3MgUHVwcHlNb2RlbChNb2RlbCk6CiAgICBuYW1lID0gcGVld2VlLkNoYXJGaWVsZCgpCgoKY2xhc3MgUHVwcHlUeXBlKHR5cGVzLlR5cGUpOgogICAgaWQgPSB2YWxpZGF0b3JzLkludGVnZXIoYWxsb3dfbnVsbD1UcnVlLCBkZWZhdWx0PU5vbmUpCiAgICBuYW1lID0gdmFsaWRhdG9ycy5TdHJpbmcoKQoKCmRlZiBsaXN0X3B1cHBpZXMoKSAtPiBMaXN0W1B1cHB5VHlwZV06CiAgICByZXR1cm4gW1B1cHB5VHlwZShwdXBweSkgZm9yIHB1cHB5IGluIFB1cHB5TW9kZWwuc2VsZWN0KCldCgoKZGVmIGNyZWF0ZV9wdXBweShwdXBweTogUHVwcHlUeXBlLCByYWlzZV9leGNlcHRpb246IGh0dHAuUXVlcnlQYXJhbSkgLT4gaHR0cC5KU09OUmVzcG9uc2U6CiAgICBpZiByYWlzZV9leGNlcHRpb246CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uCgogICAgbW9kZWwgPSBQdXBweU1vZGVsLmNyZWF0ZSgqKnB1cHB5KQogICAgcmV0dXJuIGh0dHAuSlNPTlJlc3BvbnNlKFB1cHB5VHlwZShtb2RlbCksIHN0YXR1c19jb2RlPTIwMSkKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpjbGFzcyBDcmVhdG9yT3V0cHV0KHR5cGVzLlR5cGUpOgogICAgdXNlciA9IFVzZXJPdXRwdXQKICAgIHBsYXRmb3JtcyA9IFBsYXRmb3Jtcwo=</text>
+        <text encoding="base64">cm91dGVzID0gW10K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgcHl0aG9uCgpgYGAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cl9fYWxsX18gPSBbIkJyYW5kIiwgIkNyZWF0b3IiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cl9fYWxsX18gPSBbIkJyYW5kSW5wdXQiLCAiQnJhbmRPdXRwdXQiLF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyX3NxbGFsY2hlbXkuZXZlbnRfaG9va3MgaW1wb3J0IFNRTEFsY2hlbXlUcmFuc2FjdGlvbkhvb2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXlob3VzZS5wb3N0Z3Jlc19leHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RhdGVfb2ZfYmlydGgvb25fcGxhdGZvcm0vZw==</text>
