@@ -2816,11 +2816,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/website/website/routes.py" timestamp="1529260340657">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+      <file name="$USER_HOME$/Desarrollo/souft/website/website/routes.py" timestamp="1529261994798">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -3754,14 +3754,14 @@
       <jump line="24" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>delete</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>Foo</text>
       </register>
       <register name="/" type="4">
         <text>date_of_birth</text>
@@ -3770,31 +3770,31 @@
         <text encoding="base64">QGNvbW1hbmQoCiAgICBjb21tYW5kX3R5cGU9Q29tbWFuZFR5cGUuUFlUSE9OLAogICAgYXJncz0oKCgiYXBwIiwpLCB7ImhlbHAiOiAiQVBJIFN0YXIgYXBwbGljYXRpb24gcGF0aCAoPHBhY2thZ2U+Ljxtb2R1bGU+Ojx2YXJpYWJsZT4pIn0pLAogICAgICAgICAgKCgibWlncmF0aW9uIiwpLCB7ImhlbHAiOiAiTWlncmF0aW9uIG51bWJlciJ9KSksCiAgICBwYXJzZXJfb3B0cz17ImhlbHAiOiAiRGVsZXRlIG1pZ3JhdGlvbiJ9LAopCmRlZiBkb3duZ3JhZGUoKmFyZ3MsICoqa3dhcmdzKToKICAgIERhdGFiYXNlTWFuYWdlci5mcm9tX2FwcChrd2FyZ3NbImFwcCJdKS5kZWxldGUoa3dhcmdzWyJtaWdyYXRpb24iXSkKCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGt3YXJnc1sidGEiXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGNvbW1hbmQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJCYXIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHMgKz0gIlxuIi5qb2luKFtmIiAtIHttb2RlbC5fX21vZHVsZV9ffS57bW9kZWwuX19uYW1lX199IiBmb3IgbW9kZWwgaW4gTW9kZWwucmVnaXN0ZXJdKQo=</text>
+        <text encoding="base64">ICAgIGlmIGt3YXJnc1sidGEiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNvbW1hbmQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG91dHB1dCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERhdGFiYXNlTWFuYWdlci5mcm9tX2FwcChrd2FyZ3NbImFwcCJdKQogICAgb3V0cHV0ID0gZiJ7bGVuKE1vZGVsLnJlZ2lzdGVyKX0gbW9kZWxzIGZvdW5kOlxuIiArICJcbiIuam9pbihbZiIgLSB7bW9kZWwuX19uYW1lX199IiBmb3IgbW9kZWwgaW4gTW9kZWwucmVnaXN0ZXJdKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMgKz0gIlxuIi5qb2luKFtmIiAtIHttb2RlbC5fX21vZHVsZV9ffS57bW9kZWwuX19uYW1lX199IiBmb3IgbW9kZWwgaW4gTW9kZWwucmVnaXN0ZXJdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlBZVEhPTiwgcGFyc2VyX29wdHM9eyJoZWxwIjogIkRhdGFiYXNlIG1pZ3JhdGlvbnMgc3RhdHVzIn0pCmRlZiBtb2RlbHMoKmFyZ3MsICoqa3dhcmdzKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG91dHB1dCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
