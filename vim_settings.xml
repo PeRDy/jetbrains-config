@@ -137,6 +137,13 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/website/templates/license.html" timestamp="1529313917847">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/settings/development.py" timestamp="1497014408527">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="5" column="15" />
@@ -2816,11 +2823,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/website/website/routes.py" timestamp="1529262505440">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/Desarrollo/souft/website/website/routes.py" timestamp="1529314016792">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/tasks/js.babel.js" timestamp="1498778432440">
         <mark key="[" line="55" column="0" />
@@ -3380,6 +3387,13 @@
         <mark key="^" line="69" column="36" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/website/templates/privacy.html" timestamp="1529314281585">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="50" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/models.py" timestamp="1493377451873">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -3652,9 +3666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2158" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="2167" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="2176" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2185" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2194" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2203" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3752,68 +3763,68 @@
       <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/creator.py" />
       <jump line="49" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/creator.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desarrollo/souft/website/templates/license.html" />
+      <jump line="21" column="5" filename="$USER_HOME$/Desarrollo/souft/website/templates/privacy.html" />
+      <jump line="11" column="2" filename="$USER_HOME$/Desarrollo/souft/website/templates/privacy.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Foo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>date_of_birth</text>
+        <text encoding="base64">PGxpPlwoLipcKTwvbGk+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGNvbW1hbmQoCiAgICBjb21tYW5kX3R5cGU9Q29tbWFuZFR5cGUuUFlUSE9OLAogICAgYXJncz0oKCgiYXBwIiwpLCB7ImhlbHAiOiAiQVBJIFN0YXIgYXBwbGljYXRpb24gcGF0aCAoPHBhY2thZ2U+Ljxtb2R1bGU+Ojx2YXJpYWJsZT4pIn0pLAogICAgICAgICAgKCgibWlncmF0aW9uIiwpLCB7ImhlbHAiOiAiTWlncmF0aW9uIG51bWJlciJ9KSksCiAgICBwYXJzZXJfb3B0cz17ImhlbHAiOiAiRGVsZXRlIG1pZ3JhdGlvbiJ9LAopCmRlZiBkb3duZ3JhZGUoKmFyZ3MsICoqa3dhcmdzKToKICAgIERhdGFiYXNlTWFuYWdlci5mcm9tX2FwcChrd2FyZ3NbImFwcCJdKS5kZWxldGUoa3dhcmdzWyJtaWdyYXRpb24iXSkKCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJCYXIiKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGt3YXJnc1sidGEiXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QGNvbW1hbmQoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHMgKz0gIlxuIi5qb2luKFtmIiAtIHttb2RlbC5fX21vZHVsZV9ffS57bW9kZWwuX19uYW1lX199IiBmb3IgbW9kZWwgaW4gTW9kZWwucmVnaXN0ZXJdKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJCYXIiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJGb28iKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIGt3YXJnc1sidGEiXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QGNvbW1hbmQoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbHMgKz0gIlxuIi5qb2luKFtmIiAtIHttb2RlbC5fX21vZHVsZV9ffS57bW9kZWwuX19uYW1lX199IiBmb3IgbW9kZWwgaW4gTW9kZWwucmVnaXN0ZXJdKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG91dHB1dCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zITxsaT5cKC4qXCk8L2xpPiE8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4hZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>date_of_birth</last-search>
+      <last-search encoding="base64">PGxpPlwoLipcKTwvbGk+</last-search>
       <last-offset />
-      <last-pattern>date_of_birth</last-pattern>
-      <last-replace>on_platform</last-replace>
-      <last-substitute>date_of_birth</last-substitute>
+      <last-pattern encoding="base64">PGxpPlwoLipcKTwvbGk+</last-pattern>
+      <last-replace encoding="base64">PGxpPjxhIGhyZWY9IiMiPlwxPC9hPjwvbGk+</last-replace>
+      <last-substitute encoding="base64">PGxpPlwoLipcKTwvbGk+</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\([a-z+]\): \(.*\)</entry>
-        <entry>\([a-z+]*\): \(.*\)</entry>
-        <entry>\(&quot;[a-z+]*&quot;\): \(.*\),</entry>
         <entry>exception</entry>
         <entry>session: Session</entry>
         <entry>session: Session\(, \)?</entry>
@@ -3831,15 +3842,11 @@
         <entry>Column(Date)</entry>
         <entry>gender</entry>
         <entry>date_of_birth</entry>
+        <entry>\d* \(.*\)</entry>
+        <entry>\d\+ \(.*\)</entry>
+        <entry encoding="base64">PGxpPlwoLipcKTwvbGk+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FwaXN0YXItcGFnaW5hdGlvbi9hcGlzdGFyLXBlZXdlZS1vcm0vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1woW2EteitdXCk6IFwoLipcKS8iXDEiOiBcMiwvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1woW2EteitdKlwpOiBcKC4qXCkvIlwxIjogXDIsL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1woIlthLXorXSoiXCk6IFwoLipcKSwvXDE6IHBlZXdlZS5cMiwvZw==</entry>
-        <entry>%s/session: Session//g</entry>
-        <entry>%s/session: Session\(, \)?//g</entry>
-        <entry>%s/session: Session\(\, \)?//g</entry>
         <entry>%s/session: Session\(, \)\?//g</entry>
         <entry>%s/\(Dict|List|Any\)/typing.\1/g</entry>
         <entry>%s/\(Dict\|List\|Any\)/typing.\1/g</entry>
@@ -3853,6 +3860,13 @@
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9iaW8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVfb2ZfYmlydGgvb25fcGxhdGZvcm0vZw==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL1xkXCsgXCguKlwpLzxsaT5cMTwvbGk+L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1xkXCsgXChcLipcKS88bGk+XDE8L2xpPi9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xkKiBcKC4qXCkvPGxpPlwxPC9saT4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zI1xkKiBcKC4qXCkjPGxpPlwxPC9saT4jZw==</entry>
+        <entry encoding="base64">JzwsJz5zI1xkXCsgXCguKlwpIzxsaT5cMTwvbGk+I2c=</entry>
+        <entry encoding="base64">JzwsJz5zIzxsaT5cKC4qXCk8L2xpPiM8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4jZw==</entry>
+        <entry encoding="base64">JzwsJz5zITxsaT5cKC4qXCk8L2xpPiE8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4hZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
