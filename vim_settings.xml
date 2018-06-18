@@ -382,6 +382,10 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/clinner/run/main.py" timestamp="1529320332047">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="63" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/templates/barrenero_nvidia.service.jinja2" timestamp="1507475181983">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="27" />
@@ -490,10 +494,10 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/pyproject.toml" timestamp="1528901927557">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/pyproject.toml" timestamp="1529320120227">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/run" timestamp="1515153255716">
         <mark key="[" line="13" column="17" />
@@ -1351,6 +1355,13 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.rst" timestamp="1528898484475">
+        <mark key="'" line="85" column="50" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/Dockerfile" timestamp="1504628099470">
         <mark key="[" line="30" column="35" />
         <mark key="]" line="30" column="37" />
@@ -1386,6 +1397,13 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1529321674223">
+        <mark key="'" line="10" column="47" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="70" column="24" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/__init__.py" timestamp="1514480183870">
         <mark key="[" line="0" column="20" />
@@ -2289,6 +2307,13 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" timestamp="1528200205921">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1518198917353">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="5" />
@@ -2323,6 +2348,18 @@
         <mark key="[" line="344" column="0" />
         <mark key="]" line="344" column="0" />
         <mark key="." line="344" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar/test.py" timestamp="1528825175457">
+        <mark key="'" line="140" column="19" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="129" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/__main__.py" timestamp="1529321188270">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="40" column="76" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/platforms.py" timestamp="1528986485570">
         <mark key="[" line="1" column="0" />
@@ -2599,6 +2636,13 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/website/website/__main__.py" timestamp="1528483331001">
+        <mark key="'" line="33" column="20" />
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="39" column="76" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="39" column="76" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/loader.py" timestamp="1496362379514">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -2639,8 +2683,8 @@
         <mark key="[" line="35" column="0" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/creator.py" timestamp="1528987656918">
-        <mark key="[" line="27" column="16" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/creator.py" timestamp="1529321984731">
+        <mark key="[" line="34" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="0" />
@@ -2659,6 +2703,13 @@
         <mark key="]" line="23" column="74" />
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1528882962055">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -2816,6 +2867,13 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/creator.py" timestamp="1528988478379">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="80" column="25" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/atoms/Toolbar.android.js" timestamp="1518472669825">
         <mark key="[" line="27" column="1" />
         <mark key="]" line="5" column="0" />
@@ -2884,6 +2942,13 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models.py" timestamp="1528975739999">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="85" column="22" />
+        <mark key="]" line="85" column="83" />
+        <mark key="." line="85" column="22" />
+        <mark key="^" line="85" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -2986,6 +3051,13 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" timestamp="1528984619024">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="63" column="72" />
+        <mark key="]" line="63" column="72" />
+        <mark key="." line="63" column="72" />
+        <mark key="^" line="63" column="72" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/jobist_api/settings/tests.py" timestamp="1486057912679">
         <mark key="[" line="26" column="25" />
@@ -3125,11 +3197,25 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="42" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" timestamp="1528732409395">
+        <mark key="'" line="3" column="97" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" timestamp="1528901385987">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="128" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/login/__main__.py" timestamp="1509106008604">
         <mark key="[" line="14" column="6" />
@@ -3343,6 +3429,13 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" timestamp="1526999396281">
+        <mark key="'" line="93" column="8" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="12" />
+        <mark key="^" line="92" column="12" />
+        <mark key="." line="92" column="12" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/components.py" timestamp="1525962598036">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -3390,6 +3483,13 @@
         <mark key="]" line="60" column="39" />
         <mark key="^" line="60" column="39" />
         <mark key="." line="60" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.rst" timestamp="1528715602383">
+        <mark key="'" line="40" column="44" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner-ether/Dockerfile" timestamp="1525945722071">
         <mark key="[" line="0" column="21" />
@@ -3589,7 +3689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2185" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2194" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2203" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
       <jump line="2212" column="7" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
@@ -3689,49 +3788,50 @@
       <jump line="10" column="0" filename="$USER_HOME$/Desarrollo/souft/website/templates/license.html" />
       <jump line="21" column="5" filename="$USER_HOME$/Desarrollo/souft/website/templates/privacy.html" />
       <jump line="11" column="2" filename="$USER_HOME$/Desarrollo/souft/website/templates/privacy.html" />
+      <jump line="10" column="47" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB5MzUsCg==</text>
+        <text encoding="base64">ICAgIGNtZCA9IFsiZmxha2U4Il0K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>.register</text>
+        <text>orm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGxpPlwoLipcKTwvbGk+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSpfX2luaXRfXy5weQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbc2hsZXguc3BsaXQoZiJkb2NrZXIgcnVuIikgKyBlbnRyeXBvaW50ICsgdm9sdW1lcyArIGltYWdlICsgY21kICsgbGlzdChhcmdzKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB5MzUsCg==</text>
+        <text encoding="base64">ICAgIGNtZCA9IFsiZmxha2U4Il0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDMuNTogcHkzNQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbc2hsZXguc3BsaXQoZiJkb2NrZXIgcnVuIikgKyB2b2x1bWVzICsgaW1hZ2UgKyBjbWQgKyBsaXN0KGFyZ3MpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3M9KAogICAgKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgTW9kZWwucmVnaXN0ZXIgPSBvbGRfcmVnaXN0ZXIK</text>
+        <text encoding="base64">ICAgIGFyZ3M9KAogICAgKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbGRfcmVnaXN0ZXIgPSBNb2RlbC5yZWdpc3RlcgogICAgICAgIE1vZGVsLnJlZ2lzdGVyID0gc2V0KCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAoKCItaSIsICItLWltYWdlIiksIHsiaGVscCI6ICJEb2NrZXIgaW1hZ2UgbmFtZSIsICJkZWZhdWx0IjogSU1BR0VfTkFNRX0pLAogICAgICAgICgoIi10IiwgIi0tdGFnIiksIHsiaGVscCI6ICJEb2NrZXIgdGFnIiwgImRlZmF1bHQiOiAibGF0ZXN0In0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIHJlZ2lzdGVyKHNlbGYpOgogICAgICAgIG9sZF9yZWdpc3RlciA9IE1vZGVsLnJlZ2lzdGVyCiAgICAgICAgTW9kZWwucmVnaXN0ZXIgPSBzZXQoKQogICAgICAgIHlpZWxkIE1vZGVsLnJlZ2lzdGVyCiAgICAgICAgTW9kZWwucmVnaXN0ZXIgPSBvbGRfcmVnaXN0ZXIKCg==</text>
+        <text encoding="base64">ICAgICAgICAoKCItaSIsICItLWltYWdlIiksIHsiaGVscCI6ICJEb2NrZXIgaW1hZ2UgbmFtZSIsICJkZWZhdWx0IjogSU1BR0VfTkFNRX0pLAogICAgICAgICgoIi10IiwgIi0tdGFnIiksIHsiaGVscCI6ICJEb2NrZXIgdGFnIiwgImRlZmF1bHQiOiAibGF0ZXN0In0pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIHJlZ2lzdGVyKHNlbGYpOgogICAgICAgIG9sZF9yZWdpc3RlciA9IE1vZGVsLnJlZ2lzdGVyCiAgICAgICAgTW9kZWwucmVnaXN0ZXIgPSBzZXQoKQogICAgICAgIHlpZWxkIE1vZGVsLnJlZ2lzdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAoKCItaSIsICItLWltYWdlIiksIHsiaGVscCI6ICJEb2NrZXIgaW1hZ2UgbmFtZSIsICJkZWZhdWx0IjogSU1BR0VfTkFNRX0pLAogICAgICAgICgoIi10IiwgIi0tdGFnIiksIHsiaGVscCI6ICJEb2NrZXIgdGFnIiwgImRlZmF1bHQiOiAibGF0ZXN0In0pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKCItaSIsICItLWltYWdlIiksIHsiaGVscCI6ICJEb2NrZXIgaW1hZ2UgbmFtZSIsICJkZWZhdWx0IjogSU1BR0VfTkFNRX0pLAogICAgICAgICgoIi10IiwgIi0tdGFnIiksIHsiaGVscCI6ICJEb2NrZXIgdGFnIiwgImRlZmF1bHQiOiAibGF0ZXN0In0pLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YWJhc2VfY29tcG9uZW50ID0gUGVld2VlRGF0YWJhc2VDb21wb25lbnQodXJsPSJzcWxpdGU6Ly8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAoKCItaSIsICItLWltYWdlIiksIHsiaGVscCI6ICJEb2NrZXIgaW1hZ2UgbmFtZSIsICJkZWZhdWx0IjogSU1BR0VfTkFNRX0pLAogICAgICAgICgoIi10IiwgIi0tdGFnIiksIHsiaGVscCI6ICJEb2NrZXIgdGFnIiwgImRlZmF1bHQiOiAibGF0ZXN0In0pLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zITxsaT5cKC4qXCk8L2xpPiE8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4hZw==</text>
