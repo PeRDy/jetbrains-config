@@ -2323,11 +2323,11 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1529418629237">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="31" column="35" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="31" column="6" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1529420265262">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/package.json" timestamp="1515004616874">
         <mark key="[" line="12" column="5" />
@@ -3902,7 +3902,7 @@
         <text encoding="base64">ICAgICAgICAgICBydW4oKnNobGV4LnNwbGl0KCJpc29ydCAtLWNoZWNrLW9ubHkiKSwgKiprd2FyZ3MpICsgXAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3952,12 +3952,12 @@
         <entry encoding="base64">JzwsJz5zITxsaT5cKC4qXCk8L2xpPiE8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4hZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FwaXN0YXItY3J1ZC9jbGlubmVyL2c=</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>%s/flake8/isort/g</entry>
         <entry>%s/isort/black/g</entry>
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
