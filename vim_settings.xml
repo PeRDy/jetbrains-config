@@ -532,10 +532,10 @@
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/.pre-commit-config.yaml" timestamp="1529404249288">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/.pre-commit-config.yaml" timestamp="1529407384848">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/mixins.py" timestamp="1528986298421">
         <mark key="[" line="5" column="16" />
@@ -2351,12 +2351,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/tox.ini" timestamp="1529405595462">
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/tox.ini" timestamp="1529407019045">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/uwsgi.ini" timestamp="1516659334234">
         <mark key="[" line="3" column="12" />
@@ -2495,9 +2495,9 @@
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/setup.cfg" timestamp="1529405055368">
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/setup.cfg" timestamp="1529406745947">
         <mark key="'" line="79" column="27" />
-        <mark key="[" line="79" column="27" />
+        <mark key="[" line="86" column="7" />
         <mark key="]" line="79" column="27" />
         <mark key="." line="79" column="27" />
         <mark key="^" line="73" column="21" />
@@ -3825,14 +3825,14 @@
       <jump line="6" column="9" filename="$USER_HOME$/Desarrollo/perdy/clinner/tox.ini" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isort</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>isort</text>
+        <text encoding="base64">IC0tY29uZmlnIHNldHVwLmNmZw==</text>
       </register>
       <register name="/" type="4">
         <text>apistar-crud</text>
@@ -3841,31 +3841,31 @@
         <text encoding="base64">W3Rlc3RlbnY6aXNvcnRdCmRlcHMgPSBpc29ydApjb21tYW5kcyA9IGlzb3J0IC0tY2hlY2stb25seQoKW3Rlc3RlbnY6ZG9jXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W3Rlc3RlbnY6ZG9jXQo=</text>
+        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIC13IDEyMAo=</text>
+        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIC1tIDQgCg==</text>
+        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhjbHVkZSA9CiAgICBkb2MsCiAgICBidWlsZCwKICAgIGRpc3QK</text>
+        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSovY29tbWFuZHMvKgo=</text>
+        <text encoding="base64">W3Rlc3RlbnY6ZG9jXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIC13IDEyMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfYXJncyA9IHsKICAgICAgICAnZm9vJzogWyctdicsICctLWJhcicsICdmb29iYXInXSwKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAtIC1tIDQgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Li4gY29kZTo6IHB5dGhvbgoK</text>
+        <text encoding="base64">ZXhjbHVkZSA9CiAgICBkb2MsCiAgICBidWlsZCwKICAgIGRpc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSovY29tbWFuZHMvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
