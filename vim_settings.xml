@@ -413,6 +413,9 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/test_spiders.py" timestamp="1529417363308">
+        <mark key="[" line="17" column="17" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="18" />
@@ -536,6 +539,12 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/pyproject.toml" timestamp="1529416492000">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/mixins.py" timestamp="1528986298421">
         <mark key="[" line="5" column="16" />
@@ -1815,12 +1824,6 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_resolve_geolocation.py" timestamp="1523055625781">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="38" column="19" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/spiders/storj_nodes.py" timestamp="1522226770590">
         <mark key="[" line="25" column="75" />
         <mark key="]" line="25" column="97" />
@@ -1935,12 +1938,12 @@
         <mark key="^" line="103" column="40" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/make" timestamp="1529397592222">
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/make" timestamp="1529417247110">
         <mark key="'" line="12" column="31" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="75" column="0" />
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="56" column="62" />
+        <mark key="." line="56" column="62" />
+        <mark key="^" line="56" column="62" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/docker-compose-production.yml" timestamp="1500923698604">
         <mark key="[" line="9" column="13" />
@@ -2098,6 +2101,12 @@
         <mark key="^" line="269" column="55" />
         <mark key="." line="269" column="55" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/setup.cfg" timestamp="1529319826638">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="59" />
@@ -2145,6 +2154,12 @@
         <mark key="]" line="8" column="38" />
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/Dockerfile" timestamp="1529416523197">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -2742,11 +2757,11 @@
       <file name="$USER_HOME$/Desarrollo/souft/website/website/app.py" timestamp="1529260381409">
         <mark key="[" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/conftest.py" timestamp="1522079505246">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="44" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="44" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/storj/tests/conftest.py" timestamp="1529417520998">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/docker-compose-acceptance.yml" timestamp="1511908134776">
         <mark key="[" line="23" column="63" />
@@ -3685,6 +3700,12 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" timestamp="1529414254027">
+        <mark key="'" line="24" column="9" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -3735,9 +3756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
-      <jump line="107" column="11" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/docker-compose.yml" />
       <jump line="13" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/docker-compose.yml" />
       <jump line="9" column="14" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" />
       <jump line="10" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/environment.py" />
@@ -3835,66 +3853,68 @@
       <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/perdy/clinner/.pre-commit-config.yaml" />
       <jump line="7" column="66" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/isort.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/black.py" />
+      <jump line="24" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
+      <jump line="25" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
+      <jump line="23" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prospector</text>
+        <text>alpine</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>prospector</text>
+        <text>alpine</text>
       </register>
       <register name="/" type="4">
-        <text>isort</text>
+        <text>pytest</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMuZmxha2U4LmZsYWtlOCcsCg==</text>
+      <register name="0" type="4">
+        <text>Bind source code as docker volume</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMuZGlzdC5kaXN0JywK</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWJhc2UgbGlieHNsdC1kZXYgbGlieG1sMi1kZXYgbGliZmZpLWRldiBqcGVnLWRldiB0aWZmLWRldiBsaWJwbmctZGV2IHpsaWItZGV2IG9wZW5zc2wtZGV2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHl0ZXN0LnB5dGVzdCcsCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHNfdGVzdC50eHQgLWMgY29uc3RyYWludHMudHh0ICYmIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogSW50ZWdyYXRlIGZsYWtlOCBhcyBjb2RlIGxpbnRlci4K</text>
+        <text encoding="base64">CiAgICBwb2V0cnkgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
+        <text encoding="base64">ICAgIGFyZ3M9KCgoIi0tc291cmNlIiwpLCB7ImhlbHAiOiAiQmluZCBzb3VyY2UgY29kZSBhcyBkb2NrZXIgdm9sdW1lIiwgImFjdGlvbiI6ICJzdG9yZV90cnVlIn0pLCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
+        <text encoding="base64">ICAgIGFyZ3M9KCgoIi0tc291cmNlIiwpLCB7ImhlbHAiOiAiQmluZCBzb3VyY2UgY29kZSBhcyBkb2NrZXIgdm9sdW1lIiwgImFjdGlvbiI6ICJzdG9yZV90cnVlIn0pLCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
+        <text encoding="base64">ICAgICAgICAoKCItLXNvdXJjZSIsKSwgeyJoZWxwIjogIkJpbmQgc291cmNlIGNvZGUgYXMgZG9ja2VyIHZvbHVtZSIsICJhY3Rpb24iOiAic3RvcmVfdHJ1ZSJ9KSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
+        <text encoding="base64">IFwKIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W3Rlc3RlbnY6ZG9jXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBydW4oKnNobGV4LnNwbGl0KCJpc29ydCAtLWNoZWNrLW9ubHkiKSwgKiprd2FyZ3MpICsgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIC13IDEyMAo=</text>
+        <text encoding="base64">ICAgIGJsYWNrID0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/isort/black/g</text>
+        <text encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</text>
       </register>
     </registers>
     <search>
-      <last-search>isort</last-search>
+      <last-search>pytest</last-search>
       <last-offset />
-      <last-pattern>isort</last-pattern>
+      <last-pattern>pytest</last-pattern>
       <last-replace>black</last-replace>
-      <last-substitute>isort</last-substitute>
+      <last-substitute>pytest</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>session: Session\(\, \)?</entry>
         <entry>session: Session\(, \)\?</entry>
         <entry>\(Dict|List|Any\)</entry>
         <entry>\(Dict\|List\|Any\)</entry>
@@ -3914,11 +3934,9 @@
         <entry>apistar-crud</entry>
         <entry>flake8</entry>
         <entry>isort</entry>
+        <entry>pytest</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\(Dict\|Iterable\|Any\)/typing.\1/g</entry>
-        <entry encoding="base64">JzwsJz5zL3BlZXdlZS1vcm0vY3J1ZC9n</entry>
-        <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihKU09OQikvcGxheWhvdXNlLnBvc3RncmVzX2V4dC5CaW5hcnlKU09ORmllbGQoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihEYXRlKS9wZWV3ZWUuRGF0ZUZpZWxkKCkvZw==</entry>
@@ -3936,6 +3954,9 @@
         <entry>w</entry>
         <entry>%s/flake8/isort/g</entry>
         <entry>%s/isort/black/g</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
