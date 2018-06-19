@@ -598,13 +598,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/README.md" timestamp="1529398893127">
-        <mark key="'" line="145" column="4" />
-        <mark key="[" line="94" column="27" />
-        <mark key="]" line="94" column="26" />
-        <mark key="^" line="94" column="26" />
-        <mark key="." line="94" column="26" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/README.rst" timestamp="1492352281481">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
@@ -972,6 +965,12 @@
         <mark key="]" line="21" column="44" />
         <mark key="." line="21" column="44" />
         <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/black.py" timestamp="1529408554430">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-api/cookify_api/settings/base.py" timestamp="1504964497776">
         <mark key="[" line="167" column="0" />
@@ -1967,6 +1966,12 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/flake8.py" timestamp="1529408563647">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="7" column="66" />
+        <mark key="." line="7" column="66" />
+        <mark key="^" line="12" column="30" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="16" column="49" />
@@ -2146,6 +2151,12 @@
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/isort.py" timestamp="1529408558041">
+        <mark key="'" line="7" column="66" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="7" column="66" />
+        <mark key="." line="7" column="66" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/components/atoms/DjangoCSRFToken.jsx" timestamp="1517585488106">
         <mark key="[" line="1" column="0" />
@@ -2541,10 +2552,11 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/CHANGELOG.md" timestamp="1529398061033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/CHANGELOG.md" timestamp="1529408451614">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
@@ -3723,9 +3735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2153" column="2" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="2152" column="2" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/backup_18-03-30.json" />
-      <jump line="10" column="15" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/schema.py" />
       <jump line="16" column="6" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
       <jump line="107" column="11" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/core/fixtures/recipes_backup_18-03-30.yaml" />
       <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/docker-compose.yml" />
@@ -3823,67 +3832,68 @@
       <jump line="145" column="4" filename="$USER_HOME$/Desarrollo/perdy/clinner/README.md" />
       <jump line="79" column="27" filename="$USER_HOME$/Desarrollo/perdy/clinner/setup.cfg" />
       <jump line="6" column="9" filename="$USER_HOME$/Desarrollo/perdy/clinner/tox.ini" />
+      <jump line="26" column="0" filename="$USER_HOME$/Desarrollo/perdy/clinner/.pre-commit-config.yaml" />
+      <jump line="7" column="66" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/isort.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/black.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
+      <register name="&quot;" type="4">
+        <text>prospector</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tY29uZmlnIHNldHVwLmNmZw==</text>
+        <text>prospector</text>
       </register>
       <register name="/" type="4">
-        <text>apistar-crud</text>
+        <text>isort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W3Rlc3RlbnY6aXNvcnRdCmRlcHMgPSBpc29ydApjb21tYW5kcyA9IGlzb3J0IC0tY2hlY2stb25seQoKW3Rlc3RlbnY6ZG9jXQo=</text>
+        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMuZmxha2U4LmZsYWtlOCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
+        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMuZGlzdC5kaXN0JywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
+        <text encoding="base64">ICAgICAgICAnY2xpbm5lci5ydW4uY29tbWFuZHMucHl0ZXN0LnB5dGVzdCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
+        <text encoding="base64">ICogSW50ZWdyYXRlIGZsYWtlOCBhcyBjb2RlIGxpbnRlci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
+        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W3Rlc3RlbnY6ZG9jXQo=</text>
+        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIC13IDEyMAo=</text>
+        <text encoding="base64">ICAgICAgICAtIC1xCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIC1tIDQgCg==</text>
+        <text encoding="base64">ICAgICAgICAtIC0tc2FmZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhjbHVkZSA9CiAgICBkb2MsCiAgICBidWlsZCwKICAgIGRpc3QK</text>
+        <text encoding="base64">W3Rlc3RlbnY6ZG9jXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSovY29tbWFuZHMvKgo=</text>
+        <text encoding="base64">ICAgICAgICAtIC13IDEyMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/isort/black/g</text>
       </register>
     </registers>
     <search>
-      <last-search>apistar-crud</last-search>
+      <last-search>isort</last-search>
       <last-offset />
-      <last-pattern>apistar-crud</last-pattern>
-      <last-replace>clinner</last-replace>
-      <last-substitute>apistar-crud</last-substitute>
+      <last-pattern>isort</last-pattern>
+      <last-replace>black</last-replace>
+      <last-substitute>isort</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>session: Session</entry>
-        <entry>session: Session\(, \)?</entry>
         <entry>session: Session\(\, \)?</entry>
         <entry>session: Session\(, \)\?</entry>
         <entry>\(Dict|List|Any\)</entry>
@@ -3902,10 +3912,10 @@
         <entry>\d\+ \(.*\)</entry>
         <entry encoding="base64">PGxpPlwoLipcKTwvbGk+</entry>
         <entry>apistar-crud</entry>
+        <entry>flake8</entry>
+        <entry>isort</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\(Dict|List|Any\)/typing.\1/g</entry>
-        <entry>%s/\(Dict\|List\|Any\)/typing.\1/g</entry>
         <entry>%s/\(Dict\|Iterable\|Any\)/typing.\1/g</entry>
         <entry encoding="base64">JzwsJz5zL3BlZXdlZS1vcm0vY3J1ZC9n</entry>
         <entry encoding="base64">JzwsJz5zLz0vLS9n</entry>
@@ -3924,6 +3934,8 @@
         <entry encoding="base64">JzwsJz5zL2FwaXN0YXItY3J1ZC9jbGlubmVyL2c=</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/flake8/isort/g</entry>
+        <entry>%s/isort/black/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
