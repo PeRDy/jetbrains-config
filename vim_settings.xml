@@ -2077,11 +2077,12 @@
         <mark key="." line="46" column="20" />
         <mark key="^" line="46" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1522071318125">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="20" />
-        <mark key="." line="46" column="20" />
-        <mark key="^" line="45" column="57" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" timestamp="1529418269634">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/infra/gitlab-ci-agent/README.md" timestamp="1522497499583">
         <mark key="[" line="3" column="0" />
@@ -2322,8 +2323,8 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1522104875276">
-        <mark key="[" line="31" column="6" />
+      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1529418629237">
+        <mark key="[" line="15" column="21" />
         <mark key="]" line="31" column="35" />
         <mark key="^" line="27" column="11" />
         <mark key="." line="31" column="6" />
@@ -3756,7 +3757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/docker-compose.yml" />
       <jump line="9" column="14" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/settings.py" />
       <jump line="10" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/goobox_nodes_api/environment.py" />
       <jump line="256" column="4" filename="$USER_HOME$/.PyCharm2018.1/system/remote_sources/758130256/-337502517/apistar/typesystem.py" />
@@ -3856,10 +3856,11 @@
       <jump line="24" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
       <jump line="25" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
       <jump line="23" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
+      <jump line="5" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/goobox_nodes_scraper/scrapy_settings/development.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>alpine</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U1BJREVSX01PRFVMRVMgPSBbInN0b3JqLnNwaWRlcnMiXQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3874,31 +3875,31 @@
         <text>Bind source code as docker volume</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWJhc2UgbGlieHNsdC1kZXYgbGlieG1sMi1kZXYgbGliZmZpLWRldiBqcGVnLWRldiB0aWZmLWRldiBsaWJwbmctZGV2IHpsaWItZGV2IG9wZW5zc2wtZGV2Cg==</text>
+        <text encoding="base64">U1BJREVSX01PRFVMRVMgPSBbInN0b3JqLnNwaWRlcnMiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHNfdGVzdC50eHQgLWMgY29uc3RyYWludHMudHh0ICYmIFwK</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWJhc2UgbGlieHNsdC1kZXYgbGlieG1sMi1kZXYgbGliZmZpLWRldiBqcGVnLWRldiB0aWZmLWRldiBsaWJwbmctZGV2IHpsaWItZGV2IG9wZW5zc2wtZGV2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwb2V0cnkgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbiAtbSBwaXAgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHNfdGVzdC50eHQgLWMgY29uc3RyYWludHMudHh0ICYmIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFyZ3M9KCgoIi0tc291cmNlIiwpLCB7ImhlbHAiOiAiQmluZCBzb3VyY2UgY29kZSBhcyBkb2NrZXIgdm9sdW1lIiwgImFjdGlvbiI6ICJzdG9yZV90cnVlIn0pLCksCg==</text>
+        <text encoding="base64">CiAgICBwb2V0cnkgaW5zdGFsbCAtLW5vLWNhY2hlLWRpciAtciByZXF1aXJlbWVudHMudHh0IC1jIGNvbnN0cmFpbnRzLnR4dCAmJiBcCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGFyZ3M9KCgoIi0tc291cmNlIiwpLCB7ImhlbHAiOiAiQmluZCBzb3VyY2UgY29kZSBhcyBkb2NrZXIgdm9sdW1lIiwgImFjdGlvbiI6ICJzdG9yZV90cnVlIn0pLCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoKCItLXNvdXJjZSIsKSwgeyJoZWxwIjogIkJpbmQgc291cmNlIGNvZGUgYXMgZG9ja2VyIHZvbHVtZSIsICJhY3Rpb24iOiAic3RvcmVfdHJ1ZSJ9KSwK</text>
+        <text encoding="base64">ICAgIGFyZ3M9KCgoIi0tc291cmNlIiwpLCB7ImhlbHAiOiAiQmluZCBzb3VyY2UgY29kZSBhcyBkb2NrZXIgdm9sdW1lIiwgImFjdGlvbiI6ICJzdG9yZV90cnVlIn0pLCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IFwKIFwK</text>
+        <text encoding="base64">ICAgICAgICAoKCItLXNvdXJjZSIsKSwgeyJoZWxwIjogIkJpbmQgc291cmNlIGNvZGUgYXMgZG9ja2VyIHZvbHVtZSIsICJhY3Rpb24iOiAic3RvcmVfdHJ1ZSJ9KSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBydW4oKnNobGV4LnNwbGl0KCJpc29ydCAtLWNoZWNrLW9ubHkiKSwgKiprd2FyZ3MpICsgXAo=</text>
+        <text encoding="base64">IFwKIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJsYWNrID0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBydW4oKnNobGV4LnNwbGl0KCJpc29ydCAtLWNoZWNrLW9ubHkiKSwgKiprd2FyZ3MpICsgXAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</text>
