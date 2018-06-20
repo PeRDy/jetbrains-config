@@ -2432,6 +2432,13 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="129" column="8" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/__main__.py" timestamp="1529503837907">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="52" column="13" />
+        <mark key="^" line="52" column="13" />
+        <mark key="." line="52" column="13" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/platforms.py" timestamp="1528986485570">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="0" />
@@ -3783,8 +3790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="74" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
       <jump line="10" column="25" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
       <jump line="31" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
@@ -3883,22 +3888,24 @@
       <jump line="119" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/pyproject.toml" />
+      <jump line="41" column="9" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/__main__.py" />
+      <jump line="42" column="36" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pytest</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>models</text>
+        <text>pytest</text>
       </register>
       <register name="/" type="4">
-        <text>kwargs\[&quot;app&quot;\]</text>
+        <text>pytest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">djAuMi4wIC0gMjAxOC0wNi0xNQo=</text>
+        <text encoding="base64">ICAgICAgICAiY2xpbm5lci5ydW4uY29tbWFuZHMucHl0ZXN0LnB5dGVzdCIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3928,15 +3935,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2t3YXJnc1xbImFwcCJcXS9vcy5lbnZpcm9uWyJBUElTVEFSX0FQUCJdL2c=</text>
+        <text encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>kwargs\[&quot;app&quot;\]</last-search>
+      <last-search>pytest</last-search>
       <last-offset />
-      <last-pattern>kwargs\[&quot;app&quot;\]</last-pattern>
-      <last-replace>os.environ[&quot;APISTAR_APP&quot;]</last-replace>
-      <last-substitute>kwargs\[&quot;app&quot;\]</last-substitute>
+      <last-pattern>pytest</last-pattern>
+      <last-replace>flake8</last-replace>
+      <last-substitute>pytest</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -3956,12 +3963,12 @@
         <entry>apistar-crud</entry>
         <entry>flake8</entry>
         <entry>isort</entry>
-        <entry>pytest</entry>
         <entry>url</entry>
         <entry>first</entry>
         <entry>migrate</entry>
         <entry>kwargs[&quot;app&quot;]</entry>
         <entry>kwargs\[&quot;app&quot;\]</entry>
+        <entry>pytest</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9iaW8vZw==</entry>
@@ -3977,13 +3984,13 @@
         <entry>wq</entry>
         <entry>%s/flake8/isort/g</entry>
         <entry>%s/isort/black/g</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
         <entry>w</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2t3YXJnc1siYXBwIl0vb3MuZW52aXJvblsiQVBJU1RBUl9BUFAiXS9n</entry>
         <entry encoding="base64">JzwsJz5zL2t3YXJnc1xbImFwcCJcXS9vcy5lbnZpcm9uWyJBUElTVEFSX0FQUCJdL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
