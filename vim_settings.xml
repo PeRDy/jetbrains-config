@@ -1490,8 +1490,8 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/CHANGELOG.md" timestamp="1529319288948">
-        <mark key="[" line="3" column="61" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/CHANGELOG.md" timestamp="1529500885044">
+        <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
@@ -2134,11 +2134,10 @@
         <mark key="^" line="269" column="55" />
         <mark key="." line="269" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/setup.cfg" timestamp="1529319826638">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="28" column="10" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/setup.cfg" timestamp="1529500856404">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
@@ -2342,6 +2341,11 @@
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" timestamp="1529501351907">
+        <mark key="[" line="131" column="53" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/.travis.yml" timestamp="1529420265262">
         <mark key="[" line="14" column="7" />
@@ -3888,8 +3892,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>models</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3901,34 +3905,34 @@
         <text>kwargs\[&quot;app&quot;\]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCA9ICdcbicuam9pbihbZiJbeF0ge21pZ3JhdGlvbn0iIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kb25lXSkK</text>
+        <text encoding="base64">djAuMi4wIC0gMjAxOC0wNi0xNQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kb25lOgogICAgICAgIGxvZ2dlci5pbmZvKCJbeF0gJXMiLCBtaWdyYXRpb24pCgogICAgZm9yIG1pZ3JhdGlvbiBpbiBtYW5hZ2VyLmRpZmY6CiAgICAgICAgbG9nZ2VyLmluZm8oIlsgXSAlcyIsIG1pZ3JhdGlvbikK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSAgICAgICAgICAgICAgRGVsZXRlIGEgbWlncmF0aW9uCiAgICBjcmVhdGUgICAgICAgICAgICAgIENyZWF0ZSBhIG5ldyBtaWdyYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCA9ICcnCg==</text>
+        <text encoding="base64">ICAgIHVwZ3JhZGUgICAgICAgICAgICAgRGF0YWJhc2UgbWlncmF0aW9ucyB1cGdyYWRlCiAgICBkb3duZ3JhZGUgICAgICAgICAgIERhdGFiYXNlIG1pZ3JhdGlvbnMgZG93bmdyYWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCgibW9kdWxlIiwpLCB7ImhlbHAiOiAiVGFyZ2V0IG1vZHVsZSJ9KSwK</text>
+        <text encoding="base64">ICAtLWRyeS1ydW4gICAgICAgICAgICAgRHJ5IHJ1bi4gU2tpcCBjb21tYW5kcyBleGVjdXRpb24sIHVzZWZ1bCB0byBjaGVjawogICAgICAgICAgICAgICAgICAgICAgICB3aGljaCBjb21tYW5kcyB3aWxsIGJlIGV4ZWN1dGVkIGFuZCBleGVjdXRpb24gb3JkZXIKCkNvbW1hbmRzOgogIHtzdGF0dXMsdXBncmFkZSxkb3duZ3JhZGUsZGVsZXRlLGNyZWF0ZX0KICAgIHN0YXR1cyAgICAgICAgICAgICAgRGF0YWJhc2UgbWlncmF0aW9ucyBhbmQgbW9kZWxzIHN0YXR1cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNhZ2U6IG9ybSBbLWhdIFstcyBTRVRUSU5HU10gWy1xIHwgLXZdIFstLWRyeS1ydW5dCiAgICAgICAgICAge3N0YXR1cyx1cGdyYWRlLGRvd25ncmFkZSxkZWxldGUsY3JlYXRlfSAuLi4gYXBwCgpwb3NpdGlvbmFsIGFyZ3VtZW50czoKICBhcHAgICAgICAgICAgICAgICAgICAgQVBJIFN0YXIgYXBwbGljYXRpb24gcGF0aAogICAgICAgICAgICAgICAgICAgICAgICAoPHBhY2thZ2U+Ljxtb2R1bGU+Ojx2YXJpYWJsZT4pCgpvcHRpb25hbCBhcmd1bWVudHM6CiAgLWgsIC0taGVscCAgICAgICAgICAgIHNob3cgdGhpcyBoZWxwIG1lc3NhZ2UgYW5kIGV4aXQKICAtcyBTRVRUSU5HUywgLS1zZXR0aW5ncyBTRVRUSU5HUwogICAgICAgICAgICAgICAgICAgICAgICBNb2R1bGUgb3Igb2JqZWN0IHdpdGggQ2xpbm5lciBzZXR0aW5ncyBpbiBmb3JtYXQKICAgICAgICAgICAgICAgICAgICAgICAgInBhY2thZ2UubW9kdWxlWzpPYmplY3RdIgogIC1xLCAtLXF1aWV0ICAgICAgICAgICBRdWlldCBtb2RlLiBObyBzdGFuZGFyZCBvdXRwdXQgb3RoZXIgdGhhbiBleGVjdXRlZAogICAgICAgICAgICAgICAgICAgICAgICBhcHBsaWNhdGlvbgogIC12LCAtLXZlcmJvc2UgICAgICAgICBWZXJib3NlIGxldmVsIChUaGlzIG9wdGlvbiBpcyBhZGRpdGl2ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvcnQgPSBzY3JhcHkuRmllbGQoKSAgIyBuZXRhZGRyZXNzCg==</text>
+        <text encoding="base64">a25vd25fZmlyc3RfcGFydHkgPSBhcGlzdGFyX3BlZXdlZV9vcm0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyYmFjaz1zZWxmLmVycmJhY2tfaHR0cGJpbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a25vd25fZmlyc3RfcGFydHkgPSAK</text>
+        <text encoding="base64">ICAgIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kb25lOgogICAgICAgIGxvZ2dlci5pbmZvKCJbeF0gJXMiLCBtaWdyYXRpb24pCgogICAgZm9yIG1pZ3JhdGlvbiBpbiBtYW5hZ2VyLmRpZmY6CiAgICAgICAgbG9nZ2VyLmluZm8oIlsgXSAlcyIsIG1pZ3JhdGlvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dCA9ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2t3YXJnc1xbImFwcCJcXS9vcy5lbnZpcm9uWyJBUElTVEFSX0FQUCJdL2c=</text>
