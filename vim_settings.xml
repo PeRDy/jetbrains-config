@@ -3000,11 +3000,12 @@
         <mark key="^" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529492490550">
-        <mark key="[" line="124" column="100" />
-        <mark key="]" line="118" column="85" />
-        <mark key="^" line="118" column="85" />
-        <mark key="." line="118" column="85" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529494126213">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="74" column="16" />
+        <mark key="]" line="74" column="16" />
+        <mark key="^" line="64" column="14" />
+        <mark key="." line="74" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/ExperienceList.vue" timestamp="1500385502901">
         <mark key="[" line="45" column="9" />
@@ -3785,8 +3786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/types/storj_node.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
       <jump line="14" column="74" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
@@ -3885,67 +3884,67 @@
       <jump line="54" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/sia/tests/spiders/test_sia_nodes.py" />
       <jump line="51" column="21" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/sia/spiders/sia_nodes.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.lock" />
+      <jump line="119" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>models</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>module</text>
+        <text>models</text>
       </register>
       <register name="/" type="4">
-        <text>migrate</text>
+        <text>kwargs\[&quot;app&quot;\]</text>
       </register>
-      <register name="0" type="4">
-        <text>e</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG91dHB1dCA9ICdcbicuam9pbihbZiJbeF0ge21pZ3JhdGlvbn0iIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kb25lXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCgibW9kdWxlIiwpLCB7ImhlbHAiOiAiVGFyZ2V0IG1vZHVsZSJ9KSwK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kb25lOgogICAgICAgIGxvZ2dlci5pbmZvKCJbeF0gJXMiLCBtaWdyYXRpb24pCgogICAgZm9yIG1pZ3JhdGlvbiBpbiBtYW5hZ2VyLmRpZmY6CiAgICAgICAgbG9nZ2VyLmluZm8oIlsgXSAlcyIsIG1pZ3JhdGlvbikK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvcnQgPSBzY3JhcHkuRmllbGQoKSAgIyBuZXRhZGRyZXNzCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dCA9ICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyYmFjaz1zZWxmLmVycmJhY2tfaHR0cGJpbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCgibW9kdWxlIiwpLCB7ImhlbHAiOiAiVGFyZ2V0IG1vZHVsZSJ9KSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a25vd25fZmlyc3RfcGFydHkgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgIHBvcnQgPSBzY3JhcHkuRmllbGQoKSAgIyBuZXRhZGRyZXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLndpcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyYmFjaz1zZWxmLmVycmJhY2tfaHR0cGJpbiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X3JlcXVlc3QsIGl0ZW1zID0gcmVzdWx0WzBdLCByZXN1bHRbMTpdCg==</text>
+        <text encoding="base64">a25vd25fZmlyc3RfcGFydHkgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobm9kZSkK</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">JzwsJz5zL2t3YXJnc1xbImFwcCJcXS9vcy5lbnZpcm9uWyJBUElTVEFSX0FQUCJdL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>migrate</last-search>
+      <last-search>kwargs\[&quot;app&quot;\]</last-search>
       <last-offset />
-      <last-pattern>migrate</last-pattern>
-      <last-replace>black</last-replace>
-      <last-substitute>pytest</last-substitute>
+      <last-pattern>kwargs\[&quot;app&quot;\]</last-pattern>
+      <last-replace>os.environ[&quot;APISTAR_APP&quot;]</last-replace>
+      <last-substitute>kwargs\[&quot;app&quot;\]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\(Dict\|Iterable\|Any\)</entry>
-        <entry>session</entry>
         <entry>peewee-orm</entry>
         <entry>=</entry>
         <entry encoding="base64">XDxDaGFuZ2VzXD4=</entry>
@@ -3964,10 +3963,10 @@
         <entry>url</entry>
         <entry>first</entry>
         <entry>migrate</entry>
+        <entry>kwargs[&quot;app&quot;]</entry>
+        <entry>kwargs\[&quot;app&quot;\]</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL0NvbHVtbihEYXRlKS9wZWV3ZWUuRGF0ZUZpZWxkKCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9iaW8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGVfb2ZfYmlydGgvb25fcGxhdGZvcm0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xkXCsgXCguKlwpLzxsaT5cMTwvbGk+L2c=</entry>
@@ -3986,6 +3985,8 @@
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL2t3YXJnc1siYXBwIl0vb3MuZW52aXJvblsiQVBJU1RBUl9BUFAiXS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2t3YXJnc1xbImFwcCJcXS9vcy5lbnZpcm9uWyJBUElTVEFSX0FQUCJdL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
