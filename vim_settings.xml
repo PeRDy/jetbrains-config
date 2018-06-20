@@ -3740,6 +3740,13 @@
         <mark key="^" line="47" column="44" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" timestamp="1529512038776">
+        <mark key="'" line="70" column="10" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="60" column="22" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/install.sh" timestamp="1467129967898">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="42" />
@@ -3802,10 +3809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="25" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
-      <jump line="11" column="59" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
       <jump line="24" column="66" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
       <jump line="38" column="30" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
       <jump line="55" column="48" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
@@ -3902,70 +3905,69 @@
       <jump line="17" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/pyproject.toml" />
       <jump line="41" column="9" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/__main__.py" />
       <jump line="42" column="36" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/__main__.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" />
+      <jump line="67" column="16" filename="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" />
+      <jump line="80" column="22" filename="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" />
+      <jump line="74" column="10" filename="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnY6Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>pytest</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
-        <text>pytest</text>
+        <text>dieteo-api.development.svc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiY2xpbm5lci5ydW4uY29tbWFuZHMucHl0ZXN0LnB5dGVzdCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnY6Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgpAY29tbWFuZCgKICAgIGNvbW1hbmRfdHlwZT1Db21tYW5kVHlwZS5TSEVMTCwKICAgIGFyZ3M9KCgoIi0tc291cmNlIiwpLCB7ImhlbHAiOiAiQmluZCBzb3VyY2UgY29kZSBhcyBkb2NrZXIgdm9sdW1lIiwgImFjdGlvbiI6ICJzdG9yZV90cnVlIn0pLCksCiAgICBwYXJzZXJfb3B0cz17ImhlbHAiOiAiUnVuIEFwaXN0YXIgUGVld2VlIE9STSBDTEkgYXBwbGljYXRpb24ifSwKKQpkZWYgcGVld2VlKCphcmdzLCAqKmt3YXJncykgLT4gTGlzdFtMaXN0W3N0cl1dOgogICAgaW1hZ2UgPSBbZid7a3dhcmdzWyJpbWFnZSJdfTp7a3dhcmdzWyJ0YWciXX0nXQogICAgZW50cnlwb2ludCA9IFsiLS1lbnRyeXBvaW50IiwgInBvZXRyeSJdCiAgICBjbWQgPSBbInJ1biIsICJhcGlzdGFyLXBlZXdlZS1vcm0iXQogICAgdm9sdW1lcyA9IFsiLXYiLCBmIntvcy5nZXRjd2QoKX06e0FQUF9QQVRIfSJdIGlmIGt3YXJnc1sic291cmNlIl0gZWxzZSBbXQoKICAgIHJldHVybiBbc2hsZXguc3BsaXQoZiJkb2NrZXIgcnVuIikgKyBlbnRyeXBvaW50ICsgdm9sdW1lcyArIGltYWdlICsgY21kICsgbGlzdChhcmdzKV0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyMjIyMjIwojIEFQSSAjCiMjIyMjIyMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Clt0b29sLnBvZXRyeS5zY3JpcHRzXQpydW4gPSAiZ2lsZ2FtZXNoX2FwaS5fX21haW5fXzptYWluIgpvcm0gPSAiYXBpc3Rhcl9wZWV3ZWVfb3JtLl9fbWFpbl9fOm1haW4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvIgogICAgICAgIC0gbmFtZTogUE9TVEdSRVNfTkFNRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lIGFzIGR0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiNTQzMiIKICAgICAgICAtIG5hbWU6IERCX0RFRkFVTFRfVVNFUgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lIGFzIGR0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvLWRiLmRldmVsb3BtZW50IgogICAgICAgIC0gbmFtZTogREJfREVGQVVMVF9QT1JUCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrZXk6IHBhc3N3b3JkCiAgICAgICAgLSBuYW1lOiBEQl9ERUZBVUxUX0hPU1QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0S2V5UmVmOgogICAgICAgICAgICAgIG5hbWU6IGRpZXRlby1kYi1jcmVkZW50aWFscwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjbGFzcyBNZXRhZGF0YToKICAgICAgICBkYl90YWJsZSA9ICJ1c2Vyc19jcmVhdG9yIgo=</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6IERCX0RFRkFVTFRfUEFTU1dPUkQKICAgICAgICAgIHZhbHVlRnJvbToK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>pytest</last-search>
+      <last-search>dieteo-api.development.svc</last-search>
       <last-offset />
-      <last-pattern>pytest</last-pattern>
-      <last-replace>flake8</last-replace>
-      <last-substitute>pytest</last-substitute>
+      <last-pattern>dieteo-api.development.svc</last-pattern>
+      <last-replace>www</last-replace>
+      <last-substitute>dieteo-api.development.svc</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>peewee-orm</entry>
-        <entry>=</entry>
-        <entry encoding="base64">XDxDaGFuZ2VzXD4=</entry>
-        <entry>Column(JSONB)</entry>
-        <entry>Column(Unicode)</entry>
         <entry>Column(Date)</entry>
         <entry>gender</entry>
         <entry>date_of_birth</entry>
@@ -3981,19 +3983,18 @@
         <entry>kwargs[&quot;app&quot;]</entry>
         <entry>kwargs\[&quot;app&quot;\]</entry>
         <entry>pytest</entry>
+        <entry>dieteo\(-api\)?</entry>
+        <entry>dieteo(-api)?</entry>
+        <entry>dieteo\(-api\)\?</entry>
+        <entry>dieteo-api.development.scv</entry>
+        <entry>dieteo-api.development.svc</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dlbmRlci9iaW8vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2RhdGVfb2ZfYmlydGgvb25fcGxhdGZvcm0vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1xkXCsgXCguKlwpLzxsaT5cMTwvbGk+L2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1xkXCsgXChcLipcKS88bGk+XDE8L2xpPi9n</entry>
-        <entry encoding="base64">JzwsJz5zL1xkKiBcKC4qXCkvPGxpPlwxPC9saT4vZw==</entry>
         <entry encoding="base64">JzwsJz5zI1xkKiBcKC4qXCkjPGxpPlwxPC9saT4jZw==</entry>
         <entry encoding="base64">JzwsJz5zI1xkXCsgXCguKlwpIzxsaT5cMTwvbGk+I2c=</entry>
         <entry encoding="base64">JzwsJz5zIzxsaT5cKC4qXCk8L2xpPiM8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4jZw==</entry>
         <entry encoding="base64">JzwsJz5zITxsaT5cKC4qXCk8L2xpPiE8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4hZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FwaXN0YXItY3J1ZC9jbGlubmVyL2c=</entry>
-        <entry>wq</entry>
         <entry>%s/flake8/isort/g</entry>
         <entry>%s/isort/black/g</entry>
         <entry>w</entry>
@@ -4003,6 +4004,12 @@
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2RpZXRlb1woLWFwaVwpPy93ZWJzaXRlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RpZXRlbygtYXBpKT8vd2Vic2l0ZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RpZXRlb1woLWFwaVwpXD8vd2Vic2l0ZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RpZXRlby1hcGkuZGV2ZWxvcG1lbnQuc2N2L3d3dy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2RpZXRlby1hcGkuZGV2ZWxvcG1lbnQuc3ZjL3d3dy9n</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
