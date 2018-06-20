@@ -3000,8 +3000,8 @@
         <mark key="^" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529491459222">
-        <mark key="[" line="118" column="62" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529492490550">
+        <mark key="[" line="124" column="100" />
         <mark key="]" line="118" column="85" />
         <mark key="^" line="118" column="85" />
         <mark key="." line="118" column="85" />
@@ -3888,7 +3888,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>module</text>
+        <text>e</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3899,8 +3899,8 @@
       <register name="/" type="4">
         <text>migrate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCgibW9kdWxlIiwpLCB7ImhlbHAiOiAiVGFyZ2V0IG1vZHVsZSJ9KSwK</text>
+      <register name="0" type="4">
+        <text>e</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCgibW9kdWxlIiwpLCB7ImhlbHAiOiAiVGFyZ2V0IG1vZHVsZSJ9KSwK</text>
