@@ -2769,6 +2769,11 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.toml" timestamp="1529491605538">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/creator.py" timestamp="1529321984731">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2995,11 +3000,11 @@
         <mark key="^" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529490363185">
-        <mark key="[" line="88" column="64" />
-        <mark key="]" line="97" column="52" />
-        <mark key="^" line="97" column="52" />
-        <mark key="." line="97" column="52" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529491459222">
+        <mark key="[" line="118" column="62" />
+        <mark key="]" line="118" column="85" />
+        <mark key="^" line="118" column="85" />
+        <mark key="." line="118" column="85" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/ExperienceList.vue" timestamp="1500385502901">
         <mark key="[" line="45" column="9" />
@@ -3055,6 +3060,9 @@
         <mark key="]" line="12" column="44" />
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.lock" timestamp="1529491619865">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/development.py" timestamp="1516118259772">
         <mark key="[" line="39" column="0" />
@@ -3727,12 +3735,6 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" timestamp="1529414254027">
-        <mark key="'" line="24" column="9" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -3783,7 +3785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/.env" />
       <jump line="25" column="19" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/nodes/models/storj.py" />
       <jump line="14" column="8" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/types/storj_node.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/views.py" />
@@ -3883,58 +3884,59 @@
       <jump line="24" column="37" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/sia/tests/spiders/test_sia_nodes.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/sia/tests/spiders/test_sia_nodes.py" />
       <jump line="51" column="21" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/sia/spiders/sia_nodes.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>one</text>
+        <text>module</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>one</text>
+        <text>module</text>
       </register>
       <register name="/" type="4">
-        <text>first</text>
+        <text>migrate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kb25lOgogICAgICAgIGxvZ2dlci5pbmZvKCJbeF0gJXMiLCBtaWdyYXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCgibW9kdWxlIiwpLCB7ImhlbHAiOiAiVGFyZ2V0IG1vZHVsZSJ9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCgibW9kdWxlIiwpLCB7ImhlbHAiOiAiVGFyZ2V0IG1vZHVsZSJ9KSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvcnQgPSBzY3JhcHkuRmllbGQoKSAgIyBuZXRhZGRyZXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyYmFjaz1zZWxmLmVycmJhY2tfaHR0cGJpbiwK</text>
+        <text encoding="base64">ICAgIHBvcnQgPSBzY3JhcHkuRmllbGQoKSAgIyBuZXRhZGRyZXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a25vd25fZmlyc3RfcGFydHkgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyYmFjaz1zZWxmLmVycmJhY2tfaHR0cGJpbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">a25vd25fZmlyc3RfcGFydHkgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLndpcAo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0X3JlcXVlc3QsIGl0ZW1zID0gcmVzdWx0WzBdLCByZXN1bHRbMTpdCg==</text>
+        <text encoding="base64">QHB5dGVzdC5tYXJrLndpcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobm9kZSkK</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X3JlcXVlc3QsIGl0ZW1zID0gcmVzdWx0WzBdLCByZXN1bHRbMTpdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbmV4dF9yZXF1ZXN0LnVybCA9PSBzcGlkZXIuYmFzZV91cmwgKyBmIj9wYWdlPXtzcGlkZXIuX3N0ZXAgKyAxfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobm9kZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>first</last-search>
+      <last-search>migrate</last-search>
       <last-offset />
-      <last-pattern>first</last-pattern>
+      <last-pattern>migrate</last-pattern>
       <last-replace>black</last-replace>
       <last-substitute>pytest</last-substitute>
       <last-dir>1</last-dir>
@@ -3942,7 +3944,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\(Dict\|List\|Any\)</entry>
         <entry>\(Dict\|Iterable\|Any\)</entry>
         <entry>session</entry>
         <entry>peewee-orm</entry>
@@ -3962,9 +3963,9 @@
         <entry>pytest</entry>
         <entry>url</entry>
         <entry>first</entry>
+        <entry>migrate</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0NvbHVtbihKU09OQikvcGxheWhvdXNlLnBvc3RncmVzX2V4dC5CaW5hcnlKU09ORmllbGQoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihVbmljb2RlKS9wZWV3ZWUuQ2hhckZpZWxkKCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvbHVtbihEYXRlKS9wZWV3ZWUuRGF0ZUZpZWxkKCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2dlbmRlci9iaW8vZw==</entry>
@@ -3984,6 +3985,7 @@
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
