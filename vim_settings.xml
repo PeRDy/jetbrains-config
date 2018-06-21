@@ -1408,11 +1408,11 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/.env" timestamp="1529584049236">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="3" column="28" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/.env" timestamp="1529585172803">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="4" column="21" />
         <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="28" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.rst" timestamp="1528898484475">
         <mark key="'" line="85" column="50" />
@@ -1457,12 +1457,11 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1529576978475">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="46" column="55" />
-        <mark key="." line="46" column="55" />
-        <mark key="^" line="46" column="55" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1529585962087">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="51" column="3" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/__init__.py" timestamp="1514480183870">
         <mark key="[" line="0" column="20" />
@@ -1601,11 +1600,11 @@
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/conftest.py" timestamp="1529577262083">
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="51" />
-        <mark key="^" line="11" column="50" />
-        <mark key="." line="13" column="51" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/conftest.py" timestamp="1529586246519">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="78" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/store/getters.js" timestamp="1500196688348">
         <mark key="[" line="0" column="0" />
@@ -2405,12 +2404,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" timestamp="1528200205921">
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" timestamp="1529585351566">
         <mark key="'" line="9" column="6" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="4" column="15" />
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1518198917353">
         <mark key="[" line="20" column="6" />
@@ -3494,8 +3493,8 @@
         <mark key="." line="191" column="7" />
         <mark key="^" line="191" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/components.py" timestamp="1528983271772">
-        <mark key="[" line="8" column="16" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/gilgamesh_api/components.py" timestamp="1529586266874">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run.py" timestamp="1488285198849">
         <mark key="[" line="73" column="0" />
@@ -3933,47 +3932,47 @@
       <jump line="35" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>upgrade</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KGYiYXBpc3Rhci1wZWV3ZWUtb3JtIHVwZ3JhZGUge2FwcC5fX21vZHVsZV9ffTphcHAiKSkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>upgrade</text>
+        <text>.__name__}</text>
       </register>
       <register name="/" type="4">
         <text>\([A-Z_]\+\)=\(.*\)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KCJhcGlzdGFyLXBlZXdlZS1vcm0gdXBncmFkZSIpKQo=</text>
+        <text encoding="base64">QGVudgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGt3YXJnc1sic291cmNlIl0gPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KGYiYXBpc3Rhci1wZWV3ZWUtb3JtIHVwZ3JhZGUge2FwcC5fX21vZHVsZV9ffTphcHAiKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGt3YXJnc1sic291cmNlIl0gPSBUcnVlCg==</text>
+        <text encoding="base64">QGVudgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXNvdXJjZSIsIGhlbHA9IkJpbmQgc291cmNlIGNvZGUgYXMgZG9ja2VyIHZvbHVtZSIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIpCg==</text>
+        <text encoding="base64">QGVudgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyZ3M9KCgoIi1wIiwgIi0tcG9ydCIpLCB7ImhlbHAiOiAiQXBwIHBvcnQiLCAiZGVmYXVsdCI6ICI4MDAwIn0pLCksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gW2Yne2t3YXJnc1siaW1hZ2UiXX06e2t3YXJnc1sidGFnIl19J10KCg==</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiREFUQUJBU0VfSE9TVCIsICJwb3N0Z3Jlc3FsIikKICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiREFUQUJBU0VfUE9SVCIsICI1NDMyIikKICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiREFUQUJBU0VfVVNFUiIsICJsb2NhbHVzZXIiKQogICAgb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJEQVRBQkFTRV9QQVNTV09SRCIsICJsb2NhbHBhc3N3ZCIpCiAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIkRBVEFCQVNFX05BTUUiLCAibG9jYWxkYiIpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXMgPSBbXQogICAgaWYga3dhcmdzLmdldCgic291cmNlIiwgTm9uZSk6CiAgICAgICAgdm9sdW1lcyArPSBbIi12IiwgZiJ7b3MuZ2V0Y3dkKCl9OntBUFBfUEFUSH0iXQoK</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiREFUQUJBU0VfUEFTU1dPUkQiLCAibG9jYWxwYXNzd2QiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiREFUQUJBU0VfUEFTU1dPUkQiLCAibG9jYWxwYXNzd2QiKQogICAgb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJEQVRBQkFTRV9OQU1FIiwgImxvY2FsZGItdGVzdCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvcnQgPSBbXQogICAgaWYga3dhcmdzLmdldCgicG9ydCIsIE5vbmUpOgogICAgICAgIHBvcnQgPSBbIi1wIiwgZid7a3dhcmdzWyJwb3J0Il19OjgwMDAnXQo=</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiREFUQUJBU0VfSE9TVCIsICJwb3N0Z3JlcyIpCiAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIkRBVEFCQVNFX1BPUlQiLCAiNTQzMiIpCiAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIkRBVEFCQVNFX1VTRVIiLCAibG9jYWx1c2VyIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
