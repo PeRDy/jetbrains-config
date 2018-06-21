@@ -137,6 +137,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="65" column="73" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" timestamp="1529568571257">
+        <mark key="'" line="134" column="8" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="28" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/state_machine.py" timestamp="1525680437953">
         <mark key="[" line="31" column="96" />
         <mark key="]" line="44" column="0" />
@@ -1584,6 +1591,12 @@
         <mark key="]" line="17" column="50" />
         <mark key="." line="13" column="25" />
         <mark key="^" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/conftest.py" timestamp="1529567786888">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/store/getters.js" timestamp="1500196688348">
         <mark key="[" line="0" column="0" />
@@ -3809,11 +3822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="66" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="38" column="30" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="55" column="48" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="66" column="5" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="76" column="30" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/.gitignore" />
       <jump line="281" column="34" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/apistar/server/app.py" />
@@ -3909,10 +3917,15 @@
       <jump line="67" column="16" filename="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" />
       <jump line="80" column="22" filename="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" />
       <jump line="74" column="10" filename="$USER_HOME$/Desarrollo/souft/website/deploys/production/main.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="103" column="33" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="113" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="134" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6Cg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5pbnRlZ3JhdGlvbgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3921,55 +3934,53 @@
         <text>development</text>
       </register>
       <register name="/" type="4">
-        <text>dieteo-api.development.svc</text>
+        <text>self, client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xpbm5lci5ydW4uY29tbWFuZHMucHl0ZXN0LnB5dGVzdCIsCg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5pbnRlZ3JhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NyZWF0b3JfZ2V0KHNlbGYpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIyMjIwojIEFQSSAjCiMjIyMjIyMK</text>
+        <text encoding="base64">ICAgICAgICBlbnY6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvIgo=</text>
+        <text encoding="base64">IyMjIyMjIwojIEFQSSAjCiMjIyMjIyMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvIgogICAgICAgIC0gbmFtZTogUE9TVEdSRVNfTkFNRQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiNTQzMiIKICAgICAgICAtIG5hbWU6IERCX0RFRkFVTFRfVVNFUgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvIgogICAgICAgIC0gbmFtZTogUE9TVEdSRVNfTkFNRQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvLWRiLmRldmVsb3BtZW50IgogICAgICAgIC0gbmFtZTogREJfREVGQVVMVF9QT1JUCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiNTQzMiIKICAgICAgICAtIG5hbWU6IERCX0RFRkFVTFRfVVNFUgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBrZXk6IHBhc3N3b3JkCiAgICAgICAgLSBuYW1lOiBEQl9ERUZBVUxUX0hPU1QK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbHVlOiAiZGlldGVvLWRiLmRldmVsb3BtZW50IgogICAgICAgIC0gbmFtZTogREJfREVGQVVMVF9QT1JUCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0S2V5UmVmOgogICAgICAgICAgICAgIG5hbWU6IGRpZXRlby1kYi1jcmVkZW50aWFscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrZXk6IHBhc3N3b3JkCiAgICAgICAgLSBuYW1lOiBEQl9ERUZBVUxUX0hPU1QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IERCX0RFRkFVTFRfUEFTU1dPUkQKICAgICAgICAgIHZhbHVlRnJvbToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0S2V5UmVmOgogICAgICAgICAgICAgIG5hbWU6IGRpZXRlby1kYi1jcmVkZW50aWFscwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/self, client/self, client, url/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dieteo-api.development.svc</last-search>
+      <last-search>self, client</last-search>
       <last-offset />
-      <last-pattern>dieteo-api.development.svc</last-pattern>
-      <last-replace>www</last-replace>
-      <last-substitute>dieteo-api.development.svc</last-substitute>
+      <last-pattern>self, client</last-pattern>
+      <last-replace>self, client, url</last-replace>
+      <last-substitute>self, client</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Column(Date)</entry>
-        <entry>gender</entry>
         <entry>date_of_birth</entry>
         <entry>\d* \(.*\)</entry>
         <entry>\d\+ \(.*\)</entry>
@@ -3988,10 +3999,10 @@
         <entry>dieteo\(-api\)\?</entry>
         <entry>dieteo-api.development.scv</entry>
         <entry>dieteo-api.development.svc</entry>
+        <entry>&quot;/puppy/&quot;</entry>
+        <entry>self, client</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zI1xkKiBcKC4qXCkjPGxpPlwxPC9saT4jZw==</entry>
-        <entry encoding="base64">JzwsJz5zI1xkXCsgXCguKlwpIzxsaT5cMTwvbGk+I2c=</entry>
         <entry encoding="base64">JzwsJz5zIzxsaT5cKC4qXCk8L2xpPiM8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4jZw==</entry>
         <entry encoding="base64">JzwsJz5zITxsaT5cKC4qXCk8L2xpPiE8bGk+PGEgaHJlZj0iIyI+XDE8L2E+PC9saT4hZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FwaXN0YXItY3J1ZC9jbGlubmVyL2c=</entry>
@@ -4010,6 +4021,8 @@
         <entry encoding="base64">JzwsJz5zL2RpZXRlby1hcGkuZGV2ZWxvcG1lbnQuc2N2L3d3dy9n</entry>
         <entry encoding="base64">JzwsJz5zL2RpZXRlby1hcGkuZGV2ZWxvcG1lbnQuc3ZjL3d3dy9n</entry>
         <entry>wq</entry>
+        <entry>%s#&quot;/puppy/&quot;#url#g</entry>
+        <entry>%s/self, client/self, client, url/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
