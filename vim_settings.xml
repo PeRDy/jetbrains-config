@@ -3178,12 +3178,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" timestamp="1528984619024">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="63" column="72" />
-        <mark key="]" line="63" column="72" />
-        <mark key="." line="63" column="72" />
-        <mark key="^" line="63" column="72" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" timestamp="1529574901486">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="6" column="69" />
+        <mark key="." line="6" column="69" />
+        <mark key="^" line="64" column="72" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/jobist_api/settings/tests.py" timestamp="1486057912679">
         <mark key="[" line="26" column="25" />
@@ -3925,13 +3925,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>apistar_crud</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>apistar_crud</text>
       </register>
       <register name="/" type="4">
         <text>self, client</text>
