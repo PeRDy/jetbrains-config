@@ -33,7 +33,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1529421745340">
+      <file name="/a.dummy" timestamp="1529589447321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -1384,7 +1384,7 @@
         <mark key="^" line="5" column="107" />
         <mark key="." line="5" column="107" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/components.py" timestamp="1529055809107">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/components.py" timestamp="1529589194272">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="22" column="44" />
         <mark key="^" line="22" column="44" />
@@ -1505,10 +1505,10 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/CHANGELOG.md" timestamp="1529500885044">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/CHANGELOG.md" timestamp="1529591609792">
         <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
         <mark key="[" line="13" column="0" />
@@ -2155,10 +2155,11 @@
         <mark key="^" line="269" column="55" />
         <mark key="." line="269" column="55" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/setup.cfg" timestamp="1529500856404">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/setup.cfg" timestamp="1529591505687">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
@@ -2232,6 +2233,13 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/build.py" timestamp="1529588503654">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1513636084356">
         <mark key="[" line="10" column="81" />
         <mark key="]" line="10" column="81" />
@@ -2262,12 +2270,12 @@
         <mark key="." line="249" column="18" />
         <mark key="^" line="249" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" timestamp="1529587606580">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="54" column="42" />
-        <mark key="." line="54" column="42" />
-        <mark key="^" line="54" column="42" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" timestamp="1529591766163">
+        <mark key="'" line="51" column="68" />
+        <mark key="[" line="107" column="11" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="106" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/app.json" timestamp="1513606406742">
         <mark key="[" line="23" column="3" />
@@ -2808,10 +2816,10 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.toml" timestamp="1529491605538">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.toml" timestamp="1529589078779">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/creator.py" timestamp="1529502005336">
         <mark key="[" line="35" column="0" />
@@ -3039,11 +3047,12 @@
         <mark key="^" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529587262985">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" timestamp="1529592119948">
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="74" column="82" />
+        <mark key="]" line="74" column="67" />
+        <mark key="." line="74" column="67" />
+        <mark key="^" line="74" column="67" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/ExperienceList.vue" timestamp="1500385502901">
         <mark key="[" line="45" column="9" />
@@ -3104,9 +3113,6 @@
         <mark key="]" line="12" column="44" />
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.lock" timestamp="1529491619865">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/development.py" timestamp="1516118259772">
         <mark key="[" line="39" column="0" />
@@ -3482,10 +3488,10 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tox.ini" timestamp="1529319960144">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tox.ini" timestamp="1529588860279">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify/cookify-glutenfree/App.js" timestamp="1504436669196">
         <mark key="[" line="13" column="3" />
@@ -3537,6 +3543,13 @@
         <mark key="]" line="34" column="57" />
         <mark key="." line="34" column="57" />
         <mark key="^" line="34" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_manager.py" timestamp="1529591882696">
+        <mark key="'" line="84" column="8" />
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="82" column="31" />
+        <mark key="^" line="81" column="23" />
+        <mark key="." line="82" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Experience.vue" timestamp="1498584250503">
         <mark key="[" line="15" column="15" />
@@ -3836,13 +3849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="569" column="33" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/Pipfile.lock" />
-      <jump line="10" column="24" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.cfg" />
-      <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/setup.cfg" />
-      <jump line="9" column="6" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" />
-      <jump line="43" column="26" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" />
-      <jump line="469" column="4" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/gilgamesh-api-py3.6/lib/python3.6/site-packages/werkzeug/serving.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
       <jump line="7" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
       <jump line="27" column="6" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/models/platforms.py" />
@@ -3934,75 +3940,79 @@
       <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="54" column="45" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
-      <jump line="51" column="5" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="48" column="4" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
+      <jump line="9" column="38" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/build.py" />
+      <jump line="10" column="9" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/build.py" />
+      <jump line="11" column="9" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/build.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_manager.py" />
+      <jump line="51" column="68" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
+      <jump line="23" column="30" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
+      <jump line="23" column="33" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_manager.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/tests/test_manager.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>create_tables</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>manager</text>
+        <text>create_tables</text>
       </register>
       <register name="/" type="4">
-        <text>target: str</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGVudgo=</text>
+        <text encoding="base64">QGNvbW1hbmQoY29tbWFuZF90eXBlPUNvbW1hbmRUeXBlLlBZVEhPTiwgcGFyc2VyX29wdHM9eyJoZWxwIjogIkNyZWF0ZSB0YWJsZXMgaW50byBkYXRhYmFzZS4ifSkKZGVmIGNyZWF0ZV90YWJsZXMoKmFyZ3MsICoqa3dhcmdzKToKICAgIE1hbmFnZXIob3MuZW52aXJvblsiQVBJU1RBUl9BUFAiXSkuY3JlYXRlX3RhYmxlcygpCgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGFyZ3M9KCgoIm5hbWUiLCksIHsiaGVscCI6ICJSZXN1bHQgbWlncmF0aW9uIG5hbWUiLCAibmFyZ3MiOiAiPyJ9KSwpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2VyLmNyZWF0ZSgnZm9vJywgJ2JhcicpCgogICAgICAgIGFzc2VydCBtYW5hZ2VyLnJvdXRlci5jcmVhdGUuY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1pZ3JhdGlvbnMgPSAiXG4iLmpvaW4oW2YiW3hdIHttaWdyYXRpb259IiBmb3IgbWlncmF0aW9uIGluIG1hbmFnZXIuZG9uZV0pCiAgICBtaWdyYXRpb25zICs9ICJcbiIuam9pbihbZiJbIF0ge21pZ3JhdGlvbn0iIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kaWZmXSkKCiAgICBpZiBsZW4oTW9kZWwucmVnaXN0ZXIpID09IDA6CiAgICAgICAgbW9kZWxzID0gIk5vIG1vZGVscyBmb3VuZC4iCiAgICBlbGlmIGxlbihNb2RlbC5yZWdpc3RlcikgPT0gMToKICAgICAgICBtb2RlbHMgPSBmIntsZW4oTW9kZWwucmVnaXN0ZXIpfSBtb2RlbCBmb3VuZDpcbiIKICAgIGVsc2U6CiAgICAgICAgbW9kZWxzID0gZiJ7bGVuKE1vZGVsLnJlZ2lzdGVyKX0gbW9kZWxzIGZvdW5kOlxuIgoKICAgIG1vZGVscyArPSAiXG4iLmpvaW4oW2YiIC0ge21vZGVsLl9fbW9kdWxlX199Lnttb2RlbC5fX25hbWVfX30iIGZvciBtb2RlbCBpbiBNb2RlbC5yZWdpc3Rlcl0pCiAgICBsb2dnZXIuaW5mbyhmIk1pZ3JhdGlvbnM6XG57bWlncmF0aW9uc31cbndcbnttb2RlbHN9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pZ3JhdGlvbnMgPSAiXG4iLmpvaW4oW2YiW3hdIHttaWdyYXRpb259IiBmb3IgbWlncmF0aW9uIGluIG1hbmFnZXIuZG9uZV0pCiAgICBtaWdyYXRpb25zICs9ICJcbiIuam9pbihbZiJbIF0ge21pZ3JhdGlvbn0iIGZvciBtaWdyYXRpb24gaW4gbWFuYWdlci5kaWZmXSkKCiAgICBpZiBsZW4oTW9kZWwucmVnaXN0ZXIpID09IDA6CiAgICAgICAgbW9kZWxzID0gIk5vIG1vZGVscyBmb3VuZC4iCiAgICBlbGlmIGxlbihNb2RlbC5yZWdpc3RlcikgPT0gMToKICAgICAgICBtb2RlbHMgPSBmIntsZW4oTW9kZWwucmVnaXN0ZXIpfSBtb2RlbCBmb3VuZDpcbiIKICAgIGVsc2U6CiAgICAgICAgbW9kZWxzID0gZiJ7bGVuKE1vZGVsLnJlZ2lzdGVyKX0gbW9kZWxzIGZvdW5kOlxuIgo=</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IG1hbmFnZXIucm91dGVyLnJ1bi5jYWxsX2FyZ3NfbGlzdCA9PSBleHBlY3RlZF9jYWxscwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1YnByb2Nlc3MucnVuKHNobGV4LnNwbGl0KGYiYXBpc3Rhci1wZWV3ZWUtb3JtIHVwZ3JhZGUge2FwcC5fX21vZHVsZV9ffTphcHAiKSkK</text>
+        <text encoding="base64">CiAgICAgICAgbWFuYWdlci51cGdyYWRlKCdmb28nLCBUcnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGVudgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X21vZGVscyhzZWxmLCBtYW5hZ2VyKToKICAgICAgICBleHBlY3RlZF9jYWxscyA9IFtjYWxsKCdmb28nLCBUcnVlKV0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RhcmdldDogc3RyL3RhcmdldDogdHlwaW5nLk9wdGlvbmFsW3N0cl09Tm9uZS9n</text>
+        <text encoding="base64">JzwsJz5zL2NyZWF0ZS9kcm9wL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>target: str</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>target: str</last-pattern>
-      <last-replace>target: typing.Optional[str]=None</last-replace>
-      <last-substitute>target: str</last-substitute>
+      <last-pattern>create</last-pattern>
+      <last-replace>drop</last-replace>
+      <last-substitute>create</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>flake8</entry>
-        <entry>isort</entry>
         <entry>url</entry>
         <entry>first</entry>
         <entry>migrate</entry>
         <entry>kwargs[&quot;app&quot;]</entry>
         <entry>kwargs\[&quot;app&quot;\]</entry>
-        <entry>pytest</entry>
         <entry>dieteo\(-api\)?</entry>
         <entry>dieteo(-api)?</entry>
         <entry>dieteo\(-api\)\?</entry>
@@ -4015,13 +4025,11 @@
         <entry>name: str</entry>
         <entry>targer: str</entry>
         <entry>target: str</entry>
+        <entry>pytest</entry>
+        <entry>.from_app</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2t3YXJnc1xbImFwcCJcXS9vcy5lbnZpcm9uWyJBUElTVEFSX0FQUCJdL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2RpZXRlb1woLWFwaVwpPy93ZWJzaXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RpZXRlbygtYXBpKT8vd2Vic2l0ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2RpZXRlb1woLWFwaVwpXD8vd2Vic2l0ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2RpZXRlby1hcGkuZGV2ZWxvcG1lbnQuc2N2L3d3dy9n</entry>
@@ -4037,6 +4045,11 @@
         <entry encoding="base64">JzwsJz5zL25hbWU6IHN0ci9uYW1lOiB0eXBpbmcuT3B0aW9uYWxbc3RyXT1Ob25lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Rhcmdlcjogc3RyL3RhcmdldDogdHlwaW5nLk9wdGlvbmFsW3N0cl09Tm9uZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3RhcmdldDogc3RyL3RhcmdldDogdHlwaW5nLk9wdGlvbmFsW3N0cl09Tm9uZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
+        <entry>%s/.from_app//g</entry>
+        <entry encoding="base64">JzwsJz5zL2NyZWF0ZS9kcm9wL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
