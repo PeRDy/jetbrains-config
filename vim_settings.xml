@@ -1408,9 +1408,11 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/.env" timestamp="1529576784440">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="20" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/.env" timestamp="1529584049236">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.rst" timestamp="1528898484475">
         <mark key="'" line="85" column="50" />
@@ -3974,7 +3976,7 @@
         <text encoding="base64">ICAgIHBvcnQgPSBbXQogICAgaWYga3dhcmdzLmdldCgicG9ydCIsIE5vbmUpOgogICAgICAgIHBvcnQgPSBbIi1wIiwgZid7a3dhcmdzWyJwb3J0Il19OjgwMDAnXQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJcMSIsICJcMiIpL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4012,7 +4014,6 @@
       <history-cmd>
         <entry>%s/flake8/isort/g</entry>
         <entry>%s/isort/black/g</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2t3YXJnc1siYXBwIl0vb3MuZW52aXJvblsiQVBJU1RBUl9BUFAiXS9n</entry>
         <entry encoding="base64">JzwsJz5zL2t3YXJnc1xbImFwcCJcXS9vcy5lbnZpcm9uWyJBUElTVEFSX0FQUCJdL2c=</entry>
@@ -4030,6 +4031,7 @@
         <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvblsiXDEiXT1cMi9n</entry>
         <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvblsiXDEiXSA9ICJcMiIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJcMSIsICJcMiIpL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
