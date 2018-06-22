@@ -2632,11 +2632,11 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/CHANGELOG.md" timestamp="1529408451614">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="9" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/CHANGELOG.md" timestamp="1529663760574">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
@@ -2999,10 +2999,6 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/creator.py" timestamp="1529597695360">
-        <mark key="'" line="46" column="4" />
-        <mark key="^" line="44" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/src/components/atoms/Toolbar.android.js" timestamp="1518472669825">
         <mark key="[" line="27" column="1" />
@@ -3958,7 +3954,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">djAuMy4yIC0gMjAxOC0wNi0yMgo=</text>
+        <text encoding="base64">djEuMTAuMCAtIDIwMTgtMDYtMTkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3970,7 +3966,7 @@
         <text>log_color</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">djAuMy4yIC0gMjAxOC0wNi0yMgo=</text>
+        <text encoding="base64">djEuMTAuMCAtIDIwMTgtMDYtMTkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCg==</text>
