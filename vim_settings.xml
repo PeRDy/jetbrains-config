@@ -1779,8 +1779,11 @@
         <mark key="." line="39" column="21" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/base.py" timestamp="1529656795775">
-        <mark key="[" line="207" column="40" />
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/base.py" timestamp="1529657893025">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="219" column="29" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/machine_learning/urls.py" timestamp="1516962863671">
         <mark key="[" line="0" column="0" />
@@ -3532,11 +3535,11 @@
         <mark key="^" line="20" column="53" />
         <mark key="." line="20" column="53" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/main.py" timestamp="1529656823626">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="53" column="56" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/main.py" timestamp="1529657813653">
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="58" column="48" />
+        <mark key="^" line="58" column="57" />
+        <mark key="." line="58" column="48" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/models.py" timestamp="1522495247872">
         <mark key="[" line="9" column="30" />
@@ -3648,6 +3651,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/clinner/clinner/cli.py" timestamp="1529657532914">
+        <mark key="[" line="73" column="49" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-videos/hashcode_videos/base_app.py" timestamp="1487876460318">
         <mark key="[" line="60" column="39" />
@@ -3970,46 +3976,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGkucHJpbnRfaGVhZGVyKGNvbW1hbmQ9Y29tbWFuZCwgc2V0dGluZ3M9c2V0dGluZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>apistar_crud</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAib3JtIiwK</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IGNtZF9rd2FyZ3NbInNldHRpbmdzIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGkucHJpbnRfaGVhZGVyKGNvbW1hbmQ9Y29tbWFuZCwgc2V0dGluZ3M9c2V0dGluZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IGNtZF9rd2FyZ3NbInNldHRpbmdzIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaS5wcmludF9oZWFkZXIoY29tbWFuZD1rd2FyZ3NbImNvbW1hbmQiXSwgc2V0dGluZ3M9a3dhcmdzWyJzZXR0aW5ncyJdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5ncyA9IGNtZF9rd2FyZ3NbInNldHRpbmdzIl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbc2hsZXguc3BsaXQoInBvZXRyeSBydW4gYXBpc3Rhci1wZWV3ZWUtb3JtIikgKyBsaXN0KGFyZ3MpXQoK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2ZXJib3NlID49IDI6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2ZXJib3NlID49IDI6CiAgICAgICAgICAgIHNlbGYuY2xpLnByaW50X2hlYWRlcihjb21tYW5kPWNvbW1hbmQsIHNldHRpbmdzPXNldHRpbmdzKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a25vd25fc3RhbmRhcmRfbGlicmFyeSA9IHR5cGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGkucHJpbnRfcmV0dXJuKHJldHVybl9jb2RlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a25vd25fc3RhbmRhcmRfbGlicmFyeSA9IHR5cGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGkucHJpbnRfcmV0dXJuKHJldHVybl9jb2RlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgSW5jbHVkZSgiL2JyYW5kIiwgIkJyYW5kIiwgQnJhbmQucm91dGVzKSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2ZXJib3NlID49IDE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
