@@ -85,11 +85,12 @@
         <mark key="." line="139" column="10" />
         <mark key="^" line="139" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" timestamp="1529668270344">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="49" />
-        <mark key="^" line="42" column="24" />
-        <mark key="." line="36" column="49" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" timestamp="1529670349154">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="36" column="10" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="36" column="10" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/__init__.py" timestamp="1528986589376">
         <mark key="[" line="4" column="0" />
@@ -335,6 +336,10 @@
         <mark key="]" line="30" column="45" />
         <mark key="." line="30" column="45" />
         <mark key="^" line="31" column="51" />
+      </file>
+      <file name="/make" timestamp="1529669531379">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="45" column="76" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/runtests.py" timestamp="1488202505665">
         <mark key="[" line="24" column="96" />
@@ -1447,12 +1452,12 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1529652816091">
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" timestamp="1529670075642">
         <mark key="'" line="25" column="3" />
-        <mark key="[" line="73" column="11" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="73" column="7" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="82" column="59" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/__init__.py" timestamp="1514480183870">
         <mark key="[" line="0" column="20" />
@@ -3862,8 +3867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="31" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/make" />
-      <jump line="3" column="29" filename="$USER_HOME$/Desarrollo/perdy/clinner/README.md" />
       <jump line="145" column="4" filename="$USER_HOME$/Desarrollo/perdy/clinner/README.md" />
       <jump line="79" column="27" filename="$USER_HOME$/Desarrollo/perdy/clinner/setup.cfg" />
       <jump line="6" column="9" filename="$USER_HOME$/Desarrollo/perdy/clinner/tox.ini" />
@@ -3962,66 +3965,67 @@
       <jump line="68" column="16" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="69" column="10" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="74" column="10" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
+      <jump line="63" column="10" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" />
+      <jump line="131" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGlmZmVyZW50IHN0YW5kYXJkcyBzdWNoIGFzIFN3YWdnZXIsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLmFkZF9hcmd1bWVudHMocGFyc2VyKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlmZmVyZW50IHN0YW5kYXJkcyBzdWNoIGFzIFN3YWdnZXIsIA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>log_color</text>
+        <text>python make</text>
       </register>
       <register name="0" type="4">
-        <text>cli.logger.debug.call_args[0][0]</text>
+        <text>, compose=False</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiBDaGVjayBpZiBhIHNjaGVtYSBpcyB2YWxpZC4K</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLmFkZF9hcmd1bWVudHMocGFyc2VyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q2hlY2sgY3VycmVudCBkYXRhYmFzZSBzdGF0dXM6Cgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb2xvcmFtYSBpbXBvcnQgRm9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbG9yYW1hCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9oYW5kbGVyID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkKZXhjZXB0IEltcG9ydEVycm9yOiAgIyBwcmFnbWE6IG5vIGNvdmVyCg==</text>
+        <text encoding="base64">ICAgIHBvcnQgPSBbXQogICAgaWYga3dhcmdzLmdldCgicG9ydCIsIE5vbmUpOgogICAgICAgIHBvcnQgPSBbIi1wIiwgZid7a3dhcmdzWyJwb3J0Il19OjgwMDAnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IiUiLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXMgPSBbXQogICAgaWYga3dhcmdzLmdldCgic291cmNlIiwgTm9uZSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJDUklUSUNBTCI6ICJyZWQsYmdfd2hpdGUiLAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">KiBDaGVjayBpZiBhIHNjaGVtYSBpcyB2YWxpZC4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3B5dGhvbiBtYWtlL3BvZXRyeSBydW4gcHl0aG9uIG1ha2UvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>log_color</last-search>
+      <last-search>python make</last-search>
       <last-offset />
-      <last-pattern>log_color</last-pattern>
-      <last-replace>self.url()</last-replace>
-      <last-substitute>url</last-substitute>
+      <last-pattern>python make</last-pattern>
+      <last-replace>poetry run python make</last-replace>
+      <last-substitute>python make</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dieteo-api.development.scv</entry>
         <entry>dieteo-api.development.svc</entry>
         <entry>&quot;/puppy/&quot;</entry>
         <entry>self, client</entry>
@@ -4041,9 +4045,9 @@
         <entry>client, url</entry>
         <entry>url</entry>
         <entry>log_color</entry>
+        <entry>python make</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvblsiXDEiXSA9ICJcMiIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJcMSIsICJcMiIpL2c=</entry>
         <entry encoding="base64">JzwsJz5zL21vZHVsZTogc3RyL21vZHVsZTogdHlwaW5nLk9wdGlvbmFsW3N0cl09Tm9uZS9n</entry>
         <entry encoding="base64">JzwsJz5zL25hbWU6IHN0ci9uYW1lOiB0eXBpbmcuT3B0aW9uYWxbc3RyXT1Ob25lL2c=</entry>
@@ -4063,6 +4067,7 @@
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">JzwsJz5zL3VybC9zZWxmLnVybCgpL2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3B5dGhvbiBtYWtlL3BvZXRyeSBydW4gcHl0aG9uIG1ha2UvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
