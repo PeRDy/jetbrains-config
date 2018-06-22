@@ -139,12 +139,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="65" column="73" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" timestamp="1529648460185">
-        <mark key="'" line="119" column="8" />
-        <mark key="[" line="80" column="65" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="28" column="21" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" timestamp="1529649895306">
+        <mark key="[" line="119" column="42" />
+        <mark key="]" line="119" column="42" />
+        <mark key="." line="119" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/state_machine.py" timestamp="1525680437953">
         <mark key="[" line="31" column="96" />
@@ -3840,17 +3838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="50" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.rst" />
-      <jump line="32" column="20" filename="$USER_HOME$/Desarrollo/souft/website/website/__main__.py" />
-      <jump line="40" column="44" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.rst" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" />
-      <jump line="3" column="97" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" />
-      <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/tests/test_http.py" />
-      <jump line="8" column="35" filename="$USER_HOME$/Desarrollo/perdy/apistar-pagination/pyproject.toml" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/README.md" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee/components.py" />
-      <jump line="129" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar/test.py" />
-      <jump line="140" column="19" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar/test.py" />
       <jump line="79" column="32" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
       <jump line="87" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
       <jump line="0" column="33" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
@@ -3940,67 +3927,76 @@
       <jump line="134" column="17" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="136" column="22" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="111" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="37" column="34" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="70" column="41" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="93" column="33" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="106" column="37" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="135" column="41" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="143" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="149" column="35" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
+      <jump line="154" column="18" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcC5ldmVudF9ob29rcyA9IFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text>creator</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>drop_tables</text>
+        <text>creator</text>
       </register>
       <register name="/" type="4">
-        <text>\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXIuZHJvcF90YWJsZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5kZWxldGUoc2VsZi51cmwoNDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcC5ldmVudF9ob29rcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2RlbGV0ZV9ub3RfZm91bmQoc2VsZiwgY2xpZW50LCBjcmVhdG9yKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXIuY3JlYXRlX3RhYmxlcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcC5ldmVudF9ob29rcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIHR4bihzZWxmLCBkYXRhYmFzZV9tYW5hZ2VyKToKICAgICAgICB3aXRoIGRhdGFiYXNlX21hbmFnZXIuY29tcG9uZW50LmRhdGFiYXNlLnRyYW5zYWN0aW9uKCkgYXMgdHhuOgogICAgICAgICAgICB3aXRoIGRhdGFiYXNlX21hbmFnZXIuY29tcG9uZW50LmRhdGFiYXNlLnNhdmVwb2ludCgpIGFzIHNwOgogICAgICAgICAgICAgICAgeWllbGQgdHhuCiAgICAgICAgICAgICAgICBzcC5yb2xsYmFjaygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggZGF0YWJhc2VfbWFuYWdlci5jb21wb25lbnQuZGF0YWJhc2UuYXRvbWljKCkgYXMgdHhuOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eG4ucm9sbGJhY2soKQo=</text>
+        <text encoding="base64">CiAgICBAcHl0ZXN0Lm1hcmsuaW50ZWdyYXRpb24KICAgIGRlZiB0ZXN0X2Ryb3Aoc2VsZiwgY2xpZW50LCBjcmVhdG9yKToKICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPWNyZWF0b3IpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMQogICAgICAgIG5ld19jcmVhdG9yID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0IG5ld19jcmVhdG9yWyJ1c2VybmFtZSJdID09ICJmb28iCiAgICAgICAgYXNzZXJ0IG5ld19jcmVhdG9yWyJwYXNzd29yZCJdID09ICJmb28iCiAgICAgICAgYXNzZXJ0IG5ld19jcmVhdG9yWyJlbWFpbCJdID09ICJmb29AZm9vLmZvbyIKCiAgICAgICAgIyBMaXN0IGFsbCB0aGUgZXhpc3RpbmcgcmVjb3JkcwogICAgICAgIHJlc3BvbnNlID0gY2xpZW50LmdldChzZWxmLnVybCgpKQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDAKICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfY3JlYXRvcl0KCiAgICAgICAgIyBEcm9wIGNvbGxlY3Rpb24KICAgICAgICByZXNwb25zZSA9IGNsaWVudC5kZWxldGUoc2VsZi51cmwoKSkKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjA0CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSB7ImRlbGV0ZWQiOiAxfQoKICAgICAgICAjIExpc3QgYWxsIHRoZSBleGlzdGluZyByZWNvcmRzCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KHNlbGYudXJsKCkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXIuZHJvcF90YWJsZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5kZWxldGUodXJsam9pbih1cmwsICI0MiIpLCBqc29uPWNyZWF0b3IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXIuY3JlYXRlX3RhYmxlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5kZWxldGUodXJsam9pbih1cmwsIHN0cihuZXdfY3JlYXRvclsiaWQiXSkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZXIuY3JlYXRlX3RhYmxlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5nZXQodXJsam9pbih1cmwsIHN0cihuZXdfY3JlYXRvclsiaWQiXSkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))/\1str(\2))/g</text>
+        <text encoding="base64">JzwsJz5zL3VybC9zZWxmLnVybCgpL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))</last-pattern>
-      <last-replace>\1str(\2))</last-replace>
-      <last-substitute>\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))</last-substitute>
+      <last-pattern>url</last-pattern>
+      <last-replace>self.url()</last-replace>
+      <last-substitute>url</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dieteo\(-api\)?</entry>
-        <entry>dieteo(-api)?</entry>
         <entry>dieteo\(-api\)\?</entry>
         <entry>dieteo-api.development.scv</entry>
         <entry>dieteo-api.development.svc</entry>
@@ -4019,11 +4015,10 @@
         <entry>foo</entry>
         <entry>\(urljoin(url, \)\(new_creator[&quot;id&quot;]\))</entry>
         <entry>\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))</entry>
+        <entry>client, url</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
-        <entry>%s#&quot;/puppy/&quot;#url#g</entry>
-        <entry>%s/self, client/self, client, url/g</entry>
-        <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvblsiXDEiXT1cMi9n</entry>
         <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvblsiXDEiXSA9ICJcMiIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1woW0EtWl9dXCtcKT1cKC4qXCkvb3MuZW52aXJvbi5zZXRkZWZhdWx0KCJcMSIsICJcMiIpL2c=</entry>
         <entry encoding="base64">JzwsJz5zL21vZHVsZTogc3RyL21vZHVsZTogdHlwaW5nLk9wdGlvbmFsW3N0cl09Tm9uZS9n</entry>
@@ -4041,6 +4036,9 @@
         <entry>%s/\(urljoin(url, \)\(new_creator[&quot;id&quot;]\))/\1int(\2))/g</entry>
         <entry>%s/\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))/\1int(\2))/g</entry>
         <entry>%s/\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))/\1str(\2))/g</entry>
+        <entry>%s/client, url/client/g</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry encoding="base64">JzwsJz5zL3VybC9zZWxmLnVybCgpL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
