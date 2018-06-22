@@ -2712,10 +2712,10 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/website/website/__main__.py" timestamp="1529675360284">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="62" column="50" />
-        <mark key="." line="62" column="50" />
+      <file name="$USER_HOME$/Desarrollo/souft/website/website/__main__.py" timestamp="1529675984190">
+        <mark key="[" line="62" column="52" />
+        <mark key="]" line="62" column="52" />
+        <mark key="." line="62" column="52" />
         <mark key="^" line="62" column="50" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/loader.py" timestamp="1496362379514">
@@ -3370,7 +3370,7 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/website/pyproject.toml" timestamp="1529674974443">
         <mark key="[" line="17" column="0" />
-        <mark key="]" line="29" column="3" />
+        <mark key="]" line="34" column="3" />
         <mark key="^" line="8" column="16" />
         <mark key="." line="17" column="0" />
       </file>
@@ -3843,14 +3843,14 @@
       <jump line="59" column="13" filename="$USER_HOME$/Desarrollo/souft/website/make" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>, compose=False</text>
