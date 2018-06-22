@@ -85,11 +85,11 @@
         <mark key="." line="139" column="10" />
         <mark key="^" line="139" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" timestamp="1529653413773">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="31" column="2" />
-        <mark key="^" line="31" column="2" />
-        <mark key="." line="31" column="2" />
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" timestamp="1529667068239">
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="41" column="24" />
+        <mark key="^" line="41" column="24" />
+        <mark key="." line="41" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/__init__.py" timestamp="1528986589376">
         <mark key="[" line="4" column="0" />
@@ -3964,8 +3964,8 @@
       <jump line="74" column="10" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>INFO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KiBDaGVjayBpZiBhIHNjaGVtYSBpcyB2YWxpZC4K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -3980,31 +3980,31 @@
         <text>cli.logger.debug.call_args[0][0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCg==</text>
+        <text encoding="base64">KiBDaGVjayBpZiBhIHNjaGVtYSBpcyB2YWxpZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb2xvcmFtYSBpbXBvcnQgRm9yZQo=</text>
+        <text encoding="base64">Q2hlY2sgY3VycmVudCBkYXRhYmFzZSBzdGF0dXM6Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbG9yYW1hCg==</text>
+        <text encoding="base64">bG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9oYW5kbGVyID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xvcmFtYSBpbXBvcnQgRm9yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkKZXhjZXB0IEltcG9ydEVycm9yOiAgIyBwcmFnbWE6IG5vIGNvdmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbG9yYW1hCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IiUiLAogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIF9oYW5kbGVyID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJDUklUSUNBTCI6ICJyZWQsYmdfd2hpdGUiLAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICkKZXhjZXB0IEltcG9ydEVycm9yOiAgIyBwcmFnbWE6IG5vIGNvdmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJXQVJOSU5HIjogInllbGxvdyIsCiAgICAgICAgICAgICAgICAiRVJST1IiOiAicmVkIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9IiUiLAogICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJERUJVRyI6ICJjeWFuIiwKICAgICAgICAgICAgICAgICJJTkZPIjogImJsdWUiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJDUklUSUNBTCI6ICJyZWQsYmdfd2hpdGUiLAogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
