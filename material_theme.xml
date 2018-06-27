@@ -2,10 +2,15 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.1.2-2018.1" />
     <option name="selectedTheme" value="MONOKAI" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="009688" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="30107b64:163f33191e6:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
