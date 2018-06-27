@@ -1243,6 +1243,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="39" column="7" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/Dockerfile" timestamp="1530090712129">
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="40" column="55" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/make" timestamp="1504874961697">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -3147,9 +3152,6 @@
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/pyproject.lock" timestamp="1529491619865">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/development.py" timestamp="1516118259772">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -3474,6 +3476,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/pyproject.toml" timestamp="1530090612937">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="131" />
+        <mark key="^" line="3" column="131" />
+        <mark key="." line="3" column="131" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/tasks/tests/test_flights.py" timestamp="1511882808167">
         <mark key="[" line="70" column="0" />
@@ -3841,9 +3849,6 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
-      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" timestamp="1529662440460">
-        <mark key="'" line="74" column="10" />
-      </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -3996,14 +4001,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ClJFU1RmdWwgQVBJIG9mIEdpbGdhbWVzaCBwcm9qZWN0Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>_api</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>ls -la</text>
+        <text>_api</text>
       </register>
       <register name="/" type="4">
         <text>, compose=False</text>
