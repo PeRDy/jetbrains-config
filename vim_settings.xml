@@ -1042,6 +1042,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/views.py" timestamp="1530103176277">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources/ether_status.rst" timestamp="1517223006149">
         <mark key="[" line="61" column="10" />
         <mark key="]" line="62" column="10" />
@@ -1144,11 +1150,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/README.md" timestamp="1530093768482">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/README.md" timestamp="1530102983285">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="16" />
+        <mark key="^" line="48" column="16" />
+        <mark key="." line="48" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/requirements.txt" timestamp="1465560258083">
         <mark key="[" line="20" column="1" />
@@ -1448,6 +1454,12 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/routes.py" timestamp="1530103154815">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="69" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/permissions.py" timestamp="1452552179145">
         <mark key="[" line="35" column="12" />
         <mark key="]" line="39" column="12" />
@@ -1526,9 +1538,9 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/routes.py" timestamp="1530093962546">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/routes.py" timestamp="1530103095531">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="64" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="9" column="45" />
       </file>
@@ -4035,46 +4047,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAib3JtIiwK</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyIGltcG9ydCBSb3V0ZQoKZnJvbSBpbnN0YWdyYW0gaW1wb3J0IHZpZXdzCgoKcm91dGVzID0gW1JvdXRlKCIvIiwgIkdFVCIsIHZpZXdzLmZvbywgbmFtZT0iZm9vIiwgZG9jdW1lbnRlZD1GYWxzZSldCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>, compose=False</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIEFQSVNUQVJfQVBQPWFuenUuYXBwOmFwcAo=</text>
+        <text encoding="base64">cm91dGVzID0gW1JvdXRlKCIvIiwgIkdFVCIsIHJvb3QsIG5hbWU9InJvb3QiLCBkb2N1bWVudGVkPUZhbHNlKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAib3JtIiwK</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyIGltcG9ydCBSb3V0ZQoKZnJvbSBpbnN0YWdyYW0gaW1wb3J0IHZpZXdzCgoKcm91dGVzID0gW1JvdXRlKCIvIiwgIkdFVCIsIHZpZXdzLmZvbywgbmFtZT0iZm9vIiwgZG9jdW1lbnRlZD1GYWxzZSldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbc2hsZXguc3BsaXQoInBvZXRyeSBydW4gYXBpc3Rhci1wZWV3ZWUtb3JtIikgKyBsaXN0KGFyZ3MpXQo=</text>
+        <text encoding="base64">ICAgICAgICAib3JtIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpAY29tbWFuZChjb21tYW5kX3R5cGU9Q29tbWFuZFR5cGUuU0hFTEwsIHBhcnNlcl9vcHRzPXsiaGVscCI6ICJPUk0gY2xpZW50In0pCmRlZiBvcm0oKmFyZ3MsICoqa3dhcmdzKToK</text>
+        <text encoding="base64">ICAgIHJldHVybiBbc2hsZXguc3BsaXQoInBvZXRyeSBydW4gYXBpc3Rhci1wZWV3ZWUtb3JtIikgKyBsaXN0KGFyZ3MpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZyb20gdXNlcnMucmVzb3VyY2VzIGltcG9ydCBDcmVhdG9yCg==</text>
+        <text encoding="base64">CgpAY29tbWFuZChjb21tYW5kX3R5cGU9Q29tbWFuZFR5cGUuU0hFTEwsIHBhcnNlcl9vcHRzPXsiaGVscCI6ICJPUk0gY2xpZW50In0pCmRlZiBvcm0oKmFyZ3MsICoqa3dhcmdzKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">CmZyb20gdXNlcnMucmVzb3VyY2VzIGltcG9ydCBDcmVhdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBlZXdlZURhdGFiYXNlQ29tcG9uZW50KAogICAgICAgIHVybD1mJ3Bvc3RncmVzcWw6Ly97b3MuZW52aXJvblsiREFUQUJBU0VfVVNFUiJdfTp7b3MuZW52aXJvblsiREFUQUJBU0VfUEFTU1dPUkQiXX0nCiAgICAgICAgZidAe29zLmVudmlyb25bIkRBVEFCQVNFX0hPU1QiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BPUlQiXX0nCiAgICAgICAgZicve29zLmVudmlyb25bIkRBVEFCQVNFX05BTUUiXX0nCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBlZXdlZURhdGFiYXNlQ29tcG9uZW50KAogICAgICAgIHVybD1mJ3Bvc3RncmVzcWw6Ly97b3MuZW52aXJvblsiREFUQUJBU0VfVVNFUiJdfTp7b3MuZW52aXJvblsiREFUQUJBU0VfUEFTU1dPUkQiXX0nCiAgICAgICAgZidAe29zLmVudmlyb25bIkRBVEFCQVNFX0hPU1QiXX06e29zLmVudmlyb25bIkRBVEFCQVNFX1BPUlQiXX0nCiAgICAgICAgZicve29zLmVudmlyb25bIkRBVEFCQVNFX05BTUUiXX0nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCgpmcm9tIGFwaXN0YXJfcGVld2VlX29ybSBpbXBvcnQgUGVld2VlRGF0YWJhc2VDb21wb25lbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyX3BlZXdlZV9vcm0gaW1wb3J0IFBlZXdlZVRyYW5zYWN0aW9uSG9vawoK</text>
+        <text encoding="base64">aW1wb3J0IG9zCgpmcm9tIGFwaXN0YXJfcGVld2VlX29ybSBpbXBvcnQgUGVld2VlRGF0YWJhc2VDb21wb25lbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
