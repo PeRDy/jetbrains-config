@@ -1461,11 +1461,11 @@
         <mark key="." line="29" column="47" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/make" timestamp="1530195714677">
-        <mark key="[" line="75" column="9" />
-        <mark key="]" line="72" column="29" />
-        <mark key="^" line="72" column="29" />
-        <mark key="." line="72" column="29" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/make" timestamp="1530196663717">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/dieteo_api/settings/tests.py" timestamp="1518466190256">
         <mark key="[" line="4" column="5" />
@@ -3926,13 +3926,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LS10YWcgJHtCSVRCVUNLRVRfQ09NTUlUfSA=</text>
+        <text>(&quot;DATABASE_HOST&quot;, &quot;DATABASE_PORT&quot;, &quot;DATABASE_USER&quot;, &quot;DATABASE_PASSWORD&quot;, &quot;DATABASE_NAME&quot;)</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFrZSA=</text>
+        <text>(&quot;DATABASE_HOST&quot;, &quot;DATABASE_PORT&quot;, &quot;DATABASE_USER&quot;, &quot;DATABASE_PASSWORD&quot;, &quot;DATABASE_NAME&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>HOST</text>
