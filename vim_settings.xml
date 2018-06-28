@@ -1049,10 +1049,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/bitbucket-pipelines.yml" timestamp="1530198112824">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/bitbucket-pipelines.yml" timestamp="1530201845287">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources/ether_status.rst" timestamp="1517223006149">
         <mark key="[" line="61" column="10" />
@@ -4079,20 +4080,20 @@
       <jump line="43" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/users/types/creator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tdGFnICR7QklUQlVDS0VUX0NPTU1JVH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAgICAgLSBkb2NrZXIKICAgICAgICAgICAgY2FjaGVzOgogICAgICAgICAgICAgIC0gZG9ja2VyCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tdGFnICR7QklUQlVDS0VUX0NPTU1JVH0=</text>
+        <text encoding="base64">bG9jYWxob3N0IA==</text>
       </register>
       <register name="/" type="4">
         <text>HOST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIC0tdGFnICR7QklUQlVDS0VUX0NPTU1JVH0gdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAgICAgLSBkb2NrZXIKICAgICAgICAgICAgY2FjaGVzOgogICAgICAgICAgICAgIC0gZG9ja2VyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
