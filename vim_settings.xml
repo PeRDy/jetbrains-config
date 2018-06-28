@@ -401,6 +401,13 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/users/types/creator.py" timestamp="1530187218176">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="84" column="5" />
+        <mark key="^" line="42" column="137" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/templates/barrenero_nvidia.service.jinja2" timestamp="1507475181983">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="27" />
@@ -2229,6 +2236,11 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/migrations/001_creator.py" timestamp="1530187141130">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="59" />
@@ -2965,6 +2977,12 @@
         <mark key="]" line="6" column="19" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/users/models/creator.py" timestamp="1530187073785">
+        <mark key="[" line="34" column="83" />
+        <mark key="]" line="35" column="57" />
+        <mark key="^" line="35" column="57" />
+        <mark key="." line="35" column="57" />
       </file>
       <file name="$USER_HOME$/Desarrollo/health-check/CHANGELOG.rst" timestamp="1498236434684">
         <mark key="[" line="2" column="5" />
@@ -3943,7 +3961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="66" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/isort.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/black.py" />
       <jump line="24" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
       <jump line="25" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
@@ -4043,49 +4060,50 @@
       <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/README.md" />
       <jump line="15" column="6" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/docker-compose.yml" />
       <jump line="16" column="7" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/docker-compose.yml" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/users/types/creator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>anzu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvbGxvd2Vyc19tb250aGx5X2dyb3d0aCA9IHZhbGlkYXRvcnMuTnVtYmVyKAogICAgICAgIHRpdGxlPSJmb2xsb3dlcnNfbW9udGhseV9ncm93dGgiLCBkZXNjcmlwdGlvbj0iRm9sbG93ZXJzIG1vbnRobHkgZ3Jvd3RoIiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>anzu</text>
+        <text>DateTimeField</text>
       </register>
       <register name="/" type="4">
         <text>HOST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">djEuMTIuMCAtIDIwMTgtMDYtMjYK</text>
+        <text encoding="base64">ICAgIGZvbGxvd2Vyc19tb250aGx5X2dyb3d0aCA9IHZhbGlkYXRvcnMuTnVtYmVyKAogICAgICAgIHRpdGxlPSJmb2xsb3dlcnNfbW9udGhseV9ncm93dGgiLCBkZXNjcmlwdGlvbj0iRm9sbG93ZXJzIG1vbnRobHkgZ3Jvd3RoIiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBpc3Rhcl9kcmFtYXRpcS5zZXR1cChjb21wb25lbnRzPWNvbXBvbmVudHMpCg==</text>
+        <text encoding="base64">ICAgIG1pZ3JhdG9yLnJlbW92ZV9tb2RlbCgibW9kZWwiKQoK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCmRyYW1hdGlxLnNldF9icm9rZXIoYnJva2VyPWJyb2tlcikKYXBpc3Rhcl9kcmFtYXRpcS5zZXR1cChjb21wb25lbnRzPWNvbXBvbmVudHMpCgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgQG1pZ3JhdG9yLmNyZWF0ZV9tb2RlbAogICAgY2xhc3MgTW9kZWwocHcuTW9kZWwpOgogICAgICAgIGlkID0gcHcuQXV0b0ZpZWxkKCkKCiAgICAgICAgY2xhc3MgTWV0YToKICAgICAgICAgICAgdGFibGVfbmFtZSA9ICJtb2RlbCI=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCmRyYW1hdGlxLnNldF9icm9rZXIoYnJva2VyPWJyb2tlcikKYXBpc3Rhcl9kcmFtYXRpcS5zZXR1cChjb21wb25lbnRzPWNvbXBvbmVudHMpCg==</text>
+        <text encoding="base64">YXBpc3Rhcl9kcmFtYXRpcS5zZXR1cChjb21wb25lbnRzPWNvbXBvbmVudHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCmRyYW1hdGlxLnNldF9icm9rZXIoYnJva2VyPWJyb2tlcikK</text>
+        <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCmRyYW1hdGlxLnNldF9icm9rZXIoYnJva2VyPWJyb2tlcikKYXBpc3Rhcl9kcmFtYXRpcS5zZXR1cChjb21wb25lbnRzPWNvbXBvbmVudHMpCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCmRyYW1hdGlxLnNldF9icm9rZXIoYnJva2VyPWJyb2tlcikKYXBpc3Rhcl9kcmFtYXRpcS5zZXR1cChjb21wb25lbnRzPWNvbXBvbmVudHMpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCmRyYW1hdGlxLnNldF9icm9rZXIoYnJva2VyPWJyb2tlcikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBEcmFtYXRpcSBzZXR1cApicm9rZXIgPSBSZWRpc0Jyb2tlcigKICAgIHVybD1mInJlZGlzOi8ve29zLmVudmlyb25bJ1JFRElTX0hPU1QnXX06e29zLmVudmlyb25bJ1JFRElTX1BPUlQnXX0ve29zLmVudmlyb25bJ1JFRElTX0RCJ119IiwgbmFtZXNwYWNlPSJhbnp1IgopCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyX2RyYW1hdGlxIGltcG9ydCBhY3Rvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
