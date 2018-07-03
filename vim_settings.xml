@@ -2946,12 +2946,10 @@
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1530607494379">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1530628657291">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="55" column="108" />
-        <mark key="]" line="55" column="108" />
-        <mark key="^" line="55" column="27" />
-        <mark key="." line="55" column="108" />
+        <mark key="]" line="58" column="12" />
+        <mark key="." line="58" column="12" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -4080,8 +4078,8 @@
       <jump line="43" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/users/types/creator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kIGluIG1ldGhvZHM6Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4096,31 +4094,31 @@
         <text encoding="base64">ICAgICAgICBucyA9IGNvcHkuZGVlcGNvcHkobmFtZXNwYWNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgIyBUT0RPOiBzaSBlbCBtw6l0b2RvIGV4aXN0ZSwgcG9uZXJsbyBjb21vIF8K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kIGluIG1ldGhvZHM6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1ldGhvZCBub3QgaW4gbmFtZXNwYWNlOgogICAgICAgICAgICAgICAgICAgIG1ldGhvZF9uc1ttZXRob2RdID0gbWV0aG9kX25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19uYW1lc3BhY2UgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgIyBUT0RPOiBzaSBlbCBtw6l0b2RvIGV4aXN0ZSwgcG9uZXJsbyBjb21vIF8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGhvZCBpbiBtZXRob2RzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X25hbWVzcGFjZS51cGRhdGUobmFtZXNwYWNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19uYW1lc3BhY2UgPSB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBtIGluIG1ldGhvZHMKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGhvZCBpbiBtZXRob2RzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGs6IHYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X25hbWVzcGFjZS51cGRhdGUobmFtZXNwYWNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X25hbWVzcGFjZSA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBtIGluIG1ldGhvZHMKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X25hbWVzcGFjZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGs6IHYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
