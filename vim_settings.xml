@@ -2641,12 +2641,12 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1530531725740">
-        <mark key="'" line="30" column="39" />
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="60" column="23" />
-        <mark key="." line="60" column="23" />
-        <mark key="^" line="60" column="23" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1530630051887">
+        <mark key="'" line="36" column="53" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news_challenge/settings/development.py" timestamp="1465336625613">
         <mark key="[" line="24" column="25" />
@@ -2946,10 +2946,12 @@
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1530628657291">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1530629329450">
         <mark key="'" line="47" column="0" />
-        <mark key="]" line="58" column="12" />
-        <mark key="." line="58" column="12" />
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="61" column="14" />
+        <mark key="." line="61" column="14" />
+        <mark key="^" line="61" column="14" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -3976,7 +3978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/run/commands/black.py" />
       <jump line="24" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
       <jump line="25" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
       <jump line="23" column="9" filename="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/run" />
@@ -4076,67 +4077,66 @@
       <jump line="15" column="6" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/docker-compose.yml" />
       <jump line="16" column="7" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/docker-compose.yml" />
       <jump line="43" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/gilgamesh/users/types/creator.py" />
+      <jump line="37" column="53" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kIGluIG1ldGhvZHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>HOST</text>
+        <text>namespace\[\(.*\)\] = \(.*\)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBucyA9IGNvcHkuZGVlcGNvcHkobmFtZXNwYWNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kIGluIG1ldGhvZHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1ldGhvZCBub3QgaW4gbmFtZXNwYWNlOgogICAgICAgICAgICAgICAgICAgIG1ldGhvZF9uc1ttZXRob2RdID0gbWV0aG9kX25zCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgIyBUT0RPOiBzaSBlbCBtw6l0b2RvIGV4aXN0ZSwgcG9uZXJsbyBjb21vIF8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6CiAgICAgICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKAogICAgICAgICAgICAgICAgJ0ludmFsaWQgbWV0aG9kICJ7fSIsIG11c3QgYmUgb25lIG9mOiB7fS4nLmZvcm1hdChtLCAiLCAiLmpvaW4obWNzLkFWQUlMQUJMRV9NRVRIT0RTKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19uYW1lc3BhY2UgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kIGluIG1ldGhvZHM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1ldGhvZCBpbiBtZXRob2RzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG1ldGhvZCBub3QgaW4gbmFtZXNwYWNlOgogICAgICAgICAgICAgICAgICAgIG1ldGhvZF9uc1ttZXRob2RdID0gbWV0aG9kX25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3X25hbWVzcGFjZS51cGRhdGUobmFtZXNwYWNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgIyBUT0RPOiBzaSBlbCBtw6l0b2RvIGV4aXN0ZSwgcG9uZXJsbyBjb21vIF8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBtIGluIG1ldGhvZHMKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGs6IHYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld19uYW1lc3BhY2UgPSB7fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/namespace\[\(.*\)\] = \(.*\)/return {\1: \2}</text>
       </register>
     </registers>
     <search>
-      <last-search>HOST</last-search>
+      <last-search>namespace\[\(.*\)\] = \(.*\)</last-search>
       <last-offset />
-      <last-pattern>HOST</last-pattern>
-      <last-replace>DB</last-replace>
-      <last-substitute>HOST</last-substitute>
+      <last-pattern>namespace\[\(.*\)\] = \(.*\)</last-pattern>
+      <last-replace>return {\1: \2}</last-replace>
+      <last-substitute>namespace\[\(.*\)\] = \(.*\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self, client</entry>
-        <entry>\([A-Z_]\+\)=\(.*\)</entry>
         <entry>module: str</entry>
         <entry>name: str</entry>
         <entry>targer: str</entry>
@@ -4155,10 +4155,10 @@
         <entry>python make</entry>
         <entry>, compose=False</entry>
         <entry>HOST</entry>
+        <entry>namespace[\(.*\)] = \(.*\)</entry>
+        <entry>namespace\[\(.*\)\] = \(.*\)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9ibGFjay9n</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGVzdC9mbGFrZTgvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3B5dGVzdC9pc29ydC9n</entry>
         <entry>%s/.from_app//g</entry>
         <entry encoding="base64">JzwsJz5zL2NyZWF0ZS9kcm9wL2c=</entry>
@@ -4177,6 +4177,8 @@
         <entry encoding="base64">JzwsJz5zL0hPU1QvUE9SVC9n</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvREIvZw==</entry>
         <entry>w</entry>
+        <entry>%s/namespace[\(.*\)] = \(.*\)/return {\1: \2}</entry>
+        <entry>%s/namespace\[\(.*\)\] = \(.*\)/return {\1: \2}</entry>
       </history-cmd>
       <history-expr />
       <history-input />
