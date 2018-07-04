@@ -31,6 +31,12 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/schemas.py" timestamp="1530717803976">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="8" column="95" />
+        <mark key="^" line="8" column="95" />
+        <mark key="." line="8" column="95" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Github.vue" timestamp="1498431379345">
         <mark key="[" line="54" column="17" />
         <mark key="]" line="54" column="0" />
@@ -334,9 +340,9 @@
         <mark key="^" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/models.py" timestamp="1530717188842">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="18" column="49" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/models.py" timestamp="1530717649411">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="29" column="45" />
         <mark key="^" line="18" column="49" />
         <mark key="." line="18" column="49" />
       </file>
@@ -4100,20 +4106,20 @@
       <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1BTlVBTF9BQ1RJT05fUkVRVUlSRUQgPSAiTWFudWFsIGFjdGlvbiByZXF1aXJlZCIK</text>
+      <register name="&quot;" type="4">
+        <text>peewee.CharField()</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>(m.value, name) for name, m in InstagramAccountStatus.__members__.items()</text>
+        <text>peewee.CharField()</text>
       </register>
       <register name="/" type="4">
         <text>: \(\w\+\)}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEVOQUJMRSA9IGF1dG8oKQogICAgRElTQUJMRSA9IGF1dG8oKQogICAgQ0hBTExFTkdFRCA9IGF1dG8oKQogICAgTUFOVUFMX0FDVElPTl9SRVFVSVJFRCA9IGF1dG8oKQoK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gcGVld2VlLkNoYXJGaWVsZCh1bmlxdWU9VHJ1ZSkKICAgIHBhc3N3b3JkID0gcGVld2VlLkNoYXJGaWVsZCgpCiAgICBwcm94eSA9IHBlZXdlZS5DaGFyRmllbGQoKQogICAgd2VibWFpbF91cmwgPSBwZWV3ZWUuQ2hhckZpZWxkKCkKICAgIHdlYm1haWxfdXNlcm5hbWUgPSBwZWV3ZWUuQ2hhckZpZWxkKCkKICAgIHdlYm1haWxfcGFzc3dvcmQgPSBwZWV3ZWUuQ2hhckZpZWxkKCkKICAgIHN0YXR1cyA9IHBlZXdlZS5TbWFsbEludGVnZXJGaWVsZChjaG9pY2VzPVN0YXR1cy5jaG9pY2VzKCksIGRlZmF1bHQ9U3RhdHVzLmVuYWJsZSkKICAgIHN0YXR1c19ub3RlcyA9IHBlZXdlZS5UZXh0RmllbGQobnVsbD1UcnVlKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE1BTlVBTF9BQ1RJT05fUkVRVUlSRUQgPSAiTWFudWFsIGFjdGlvbiByZXF1aXJlZCIK</text>
