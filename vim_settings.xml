@@ -1550,11 +1550,11 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/routes.py" timestamp="1530117580389">
-        <mark key="[" line="14" column="105" />
-        <mark key="]" line="14" column="64" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="11" column="45" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/routes.py" timestamp="1530711562761">
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="12" column="64" />
+        <mark key="." line="12" column="64" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
         <mark key="[" line="13" column="0" />
@@ -4078,14 +4078,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIFNjaGVtYQo=</text>
+      <register name="&quot;" type="4">
+        <text>, Include(&quot;/crawl&quot;, &quot;Crawl&quot;, crawl.routes.routes)]</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>, Include(&quot;/crawl&quot;, &quot;Crawl&quot;, crawl.routes.routes)]</text>
       </register>
       <register name="/" type="4">
         <text>: \(\w\+\)}</text>
@@ -4094,28 +4094,28 @@
         <text encoding="base64">djAuMy4xIC0gMjAxOC0wNi0yMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIFNjaGVtYQo=</text>
+        <text encoding="base64">aW1wb3J0IGNyYXdsLnJvdXRlcwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiFbZG9jc10oZG9jcy9pbWcvZG9jcy5wbmcpCg==</text>
+        <text encoding="base64">IyMjIFNjaGVtYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">CiFbZG9jc10oZG9jcy9pbWcvZG9jcy5wbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDMuNzogcHkzNwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB5MzcsCg==</text>
+        <text encoding="base64">ICAgIDMuNzogcHkzNwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlICoqcm91dGVzKiogZm9yIHRoZXNlIG1ldGhvZHMgYXJlOgoKfE1ldGhvZCAgfFZlcmIgIHxVUkwKfC0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLQp8Y3JlYXRlICB8UE9TVCAgfC8KfHJldHJpZXZlfEdFVCAgIHwve2VsZW1lbnRfaWR9Lwp8dXBkYXRlICB8UFVUICAgfC97ZWxlbWVudF9pZH0vCnxkZWxldGUgIHxERUxFVEV8L3tlbGVtZW50X2lkfS8KfGxpc3QgICAgfEdFVCAgIHwvCnxkcm9wICAgIHxERUxFVEV8LwoK</text>
+        <text encoding="base64">ICAgIHB5MzcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhlICoqcm91dGVzKiogZm9yIHRoZXNlIG1ldGhvZHMgYXJlOgoKfE1ldGhvZCAgfFZlcmIgIHxVUkwKfC0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLQp8Y3JlYXRlICB8UE9TVCAgfC8KfHJldHJpZXZlfEdFVCAgIHwve2VsZW1lbnRfaWR9Lwp8dXBkYXRlICB8UFVUICAgfC97ZWxlbWVudF9pZH0vCnxkZWxldGUgIHxERUxFVEV8L3tlbGVtZW50X2lkfS8KfGxpc3QgICAgfEdFVCAgIHwvCg==</text>
+        <text encoding="base64">VGhlICoqcm91dGVzKiogZm9yIHRoZXNlIG1ldGhvZHMgYXJlOgoKfE1ldGhvZCAgfFZlcmIgIHxVUkwKfC0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLQp8Y3JlYXRlICB8UE9TVCAgfC8KfHJldHJpZXZlfEdFVCAgIHwve2VsZW1lbnRfaWR9Lwp8dXBkYXRlICB8UFVUICAgfC97ZWxlbWVudF9pZH0vCnxkZWxldGUgIHxERUxFVEV8L3tlbGVtZW50X2lkfS8KfGxpc3QgICAgfEdFVCAgIHwvCnxkcm9wICAgIHxERUxFVEV8LwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tLQoK</text>
+        <text encoding="base64">VGhlICoqcm91dGVzKiogZm9yIHRoZXNlIG1ldGhvZHMgYXJlOgoKfE1ldGhvZCAgfFZlcmIgIHxVUkwKfC0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLQp8Y3JlYXRlICB8UE9TVCAgfC8KfHJldHJpZXZlfEdFVCAgIHwve2VsZW1lbnRfaWR9Lwp8dXBkYXRlICB8UFVUICAgfC97ZWxlbWVudF9pZH0vCnxkZWxldGUgIHxERUxFVEV8L3tlbGVtZW50X2lkfS8KfGxpc3QgICAgfEdFVCAgIHwvCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">LS0tLQoK</text>
