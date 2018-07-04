@@ -37,6 +37,9 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1530715430469">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="27" />
@@ -331,8 +334,11 @@
         <mark key="^" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/models.py" timestamp="1530713154908">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/models.py" timestamp="1530715925787">
+        <mark key="[" line="14" column="69" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_peewee_orm/event_hooks.py" timestamp="1528892110464">
         <mark key="[" line="27" column="16" />
@@ -1827,11 +1833,10 @@
         <mark key="^" line="149" column="40" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/setup.cfg" timestamp="1530118623416">
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="67" column="4" />
-        <mark key="." line="67" column="4" />
-        <mark key="^" line="67" column="4" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/setup.cfg" timestamp="1530714217875">
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/auth.py" timestamp="1505159913366">
         <mark key="[" line="33" column="18" />
@@ -2371,10 +2376,6 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="106" column="33" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/crawl/views.py" timestamp="1530179271841">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/app.json" timestamp="1513606406742">
         <mark key="[" line="23" column="3" />
         <mark key="]" line="23" column="3" />
@@ -2410,6 +2411,12 @@
         <mark key="]" line="41" column="10" />
         <mark key="." line="41" column="10" />
         <mark key="^" line="59" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/state_machine.py" timestamp="1530715468708">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/README.rst" timestamp="1507477468595">
         <mark key="[" line="10" column="110" />
@@ -3929,6 +3936,12 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/models/instagram_account.py" timestamp="1530715144761">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -4081,47 +4094,47 @@
       <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, Include(&quot;/crawl&quot;, &quot;Crawl&quot;, crawl.routes.routes)]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE1BTlVBTF9BQ1RJT05fUkVRVUlSRUQgPSAiTWFudWFsIGFjdGlvbiByZXF1aXJlZCIK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, Include(&quot;/crawl&quot;, &quot;Crawl&quot;, crawl.routes.routes)]</text>
+        <text>(m.value, name) for name, m in InstagramAccountStatus.__members__.items()</text>
       </register>
       <register name="/" type="4">
         <text>: \(\w\+\)}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">djAuMy4xIC0gMjAxOC0wNi0yMQo=</text>
+        <text encoding="base64">ICAgIEVOQUJMRSA9IGF1dG8oKQogICAgRElTQUJMRSA9IGF1dG8oKQogICAgQ0hBTExFTkdFRCA9IGF1dG8oKQogICAgTUFOVUFMX0FDVElPTl9SRVFVSVJFRCA9IGF1dG8oKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNyYXdsLnJvdXRlcwoK</text>
+        <text encoding="base64">ICAgIE1BTlVBTF9BQ1RJT05fUkVRVUlSRUQgPSAiTWFudWFsIGFjdGlvbiByZXF1aXJlZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIFNjaGVtYQo=</text>
+        <text encoding="base64">CiAgICBFTkFCTEUgPSAiRW5hYmxlIgogICAgRElTQUJMRSA9ICJEaXNhYmxlIgogICAgQ0hBTExFTkdFRCA9ICJDaGFsbGVuZ2VkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiFbZG9jc10oZG9jcy9pbWcvZG9jcy5wbmcpCg==</text>
+        <text encoding="base64">ICAgIFNUQVRVU19DSE9JQ0VTID0gKCgwLCAiRW5hYmxlIiksICgxLCAiRGlzYWJsZSIpKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">CXBlZXdlZSwKCWFwaXN0YXJfcGVld2VlX29ybQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDMuNzogcHkzNwo=</text>
+        <text encoding="base64">aW1wb3J0IGNyYXdsLnJvdXRlcwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB5MzcsCg==</text>
+        <text encoding="base64">IyMjIFNjaGVtYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhlICoqcm91dGVzKiogZm9yIHRoZXNlIG1ldGhvZHMgYXJlOgoKfE1ldGhvZCAgfFZlcmIgIHxVUkwKfC0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLQp8Y3JlYXRlICB8UE9TVCAgfC8KfHJldHJpZXZlfEdFVCAgIHwve2VsZW1lbnRfaWR9Lwp8dXBkYXRlICB8UFVUICAgfC97ZWxlbWVudF9pZH0vCnxkZWxldGUgIHxERUxFVEV8L3tlbGVtZW50X2lkfS8KfGxpc3QgICAgfEdFVCAgIHwvCnxkcm9wICAgIHxERUxFVEV8LwoK</text>
+        <text encoding="base64">CiFbZG9jc10oZG9jcy9pbWcvZG9jcy5wbmcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhlICoqcm91dGVzKiogZm9yIHRoZXNlIG1ldGhvZHMgYXJlOgoKfE1ldGhvZCAgfFZlcmIgIHxVUkwKfC0tLS0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tLQp8Y3JlYXRlICB8UE9TVCAgfC8KfHJldHJpZXZlfEdFVCAgIHwve2VsZW1lbnRfaWR9Lwp8dXBkYXRlICB8UFVUICAgfC97ZWxlbWVudF9pZH0vCnxkZWxldGUgIHxERUxFVEV8L3tlbGVtZW50X2lkfS8KfGxpc3QgICAgfEdFVCAgIHwvCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0tLQoK</text>
+        <text encoding="base64">ICAgIDMuNzogcHkzNwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzogXChcd1wrXCl9LzogY2xhc3NtZXRob2QoXDEpfS9n</text>
