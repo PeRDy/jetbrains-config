@@ -31,6 +31,12 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/schemas.py" timestamp="1530798231374">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="52" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Github.vue" timestamp="1498431379345">
         <mark key="[" line="54" column="17" />
         <mark key="]" line="54" column="0" />
@@ -40,12 +46,9 @@
       <file name="/a.dummy" timestamp="1530720639572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" timestamp="1530789819905">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="31" />
-        <mark key="^" line="41" column="20" />
-        <mark key="." line="31" column="31" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" timestamp="1530798853159">
+        <mark key="'" line="91" column="8" />
+        <mark key="^" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
@@ -3649,8 +3652,8 @@
         <mark key="." line="191" column="7" />
         <mark key="^" line="191" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/resources.py" timestamp="1530720385733">
-        <mark key="[" line="11" column="35" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/resources.py" timestamp="1530798008502">
+        <mark key="[" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run.py" timestamp="1488285198849">
         <mark key="[" line="73" column="0" />
@@ -4012,11 +4015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="103" column="33" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="113" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="29" column="11" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="140" column="10" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="31" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
       <jump line="35" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
@@ -4112,69 +4110,70 @@
       <jump line="12" column="22" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/docker-compose.yml" />
       <jump line="89" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
+      <jump line="56" column="31" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
+      <jump line="129" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
+      <jump line="49" column="11" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>another_</text>
+        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPWluc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBuZXdfaW5zdGFncmFtX2FjY291bnQgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChpbnN0YWdyYW1fYWNjb3VudCwgbmV3X2luc3RhZ3JhbV9hY2NvdW50KQoKICAgICAgICAjIFJldHJpZXZlIHNhbWUgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KHNlbGYudXJsKG5ld19pbnN0YWdyYW1fYWNjb3VudFsiaWQiXSkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gbmV3X2luc3RhZ3JhbV9hY2NvdW50</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>another_</text>
+        <text>, instagram_account</text>
       </register>
       <register name="/" type="4">
-        <text>foo</text>
+        <text>assert \([a-z_]\+\) == \([a-z_]\+\)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBjb3B5LmRlZXBjb3B5KGFub3RoZXJfaW5zdGFncmFtX2FjY291bnQpCiAgICAgICAgcmVzdWx0WyJzdGF0dXMiXSA9IDEKICAgICAgICByZXN1bHRbInN0YXR1c19ub3RlcyJdID0gTm9uZQogICAgICAgIHJldHVybiByZXN1bHQK</text>
+      <register name="0" type="4">
+        <text>: typing.Dict[str, typing.Any]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWdyYW1fYWNjb3VudFsic3RhdHVzIl0gPSAxCiAgICAgICAgaW5zdGFncmFtX2FjY291bnRbInN0YXR1c19ub3RlcyJdID0gTm9uZQogICAgICAgIHJldHVybiBpbnN0YWdyYW1fYWNjb3VudAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPWluc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBuZXdfaW5zdGFncmFtX2FjY291bnQgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChpbnN0YWdyYW1fYWNjb3VudCwgbmV3X2luc3RhZ3JhbV9hY2NvdW50KQoKICAgICAgICAjIFJldHJpZXZlIHNhbWUgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KHNlbGYudXJsKG5ld19pbnN0YWdyYW1fYWNjb3VudFsiaWQiXSkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gbmV3X2luc3RhZ3JhbV9hY2NvdW50</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUKICAgIGRlZiBpbnN0YWdyYW1fYWNjb3VudF9yZXNwb25zZShzZWxmLCBpbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShpbnN0YWdyYW1fYWNjb3VudCkKICAgICAgICByZXN1bHRbInN0YXR1cyJdID0gMQogICAgICAgIHJlc3VsdFsic3RhdHVzX25vdGVzIl0gPSBOb25lCiAgICAgICAgcmV0dXJuIHJlc3VsdAoKICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGFub3RoZXJfaW5zdGFncmFtX2FjY291bnRfcmVzcG9uc2Uoc2VsZiwgYW5vdGhlcl9pbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShhbm90aGVyX2luc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIHJlc3VsdFsic3RhdHVzIl0gPSAxCiAgICAgICAgcmVzdWx0WyJzdGF0dXNfbm90ZXMiXSA9IE5vbmUKICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pbXVtID0gCiAgICAgICAgbWF4aW11bSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWdyYW1fYWNjb3VudFsic3RhdHVzIl0gPSAxCiAgICAgICAgaW5zdGFncmFtX2FjY291bnRbInN0YXR1c19ub3RlcyJdID0gTm9uZQogICAgICAgIHJldHVybiBpbnN0YWdyYW1fYWNjb3VudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbmV3X2luc3RhZ3JhbV9hY2NvdW50WyJ1c2VybmFtZSJdID09ICJmb28iCiAgICAgICAgYXNzZXJ0IG5ld19pbnN0YWdyYW1fYWNjb3VudFsicGFzc3dvcmQiXSA9PSAiZm9vIgogICAgICAgIGFzc2VydCBuZXdfaW5zdGFncmFtX2FjY291bnRbImVtYWlsIl0gPT0gImZvb0Bmb28uZm9vIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbmV3X2luc3RhZ3JhbV9hY2NvdW50WyJ1c2VybmFtZSJdID09ICJmb28iCiAgICAgICAgYXNzZXJ0IG5ld19pbnN0YWdyYW1fYWNjb3VudFsicGFzc3dvcmQiXSA9PSAiZm9vIgogICAgICAgIGFzc2VydCBuZXdfaW5zdGFncmFtX2FjY291bnRbImVtYWlsIl0gPT0gImZvb0Bmb28uZm9vIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdXBkYXRlZF9pbnN0YWdyYW1fYWNjb3VudFsidXNlcm5hbWUiXSA9PSAiYmFyIgogICAgICAgIGFzc2VydCB1cGRhdGVkX2luc3RhZ3JhbV9hY2NvdW50WyJwYXNzd29yZCJdID09ICJiYXIiCiAgICAgICAgYXNzZXJ0IHVwZGF0ZWRfaW5zdGFncmFtX2FjY291bnRbImVtYWlsIl0gPT0gImJhckBiYXIuYmFyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaW5zdGFncmFtX2FjY291bnQgPT0gbmV3X2luc3RhZ3JhbV9hY2NvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5pbXVtID0gCiAgICAgICAgbWF4aW11bSA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</text>
+        <text>%s/assert \([a-z_]\+\) == \([a-z_]\+\)/self.assertInstagramAccountEqual(\1, \2)/g</text>
       </register>
     </registers>
     <search>
-      <last-search>foo</last-search>
+      <last-search>assert \([a-z_]\+\) == \([a-z_]\+\)</last-search>
       <last-offset />
-      <last-pattern>foo</last-pattern>
-      <last-replace>bar</last-replace>
-      <last-substitute>foo</last-substitute>
+      <last-pattern>assert \([a-z_]\+\) == \([a-z_]\+\)</last-pattern>
+      <last-replace>self.assertInstagramAccountEqual(\1, \2)</last-replace>
+      <last-substitute>assert \([a-z_]\+\) == \([a-z_]\+\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get(</entry>
-        <entry>new</entry>
-        <entry>\(urljoin(url, \)\(new_creator[&quot;id&quot;]\))</entry>
-        <entry>\(urljoin(url, \)\(new_creator\[&quot;id&quot;\]\))</entry>
         <entry>client, url</entry>
         <entry>url</entry>
         <entry>log_color</entry>
@@ -4191,17 +4190,16 @@
         <entry>: \(\w\+\)}</entry>
         <entry>creator</entry>
         <entry>foo</entry>
+        <entry>assert instagram_account == \(.*\)</entry>
+        <entry>assert another_instagram_account == \(.*\)</entry>
+        <entry>account_response</entry>
+        <entry>assert \([a-z_]\+\) == \([a-z_]\+\)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4=</entry>
-        <entry encoding="base64">JzwsJz5zL3VybC9zZWxmLnVybCgpL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3B5dGhvbiBtYWtlL3BvZXRyeSBydW4gcHl0aG9uIG1ha2UvZw==</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLywgY29tcG9zZT1GYWxzZS8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvUE9SVC9nZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvUE9SVC9n</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvREIvZw==</entry>
-        <entry>w</entry>
         <entry>%s/namespace[\(.*\)] = \(.*\)/return {\1: \2}</entry>
         <entry>%s/namespace\[\(.*\)\] = \(.*\)/return {\1: \2}</entry>
         <entry encoding="base64">JzwsJz5zLywgXChuYW1lc3BhY2UuKlwpLC8vZw==</entry>
@@ -4213,6 +4211,11 @@
         <entry encoding="base64">JzwsJz5zLzogXChcd1wrXCl9LzogY2xhc3NtZXRob2QoXDEpfS9n</entry>
         <entry encoding="base64">JzwsJz4lcy9jcmVhdG9yL2luc3RhZ3JhbV9hY2NvdW50L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</entry>
+        <entry>%s/assert instagram_account == \(.*\)/assert instagram_account_response == \1/g</entry>
+        <entry>%s/assert another_instagram_account == \(.*\)/assert another_instagram_account_response == \1/g</entry>
+        <entry>w</entry>
+        <entry>%s/account_response/account/g</entry>
+        <entry>%s/assert \([a-z_]\+\) == \([a-z_]\+\)/self.assertInstagramAccountEqual(\1, \2)/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
