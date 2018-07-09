@@ -251,11 +251,10 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/service.json.j2" timestamp="1531142059231">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/service.json.j2" timestamp="1531143150693">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/Dockerfile" timestamp="1497639108176">
         <mark key="[" line="14" column="12" />
@@ -4149,8 +4148,8 @@
       <jump line="145" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>arn:aws:ecs:eu-west-1:773676435453:cluster/development</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgImxvYWRCYWxhbmNlck5hbWUiOiAiIiwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4165,31 +4164,31 @@
         <text>: typing.Dict[str, typing.Any]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0KICBdCg==</text>
+        <text encoding="base64">ICAgICAgImxvYWRCYWxhbmNlck5hbWUiOiAiIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAibG9hZEJhbGFuY2VycyI6IFsKICAgIHsKCg==</text>
+        <text encoding="base64">ICAgIH0KICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAidGFza0RlZmluaXRpb24iOiB7fSwK</text>
+        <text encoding="base64">ICAibG9hZEJhbGFuY2VycyI6IFsKICAgIHsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uKSkKCg==</text>
+        <text encoding="base64">ICAidGFza0RlZmluaXRpb24iOiB7fSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uX3BhcmFtcykpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uKSkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uX3BhcmFtcykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IGJvdG8zLmNsaWVudCgiZWNzIikK</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGJvdG8zLmNsaWVudCgiZWNzIikK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</text>
