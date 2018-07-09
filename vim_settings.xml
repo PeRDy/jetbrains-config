@@ -251,10 +251,11 @@
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/service.json.j2" timestamp="1531143150693">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/service.json.j2" timestamp="1531146871433">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/Dockerfile" timestamp="1497639108176">
         <mark key="[" line="14" column="12" />
@@ -418,8 +419,8 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/service.json" timestamp="1531142036619">
         <mark key="[" line="2" column="20" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.py" timestamp="1528384608037">
         <mark key="[" line="75" column="23" />
@@ -3452,11 +3453,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531141836677">
-        <mark key="[" line="126" column="92" />
-        <mark key="]" line="122" column="31" />
-        <mark key="." line="122" column="31" />
-        <mark key="^" line="122" column="31" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531147314814">
+        <mark key="[" line="134" column="38" />
+        <mark key="]" line="134" column="38" />
+        <mark key="." line="134" column="38" />
+        <mark key="^" line="131" column="6" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/navigation.js" timestamp="1518190259136">
         <mark key="[" line="3" column="2" />
@@ -4148,20 +4149,20 @@
       <jump line="145" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImxvYWRCYWxhbmNlck5hbWUiOiAiIiwK</text>
+      <register name="&quot;" type="4">
+        <text>register_task_definition</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>arn:aws:ecs:eu-west-1:773676435453:cluster/development</text>
+        <text>register_task_definition</text>
       </register>
       <register name="/" type="4">
         <text>\(\w\+\)=</text>
       </register>
-      <register name="0" type="4">
-        <text>: typing.Dict[str, typing.Any]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbihmImRlcGxveW1lbnQve2t3YXJnc1snZW52aXJvbm1lbnQnXX0vdGFza19kZWZpbml0aW9uLmpzb24iKSBhcyBmOgogICAgICAgIHRhc2tfZGVmaW5pdGlvbl9lbnYgPSBqc29uLmxvYWQoZikKICAgIHRhc2tfZGVmaW5pdGlvbl9wYXJhbXMgPSBqc29uLmxvYWRzKGoyX2Vudi5nZXRfdGVtcGxhdGUoInRhc2tfZGVmaW5pdGlvbi5qc29uLmoyIikucmVuZGVyKHRhc2tfZGVmaW5pdGlvbl9lbnYpKQogICAgdGFza19kZWZpbml0aW9uID0gYm90bzMuY2xpZW50KCJlY3MiKS5yZWdpc3Rlcl90YXNrX2RlZmluaXRpb24oKip0YXNrX2RlZmluaXRpb25fcGFyYW1zKQogICAgbG9nZ2VyLmluZm8oIlRhc2sgZGVmaW5pdGlvbiBjcmVhdGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgImxvYWRCYWxhbmNlck5hbWUiOiAiIiwK</text>
