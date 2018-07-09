@@ -2815,6 +2815,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/development.json" timestamp="1531135752095">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
         <mark key="]" line="45" column="35" />
@@ -3425,10 +3428,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531134288534">
-        <mark key="[" line="104" column="5" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531135711153">
+        <mark key="[" line="110" column="27" />
+        <mark key="]" line="155" column="11" />
+        <mark key="." line="155" column="11" />
+        <mark key="^" line="155" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/navigation.js" timestamp="1518190259136">
         <mark key="[" line="3" column="2" />
@@ -4117,8 +4121,8 @@
       <jump line="92" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPWluc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBuZXdfaW5zdGFncmFtX2FjY291bnQgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChpbnN0YWdyYW1fYWNjb3VudCwgbmV3X2luc3RhZ3JhbV9hY2NvdW50KQoKICAgICAgICAjIFJldHJpZXZlIHNhbWUgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KHNlbGYudXJsKG5ld19pbnN0YWdyYW1fYWNjb3VudFsiaWQiXSkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gbmV3X2luc3RhZ3JhbV9hY2NvdW50</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3NpZ25QdWJsaWNJcCc6ICdFTkFCTEVEJ3wnRElTQUJMRUQnCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4132,32 +4136,32 @@
       <register name="0" type="4">
         <text>: typing.Dict[str, typing.Any]</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPWluc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBuZXdfaW5zdGFncmFtX2FjY291bnQgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChpbnN0YWdyYW1fYWNjb3VudCwgbmV3X2luc3RhZ3JhbV9hY2NvdW50KQoKICAgICAgICAjIFJldHJpZXZlIHNhbWUgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KHNlbGYudXJsKG5ld19pbnN0YWdyYW1fYWNjb3VudFsiaWQiXSkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gbmV3X2luc3RhZ3JhbV9hY2NvdW50</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3NpZ25QdWJsaWNJcCc6ICdFTkFCTEVEJ3wnRElTQUJMRUQnCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RyaW5nJywKICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2F3c3ZwY0NvbmZpZ3VyYXRpb24nOiB7CiAgICAgICAgICAgICAgICAnc3VibmV0cyc6IFsKICAgICAgICAgICAgICAgICAgICAnc3RyaW5nJywKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAnc2VjdXJpdHlHcm91cHMnOiBbCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUKICAgIGRlZiBpbnN0YWdyYW1fYWNjb3VudF9yZXNwb25zZShzZWxmLCBpbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShpbnN0YWdyYW1fYWNjb3VudCkKICAgICAgICByZXN1bHRbInN0YXR1cyJdID0gMQogICAgICAgIHJlc3VsdFsic3RhdHVzX25vdGVzIl0gPSBOb25lCiAgICAgICAgcmV0dXJuIHJlc3VsdAoKICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGFub3RoZXJfaW5zdGFncmFtX2FjY291bnRfcmVzcG9uc2Uoc2VsZiwgYW5vdGhlcl9pbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShhbm90aGVyX2luc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIHJlc3VsdFsic3RhdHVzIl0gPSAxCiAgICAgICAgcmVzdWx0WyJzdGF0dXNfbm90ZXMiXSA9IE5vbmUKICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPWluc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBuZXdfaW5zdGFncmFtX2FjY291bnQgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChpbnN0YWdyYW1fYWNjb3VudCwgbmV3X2luc3RhZ3JhbV9hY2NvdW50KQoKICAgICAgICAjIFJldHJpZXZlIHNhbWUgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KHNlbGYudXJsKG5ld19pbnN0YWdyYW1fYWNjb3VudFsiaWQiXSkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gbmV3X2luc3RhZ3JhbV9hY2NvdW50</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWdyYW1fYWNjb3VudFsic3RhdHVzIl0gPSAxCiAgICAgICAgaW5zdGFncmFtX2FjY291bnRbInN0YXR1c19ub3RlcyJdID0gTm9uZQogICAgICAgIHJldHVybiBpbnN0YWdyYW1fYWNjb3VudAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUKICAgIGRlZiBpbnN0YWdyYW1fYWNjb3VudF9yZXNwb25zZShzZWxmLCBpbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShpbnN0YWdyYW1fYWNjb3VudCkKICAgICAgICByZXN1bHRbInN0YXR1cyJdID0gMQogICAgICAgIHJlc3VsdFsic3RhdHVzX25vdGVzIl0gPSBOb25lCiAgICAgICAgcmV0dXJuIHJlc3VsdAoKICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGFub3RoZXJfaW5zdGFncmFtX2FjY291bnRfcmVzcG9uc2Uoc2VsZiwgYW5vdGhlcl9pbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShhbm90aGVyX2luc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIHJlc3VsdFsic3RhdHVzIl0gPSAxCiAgICAgICAgcmVzdWx0WyJzdGF0dXNfbm90ZXMiXSA9IE5vbmUKICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YWdyYW1fYWNjb3VudFsic3RhdHVzIl0gPSAxCiAgICAgICAgaW5zdGFncmFtX2FjY291bnRbInN0YXR1c19ub3RlcyJdID0gTm9uZQogICAgICAgIHJldHVybiBpbnN0YWdyYW1fYWNjb3VudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pbXVtID0gCiAgICAgICAgbWF4aW11bSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert \([a-z_]\+\) == \([a-z_]\+\)/self.assertInstagramAccountEqual(\1, \2)/g</text>
