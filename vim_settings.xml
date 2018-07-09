@@ -397,9 +397,9 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/service.json" timestamp="1531150358047">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.py" timestamp="1528384608037">
         <mark key="[" line="75" column="23" />
@@ -609,8 +609,10 @@
         <mark key="." line="117" column="30" />
         <mark key="^" line="117" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines-requirements.txt" timestamp="1531152155027">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines-requirements.txt" timestamp="1531154594174">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -995,8 +997,8 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/app.py" timestamp="1530118645085">
-        <mark key="[" line="21" column="95" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/app.py" timestamp="1531153394262">
+        <mark key="[" line="13" column="38" />
         <mark key="]" line="22" column="45" />
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
@@ -2344,12 +2346,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" timestamp="1531152195563">
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" timestamp="1531154122194">
         <mark key="'" line="6" column="30" />
-        <mark key="[" line="26" column="142" />
-        <mark key="]" line="6" column="30" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="30" />
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="41" column="80" />
+        <mark key="^" line="41" column="80" />
+        <mark key="." line="41" column="80" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/README.md" timestamp="1517221227705">
         <mark key="[" line="26" column="97" />
@@ -3963,50 +3965,50 @@
       <jump line="6" column="30" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWRzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWRzIA==</text>
+        <text>${BITBUCKET_COMMIT}</text>
       </register>
       <register name="/" type="4">
         <text>pip install.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihmImRlcGxveW1lbnQve2t3YXJnc1snZW52aXJvbm1lbnQnXX0vdGFza19kZWZpbml0aW9uLmpzb24iKSBhcyBmOgogICAgICAgIHRhc2tfZGVmaW5pdGlvbl9lbnYgPSBqc29uLmxvYWQoZikKICAgIHRhc2tfZGVmaW5pdGlvbl9wYXJhbXMgPSBqc29uLmxvYWRzKGoyX2Vudi5nZXRfdGVtcGxhdGUoInRhc2tfZGVmaW5pdGlvbi5qc29uLmoyIikucmVuZGVyKHRhc2tfZGVmaW5pdGlvbl9lbnYpKQogICAgdGFza19kZWZpbml0aW9uID0gYm90bzMuY2xpZW50KCJlY3MiKS5yZWdpc3Rlcl90YXNrX2RlZmluaXRpb24oKip0YXNrX2RlZmluaXRpb25fcGFyYW1zKQogICAgbG9nZ2VyLmluZm8oIlRhc2sgZGVmaW5pdGlvbiBjcmVhdGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gcHl0aG9uIG1ha2UgLS1pbWFnZSAke0FXU19SRUdJU1RSWV9VUkx9L3doYWxhci9hbnp1IC0tdGFnICR7QklUQlVDS0VUX0NPTU1JVH0gcHVzaAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBleHRyYV90YWcgaW4ga3dhcmdzWyJleHRyYV90YWciXToK</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAicHJvY2Vzc2VzIjogMSwK</text>
+        <text encoding="base64">ICAgIGZvciBleHRyYV90YWcgaW4ga3dhcmdzWyJleHRyYV90YWciXToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
+        <text encoding="base64">ICAicHJvY2Vzc2VzIjogMSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyBjbHVzdGVyIH19IiwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyBjbHVzdGVyIH19IiwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyB0YXNrX2RlZmluaXRpb24gfX0iLAo=</text>
+        <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAibGF1bmNoVHlwZSI6ICJFQzIiLAo=</text>
+        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyB0YXNrX2RlZmluaXRpb24gfX0iLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAic2NoZWR1bGluZ1N0cmF0ZWd5IjogIlJFUExJQ0EiCg==</text>
+        <text encoding="base64">ICAibGF1bmNoVHlwZSI6ICJFQzIiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/pip install.*/pip install -r bitbucket-pipelines-requirements.txt/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4057,11 +4059,11 @@
         <entry encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</entry>
         <entry>%s/assert instagram_account == \(.*\)/assert instagram_account_response == \1/g</entry>
         <entry>%s/assert another_instagram_account == \(.*\)/assert another_instagram_account_response == \1/g</entry>
-        <entry>w</entry>
         <entry>%s/account_response/account/g</entry>
         <entry>%s/assert \([a-z_]\+\) == \([a-z_]\+\)/self.assertInstagramAccountEqual(\1, \2)/g</entry>
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</entry>
         <entry>%s/pip install.*/pip install -r bitbucket-pipelines-requirements.txt/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
