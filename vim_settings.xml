@@ -417,10 +417,10 @@
         <mark key="^" line="9" column="118" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/service.json" timestamp="1531142036619">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/service.json" timestamp="1531150358047">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.py" timestamp="1528384608037">
         <mark key="[" line="75" column="23" />
@@ -1033,6 +1033,11 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/service_create.json.j2" timestamp="1531149177773">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1517223119863">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="38" />
@@ -1229,6 +1234,12 @@
         <mark key="]" line="1" column="10" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/service_update.json.j2" timestamp="1531148745339">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/perdy-site/client/src/js/apollo-client.js" timestamp="1517264651641">
         <mark key="[" line="5" column="18" />
@@ -2582,6 +2593,9 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/task_definition.json.j2" timestamp="1531150116600">
+        <mark key="[" line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1518198917353">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="5" />
@@ -3453,11 +3467,10 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531147314814">
-        <mark key="[" line="134" column="38" />
-        <mark key="]" line="134" column="38" />
-        <mark key="." line="134" column="38" />
-        <mark key="^" line="131" column="6" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531149866715">
+        <mark key="[" line="133" column="46" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/navigation.js" timestamp="1518190259136">
         <mark key="[" line="3" column="2" />
@@ -3886,8 +3899,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/task_definition.json" timestamp="1531141588754">
-        <mark key="[" line="1" column="18" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/task_definition.json" timestamp="1531149971343">
+        <mark key="[" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Gulpfile.babel.js" timestamp="1497824028736">
         <mark key="[" line="0" column="0" />
@@ -4149,14 +4162,14 @@
       <jump line="145" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>register_task_definition</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAicHJvY2Vzc2VzIjogMSwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>register_task_definition</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>\(\w\+\)=</text>
@@ -4165,31 +4178,31 @@
         <text encoding="base64">ICAgIHdpdGggb3BlbihmImRlcGxveW1lbnQve2t3YXJnc1snZW52aXJvbm1lbnQnXX0vdGFza19kZWZpbml0aW9uLmpzb24iKSBhcyBmOgogICAgICAgIHRhc2tfZGVmaW5pdGlvbl9lbnYgPSBqc29uLmxvYWQoZikKICAgIHRhc2tfZGVmaW5pdGlvbl9wYXJhbXMgPSBqc29uLmxvYWRzKGoyX2Vudi5nZXRfdGVtcGxhdGUoInRhc2tfZGVmaW5pdGlvbi5qc29uLmoyIikucmVuZGVyKHRhc2tfZGVmaW5pdGlvbl9lbnYpKQogICAgdGFza19kZWZpbml0aW9uID0gYm90bzMuY2xpZW50KCJlY3MiKS5yZWdpc3Rlcl90YXNrX2RlZmluaXRpb24oKip0YXNrX2RlZmluaXRpb25fcGFyYW1zKQogICAgbG9nZ2VyLmluZm8oIlRhc2sgZGVmaW5pdGlvbiBjcmVhdGVkIHN1Y2Nlc3NmdWxseSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImxvYWRCYWxhbmNlck5hbWUiOiAiIiwK</text>
+        <text encoding="base64">ICAicHJvY2Vzc2VzIjogMSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICBdCg==</text>
+        <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAibG9hZEJhbGFuY2VycyI6IFsKICAgIHsKCg==</text>
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAidGFza0RlZmluaXRpb24iOiB7fSwK</text>
+        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyBjbHVzdGVyIH19IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uKSkKCg==</text>
+        <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uX3BhcmFtcykpCg==</text>
+        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyB0YXNrX2RlZmluaXRpb24gfX0iLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAibGF1bmNoVHlwZSI6ICJFQzIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IAo=</text>
+        <text encoding="base64">ICAic2NoZWR1bGluZ1N0cmF0ZWd5IjogIlJFUExJQ0EiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA9IGJvdG8zLmNsaWVudCgiZWNzIikK</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</text>
