@@ -116,6 +116,14 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" timestamp="1531138096804">
+        <mark key="'" line="28" column="0" />
+        <mark key="k" line="22" column="0" />
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="11" />
@@ -4019,7 +4027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="10" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="31" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
       <jump line="35" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
       <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
@@ -4119,66 +4126,66 @@
       <jump line="49" column="11" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="0" column="10" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="92" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3NpZ25QdWJsaWNJcCc6ICdFTkFCTEVEJ3wnRElTQUJMRUQnCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICJjcHUiOiAic3RyaW5nIiwKICAgICJtZW1vcnkiOiAic3RyaW5nIiwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, instagram_account</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>assert \([a-z_]\+\) == \([a-z_]\+\)</text>
+        <text>\(\w\+\)=</text>
       </register>
       <register name="0" type="4">
         <text>: typing.Dict[str, typing.Any]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhc3NpZ25QdWJsaWNJcCc6ICdFTkFCTEVEJ3wnRElTQUJMRUQnCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICJjcHUiOiAic3RyaW5nIiwKICAgICJtZW1vcnkiOiAic3RyaW5nIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RyaW5nJywKICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICJwbGFjZW1lbnRDb25zdHJhaW50cyI6IFt7InR5cGUiOiAibWVtYmVyT2YiLCAiZXhwcmVzc2lvbiI6ICJzdHJpbmcifV0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2F3c3ZwY0NvbmZpZ3VyYXRpb24nOiB7CiAgICAgICAgICAgICAgICAnc3VibmV0cyc6IFsKICAgICAgICAgICAgICAgICAgICAnc3RyaW5nJywKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAnc2VjdXJpdHlHcm91cHMnOiBbCg==</text>
+        <text encoding="base64">ICAgICJ2b2x1bWVzIjogW3sibmFtZSI6ICJzdHJpbmciLCAiaG9zdCI6IHsic291cmNlUGF0aCI6ICJzdHJpbmcifX1dLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPWluc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXNfY29kZSA9PSAyMDEKICAgICAgICBuZXdfaW5zdGFncmFtX2FjY291bnQgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChpbnN0YWdyYW1fYWNjb3VudCwgbmV3X2luc3RhZ3JhbV9hY2NvdW50KQoKICAgICAgICAjIFJldHJpZXZlIHNhbWUgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQuZ2V0KHNlbGYudXJsKG5ld19pbnN0YWdyYW1fYWNjb3VudFsiaWQiXSkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gbmV3X2luc3RhZ3JhbV9hY2NvdW50</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImVudHJ5UG9pbnQiOiBbInN0cmluZyJdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1vdW50UG9pbnRzIjogW3sic291cmNlVm9sdW1lIjogInN0cmluZyIsICJjb250YWluZXJQYXRoIjogInN0cmluZyIsICJyZWFkT25seSI6IFRydWUgfCBGYWxzZX1dLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInZvbHVtZXNGcm9tIjogW3sic291cmNlQ29udGFpbmVyIjogInN0cmluZyIsICJyZWFkT25seSI6IFRydWUgfCBGYWxzZX1dLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBAcHl0ZXN0LmZpeHR1cmUKICAgIGRlZiBpbnN0YWdyYW1fYWNjb3VudF9yZXNwb25zZShzZWxmLCBpbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShpbnN0YWdyYW1fYWNjb3VudCkKICAgICAgICByZXN1bHRbInN0YXR1cyJdID0gMQogICAgICAgIHJlc3VsdFsic3RhdHVzX25vdGVzIl0gPSBOb25lCiAgICAgICAgcmV0dXJuIHJlc3VsdAoKICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGFub3RoZXJfaW5zdGFncmFtX2FjY291bnRfcmVzcG9uc2Uoc2VsZiwgYW5vdGhlcl9pbnN0YWdyYW1fYWNjb3VudCk6CiAgICAgICAgcmVzdWx0ID0gY29weS5kZWVwY29weShhbm90aGVyX2luc3RhZ3JhbV9hY2NvdW50KQogICAgICAgIHJlc3VsdFsic3RhdHVzIl0gPSAxCiAgICAgICAgcmVzdWx0WyJzdGF0dXNfbm90ZXMiXSA9IE5vbmUKICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVzZXIiOiAic3RyaW5nIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YWdyYW1fYWNjb3VudFsic3RhdHVzIl0gPSAxCiAgICAgICAgaW5zdGFncmFtX2FjY291bnRbInN0YXR1c19ub3RlcyJdID0gTm9uZQogICAgICAgIHJldHVybiBpbnN0YWdyYW1fYWNjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0bXBmcyI6IFt7ImNvbnRhaW5lclBhdGgiOiAic3RyaW5nIiwgInNpemUiOiAxMjMsICJtb3VudE9wdGlvbnMiOiBbInN0cmluZyJdfV0sCiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyI6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJpbml0UHJvY2Vzc0VuYWJsZWQiOiBUcnVlIHwgRmFsc2UsCiAgICAgICAgICAgICAgICAic2hhcmVkTWVtb3J5U2l6ZSI6IDEyMywK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/assert \([a-z_]\+\) == \([a-z_]\+\)/self.assertInstagramAccountEqual(\1, \2)/g</text>
+        <text encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>assert \([a-z_]\+\) == \([a-z_]\+\)</last-search>
+      <last-search>\(\w\+\)=</last-search>
       <last-offset />
-      <last-pattern>assert \([a-z_]\+\) == \([a-z_]\+\)</last-pattern>
-      <last-replace>self.assertInstagramAccountEqual(\1, \2)</last-replace>
-      <last-substitute>assert \([a-z_]\+\) == \([a-z_]\+\)</last-substitute>
+      <last-pattern>\(\w\+\)=</last-pattern>
+      <last-replace encoding="base64">IlwxIjog</last-replace>
+      <last-substitute>\(\w\+\)=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>client, url</entry>
         <entry>url</entry>
         <entry>log_color</entry>
         <entry>python make</entry>
@@ -4198,9 +4205,9 @@
         <entry>assert another_instagram_account == \(.*\)</entry>
         <entry>account_response</entry>
         <entry>assert \([a-z_]\+\) == \([a-z_]\+\)</entry>
+        <entry>\(\w\+\)=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywgY29tcG9zZT1GYWxzZS8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvUE9SVC9nZw==</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvUE9SVC9n</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvREIvZw==</entry>
@@ -4220,6 +4227,7 @@
         <entry>w</entry>
         <entry>%s/account_response/account/g</entry>
         <entry>%s/assert \([a-z_]\+\) == \([a-z_]\+\)/self.assertInstagramAccountEqual(\1, \2)/g</entry>
+        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
