@@ -116,13 +116,13 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" timestamp="1531138096804">
-        <mark key="'" line="28" column="0" />
-        <mark key="k" line="22" column="0" />
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" timestamp="1531138965510">
+        <mark key="'" line="27" column="0" />
+        <mark key="k" line="21" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
@@ -250,6 +250,12 @@
         <mark key="]" line="36" column="13" />
         <mark key="^" line="36" column="13" />
         <mark key="." line="36" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/service.json.j2" timestamp="1531142059231">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/Dockerfile" timestamp="1497639108176">
         <mark key="[" line="14" column="12" />
@@ -410,6 +416,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="118" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/service.json" timestamp="1531142036619">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.py" timestamp="1528384608037">
         <mark key="[" line="75" column="23" />
@@ -1105,6 +1116,12 @@
         <mark key="]" line="141" column="52" />
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json.j2" timestamp="1531140582284">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+        <mark key="." line="11" column="52" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/github/User.vue" timestamp="1498579416631">
         <mark key="[" line="7" column="19" />
@@ -1857,10 +1874,10 @@
         <mark key="^" line="149" column="40" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/setup.cfg" timestamp="1530714217875">
-        <mark key="[" line="72" column="22" />
-        <mark key="]" line="72" column="22" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/setup.cfg" timestamp="1531140091087">
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="74" column="22" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/serializers/auth.py" timestamp="1505159913366">
         <mark key="[" line="33" column="18" />
@@ -2757,6 +2774,12 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/development/task_definition.json" timestamp="1531140606244">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/audit/views/api/base.py" timestamp="1453241076350">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="45" />
@@ -2980,12 +3003,6 @@
         <mark key="]" line="23" column="74" />
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1530639836523">
-        <mark key="'" line="57" column="54" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -3436,11 +3453,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531135711153">
-        <mark key="[" line="110" column="27" />
-        <mark key="]" line="155" column="11" />
-        <mark key="." line="155" column="11" />
-        <mark key="^" line="155" column="11" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531141836677">
+        <mark key="[" line="126" column="92" />
+        <mark key="]" line="122" column="31" />
+        <mark key="." line="122" column="31" />
+        <mark key="^" line="122" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/navigation.js" timestamp="1518190259136">
         <mark key="[" line="3" column="2" />
@@ -3869,6 +3886,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/task_definition.json" timestamp="1531141588754">
+        <mark key="[" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Gulpfile.babel.js" timestamp="1497824028736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="45" />
@@ -4129,14 +4149,14 @@
       <jump line="145" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJjcHUiOiAic3RyaW5nIiwKICAgICJtZW1vcnkiOiAic3RyaW5nIiwK</text>
+      <register name="&quot;" type="4">
+        <text>arn:aws:ecs:eu-west-1:773676435453:cluster/development</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>arn:aws:ecs:eu-west-1:773676435453:cluster/development</text>
       </register>
       <register name="/" type="4">
         <text>\(\w\+\)=</text>
@@ -4145,31 +4165,31 @@
         <text>: typing.Dict[str, typing.Any]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJjcHUiOiAic3RyaW5nIiwKICAgICJtZW1vcnkiOiAic3RyaW5nIiwK</text>
+        <text encoding="base64">ICAgIH0KICBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwbGFjZW1lbnRDb25zdHJhaW50cyI6IFt7InR5cGUiOiAibWVtYmVyT2YiLCAiZXhwcmVzc2lvbiI6ICJzdHJpbmcifV0sCg==</text>
+        <text encoding="base64">ICAibG9hZEJhbGFuY2VycyI6IFsKICAgIHsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ2b2x1bWVzIjogW3sibmFtZSI6ICJzdHJpbmciLCAiaG9zdCI6IHsic291cmNlUGF0aCI6ICJzdHJpbmcifX1dLAo=</text>
+        <text encoding="base64">ICAidGFza0RlZmluaXRpb24iOiB7fSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImVudHJ5UG9pbnQiOiBbInN0cmluZyJdLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1vdW50UG9pbnRzIjogW3sic291cmNlVm9sdW1lIjogInN0cmluZyIsICJjb250YWluZXJQYXRoIjogInN0cmluZyIsICJyZWFkT25seSI6IFRydWUgfCBGYWxzZX1dLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHBwcmludC5wcHJpbnQodGFza19kZWZpbml0aW9uX3BhcmFtcykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInZvbHVtZXNGcm9tIjogW3sic291cmNlQ29udGFpbmVyIjogInN0cmluZyIsICJyZWFkT25seSI6IFRydWUgfCBGYWxzZX1dLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVzZXIiOiAic3RyaW5nIiwK</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0bXBmcyI6IFt7ImNvbnRhaW5lclBhdGgiOiAic3RyaW5nIiwgInNpemUiOiAxMjMsICJtb3VudE9wdGlvbnMiOiBbInN0cmluZyJdfV0sCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGJvdG8zLmNsaWVudCgiZWNzIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJpbml0UHJvY2Vzc0VuYWJsZWQiOiBUcnVlIHwgRmFsc2UsCiAgICAgICAgICAgICAgICAic2hhcmVkTWVtb3J5U2l6ZSI6IDEyMywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</text>
