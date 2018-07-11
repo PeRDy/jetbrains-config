@@ -2042,11 +2042,11 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/__main__.py" timestamp="1530721278394">
-        <mark key="[" line="63" column="18" />
-        <mark key="]" line="64" column="13" />
-        <mark key="^" line="64" column="13" />
-        <mark key="." line="64" column="13" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/__main__.py" timestamp="1531317785879">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="12" />
+        <mark key="." line="93" column="12" />
+        <mark key="^" line="82" column="46" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/pipelines/resolve_geolocation.py" timestamp="1522104037495">
         <mark key="[" line="29" column="35" />
@@ -2475,6 +2475,10 @@
         <mark key="]" line="12" column="9" />
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/anzu-py3.6/lib/python3.6/site-packages/clinner/run/main.py" timestamp="1531317268641">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/setup.py" timestamp="1453065841303">
         <mark key="[" line="78" column="45" />
@@ -3966,46 +3970,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLmFkZF9hcmd1bWVudHMocGFyc2VyKQoK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>${BITBUCKET_COMMIT}</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>pip install.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gcHl0aG9uIG1ha2UgLS1pbWFnZSAke0FXU19SRUdJU1RSWV9VUkx9L3doYWxhci9hbnp1IC0tdGFnICR7QklUQlVDS0VUX0NPTU1JVH0gcHVzaAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICAgICAiLXMiLCAiLS1zZXR0aW5ncyIsIGhlbHA9J01vZHVsZSBvciBvYmplY3Qgd2l0aCBDbGlubmVyIHNldHRpbmdzIGluIGZvcm1hdCAicGFja2FnZS5tb2R1bGVbOk9iamVjdF0iJwogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLmFkZF9hcmd1bWVudHMocGFyc2VyKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBleHRyYV90YWcgaW4ga3dhcmdzWyJleHRyYV90YWciXToK</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfYXJndW1lbnRzKHNlbGYpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicHJvY2Vzc2VzIjogMSwK</text>
+        <text encoding="base64">ZG9ja2VyLWNvbXBvc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
+        <text encoding="base64">ICAgIGZvciBleHRyYV90YWcgaW4ga3dhcmdzWyJleHRyYV90YWciXToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAicHJvY2Vzc2VzIjogMSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyBjbHVzdGVyIH19IiwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyB0YXNrX2RlZmluaXRpb24gfX0iLAo=</text>
+        <text encoding="base64">ICAiY2xpZW50VG9rZW4iOiAie3sgc2VydmljZSB9fS17eyBjbHVzdGVyIH19IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAibGF1bmNoVHlwZSI6ICJFQzIiLAo=</text>
+        <text encoding="base64">ICAiY29udGFpbmVyX25hbWUiOiAiQW56dS1kZXZlbG9wbWVudCIsCiAgImNvbnRhaW5lcl9wb3J0IjogODAwMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
