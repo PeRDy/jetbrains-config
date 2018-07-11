@@ -2504,8 +2504,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/task_definition.json.j2" timestamp="1531150116600">
-        <mark key="[" line="1" column="30" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/templates/task_definition.json.j2" timestamp="1531322422984">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="14" column="54" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1518198917353">
         <mark key="[" line="20" column="6" />
@@ -3335,11 +3338,10 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531152307078">
-        <mark key="[" line="60" column="10" />
-        <mark key="]" line="63" column="8" />
-        <mark key="." line="63" column="8" />
-        <mark key="^" line="62" column="26" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/make" timestamp="1531321923872">
+        <mark key="[" line="140" column="8" />
+        <mark key="]" line="140" column="8" />
+        <mark key="." line="140" column="8" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/store/navigation.js" timestamp="1518190259136">
         <mark key="[" line="3" column="2" />
@@ -3719,9 +3721,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deployment/development/task_definition.json" timestamp="1531149971343">
-        <mark key="[" line="1" column="22" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Gulpfile.babel.js" timestamp="1497824028736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="45" />
@@ -3975,47 +3974,47 @@
       <jump line="6" column="30" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+      <register name="&quot;" type="4">
+        <text>}773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/anzu:{{ environment }}</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>}773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/anzu:{{ environment }}</text>
       </register>
       <register name="/" type="4">
         <text>pip install.*</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSBWQVVMVF9TRUNSRVRfSUQ9JHtWQVVMVF9TRUNSRVRfSUR9Cg==</text>
+      <register name="0" type="4">
+        <text>{% if not loop.last %},{% endif %}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0YXNrX2RlZmluaXRpb25fcGFyYW1zKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwcmludC5wcHJpbnQob3MuZW52aXJvbikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqMl9lbnYuZ2V0X3RlbXBsYXRlKCJ0YXNrX2RlZmluaXRpb24uanNvbi5qMiIpLnJlbmRlcih0YXNrX2RlZmluaXRpb25fZW52KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgoKICAgICAgICAgICAgcHJpbnQoY2xpZW50LnJlYWQoJ2ZvbycpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwcmludC5wcHJpbnQob3MuZW52aXJvbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEltcHJvcGVybHlDb25maWd1cmVkKCJWYXVsdCBlbXB0eSByZXNwb25zZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgoKICAgICAgICAgICAgcHJpbnQoY2xpZW50LnJlYWQoJ2ZvbycpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrLCB2IGluIHNlY3JldHNbJ2RhdGEnXS5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEltcHJvcGVybHlDb25maWd1cmVkKCJWYXVsdCBlbXB0eSByZXNwb25zZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrLCB2IGluIHNlY3JldHNbJ2RhdGEnXS5pdGVtcygpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
