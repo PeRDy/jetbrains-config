@@ -907,6 +907,11 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="6" column="61" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/deployment/production/service.json" timestamp="1531391324745">
+        <mark key="[" line="1" column="57" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="1" column="57" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/flights.avsc" timestamp="1511878438288">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="30" column="20" />
@@ -1210,11 +1215,12 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" timestamp="1531389859379">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="30" column="40" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" timestamp="1531392415937">
+        <mark key="'" line="19" column="31" />
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="59" />
+        <mark key="^" line="39" column="59" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/pyproject.toml" timestamp="1528716503420">
         <mark key="[" line="8" column="24" />
@@ -3483,6 +3489,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/deployment/templates/task_definition.json.j2" timestamp="1531391819387">
+        <mark key="[" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/README.md" timestamp="1518467006198">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="6" column="29" />
@@ -3843,6 +3852,11 @@
         <mark key="^" line="60" column="44" />
         <mark key="." line="60" column="44" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/deployment/production/task_definition.json" timestamp="1531391332510">
+        <mark key="[" line="11" column="69" />
+        <mark key="]" line="11" column="69" />
+        <mark key="." line="11" column="69" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/models/instagram_account.py" timestamp="1530715144761">
         <mark key="[" line="30" column="28" />
         <mark key="]" line="30" column="27" />
@@ -3899,7 +3913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
       <jump line="2" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="54" column="45" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
@@ -3999,22 +4012,23 @@
       <jump line="92" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="145" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" />
       <jump line="6" column="30" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" />
+      <jump line="19" column="31" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bWFrZSA=</text>
+        <text>${AWS_REGISTRY_URL}/whalar/anzu</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFrZSA=</text>
+        <text>development</text>
       </register>
       <register name="/" type="4">
-        <text>pip install.*</text>
+        <text>--image=anzu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIGJ1aWxkZXIgLS1pbWFnZT1hbnp1IGJ1aWxkCg==</text>
+      <register name="0" type="4">
+        <text>${AWS_REGISTRY_URL}/whalar/anzu</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAtIGJ1aWxkZXIgYnVpbGQK</text>
@@ -4044,21 +4058,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIGJ1aWxkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s#--image=anzu#--image=whalar/anzu#g</text>
       </register>
     </registers>
     <search>
-      <last-search>pip install.*</last-search>
+      <last-search>--image=anzu</last-search>
       <last-offset />
-      <last-pattern>pip install.*</last-pattern>
-      <last-replace>pip install -r bitbucket-pipelines-requirements.txt</last-replace>
-      <last-substitute>pip install.*</last-substitute>
+      <last-pattern>--image=anzu</last-pattern>
+      <last-replace>--image=whalar/anzu</last-replace>
+      <last-substitute>--image=anzu</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log_color</entry>
         <entry>python make</entry>
         <entry>, compose=False</entry>
         <entry>HOST</entry>
@@ -4078,9 +4091,9 @@
         <entry>assert \([a-z_]\+\) == \([a-z_]\+\)</entry>
         <entry>\(\w\+\)=</entry>
         <entry>pip install.*</entry>
+        <entry>--image=anzu</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0hPU1QvUE9SVC9n</entry>
         <entry encoding="base64">JzwsJz5zL0hPU1QvREIvZw==</entry>
         <entry>%s/namespace[\(.*\)] = \(.*\)/return {\1: \2}</entry>
         <entry>%s/namespace\[\(.*\)\] = \(.*\)/return {\1: \2}</entry>
@@ -4100,6 +4113,7 @@
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</entry>
         <entry>%s/pip install.*/pip install -r bitbucket-pipelines-requirements.txt/g</entry>
         <entry>w</entry>
+        <entry>%s#--image=anzu#--image=whalar/anzu#g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
