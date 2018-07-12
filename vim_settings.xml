@@ -1210,6 +1210,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" timestamp="1531389005489">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/pyproject.toml" timestamp="1528716503420">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
@@ -1262,6 +1267,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="30" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/pyproject.toml" timestamp="1531387616932">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/{{cookiecutter.project_slug}}/make" timestamp="1515153418417">
         <mark key="[" line="0" column="22" />
@@ -2302,6 +2312,11 @@
         <mark key="]" line="15" column="78" />
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/make" timestamp="1531387607990">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1513636084356">
         <mark key="[" line="10" column="81" />
@@ -3986,46 +4001,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lOiAkQVdTX1JFR0lTVFJZX1VSTC93aGFsYXIvYnVpbGRlcjpsYXRlc3QK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>${AWS_REGISTRY_URL}/whalar/anzu:development</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>pip install.*</text>
       </register>
-      <register name="0" type="4">
-        <text>${AWS_REGISTRY_URL}/whalar/builder:development</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBuYW1lOiA3NzM2NzY0MzU0NTMuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS93aGFsYXIvYnVpbGRlcjpsYXRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lOiAkQVdTX1JFR0lTVFJZX1VSTC93aGFsYXIvYnVpbGRlcjpsYXRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gcGFyYWxsZWw6CiAgICAgICAgLSBzdGVwOgogICAgICAgICAgICBuYW1lOiBMaW50CiAgICAgICAgICAgIHNjcmlwdDoKICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAogICAgICAgICAgICAgIC0gcHl0aG9uIG1ha2UgYnVpbGQKICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIGxpbnQKICAgICAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAgICAgLSBkb2NrZXIKICAgICAgICAgICAgY2FjaGVzOgogICAgICAgICAgICAgIC0gZG9ja2VyCiAgICAgICAgLSBzdGVwOgogICAgICAgICAgICBuYW1lOiBVbml0IFRlc3QKICAgICAgICAgICAgc2NyaXB0OgogICAgICAgICAgICAgIC0gZXhwb3J0IERBVEFCQVNFX0hPU1Q9cG9zdGdyZXNxbCBEQVRBQkFTRV9QT1JUPTU0MzIgREFUQUJBU0VfTkFNRT1sb2NhbGRiIERBVEFCQVNFX1VTRVI9bG9jYWx1c2VyIERBVEFCQVNFX1BBU1NXT1JEPWxvY2FscGFzc3dkIFJFRElTX0hPU1Q9cmVkaXMgUkVESVNfUE9SVD02Mzc5IFJFRElTX0RCPTAKICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIGRvY2tlci1jb21wb3NlIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAogICAgICAgICAgICAgIC0gcHl0aG9uIG1ha2UgYnVpbGQKICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIHRlc3QKICAgICAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAgICAgLSBkb2NrZXIKICAgICAgICAgICAgY2FjaGVzOgogICAgICAgICAgICAgIC0gZG9ja2VyCiAgICAtIHN0ZXA6CiAgICAgICAgbmFtZTogUHVzaCBkZXZlbG9wbWVudCBpbWFnZQogICAgICAgIHNjcmlwdDoKICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0CiAgICAgICAgICAtIHB5dGhvbiBtYWtlIC0taW1hZ2UgJHtBV1NfUkVHSVNUUllfVVJMfS93aGFsYXIvYW56dSAtLXRhZyAke0JJVEJVQ0tFVF9DT01NSVR9IGJ1aWxkIC0tZXh0cmEtdGFnPQogICAgICAgICAgLSBweXRob24gbWFrZSAtLWltYWdlICR7QVdTX1JFR0lTVFJZX1VSTH0vd2hhbGFyL2FuenUgLS10YWcgJHtCSVRCVUNLRVRfQ09NTUlUfSBwdXNoCiAgICAgICAgICAtIHB5dGhvbiBtYWtlIC0taW1hZ2UgJHtBV1NfUkVHSVNUUllfVVJMfS93aGFsYXIvYW56dSAtLXRhZyBkZXZlbG9wbWVudCBwdXNoCiAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAtIGRvY2tlcgogICAgICAgIGNhY2hlczoKICAgICAgICAgIC0gZG9ja2VyCiAgICAtIHN0ZXA6CiAgICAgICAgbmFtZTogRGVwbG95IHRvIERldmVsb3BtZW50CiAgICAgICAgc2NyaXB0OgogICAgICAgICAgLSBwaXAgaW5zdGFsbCAtciBiaXRidWNrZXQtcGlwZWxpbmVzLXJlcXVpcmVtZW50cy50eHQKICAgICAgICAgIC0gcHl0aG9uIG1ha2UgZWNzX2RlcGxveSBkZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gZXZhbCAkKGF3cyBlY3IgZ2V0LWxvZ2luIC0tcmVnaW9uICR7QVdTX0RFRkFVTFRfUkVHSU9OfSAtLW5vLWluY2x1ZGUtZW1haWwpCg==</text>
+        <text encoding="base64">ICBuYW1lOiAke0FXU19SRUdJU1RSWV9VUkx9L3doYWxhci9idWlsZGVyOmxhdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gcHl0aG9uIG1ha2UgYnVpbGQK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvZXRyeSBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIGRvY2tlci1jb21wb3NlIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC92YXIvdG1wLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIGJ1aWxkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSAkQlVJTERfUEFDS0FHRVMgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
