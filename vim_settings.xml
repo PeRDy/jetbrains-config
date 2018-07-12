@@ -1210,10 +1210,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" timestamp="1531389005489">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" timestamp="1531389859379">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/pyproject.toml" timestamp="1528716503420">
         <mark key="[" line="8" column="24" />
@@ -4000,47 +4001,47 @@
       <jump line="6" column="30" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBuYW1lOiAkQVdTX1JFR0lTVFJZX1VSTC93aGFsYXIvYnVpbGRlcjpsYXRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWFrZSA=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">bWFrZSA=</text>
       </register>
       <register name="/" type="4">
         <text>pip install.*</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBuYW1lOiA3NzM2NzY0MzU0NTMuZGtyLmVjci5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS93aGFsYXIvYnVpbGRlcjpsYXRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIGJ1aWxkZXIgLS1pbWFnZT1hbnp1IGJ1aWxkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuYW1lOiAkQVdTX1JFR0lTVFJZX1VSTC93aGFsYXIvYnVpbGRlcjpsYXRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIGJ1aWxkZXIgYnVpbGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIGJ1aWxkZXIgYnVpbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lOiAke0FXU19SRUdJU1RSWV9VUkx9L3doYWxhci9idWlsZGVyOmxhdGVzdAo=</text>
+        <text encoding="base64">ICBuYW1lOiAkQVdTX1JFR0lTVFJZX1VSTC93aGFsYXIvYnVpbGRlcjpsYXRlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
+        <text encoding="base64">ICBuYW1lOiAke0FXU19SRUdJU1RSWV9VUkx9L3doYWxhci9idWlsZGVyOmxhdGVzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIGRvY2tlci1jb21wb3NlIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIGJ1aWxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIGRvY2tlci1jb21wb3NlIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIGJ1aWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
