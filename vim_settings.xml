@@ -43,12 +43,8 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1530720639572">
+      <file name="/a.dummy" timestamp="1531385889451">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" timestamp="1530798853159">
-        <mark key="'" line="91" column="8" />
-        <mark key="^" line="33" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
@@ -108,14 +104,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json" timestamp="1531138965510">
-        <mark key="'" line="27" column="0" />
-        <mark key="k" line="21" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
@@ -1074,6 +1062,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/python/build.py" timestamp="1531385674360">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources/ether_status.rst" timestamp="1517223006149">
         <mark key="[" line="61" column="10" />
         <mark key="]" line="62" column="10" />
@@ -1698,6 +1691,12 @@
         <mark key="]" line="98" column="48" />
         <mark key="^" line="98" column="48" />
         <mark key="." line="98" column="48" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/base/Dockerfile" timestamp="1531386153196">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/core/tasks.py" timestamp="1509445354828">
         <mark key="[" line="23" column="8" />
@@ -2761,6 +2760,9 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/README.md" timestamp="1531386910125">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/apistar_crud/sqlalchemy.py" timestamp="1528382670718">
         <mark key="[" line="84" column="15" />
         <mark key="]" line="84" column="17" />
@@ -3397,6 +3399,9 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="42" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/requirements.txt" timestamp="1531387132783">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
@@ -3721,6 +3726,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/bitbucket-pipelines.yml" timestamp="1531387185886">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Gulpfile.babel.js" timestamp="1497824028736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="45" />
@@ -3974,47 +3985,47 @@
       <jump line="6" column="30" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/anzu:{{ environment }}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>}773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/anzu:{{ environment }}</text>
+        <text>${AWS_REGISTRY_URL}/whalar/anzu:development</text>
       </register>
       <register name="/" type="4">
         <text>pip install.*</text>
       </register>
       <register name="0" type="4">
-        <text>{% if not loop.last %},{% endif %}</text>
+        <text>${AWS_REGISTRY_URL}/whalar/builder:development</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0YXNrX2RlZmluaXRpb25fcGFyYW1zKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChqMl9lbnYuZ2V0X3RlbXBsYXRlKCJ0YXNrX2RlZmluaXRpb24uanNvbi5qMiIpLnJlbmRlcih0YXNrX2RlZmluaXRpb25fZW52KSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBwcmludC5wcHJpbnQob3MuZW52aXJvbikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gcGFyYWxsZWw6CiAgICAgICAgLSBzdGVwOgogICAgICAgICAgICBuYW1lOiBMaW50CiAgICAgICAgICAgIHNjcmlwdDoKICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAogICAgICAgICAgICAgIC0gcHl0aG9uIG1ha2UgYnVpbGQKICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIGxpbnQKICAgICAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAgICAgLSBkb2NrZXIKICAgICAgICAgICAgY2FjaGVzOgogICAgICAgICAgICAgIC0gZG9ja2VyCiAgICAgICAgLSBzdGVwOgogICAgICAgICAgICBuYW1lOiBVbml0IFRlc3QKICAgICAgICAgICAgc2NyaXB0OgogICAgICAgICAgICAgIC0gZXhwb3J0IERBVEFCQVNFX0hPU1Q9cG9zdGdyZXNxbCBEQVRBQkFTRV9QT1JUPTU0MzIgREFUQUJBU0VfTkFNRT1sb2NhbGRiIERBVEFCQVNFX1VTRVI9bG9jYWx1c2VyIERBVEFCQVNFX1BBU1NXT1JEPWxvY2FscGFzc3dkIFJFRElTX0hPU1Q9cmVkaXMgUkVESVNfUE9SVD02Mzc5IFJFRElTX0RCPTAKICAgICAgICAgICAgICAtIHBpcCBpbnN0YWxsIGRvY2tlci1jb21wb3NlIC1yIGJpdGJ1Y2tldC1waXBlbGluZXMtcmVxdWlyZW1lbnRzLnR4dAogICAgICAgICAgICAgIC0gcHl0aG9uIG1ha2UgYnVpbGQKICAgICAgICAgICAgICAtIHB5dGhvbiBtYWtlIHRlc3QKICAgICAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAgICAgLSBkb2NrZXIKICAgICAgICAgICAgY2FjaGVzOgogICAgICAgICAgICAgIC0gZG9ja2VyCiAgICAtIHN0ZXA6CiAgICAgICAgbmFtZTogUHVzaCBkZXZlbG9wbWVudCBpbWFnZQogICAgICAgIHNjcmlwdDoKICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0CiAgICAgICAgICAtIHB5dGhvbiBtYWtlIC0taW1hZ2UgJHtBV1NfUkVHSVNUUllfVVJMfS93aGFsYXIvYW56dSAtLXRhZyAke0JJVEJVQ0tFVF9DT01NSVR9IGJ1aWxkIC0tZXh0cmEtdGFnPQogICAgICAgICAgLSBweXRob24gbWFrZSAtLWltYWdlICR7QVdTX1JFR0lTVFJZX1VSTH0vd2hhbGFyL2FuenUgLS10YWcgJHtCSVRCVUNLRVRfQ09NTUlUfSBwdXNoCiAgICAgICAgICAtIHB5dGhvbiBtYWtlIC0taW1hZ2UgJHtBV1NfUkVHSVNUUllfVVJMfS93aGFsYXIvYW56dSAtLXRhZyBkZXZlbG9wbWVudCBwdXNoCiAgICAgICAgc2VydmljZXM6CiAgICAgICAgICAtIGRvY2tlcgogICAgICAgIGNhY2hlczoKICAgICAgICAgIC0gZG9ja2VyCiAgICAtIHN0ZXA6CiAgICAgICAgbmFtZTogRGVwbG95IHRvIERldmVsb3BtZW50CiAgICAgICAgc2NyaXB0OgogICAgICAgICAgLSBwaXAgaW5zdGFsbCAtciBiaXRidWNrZXQtcGlwZWxpbmVzLXJlcXVpcmVtZW50cy50eHQKICAgICAgICAgIC0gcHl0aG9uIG1ha2UgZWNzX2RlcGxveSBkZXZlbG9wbWVudAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gZXZhbCAkKGF3cyBlY3IgZ2V0LWxvZ2luIC0tcmVnaW9uICR7QVdTX0RFRkFVTFRfUkVHSU9OfSAtLW5vLWluY2x1ZGUtZW1haWwpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gcHl0aG9uIG1ha2UgYnVpbGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gcGlwIGluc3RhbGwgLXIgYml0YnVja2V0LXBpcGVsaW5lcy1yZXF1aXJlbWVudHMudHh0Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgoKICAgICAgICAgICAgcHJpbnQoY2xpZW50LnJlYWQoJ2ZvbycpKQo=</text>
+        <text encoding="base64">ICAgIHBvZXRyeSBpbnN0YWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC92YXIvdG1wLyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEltcHJvcGVybHlDb25maWd1cmVkKCJWYXVsdCBlbXB0eSByZXNwb25zZSIpCg==</text>
+        <text encoding="base64">ICAgIHJtIC1yZiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrLCB2IGluIHNlY3JldHNbJ2RhdGEnXS5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLXkgLS1hdXRvLXJlbW92ZSAkQlVJTERfUEFDS0FHRVMgJiYgXAogICAgYXB0LWdldCBjbGVhbiAmJiBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
