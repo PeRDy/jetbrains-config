@@ -164,6 +164,12 @@
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="36" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.prod.js" timestamp="1531484662083">
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="46" column="61" />
+        <mark key="^" line="46" column="58" />
+        <mark key="." line="46" column="58" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/telegram/index.rst" timestamp="1507585576491">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="0" />
@@ -318,6 +324,11 @@
         <mark key="]" line="4" column="49" />
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/website/app.py" timestamp="1531484024637">
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/.dockerignore" timestamp="1511821820090">
         <mark key="[" line="6" column="7" />
@@ -1078,10 +1089,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/Dockerfile" timestamp="1531481424566">
-        <mark key="[" line="56" column="14" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/Dockerfile" timestamp="1531485235541">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/doc/source/api/resources/ether_status.rst" timestamp="1517223006149">
         <mark key="[" line="61" column="10" />
@@ -1930,6 +1942,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/pyproject.toml" timestamp="1531485602644">
+        <mark key="[" line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/flights_analyzer/settings.py" timestamp="1512000924289">
         <mark key="[" line="77" column="53" />
         <mark key="]" line="76" column="50" />
@@ -2461,8 +2476,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/package.json" timestamp="1517233810369">
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/package.json" timestamp="1531484824945">
+        <mark key="[" line="36" column="24" />
         <mark key="]" line="28" column="47" />
         <mark key="^" line="27" column="37" />
         <mark key="." line="28" column="0" />
@@ -3227,6 +3242,12 @@
         <mark key="^" line="19" column="75" />
         <mark key="." line="19" column="75" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/website/routes.py" timestamp="1531483982264">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-api/storj_node/types.py" timestamp="1523634074040">
         <mark key="[" line="18" column="83" />
         <mark key="]" line="13" column="96" />
@@ -3321,11 +3342,10 @@
         <mark key="." line="187" column="45" />
         <mark key="^" line="187" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.dev.js" timestamp="1517581599028">
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="41" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="38" column="36" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/webpack.dev.js" timestamp="1531484671200">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="38" />
+        <mark key="." line="38" column="38" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/gulp/tasks/styles.js" timestamp="1490137302400">
         <mark key="[" line="5" column="4" />
@@ -3344,6 +3364,9 @@
         <mark key="]" line="58" column="30" />
         <mark key="^" line="58" column="30" />
         <mark key="." line="58" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/make" timestamp="1531485560401">
+        <mark key="[" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/systemd/barrenero_telegram.service" timestamp="1507454991300">
         <mark key="[" line="9" column="17" />
@@ -3397,6 +3420,11 @@
         <mark key="]" line="6" column="41" />
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/server/__main__.py" timestamp="1531484976031">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/perdy_site/schema.py" timestamp="1497478655653">
         <mark key="[" line="7" column="29" />
@@ -4041,46 +4069,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICYmIFw=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICYmIFw=</text>
       </register>
       <register name="/" type="4">
         <text>--image=anzu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24gPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0ic2Vzc2lvbiIsIGRlc2NyaXB0aW9uPSJTZXNzaW9uIiwgYWxsb3dfbnVsbD1UcnVlKQogICAgc2Vzc2lvbl9pZCA9IHZhbGlkYXRvcnMuU3RyaW5nKHRpdGxlPSJzZXNzaW9uX2lkIiwgZGVzY3JpcHRpb249IlNlc3Npb24gSUQiLCBhbGxvd19udWxsPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFwaTogJ2h0dHBzOi8vaHVlcnRlby1hcGkucHJvZHVjdGlvbi5zdmMuc291ZnQuZXMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WICBQWVRIT05JT0VOQ09ESU5HPSd1dGYtOCcK</text>
+        <text encoding="base64">ICAgICAgICBsaW51eC1oZWFkZXJzIFwKICAgICAgICBidWlsZC1iYXNlIFwKICAgICAgICBweXRob24zIFwKICAgICAgICBweXRob24zLWRldiBcCiAgICAgICAgcHkzLXBpcAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnRyeToKICAgIGltcG9ydCBwbGF5aG91c2UucG9zdGdyZXNfZXh0IGFzIHB3X3BleHQKZXhjZXB0IEltcG9ydEVycm9yOgogICAgcGFzcwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">UlVOIGFwayBhZGQgLS11cGRhdGUgLS1uby1jYWNoZSAkQlVJTERfUEFDS0FHRVMgJiYgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGVfbmFtZSA9ICJtb2RlbCIKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgY2xhc3MgTWV0YToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBtaWdyYXRvci5jcmVhdGVfbW9kZWwKICAgIGNsYXNzIE1vZGVsKHB3Lk1vZGVsKToKICAgICAgICBpZCA9IHB3LkF1dG9GaWVsZCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBtaWdyYXRvci5yZW1vdmVfbW9kZWwoIm1vZGVsIikKCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvdG1wLyogXAogICAgICAgIC92YXIvdG1wLyoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJtIC1yZiBcCiAgICAgICAgL3Zhci9saWIvYXB0L2xpc3RzLyogXAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIFwKICAgIGFwdC1nZXQgaW5zdGFsbCAteSAkUlVOVElNRV9QQUNLQUdFUyAmJiBcCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBJbnN0YWxsIHN5c3RlbSBkZXBlbmRlbmNpZXMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1pZ3JhdG9yLnJlbW92ZV9tb2RlbCgibW9kZWwiKQoK</text>
+        <text encoding="base64">IyBJbnN0YWxsIHN5c3RlbSBkZXBlbmRlbmNpZXMKRU5WIFJVTlRJTUVfUEFDS0FHRVMgcHl0aG9uMyBweXRob24zLWRldiBweTMtcGlwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwZWV3ZWUgaW1wb3J0IFNRTAo=</text>
+        <text encoding="base64">RU5WIEJVSUxEX1BBQ0tBR0VTIGJ1aWxkLWVzc2VudGlhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
