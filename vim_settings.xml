@@ -955,6 +955,13 @@
         <mark key="." line="30" column="19" />
         <mark key="^" line="30" column="19" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/farmers/models/product.py" timestamp="1531493822602">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/__main__.py" timestamp="1504624623725">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="98" column="8" />
@@ -2386,6 +2393,12 @@
         <mark key="]" line="249" column="18" />
         <mark key="." line="249" column="18" />
         <mark key="^" line="249" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/shop/models/order.py" timestamp="1531493707176">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/estalk-eo/app.json" timestamp="1513606406742">
         <mark key="[" line="23" column="3" />
@@ -3967,7 +3980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="54" column="45" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="48" column="4" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="9" column="38" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/build.py" />
@@ -4067,66 +4079,66 @@
       <jump line="6" column="30" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/bitbucket-pipelines.yml" />
       <jump line="19" column="31" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" />
       <jump line="24" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/instagram/schemas.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/farmers/models/product.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBpbWFnZWtpdC5tb2RlbHMgaW1wb3J0IEltYWdlU3BlY0ZpZWxkCmZyb20gcGlsa2l0LnByb2Nlc3NvcnMgaW1wb3J0IFNtYXJ0UmVzaXplCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIFNUQVRVU19BQ0NFUFRFRCA9ICdhY2NlcHRlZCcKICAgIFNUQVRVU19TRU5UID0gJ3NlbnQnCiAgICBTVEFUVVNfREVMSVZFUkVEID0gJ2RlbGl2ZXJlZCcKICAgIFNUQVRVU19SRUpFQ1RFRCA9ICdyZWplY3RlZCcKICAgIFNUQVRVU19DQU5DRUxMRUQgPSAnY2FuY2VsbGVkJwoKICAgIENIT0lDRVNfU1RBVFVTID0gKAogICAgICAgIChTVEFUVVNfUEVORElORywgJ1BFJyksCiAgICAgICAgKFNUQVRVU19BQ0NFUFRFRCwgJ0FDJyksCiAgICAgICAgKFNUQVRVU19TRU5ULCAnU0UnKSwKICAgICAgICAoU1RBVFVTX0RFTElWRVJFRCwgJ0RFJyksCiAgICAgICAgKFNUQVRVU19SRUpFQ1RFRCwgJ1JFJyksCiAgICAgICAgKFNUQVRVU19DQU5DRUxMRUQsICdDQScpLAogICAgKQ==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text encoding="base64">ZGVsaXZlcmVkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>--image=anzu</text>
+        <text>description</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFwaTogJ2h0dHBzOi8vaHVlcnRlby1hcGkucHJvZHVjdGlvbi5zdmMuc291ZnQuZXMnLAo=</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJlZCA9IGF1dG8oKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBpbWFnZWtpdC5tb2RlbHMgaW1wb3J0IEltYWdlU3BlY0ZpZWxkCmZyb20gcGlsa2l0LnByb2Nlc3NvcnMgaW1wb3J0IFNtYXJ0UmVzaXplCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIFNUQVRVU19BQ0NFUFRFRCA9ICdhY2NlcHRlZCcKICAgIFNUQVRVU19TRU5UID0gJ3NlbnQnCiAgICBTVEFUVVNfREVMSVZFUkVEID0gJ2RlbGl2ZXJlZCcKICAgIFNUQVRVU19SRUpFQ1RFRCA9ICdyZWplY3RlZCcKICAgIFNUQVRVU19DQU5DRUxMRUQgPSAnY2FuY2VsbGVkJwoKICAgIENIT0lDRVNfU1RBVFVTID0gKAogICAgICAgIChTVEFUVVNfUEVORElORywgJ1BFJyksCiAgICAgICAgKFNUQVRVU19BQ0NFUFRFRCwgJ0FDJyksCiAgICAgICAgKFNUQVRVU19TRU5ULCAnU0UnKSwKICAgICAgICAoU1RBVFVTX0RFTElWRVJFRCwgJ0RFJyksCiAgICAgICAgKFNUQVRVU19SRUpFQ1RFRCwgJ1JFJyksCiAgICAgICAgKFNUQVRVU19DQU5DRUxMRUQsICdDQScpLAogICAgKQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IG1vZGVscwpmcm9tIGRqYW5nby51dGlscy50cmFuc2xhdGlvbiBpbXBvcnQgdWdldHRleHRfbGF6eSBhcyBfCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLm1vZGVscy5wcm9kdWN0IGltcG9ydCAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZHJhbWF0aXEgPSB7dmVyc2lvbiA9ICJeMS4yIiwgZXh0cmFzID0gWyJyZWRpcyIsICJ3YXRjaCJdfQphcGlzdGFyLWRyYW1hdGlxID0gIl4wLjIuMSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucz17J3F1YWxpdHknOiA5OX0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHZhYyA9ICJeMC42LjEiCg==</text>
+        <text encoding="base64">ICAgIGltYWdlX3NtYWxsID0gSW1hZ2VTcGVjRmllbGQoc291cmNlPSdpbWFnZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2Nlc3NvcnM9W1NtYXJ0UmVzaXplKDMyMCwgMjQwKV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdD0nSlBFRycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OkF1dGhvcjogU291ZnQKCg==</text>
+        <text encoding="base64">ZnJvbSBpbWFnZWtpdC5tb2RlbHMgaW1wb3J0IEltYWdlU3BlY0ZpZWxkCmZyb20gcGlsa2l0LnByb2Nlc3NvcnMgaW1wb3J0IFNtYXJ0UmVzaXplCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">OlZlcnNpb246IDEuMC4wCjpTdGF0dXM6IGZpbmFsCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIgaW1wb3J0IG1vZGVscwpmcm9tIGRqYW5nby51dGlscy50cmFuc2xhdGlvbiBpbXBvcnQgdWdldHRleHRfbGF6eSBhcyBfCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">ZnJvbSBjb3JlLm1vZGVscy5wcm9kdWN0IGltcG9ydCAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">ZHJhbWF0aXEgPSB7dmVyc2lvbiA9ICJeMS4yIiwgZXh0cmFzID0gWyJyZWRpcyIsICJ3YXRjaCJdfQphcGlzdGFyLWRyYW1hdGlxID0gIl4wLjIuMSIK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>--image=anzu</last-search>
+      <last-search>description</last-search>
       <last-offset />
-      <last-pattern>--image=anzu</last-pattern>
-      <last-replace>--image=whalar/anzu</last-replace>
-      <last-substitute>--image=anzu</last-substitute>
+      <last-pattern>description</last-pattern>
+      <last-replace>verbose_name</last-replace>
+      <last-substitute>description</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>python make</entry>
         <entry>, compose=False</entry>
         <entry>HOST</entry>
         <entry>namespace[\(.*\)] = \(.*\)</entry>
@@ -4146,9 +4158,9 @@
         <entry>\(\w\+\)=</entry>
         <entry>pip install.*</entry>
         <entry>--image=anzu</entry>
+        <entry>description</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/namespace[\(.*\)] = \(.*\)/return {\1: \2}</entry>
         <entry>%s/namespace\[\(.*\)\] = \(.*\)/return {\1: \2}</entry>
         <entry encoding="base64">JzwsJz5zLywgXChuYW1lc3BhY2UuKlwpLC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLywgXChuYW1lc3BhY2UuKj9cKSwvL2c=</entry>
@@ -4168,6 +4180,7 @@
         <entry>%s#--image=anzu#--image=whalar/anzu#g</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
