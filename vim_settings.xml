@@ -1914,10 +1914,11 @@
         <mark key="^" line="79" column="38" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/make" timestamp="1531490481077">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/make" timestamp="1531496783063">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/storj.py" timestamp="1515417674982">
         <mark key="[" line="59" column="104" />
@@ -4082,13 +4083,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgY3VzdG9tZXIgPSBwZWV3ZWUuRm9yZWlnbktleUZpZWxkKEN1c3RvbWVyLCByZWxhdGVkX25hbWU9J29yZGVyX2VudHJpZXMnLCB2ZXJib3NlX25hbWU9J0N1c3RvbWVyJywgb25fZGVsZXRlPSJDQVNDQURFIikK</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoImNsaSIpCgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>whalar</text>
       </register>
       <register name="/" type="4">
         <text>description</text>
@@ -4097,34 +4098,34 @@
         <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gZiJPcmRlckVudHJ5PHtzZWxmLmN1c3RvbWVyfSwge3NlbGYuZmFybWVyfSwge3NlbGYucHJvZHVjdH0+IgogICAgCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc3RyKHNlbGYucHJvZHVjdCkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY3VzdG9tZXIgPSBwZWV3ZWUuRm9yZWlnbktleUZpZWxkKEN1c3RvbWVyLCByZWxhdGVkX25hbWU9J29yZGVyX2VudHJpZXMnLCB2ZXJib3NlX25hbWU9J0N1c3RvbWVyJywgb25fZGVsZXRlPSJDQVNDQURFIikK</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoImNsaSIpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZmFybWVyID0gcGVld2VlLkZvcmVpZ25LZXlGaWVsZChGYXJtZXIsIGJhY2tyZWY9J29yZGVyX2VudHJpZXMnLCB2ZXJib3NlX25hbWU9J0Zhcm1lcicsIG9uX2RlbGV0ZT0iQ0FTQ0FERSIpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICMgY3VzdG9tZXIgPSBwZWV3ZWUuRm9yZWlnbktleUZpZWxkKEN1c3RvbWVyLCByZWxhdGVkX25hbWU9J29yZGVyX2VudHJpZXMnLCB2ZXJib3NlX25hbWU9J0N1c3RvbWVyJywgb25fZGVsZXRlPSJDQVNDQURFIikK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgZmFybWVyID0gcGVld2VlLkZvcmVpZ25LZXlGaWVsZChGYXJtZXIsIGJhY2tyZWY9J29yZGVyX2VudHJpZXMnLCB2ZXJib3NlX25hbWU9J0Zhcm1lcicsIG9uX2RlbGV0ZT0iQ0FTQ0FERSIpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZiJPcmRlckVudHJ5PHtzZWxmLmN1c3RvbWVyfSwge3NlbGYuZmFybWVyfSwge3NlbGYucHJvZHVjdH0+Igo=</text>
+        <text encoding="base64">ICAgICMgY3VzdG9tZXIgPSBwZWV3ZWUuRm9yZWlnbktleUZpZWxkKEN1c3RvbWVyLCByZWxhdGVkX25hbWU9J29yZGVyX2VudHJpZXMnLCB2ZXJib3NlX25hbWU9J0N1c3RvbWVyJywgb25fZGVsZXRlPSJDQVNDQURFIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZiJPcmRlckVudHJ5PHtzZWxmLmN1c3RvbWVyfSwge3NlbGYuZmFybWVyfSwge3NlbGYucHJvZHVjdH0+Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBjaG9pY2VzKGNscyk6CiAgICAgICAgcmV0dXJuIFsobS52YWx1ZSwgY2xzLmRpc3BsYXlfbmFtZShtLnZhbHVlKSkgZm9yIG5hbWUsIG0gaW4gY2xzLl9fbWVtYmVyc19fLml0ZW1zKCldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QK</text>
+        <text encoding="base64">ICAgIGRlZiBjaG9pY2VzKGNscyk6CiAgICAgICAgcmV0dXJuIFsobS52YWx1ZSwgY2xzLmRpc3BsYXlfbmFtZShtLnZhbHVlKSkgZm9yIG5hbWUsIG0gaW4gY2xzLl9fbWVtYmVyc19fLml0ZW1zKCldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaXNwbGF5X25hbWUoY2xzLCB2YWx1ZSk6CiAgICAgICAgcmV0dXJuIGNscyh2YWx1ZSkubmFtZS5yZXBsYWNlKCJfIiwgIiAiKS5jYXBpdGFsaXplKCkK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBkaXNwbGF5X25hbWUoY2xzLCB2YWx1ZSk6CiAgICAgICAgcmV0dXJuIGNscyh2YWx1ZSkubmFtZS5yZXBsYWNlKCJfIiwgIiAiKS5jYXBpdGFsaXplKCkK</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -4177,9 +4178,9 @@
         <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</entry>
         <entry>%s/pip install.*/pip install -r bitbucket-pipelines-requirements.txt/g</entry>
         <entry>%s#--image=anzu#--image=whalar/anzu#g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
