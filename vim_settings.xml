@@ -43,7 +43,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1531385889451">
+      <file name="/a.dummy" timestamp="1531579241322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -343,10 +343,10 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/setup.cfg" timestamp="1531576993487">
-        <mark key="[" line="6" column="65" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/setup.cfg" timestamp="1531579212200">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_peewee_orm/event_hooks.py" timestamp="1528892110464">
         <mark key="[" line="27" column="16" />
@@ -366,8 +366,7 @@
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/models.py" timestamp="1531570254117">
-        <mark key="[" line="16" column="3" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/models.py" timestamp="1531579096963">
         <mark key="]" line="18" column="27" />
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
@@ -1836,6 +1835,9 @@
         <mark key="]" line="114" column="0" />
         <mark key="^" line="117" column="45" />
         <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/customer/models.py" timestamp="1531579245146">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/trazabilidad/recipes/models/menu.py" timestamp="1514486253875">
         <mark key="[" line="26" column="55" />
@@ -4096,14 +4098,14 @@
       <jump line="94" column="41" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_peewee.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>/puppy/</text>
