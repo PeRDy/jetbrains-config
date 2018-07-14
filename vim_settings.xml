@@ -2658,6 +2658,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1531579031017">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news_challenge/settings/development.py" timestamp="1465336625613">
         <mark key="[" line="24" column="25" />
         <mark key="]" line="24" column="25" />
@@ -3860,11 +3865,8 @@
         <mark key="^" line="43" column="14" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_peewee.py" timestamp="1530636973174">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="37" />
-        <mark key="^" line="36" column="19" />
-        <mark key="." line="36" column="19" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_peewee.py" timestamp="1531577982648">
+        <mark key="'" line="71" column="41" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/items/no_items.html" timestamp="1465647572094">
         <mark key="[" line="3" column="0" />
@@ -3992,7 +3994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="45" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="48" column="4" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/manager.py" />
       <jump line="9" column="38" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/build.py" />
       <jump line="10" column="9" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/build.py" />
@@ -4092,66 +4093,66 @@
       <jump line="19" column="31" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" />
       <jump line="24" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/instagram/schemas.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/farmers/models/product.py" />
+      <jump line="94" column="41" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_peewee.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjbGlubmVyLmV4Y2VwdGlvbnMgaW1wb3J0IEltcHJvcGVybHlDb25maWd1cmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>whalar</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>description</text>
+        <text>/puppy/</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gZiJPcmRlckVudHJ5PHtzZWxmLmN1c3RvbWVyfSwge3NlbGYuZmFybWVyfSwge3NlbGYucHJvZHVjdH0+IgogICAgCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc3RyKHNlbGYucHJvZHVjdCkKCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y2xhc3MgUHVwcHlNb2RlbChwZWV3ZWUuTW9kZWwpOgogICAgbmFtZSA9IHBlZXdlZS5DaGFyRmllbGQoKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgZGF0YWJhc2UgPSBkYXRhYmFzZV9jb21wb25lbnQuZGF0YWJhc2UKCgpjbGFzcyBQdXBweUlucHV0VHlwZSh0eXBlcy5UeXBlKToKICAgIG5hbWUgPSB2YWxpZGF0b3JzLlN0cmluZygpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjbGlubmVyLmV4Y2VwdGlvbnMgaW1wb3J0IEltcHJvcGVybHlDb25maWd1cmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBkZWYgaW5qZWN0X3ZhdWx0X3NlY3JldHMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5hcmdzLmVudmlyb25tZW50ICE9ICJsb2NhbCI6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHNlY3JldF9pZCA9IG9zLmVudmlyb25bIlZBVUxUX1NFQ1JFVF9JRCJdCgogICAgICAgICAgICAgICAgY2xpZW50ID0gaHZhYy5DbGllbnQodXJsPVZBVUxUX1VSTCkKICAgICAgICAgICAgICAgIGNsaWVudC5hdXRoX2FwcHJvbGUocm9sZV9pZD1WQVVMVF9ST0xFX0lELCBzZWNyZXRfaWQ9c2VjcmV0X2lkKQoKICAgICAgICAgICAgICAgIHNlY3JldHMgPSBjbGllbnQucmVhZChWQVVMVF9TRUNSRVQgKyBzZWxmLmFyZ3MuZW52aXJvbm1lbnQpCiAgICAgICAgICAgICAgICBpZiBzZWNyZXRzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgSW1wcm9wZXJseUNvbmZpZ3VyZWQoIlZhdWx0IGVtcHR5IHNlY3JldCIpCgogICAgICAgICAgICAgICAgb3MuZW52aXJvbi51cGRhdGUoc2VjcmV0c1siZGF0YSJdKQoKICAgICAgICAgICAgICAgIGNsaWVudC5sb2dvdXQoKQogICAgICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgICAgICByYWlzZSBJbXByb3Blcmx5Q29uZmlndXJlZCgiVkFVTFRfU0VDUkVUX0lEIHZhcmlhYmxlIG5vdCBmb3VuZCIpCiAgICAgICAgICAgIGV4Y2VwdCBodmFjLmV4Y2VwdGlvbnMuSW52YWxpZFJlcXVlc3Q6CiAgICAgICAgICAgICAgICByYWlzZSBJbXByb3Blcmx5Q29uZmlndXJlZCgiVmF1bHQgY2Fubm90IGxvZ2luIGR1ZSB0byBpbnZhbGlkIHJvbGUgb3Igc2VjcmV0IGlkIikKICAgICAgICAgICAgZXhjZXB0IGh2YWMuZXhjZXB0aW9ucy5Gb3JiaWRkZW46CiAgICAgICAgICAgICAgICByYWlzZSBJbXByb3Blcmx5Q29uZmlndXJlZCgiRm9yYmlkZGVuIGFjY2VzcyB0byBWYXVsdCBzZWNyZXQiKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFja3JlZnMgPQogICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGh2YWMKaW1wb3J0IGh2YWMuZXhjZXB0aW9ucwo=</text>
+        <text encoding="base64">CkBweXRlc3QuZml4dHVyZQpkZWYgaG9vbWFuKCk6CiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">CkBweXRlc3QuZml4dHVyZQpkZWYgaG9vbWFuKCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSByZWRpcwo=</text>
+        <text encoding="base64">ICAgIGhvb21hbiA9IHBlZXdlZS5Gb3JlaWduS2V5RmllbGQoSG9vbWFuTW9kZWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAiNjM3OSIKCg==</text>
+        <text encoding="base64">ICAgIGhvb21hbiA9IEhvb21hblR5cGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpczphbHBpbmUKICAgIGV4cG9zZToK</text>
+        <text encoding="base64">ZnJvbSBjbGlubmVyLmV4Y2VwdGlvbnMgaW1wb3J0IEltcHJvcGVybHlDb25maWd1cmVkCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSB3b3JrZXIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBkZWYgaW5qZWN0X3ZhdWx0X3NlY3JldHMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5hcmdzLmVudmlyb25tZW50ICE9ICJsb2NhbCI6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHNlY3JldF9pZCA9IG9zLmVudmlyb25bIlZBVUxUX1NFQ1JFVF9JRCJdCgogICAgICAgICAgICAgICAgY2xpZW50ID0gaHZhYy5DbGllbnQodXJsPVZBVUxUX1VSTCkKICAgICAgICAgICAgICAgIGNsaWVudC5hdXRoX2FwcHJvbGUocm9sZV9pZD1WQVVMVF9ST0xFX0lELCBzZWNyZXRfaWQ9c2VjcmV0X2lkKQoKICAgICAgICAgICAgICAgIHNlY3JldHMgPSBjbGllbnQucmVhZChWQVVMVF9TRUNSRVQgKyBzZWxmLmFyZ3MuZW52aXJvbm1lbnQpCiAgICAgICAgICAgICAgICBpZiBzZWNyZXRzIGlzIE5vbmU6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgSW1wcm9wZXJseUNvbmZpZ3VyZWQoIlZhdWx0IGVtcHR5IHNlY3JldCIpCgogICAgICAgICAgICAgICAgb3MuZW52aXJvbi51cGRhdGUoc2VjcmV0c1siZGF0YSJdKQoKICAgICAgICAgICAgICAgIGNsaWVudC5sb2dvdXQoKQogICAgICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgICAgICByYWlzZSBJbXByb3Blcmx5Q29uZmlndXJlZCgiVkFVTFRfU0VDUkVUX0lEIHZhcmlhYmxlIG5vdCBmb3VuZCIpCiAgICAgICAgICAgIGV4Y2VwdCBodmFjLmV4Y2VwdGlvbnMuSW52YWxpZFJlcXVlc3Q6CiAgICAgICAgICAgICAgICByYWlzZSBJbXByb3Blcmx5Q29uZmlndXJlZCgiVmF1bHQgY2Fubm90IGxvZ2luIGR1ZSB0byBpbnZhbGlkIHJvbGUgb3Igc2VjcmV0IGlkIikKICAgICAgICAgICAgZXhjZXB0IGh2YWMuZXhjZXB0aW9ucy5Gb3JiaWRkZW46CiAgICAgICAgICAgICAgICByYWlzZSBJbXByb3Blcmx5Q29uZmlndXJlZCgiRm9yYmlkZGVuIGFjY2VzcyB0byBWYXVsdCBzZWNyZXQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoImNsaSIpCgo=</text>
+        <text encoding="base64">aW1wb3J0IGh2YWMKaW1wb3J0IGh2YWMuZXhjZXB0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s#/puppy/#/hooman/#g</text>
       </register>
     </registers>
     <search>
-      <last-search>description</last-search>
+      <last-search>/puppy/</last-search>
       <last-offset />
-      <last-pattern>description</last-pattern>
-      <last-replace>verbose_name</last-replace>
-      <last-substitute>description</last-substitute>
+      <last-pattern>/puppy/</last-pattern>
+      <last-replace>/hooman/</last-replace>
+      <last-substitute>/puppy/</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>, compose=False</entry>
         <entry>HOST</entry>
         <entry>namespace[\(.*\)] = \(.*\)</entry>
         <entry>namespace\[\(.*\)\] = \(.*\)</entry>
@@ -4171,9 +4172,9 @@
         <entry>pip install.*</entry>
         <entry>--image=anzu</entry>
         <entry>description</entry>
+        <entry>/puppy/</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/namespace\[\(.*\)\] = \(.*\)/return {\1: \2}</entry>
         <entry encoding="base64">JzwsJz5zLywgXChuYW1lc3BhY2UuKlwpLC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zLywgXChuYW1lc3BhY2UuKj9cKSwvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wobmFtZXNwYWNlLio/XCksIG1vZGVsLywgbW9kZWwvZw==</entry>
@@ -4193,6 +4194,7 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</entry>
         <entry>w</entry>
+        <entry>%s#/puppy/#/hooman/#g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
