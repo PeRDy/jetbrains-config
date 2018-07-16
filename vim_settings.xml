@@ -132,6 +132,13 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" timestamp="1531750802655">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="35" column="77" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="33" column="56" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/api.js" timestamp="1517228713991">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="21" column="12" />
@@ -371,6 +378,11 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/schemas/permission.py" timestamp="1531580749899">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/models.py" timestamp="1531579096963">
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_stats.py" timestamp="1522071401189">
         <mark key="[" line="10" column="15" />
@@ -1327,11 +1339,10 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/templates/admin_main.html" timestamp="1531748004336">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/templates/admin_main.html" timestamp="1531750036837">
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/Python/performance-tools/performance_tools/urls_flow/backends/base.py" timestamp="1427050779803">
         <mark key="[" line="9" column="27" />
@@ -2704,12 +2715,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1531742407968">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1531749776419">
         <mark key="'" line="29" column="11" />
-        <mark key="[" line="118" column="39" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="132" column="29" />
-        <mark key="^" line="132" column="29" />
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news_challenge/settings/development.py" timestamp="1465336625613">
         <mark key="[" line="24" column="25" />
@@ -3035,9 +3045,11 @@
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1531742087035">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="86" column="40" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1531749747383">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -3559,10 +3571,10 @@
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/requirements.txt" timestamp="1531387132783">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/routes.py" timestamp="1531744553270">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/routes.py" timestamp="1531750972258">
+        <mark key="[" line="25" column="79" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
@@ -4071,7 +4083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/make" />
       <jump line="27" column="15" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/setup.cfg" />
       <jump line="35" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/pyproject.toml" />
       <jump line="28" column="39" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
@@ -4171,66 +4182,66 @@
       <jump line="15" column="29" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/resources.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
       <jump line="29" column="11" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIHJlc291cmNlLCBvcHRzIGluIHNlbGYucmVzb3VyY2VzLml0ZW1zKCk6Cgo=</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbl9yb3V0ZXMgPSBbSW5jbHVkZV0K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>cls</text>
+        <text>crud_</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text>cls</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm91dGUoIi8iLCAiR0VUIiwgc2VsZi5tYWluLCBuYW1lPSJhZG1pbi1tYWluIiwgZG9jdW1lbnRlZD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIHJlc291cmNlLCBvcHRzIGluIHNlbGYucmVzb3VyY2VzLml0ZW1zKCk6Cgo=</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbl9yb3V0ZXMgPSBbSW5jbHVkZV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVzb3VyY2UsIG9wdHMgaW4gc2VsZi5yZXNvdXJjZXMuaXRlbXMoKToKCg==</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXMgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICBjcnVkX3JvdXRlcyA9IFtJbmNsdWRlKG9wdHNbMF0sIHIucm91dGVzKSBmb3Igciwgb3B0cyBpbiBzZWxmLnJlc291cmNlc10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkbWluID0gYWRtaW4K</text>
+        <text encoding="base64">ICAgICAgICBjcnVkX3JvdXRlcyA9IFtJbmNsdWRlKG9wdHNbMF0sIHIucm91dGVzKSBmb3Igciwgb3B0cyBpbiBzZWxmLnJlc291cmNlc10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkbWluID0gQWRtaW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZXMgPSAoImFwaXN0YXIiLCAiYXBpc3Rhcl9jcnVkIikK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZG1pbjoKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkbWluID0gQWRtaW4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCiAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtY3MuYWRkX2FkbWluX21ldGhvZHMobmFtZXNwYWNlLCBtb2RlbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</text>
+        <text encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search>cls</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
-      <last-replace>Permission</last-replace>
-      <last-substitute>User</last-substitute>
+      <last-pattern>cls</last-pattern>
+      <last-replace>self</last-replace>
+      <last-substitute>cls</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>, \(namespace.*\),</entry>
         <entry>, \(namespace.*?\),</entry>
         <entry>\(namespace.*?\), model</entry>
         <entry>\(namespace.*\), model</entry>
@@ -4250,9 +4261,9 @@
         <entry>username</entry>
         <entry>password</entry>
         <entry>User</entry>
+        <entry>cls</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4lcy9jcmVhdG9yL2luc3RhZ3JhbV9hY2NvdW50L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</entry>
         <entry>%s/assert instagram_account == \(.*\)/assert instagram_account_response == \1/g</entry>
         <entry>%s/assert another_instagram_account == \(.*\)/assert another_instagram_account_response == \1/g</entry>
@@ -4272,6 +4283,7 @@
         <entry encoding="base64">JzwsJz5zL3Bhc3N3b3JkL2hhc2gvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXIvR3JvdXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</entry>
+        <entry encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
