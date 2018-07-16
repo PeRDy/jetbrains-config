@@ -3030,8 +3030,8 @@
         <mark key="." line="23" column="74" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1531742087035">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="78" column="40" />
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="86" column="40" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -3552,6 +3552,11 @@
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/requirements.txt" timestamp="1531387132783">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/routes.py" timestamp="1531744553270">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
@@ -4163,13 +4168,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIHJlc291cmNlLCBvcHRzIGluIHNlbGYucmVzb3VyY2VzLml0ZW1zKCk6Cgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cls</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
@@ -4178,31 +4183,31 @@
         <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIHJlc291cmNlLCBvcHRzIGluIHNlbGYucmVzb3VyY2VzLml0ZW1zKCk6Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZXMgPSAoImFwaXN0YXIiLCAiYXBpc3Rhcl9jcnVkIikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVzb3VyY2UsIG9wdHMgaW4gc2VsZi5yZXNvdXJjZXMuaXRlbXMoKToKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCiAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkbWluID0gYWRtaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtY3MuYWRkX2FkbWluX21ldGhvZHMobmFtZXNwYWNlLCBtb2RlbCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGFja2FnZXMgPSAoImFwaXN0YXIiLCAiYXBpc3Rhcl9jcnVkIikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRfYWRtaW5fcm91dGVzCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc3BhY2UudXBkYXRlKHtrOiB2IGZvciB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCiAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyBSb3V0ZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBtY3MuYWRkX2FkbWluX21ldGhvZHMobmFtZXNwYWNlLCBtb2RlbCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</text>
