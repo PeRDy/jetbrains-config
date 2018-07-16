@@ -37,6 +37,9 @@
         <mark key="." line="26" column="52" />
         <mark key="^" line="26" column="52" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/templates/admin_list.html" timestamp="1531738822785">
+        <mark key="[" line="4" column="42" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Github.vue" timestamp="1498431379345">
         <mark key="[" line="54" column="17" />
         <mark key="]" line="54" column="0" />
@@ -3029,8 +3032,11 @@
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1531737775608">
-        <mark key="[" line="78" column="33" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1531739972256">
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="57" column="100" />
+        <mark key="." line="57" column="68" />
+        <mark key="^" line="66" column="67" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -3256,6 +3262,12 @@
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
         <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/templates/admin_detail.html" timestamp="1531738698402">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/migrations/001_creator.py" timestamp="1529506030800">
         <mark key="[" line="23" column="19" />
@@ -4152,57 +4164,47 @@
       <jump line="15" column="29" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/resources.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJSRURJU19IT1NUIiwKICAgICJSRURJU19QT1JUIiwKICAgICJSRURJU19EQiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0+IHR5cGluZy5EaWN0W3N0ciwgdHlwaW5nLkFueV0=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlKCIvbG9nb3V0IiwgIlBPU1QiLCB2aWV3cy5sb2dvdXQsICJsb2dvdXQiKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IC0+IHR5cGluZy5EaWN0W3N0ciwgdHlwaW5nLkFueV0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJSRURJU19IT1NUIiwKICAgICJSRURJU19QT1JUIiwKICAgICJSRURJU19EQiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYWRtaW5fZGV0YWlsKGNscywgZWxlbWVudF9pZDogc3RyLCBhcHA6IEFwcCk6CiAgICAgICAgICAgIGNvbnRleHQgPSB7CiAgICAgICAgICAgICAgICAicmVzb3VyY2UiOiBjbHMuX19uYW1lX18sCiAgICAgICAgICAgICAgICAib2JqIjogCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGFwcC5yZW5kZXJfdGVtcGxhdGUoImFkbWluX2RldGFpbC5odG1sIikKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIlJFRElTX0hPU1QiLCAicmVkaXMiKQogICAgICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiUkVESVNfUE9SVCIsICI2Mzc5IikKICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIlJFRElTX0RCIiwgIjAiKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYWRtaW5fZGV0YWlsKGNscywgZWxlbWVudF9pZDogc3RyLCBhcHA6IEFwcCk6CiAgICAgICAgICAgIGNvbnRleHQgPSB7CiAgICAgICAgICAgICAgICAicmVzb3VyY2UiOiBjbHMuX19uYW1lX18sCiAgICAgICAgICAgICAgICAib2JqIjogCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGFwcC5yZW5kZXJfdGVtcGxhdGUoImFkbWluX2RldGFpbC5odG1sIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJvdXRlKCIvdG9rZW4iLCAiUFVUIiwgdmlld3MucmVmcmVzaCwgInJlZnJlc2giKSwK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYWRtaW5fZGV0YWlsKGNscywgZWxlbWVudF9pZDogc3RyLCBhcHA6IEFwcCk6CiAgICAgICAgICAgIGNvbnRleHQgPSB7CiAgICAgICAgICAgICAgICAicmVzb3VyY2UiOiBjbHMuX19uYW1lX18sCiAgICAgICAgICAgICAgICAib2JqIjogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICBAY2xhc3NtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBhZGRfYWRtaW4obWNzLCBtb2RlbCkgLT4gdHlwaW5nLkRpY3Rbc3RyLCB0eXBpbmcuQW55XToKICAgICAgICBkZWYgYWRtaW5fbGlzdCgpOgogICAgICAgICAgICBwYXNzCiAgICAgICAgCiAgICAgICAgZGVmIGFkbWluX2RldGFpbCgpOgogICAgICAgICAgICBwYXNzCiAgICAgICAgCiAgICAgICAgcmV0dXJuIHsnYWRtaW5fbGlzdCc6fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyX3BlZXdlZV9vcm0gaW1wb3J0IE1vZGVsCgpfX2FsbF9fID0gWyJHcm91cCIsICJQZXJtaXNzaW9uIl0KCgpjbGFzcyBQZXJtaXNzaW9uKE1vZGVsKToKICAgIHBhc3MKCgpjbGFzcyBHcm91cChNb2RlbCk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICJSRURJU19IT1NUIiwKICAgICJSRURJU19QT1JUIiwKICAgICJSRURJU19EQiIsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>from apistar_peewee_orm import Model
-
-__all__ = [&quot;Group&quot;, &quot;Permission&quot;]
-
-
-class Permission(Model):
-    pass
-
-
-class Group(Model):
-    pass</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIlJFRElTX0hPU1QiLCAicmVkaXMiKQogICAgICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiUkVESVNfUE9SVCIsICI2Mzc5IikKICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIlJFRElTX0RCIiwgIjAiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</text>
