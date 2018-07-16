@@ -1872,8 +1872,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/anzu/routes.py" timestamp="1531741918072">
-        <mark key="[" line="16" column="80" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/anzu/routes.py" timestamp="1531757378461">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/make" timestamp="1509125960232">
         <mark key="[" line="114" column="0" />
@@ -2828,8 +2831,9 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/instagram/models.py" timestamp="1531406375931">
-        <mark key="[" line="31" column="46" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/instagram/models.py" timestamp="1531757987084">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="31" column="45" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
@@ -3572,9 +3576,9 @@
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/routes.py" timestamp="1531755310728">
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="60" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
@@ -4185,8 +4189,8 @@
       <jump line="4" column="12" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3J1ZF9yb3V0ZXMgKyBhZG1pbi5yb3V0ZXMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gcGVld2VlLkNoYXJGaWVsZCh1bmlxdWU9VHJ1ZSkKICAgIHBhc3N3b3JkID0gcGVld2VlLkNoYXJGaWVsZCgpCiAgICBwcm94eSA9IHBlZXdlZS5DaGFyRmllbGQoKQogICAgd2VibWFpbF91cmwgPSBwZWV3ZWUuQ2hhckZpZWxkKCkKICAgIHdlYm1haWxfdXNlcm5hbWUgPSBwZWV3ZWUuQ2hhckZpZWxkKCkKICAgIHdlYm1haWxfcGFzc3dvcmQgPSBwZWV3ZWUuQ2hhckZpZWxkKCkKICAgIHN0YXR1cyA9IHBlZXdlZS5TbWFsbEludGVnZXJGaWVsZChjaG9pY2VzPVN0YXR1cy5jaG9pY2VzKCksIGRlZmF1bHQ9U3RhdHVzLmVuYWJsZSkKICAgIHN0YXR1c19ub3RlcyA9IHBlZXdlZS5UZXh0RmllbGQobnVsbD1UcnVlKQ==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4201,31 +4205,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUm91dGUoIi8iLCAiR0VUIiwgc2VsZi5tYWluLCBuYW1lPSJhZG1pbi1tYWluIiwgZG9jdW1lbnRlZD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3J1ZF9yb3V0ZXMgKyBhZG1pbi5yb3V0ZXMK</text>
+        <text encoding="base64">cmVzb3VyY2VzX3JvdXRlcy5yZWdpc3RlcihJbnN0YWdyYW1BY2NvdW50LCAiSW5zdGFncmFtIEFjY291bnQiLCAiL2luc3RhZ3JhbV9hY2NvdW50IikKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pbl9yb3V0ZXMgPSBbSW5jbHVkZV0K</text>
+        <text encoding="base64">ICAgIEluY2x1ZGUoIi9pbnN0YWdyYW1fYWNjb3VudCIsICJJbnN0YWdyYW0gQWNjb3VudCIsIEluc3RhZ3JhbUFjY291bnQucm91dGVzKSwKICAgIEluY2x1ZGUoIi9hZG1pbi9pbnN0YWdyYW1fYWNjb3VudCIsICJJbnN0YWdyYW0gQWNjb3VudCBBZG1pbiIsIEluc3RhZ3JhbUFjY291bnQuYWRtaW5fcm91dGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXMgPQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3J1ZF9yb3V0ZXMgKyBhZG1pbi5yb3V0ZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcnVkX3JvdXRlcyA9IFtJbmNsdWRlKG9wdHNbMF0sIHIucm91dGVzKSBmb3Igciwgb3B0cyBpbiBzZWxmLnJlc291cmNlc10K</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbl9yb3V0ZXMgPSBbSW5jbHVkZV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcnVkX3JvdXRlcyA9IFtJbmNsdWRlKG9wdHNbMF0sIHIucm91dGVzKSBmb3Igciwgb3B0cyBpbiBzZWxmLnJlc291cmNlc10K</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXMgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkbWluID0gQWRtaW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBjcnVkX3JvdXRlcyA9IFtJbmNsdWRlKG9wdHNbMF0sIHIucm91dGVzKSBmb3Igciwgb3B0cyBpbiBzZWxmLnJlc291cmNlc10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZG1pbjoKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjcnVkX3JvdXRlcyA9IFtJbmNsdWRlKG9wdHNbMF0sIHIucm91dGVzKSBmb3Igciwgb3B0cyBpbiBzZWxmLnJlc291cmNlc10K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFkbWluID0gQWRtaW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZG1pbjoKICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</text>
