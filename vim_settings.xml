@@ -2899,6 +2899,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/make" timestamp="1531736036389">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/public/index.html" timestamp="1515623150293">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="44" />
@@ -4145,7 +4150,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJvdXRlKCIvdG9rZW4iLCAiUFVUIiwgdmlld3MucmVmcmVzaCwgInJlZnJlc2giKSwK</text>
+        <text encoding="base64">ICAgICJSRURJU19IT1NUIiwKICAgICJSRURJU19QT1JUIiwKICAgICJSRURJU19EQiIsCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4160,24 +4165,30 @@
         <text encoding="base64">ICAgIFJvdXRlKCIvbG9nb3V0IiwgIlBPU1QiLCB2aWV3cy5sb2dvdXQsICJsb2dvdXQiKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJvdXRlKCIvdG9rZW4iLCAiUFVUIiwgdmlld3MucmVmcmVzaCwgInJlZnJlc2giKSwK</text>
+        <text encoding="base64">ICAgICJSRURJU19IT1NUIiwKICAgICJSRURJU19QT1JUIiwKICAgICJSRURJU19EQiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIlJFRElTX0hPU1QiLCAicmVkaXMiKQogICAgICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgiUkVESVNfUE9SVCIsICI2Mzc5IikKICAgICAgICBvcy5lbnZpcm9uLnNldGRlZmF1bHQoIlJFRElTX0RCIiwgIjAiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgIFJvdXRlKCIvdG9rZW4iLCAiUFVUIiwgdmlld3MucmVmcmVzaCwgInJlZnJlc2giKSwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAogICAgOnJldHVybjogCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBhcGlzdGFyX3BlZXdlZV9vcm0gaW1wb3J0IE1vZGVsCgpfX2FsbF9fID0gWyJHcm91cCIsICJQZXJtaXNzaW9uIl0KCgpjbGFzcyBQZXJtaXNzaW9uKE1vZGVsKToKICAgIHBhc3MKCgpjbGFzcyBHcm91cChNb2RlbCk6CiAgICBwYXNzCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>from apistar_peewee_orm import Model
 
 __all__ = [&quot;Group&quot;, &quot;Permission&quot;]
@@ -4189,12 +4200,6 @@ class Permission(Model):
 
 class Group(Model):
     pass</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</text>
