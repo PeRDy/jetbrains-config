@@ -372,11 +372,6 @@
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/schemas/permission.py" timestamp="1531580749899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/models.py" timestamp="1531579096963">
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_stats.py" timestamp="1522071401189">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="23" />
@@ -1860,8 +1855,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/anzu/routes.py" timestamp="1531407640739">
-        <mark key="[" line="11" column="38" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/anzu/routes.py" timestamp="1531741918072">
+        <mark key="[" line="16" column="80" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/make" timestamp="1509125960232">
         <mark key="[" line="114" column="0" />
@@ -2703,9 +2698,9 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1531740504299">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1531742407968">
         <mark key="'" line="29" column="11" />
-        <mark key="[" line="115" column="41" />
+        <mark key="[" line="118" column="39" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="132" column="29" />
         <mark key="^" line="132" column="29" />
@@ -3034,9 +3029,9 @@
         <mark key="^" line="23" column="74" />
         <mark key="." line="23" column="74" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1531741844706">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" timestamp="1531742087035">
         <mark key="'" line="80" column="0" />
-        <mark key="[" line="27" column="0" />
+        <mark key="[" line="78" column="40" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/uwsgi.ini" timestamp="1515002985946">
         <mark key="[" line="7" column="24" />
@@ -3933,9 +3928,6 @@
         <mark key="^" line="43" column="14" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_peewee.py" timestamp="1531577982648">
-        <mark key="'" line="71" column="41" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/items/no_items.html" timestamp="1465647572094">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -4011,6 +4003,12 @@
         <mark key="]" line="30" column="27" />
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/anzu/app.py" timestamp="1531741976041">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="112" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
         <mark key="[" line="0" column="0" />
@@ -4165,7 +4163,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4180,31 +4178,31 @@
         <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCiAgICAgICAK</text>
+        <text encoding="base64">cGFja2FnZXMgPSAoImFwaXN0YXIiLCAiYXBpc3Rhcl9jcnVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtY3MuYWRkX2FkbWluX21ldGhvZHMobmFtZXNwYWNlLCBtb2RlbCkK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtY3MuYWRkX3JvdXRlcyhuYW1lc3BhY2UsIG1ldGhvZHMpCiAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBhZGRfYWRtaW5fcm91dGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBtY3MuYWRkX2FkbWluX21ldGhvZHMobmFtZXNwYWNlLCBtb2RlbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lc3BhY2UudXBkYXRlKHtrOiB2IGZvciB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyBSb3V0ZXM6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhZGRfYWRtaW5fcm91dGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lc3BhY2UudXBkYXRlKHtrOiB2IGZvciB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBSb3V0ZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</text>
