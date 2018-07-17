@@ -133,9 +133,9 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" timestamp="1531760817933">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" timestamp="1531824256020">
         <mark key="'" line="10" column="12" />
-        <mark key="[" line="44" column="34" />
+        <mark key="[" line="35" column="67" />
         <mark key="]" line="48" column="26" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="39" column="11" />
@@ -1196,6 +1196,13 @@
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_routes.py" timestamp="1531826400299">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="59" column="35" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/components/Educations.vue" timestamp="1504564613920">
         <mark key="[" line="56" column="8" />
@@ -2724,10 +2731,10 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1531819235698">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" timestamp="1531826661072">
         <mark key="'" line="30" column="11" />
-        <mark key="[" line="90" column="44" />
-        <mark key="]" line="90" column="113" />
+        <mark key="[" line="90" column="23" />
+        <mark key="]" line="90" column="83" />
         <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news_challenge/settings/development.py" timestamp="1465336625613">
@@ -3002,11 +3009,11 @@
         <mark key="^" line="29" column="55" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" timestamp="1531821660567">
-        <mark key="[" line="53" column="55" />
-        <mark key="]" line="61" column="29" />
-        <mark key="." line="61" column="29" />
-        <mark key="^" line="53" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" timestamp="1531826310552">
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="56" column="22" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="56" column="22" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/apps.py" timestamp="1493760524605">
         <mark key="[" line="0" column="33" />
@@ -3593,16 +3600,24 @@
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/requirements.txt" timestamp="1531387132783">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/routes.py" timestamp="1531755310728">
-        <mark key="[" line="28" column="60" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/routes.py" timestamp="1531826144411">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="11" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" timestamp="1531826963215">
+        <mark key="'" line="167" column="4" />
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="200" column="39" />
+        <mark key="^" line="200" column="98" />
+        <mark key="." line="200" column="16" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/login/__main__.py" timestamp="1509106008604">
         <mark key="[" line="14" column="6" />
@@ -4129,9 +4144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/pyproject.toml" />
-      <jump line="28" column="39" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
       <jump line="23" column="12" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="79" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="67" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
@@ -4229,66 +4241,68 @@
       <jump line="29" column="11" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
       <jump line="4" column="12" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" />
       <jump line="76" column="12" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_base.py" />
+      <jump line="73" column="18" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_routes.py" />
+      <jump line="164" column="4" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzBdLnVybCA9PSAiLyIKICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzBdLm1ldGhvZCA9PSAiR0VUIgogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMF0uaGFuZGxlciA9PSBhZG1pbi5tYWluCiAgICAgICAgYXNzZXJ0IGFkbWluLnJvdXRlc1swXS5kb2N1bWVudGVkIGlzIEZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>, name: http.QueryParam</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXJsIA==</text>
+        <text>, name: http.QueryParam</text>
       </register>
       <register name="/" type="4">
-        <text>cls</text>
+        <text>routes.routes()</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzBdLnVybCA9PSAiLyIKICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzBdLm1ldGhvZCA9PSAiR0VUIgogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMF0uaGFuZGxlciA9PSBhZG1pbi5tYWluCiAgICAgICAgYXNzZXJ0IGFkbWluLnJvdXRlc1swXS5kb2N1bWVudGVkIGlzIEZhbHNlCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cGFnZTogaHR0cC5RdWVyeVBhcmFtPU5vbmUsIHBhZ2Vfc2l6ZTogaHR0cC5RdWVyeVBhcmFtPU5vbmUsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJbMV0udXJsID09ICIvYWRtaW4vIgogICAgICAgIGFzc2VydCByWzFdLm5hbWUgPT0gImFkbWluIgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIEBweXRlc3QubWFyay5wYXJhbWV0cml6ZSgKICAgICAgICAicmVzb3VyY2UiLCBbKCJjcmVhdGUiLCAicmV0cmlldmUiLCAidXBkYXRlIiwgImRlbGV0ZSIsICJsaXN0IiwgImRyb3AiKV0sIGluZGlyZWN0PVsicmVzb3VyY2UiXQogICAgKQogICAgZGVmIHRlc3RfbmV3X2V4cGxpY2l0X21ldGhvZHMoc2VsZiwgcmVzb3VyY2UpOgogICAgICAgIGFzc2VydCBoYXNhdHRyKHJlc291cmNlLCAiY3JlYXRlIikKICAgICAgICBhc3NlcnQgaGFzYXR0cihyZXNvdXJjZSwgInJldHJpZXZlIikKICAgICAgICBhc3NlcnQgaGFzYXR0cihyZXNvdXJjZSwgInVwZGF0ZSIpCiAgICAgICAgYXNzZXJ0IGhhc2F0dHIocmVzb3VyY2UsICJkZWxldGUiKQogICAgICAgIGFzc2VydCBoYXNhdHRyKHJlc291cmNlLCAibGlzdCIpCiAgICAgICAgYXNzZXJ0IGhhc2F0dHIocmVzb3VyY2UsICJkcm9wIikKICAgICAgICBhc3NlcnQgbGVuKHJlc291cmNlLnJvdXRlcykgPT0gNgogICAgICAgIGFzc2VydCBbcm91dGUuaGFuZGxlciBmb3Igcm91dGUgaW4gcmVzb3VyY2Uucm91dGVzXSA9PSBbCiAgICAgICAgICAgIHJlc291cmNlLmNyZWF0ZSwKICAgICAgICAgICAgcmVzb3VyY2UucmV0cmlldmUsCiAgICAgICAgICAgIHJlc291cmNlLnVwZGF0ZSwKICAgICAgICAgICAgcmVzb3VyY2UuZGVsZXRlLAogICAgICAgICAgICByZXNvdXJjZS5saXN0LAogICAgICAgICAgICByZXNvdXJjZS5kcm9wLAogICAgICAgIF0KCiAgICBkZWYgdGVzdF9vdmVycmlkZV9tZXRob2Qoc2VsZiwgcmVzb3VyY2UpOgogICAgICAgIGNsYXNzIFNwZWNpYWxpemVkUHVwcHlSZXNvdXJjZShyZXNvdXJjZSk6CiAgICAgICAgICAgIEBjbGFzc21ldGhvZAogICAgICAgICAgICBkZWYgbGlzdChjbHMpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcgoKICAgICAgICBhc3NlcnQgaGFzYXR0cihTcGVjaWFsaXplZFB1cHB5UmVzb3VyY2UsICJjcmVhdGUiKQogICAgICAgIGFzc2VydCBoYXNhdHRyKFNwZWNpYWxpemVkUHVwcHlSZXNvdXJjZSwgInJldHJpZXZlIikKICAgICAgICBhc3NlcnQgaGFzYXR0cihTcGVjaWFsaXplZFB1cHB5UmVzb3VyY2UsICJ1cGRhdGUiKQogICAgICAgIGFzc2VydCBoYXNhdHRyKFNwZWNpYWxpemVkUHVwcHlSZXNvdXJjZSwgImRlbGV0ZSIpCiAgICAgICAgYXNzZXJ0IGhhc2F0dHIoU3BlY2lhbGl6ZWRQdXBweVJlc291cmNlLCAibGlzdCIpCiAgICAgICAgYXNzZXJ0IGxlbihTcGVjaWFsaXplZFB1cHB5UmVzb3VyY2Uucm91dGVzKSA9PSA1CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBTcGVjaWFsaXplZFB1cHB5UmVzb3VyY2UubGlzdCgpCgogICAgZGVmIHRlc3RfbmV3X25vX21vZGVsKHNlbGYpOgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhBdHRyaWJ1dGVFcnJvcik6CgogICAgICAgICAgICBjbGFzcyBQdXBweVJlc291cmNlKG1ldGFjbGFzcz1SZXNvdXJjZSk6CiAgICAgICAgICAgICAgICBpbnB1dF90eXBlID0gUHVwcHlJbnB1dFR5cGUKICAgICAgICAgICAgICAgIG91dHB1dF90eXBlID0gUHVwcHlPdXRwdXRUeXBlCgogICAgZGVmIHRlc3RfbmV3X25vX25hbWUoc2VsZik6CiAgICAgICAgY2xhc3MgUHVwcHlSZXNvdXJjZShtZXRhY2xhc3M9UmVzb3VyY2UpOgogICAgICAgICAgICBtb2RlbCA9IFB1cHB5TW9kZWwKICAgICAgICAgICAgaW5wdXRfdHlwZSA9IFB1cHB5SW5wdXRUeXBlCiAgICAgICAgICAgIG91dHB1dF90eXBlID0gUHVwcHlPdXRwdXRUeXBlCgogICAgICAgIGFzc2VydCBQdXBweVJlc291cmNlLm5hbWUgPT0gInB1cHB5cmVzb3VyY2UiCgogICAgZGVmIHRlc3RfbmV3X3dyb25nX25hbWUoc2VsZik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKEF0dHJpYnV0ZUVycm9yKToKCiAgICAgICAgICAgIGNsYXNzIFB1cHB5UmVzb3VyY2UobWV0YWNsYXNzPVJlc291cmNlKToKICAgICAgICAgICAgICAgIG5hbWUgPSAiMTIzZm9vIgogICAgICAgICAgICAgICAgbW9kZWwgPSBQdXBweU1vZGVsCiAgICAgICAgICAgICAgICBpbnB1dF90eXBlID0gUHVwcHlJbnB1dFR5cGUKICAgICAgICAgICAgICAgIG91dHB1dF90eXBlID0gUHVwcHlPdXRwdXRUeXBlCgogICAgZGVmIHRlc3RfbmV3X25vX2lucHV0X3R5cGUoc2VsZik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKEF0dHJpYnV0ZUVycm9yKToKCiAgICAgICAgICAgIGNsYXNzIFB1cHB5UmVzb3VyY2UobWV0YWNsYXNzPVJlc291cmNlKToKICAgICAgICAgICAgICAgIG1vZGVsID0gUHVwcHlNb2RlbAogICAgICAgICAgICAgICAgb3V0cHV0X3R5cGUgPSBQdXBweU91dHB1dFR5cGUKCiAgICBkZWYgdGVzdF9uZXdfbm9fb3V0cHV0X3R5cGUoc2VsZik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKEF0dHJpYnV0ZUVycm9yKToKCiAgICAgICAgICAgIGNsYXNzIFB1cHB5UmVzb3VyY2UobWV0YWNsYXNzPVJlc291cmNlKToKICAgICAgICAgICAgICAgIG1vZGVsID0gUHVwcHlNb2RlbAogICAgICAgICAgICAgICAgaW5wdXRfdHlwZSA9IFB1cHB5SW5wdXRUeXBlCgogICAgZGVmIHRlc3RfbmV3X3dyb25nX21ldGhvZHMoc2VsZik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKEF0dHJpYnV0ZUVycm9yKToKCiAgICAgICAgICAgIGNsYXNzIFB1cHB5UmVzb3VyY2UobWV0YWNsYXNzPVJlc291cmNlKToKICAgICAgICAgICAgICAgIG1vZGVsID0gUHVwcHlNb2RlbAogICAgICAgICAgICAgICAgaW5wdXRfdHlwZSA9IFB1cHB5SW5wdXRUeXBlCiAgICAgICAgICAgICAgICBvdXRwdXRfdHlwZSA9IFB1cHB5T3V0cHV0VHlwZQogICAgICAgICAgICAgICAgbWV0aG9kcyA9ICgiZm9vIiwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyX2NydWQuc3FsYWxjaGVteSBpbXBvcnQgUmVzb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgclswXS5yb3V0ZXMgPT0gUHVwcHlSZXNvdXJjZS5yb3V0ZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyX2NydWQuYWRtaW4gaW1wb3J0IEFkbWluCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2UuZGVsZXRlLAogICAgICAgICAgICByZXNvdXJjZS5saXN0LAo=</text>
+        <text encoding="base64">ICAgICAgICBhZG1pbiA9IEFkbWluKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2UucmV0cmlldmUsCiAgICAgICAgICAgIHJlc291cmNlLnVwZGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgclswXS5yb3V0ZXMgPT0gYWRtaW4ucm91dGVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgW3JvdXRlLmhhbmRsZXIgZm9yIHJvdXRlIGluIHJlc291cmNlLnJvdXRlc10gPT0gWwogICAgICAgICAgICByZXNvdXJjZS5jcmVhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcm91dGVzLnJvdXRlcygpWzBdLnVybCA9PSAiL3B1cHB5Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaGFzYXR0cihyZXNvdXJjZSwgImxpc3QiKQogICAgICAgIGFzc2VydCBsZW4ocmVzb3VyY2Uucm91dGVzKSA9PSA1Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</text>
+        <text encoding="base64">JzwsJz5zL3JvdXRlcy5yb3V0ZXMoKS9yL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>cls</last-search>
+      <last-search>routes.routes()</last-search>
       <last-offset />
-      <last-pattern>cls</last-pattern>
-      <last-replace>self</last-replace>
-      <last-substitute>cls</last-substitute>
+      <last-pattern>routes.routes()</last-pattern>
+      <last-replace>r</last-replace>
+      <last-substitute>routes.routes()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>, \(namespace.*?\),</entry>
         <entry>\(namespace.*?\), model</entry>
         <entry>\(namespace.*\), model</entry>
         <entry>):</entry>
@@ -4308,9 +4322,9 @@
         <entry>password</entry>
         <entry>User</entry>
         <entry>cls</entry>
+        <entry>routes.routes()</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</entry>
         <entry>%s/assert instagram_account == \(.*\)/assert instagram_account_response == \1/g</entry>
         <entry>%s/assert another_instagram_account == \(.*\)/assert another_instagram_account_response == \1/g</entry>
         <entry>%s/account_response/account/g</entry>
@@ -4330,6 +4344,7 @@
         <entry encoding="base64">JzwsJz5zL1VzZXIvR3JvdXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3JvdXRlcy5yb3V0ZXMoKS9yL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
