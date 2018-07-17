@@ -3612,12 +3612,12 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" timestamp="1531826963215">
-        <mark key="'" line="167" column="4" />
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="200" column="39" />
-        <mark key="^" line="200" column="98" />
-        <mark key="." line="200" column="16" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" timestamp="1531828428724">
+        <mark key="'" line="175" column="4" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="142" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/login/__main__.py" timestamp="1509106008604">
         <mark key="[" line="14" column="6" />
@@ -4246,8 +4246,8 @@
       <jump line="164" column="4" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, name: http.QueryParam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4259,34 +4259,42 @@
         <text>routes.routes()</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cGFnZTogaHR0cC5RdWVyeVBhcmFtPU5vbmUsIHBhZ2Vfc2l6ZTogaHR0cC5RdWVyeVBhcmFtPU5vbmUsIA==</text>
+        <text>from apistar_crud.routes import routes as resource_routes
+
+resource_routes.register(PuppyResource, &quot;/puppy/&quot;, admin=True)
+
+routes = [
+    # ... your app routes
+]
+
+routes += resource_routes.routes()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJbMV0udXJsID09ICIvYWRtaW4vIgogICAgICAgIGFzc2VydCByWzFdLm5hbWUgPT0gImFkbWluIgo=</text>
+        <text encoding="base64">XQpgYGAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVzID0gWwogICAgSW5jbHVkZSgiL3B1cHB5IiwgIlB1cHB5IiwgUHVwcHlSZXNvdXJjZS5yb3V0ZXMpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgclswXS5yb3V0ZXMgPT0gUHVwcHlSZXNvdXJjZS5yb3V0ZXMK</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyIGltcG9ydCBJbmNsdWRlCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyX2NydWQuYWRtaW4gaW1wb3J0IEFkbWluCg==</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyIGltcG9ydCBJbmNsdWRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pbiA9IEFkbWluKCkK</text>
+        <text encoding="base64">ICAgIEluY2x1ZGUoIi9wdXBweSIsICJQdXBweSIsIFB1cHB5UmVzb3VyY2Uucm91dGVzKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgclswXS5yb3V0ZXMgPT0gYWRtaW4ucm91dGVzCg==</text>
+        <text encoding="base64">cmVzb3VyY2Vfcm91dGVzLnJvdXRlcygpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcm91dGVzLnJvdXRlcygpWzBdLnVybCA9PSAiL3B1cHB5Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJbMV0udXJsID09ICIvYWRtaW4vIgogICAgICAgIGFzc2VydCByWzFdLm5hbWUgPT0gImFkbWluIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JvdXRlcy5yb3V0ZXMoKS9yL2c=</text>
