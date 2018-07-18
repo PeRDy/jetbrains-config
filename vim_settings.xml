@@ -123,7 +123,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" timestamp="1531914075396">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" timestamp="1531914688587">
         <mark key="'" line="32" column="12" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -3985,14 +3985,14 @@
       <jump line="13" column="8" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/components/jwt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIHJlc291cmNlX2lkICE9ICJhZGQiOgogICAgICAgICAgICAgICAgY29udGV4dFsicmVzb3VyY2UiXS51cGRhdGUoewo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>})</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6</text>
       </register>
       <register name="/" type="4">
         <text>run_command</text>
