@@ -123,12 +123,11 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" timestamp="1531925114286">
-        <mark key="'" line="32" column="12" />
-        <mark key="[" line="92" column="70" />
-        <mark key="]" line="92" column="86" />
-        <mark key="." line="92" column="86" />
-        <mark key="^" line="92" column="86" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/admin.py" timestamp="1531926067560">
+        <mark key="'" line="38" column="12" />
+        <mark key="]" line="98" column="86" />
+        <mark key="." line="98" column="86" />
+        <mark key="^" line="97" column="86" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/api.js" timestamp="1517228713991">
         <mark key="[" line="7" column="9" />
@@ -2803,11 +2802,11 @@
         <mark key="^" line="29" column="55" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" timestamp="1531923948291">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="0" column="36" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" timestamp="1531927191361">
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="73" column="19" />
+        <mark key="^" line="71" column="15" />
+        <mark key="." line="73" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/linkedin/apps.py" timestamp="1493760524605">
         <mark key="[" line="0" column="33" />
@@ -3988,47 +3987,47 @@
       <jump line="13" column="8" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/components/jwt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm91dGUoIi8iLCAiR0VUIiwgc2VsZi5tYWluLCBuYW1lPSJtYWluIiwgZG9jdW1lbnRlZD1GYWxzZSksCg==</text>
+      <register name="&quot;" type="4">
+        <text>render_template</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFpbiA=</text>
+        <text>render_template</text>
       </register>
       <register name="/" type="4">
         <text>run_command</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm91dGUoIi8iLCAiR0VUIiwgc2VsZi5tYWluLCBuYW1lPSJtYWluIiwgZG9jdW1lbnRlZD1GYWxzZSksCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxscyA9IFtjYWxsKCJhcGlzdGFyX2NydWQvYWRtaW5fbWFpbi5odG1sIiwgcmVzb3VyY2VzPXsiUHVwcHkiOiAiL2ZvbyJ9KV0KCiAgICAgICAgYWRtaW4ubWFpbihhcHApCgogICAgICAgIGFzc2VydCBhcHAucmVuZGVyX3RlbXBsYXRlLmNhbGxfYXJnc19saXN0ID09IGV4cGVjdGVkX2NhbGxzCiAgICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGFwcC5yZW5kZXJfdGVtcGxhdGUoImFwaXN0YXJfY3J1ZC9hZG1pbl9tYWluLmh0bWwiLCAqKmNvbnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxscyA9IFtjYWxsKCJhcGlzdGFyX2NydWQvYWRtaW5fbWFpbi5odG1sIiwgcmVzb3VyY2VzPXsiUHVwcHkiOiAiL2ZvbyJ9KV0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVzb3VyY2U6IFJlc291cmNlLgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGFwcC5yZW5kZXJfdGVtcGxhdGUoImFwaXN0YXJfY3J1ZC9hZG1pbl9tYWluLmh0bWwiLCAqKmNvbnRleHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2J5X2lkKHNlbGYsIGlkKToK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVzb3VyY2U6IFJlc291cmNlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrLm1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2J5X2lkKHNlbGYsIGlkKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGlucHV0X3R5cGUK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrLm1vZGVsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZG1pbiA9IEFkbWluKHJlc291cmNlKQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmlzIG1lIAo=</text>
+        <text encoding="base64">ICAgIEBweXRlc3QuZml4dHVyZQogICAgZGVmIGlucHV0X3R5cGUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3JvdXRlcy5yb3V0ZXMoKS9yL2c=</text>
