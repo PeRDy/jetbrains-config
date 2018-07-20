@@ -1215,6 +1215,13 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" timestamp="1532076155328">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="12" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="64" column="12" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/pyproject.toml" timestamp="1528716503420">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="24" />
@@ -1758,12 +1765,6 @@
         <mark key="]" line="180" column="48" />
         <mark key="^" line="176" column="21" />
         <mark key="." line="180" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/anzu/routes.py" timestamp="1531757378461">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegraf/make" timestamp="1509125960232">
         <mark key="[" line="114" column="0" />
@@ -2661,7 +2662,7 @@
         <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/instagram/models.py" timestamp="1531921068335">
-        <mark key="[" line="29" column="30" />
+        <mark key="[" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
@@ -3563,6 +3564,9 @@
         <mark key="." line="50" column="12" />
         <mark key="^" line="49" column="11" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/deployment/development/service.json" timestamp="1532076074467">
+        <mark key="[" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/models.py" timestamp="1522495247872">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="143" column="0" />
@@ -3746,12 +3750,6 @@
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/instagram/resources.py" timestamp="1531761450106">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/templates/news/items/segment.html" timestamp="1465663693902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="47" />
@@ -3836,12 +3834,6 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/anzu/app.py" timestamp="1531741976041">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="22" column="112" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/core/urls.py" timestamp="1516962849853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -3905,7 +3897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="134" column="17" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="136" column="22" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="111" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
@@ -4005,10 +3996,11 @@
       <jump line="13" column="8" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/components/jwt.py" />
       <jump line="13" column="12" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/test_resources.py" />
       <jump line="37" column="5" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGJhc2UK</text>
+        <text encoding="base64">ICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4023,31 +4015,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQgdXNlclsidXNlcm5hbWUiXSA9PSBuZXdfdXNlclsidXNlcm5hbWUiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGJhc2UK</text>
+        <text encoding="base64">ICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlbGVtZW50X2lkOgogICAgICAgICAgICByZXR1cm4gdXJsam9pbihiYXNlLCBzdHIoZWxlbWVudF9pZCkgKyAiLyIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGp3dAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbCh1c2VyLCBuZXdfdXNlcikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGluZwpmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgdXJsam9pbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CiAgICAgICAgcmV0dXJuIGJhc2UK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBlbGVtZW50X2lkOgogICAgICAgICAgICByZXR1cm4gdXJsam9pbihiYXNlLCBzdHIoZWxlbWVudF9pZCkgKyAiLyIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGp3dAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbCh1c2VyLCBuZXdfdXNlcikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHR5cGluZwpmcm9tIHVybGxpYi5wYXJzZSBpbXBvcnQgdXJsam9pbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB1cmwoc2VsZiwgZWxlbWVudF9pZDogaW50ID0gTm9uZSk6CiAgICAgICAgYmFzZSA9ICIvaW5zdGFncmFtX2FjY291bnQvIgogICAgICAgIGlmIGVsZW1lbnRfaWQ6CiAgICAgICAgICAgIHJldHVybiB1cmxqb2luKGJhc2UsIHN0cihlbGVtZW50X2lkKSArICIvIikK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGJhc2UK</text>
       </register>
       <register name=":" type="4">
         <text>%s/instagram_account/user/g</text>
