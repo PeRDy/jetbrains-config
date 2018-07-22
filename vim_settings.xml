@@ -33,17 +33,11 @@
         <mark key="." line="26" column="52" />
         <mark key="^" line="26" column="52" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/templates/admin_list.html" timestamp="1531738822785">
-        <mark key="[" line="4" column="42" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Github.vue" timestamp="1498431379345">
         <mark key="[" line="54" column="17" />
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1531928929076">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
         <mark key="[" line="2" column="28" />
@@ -315,12 +309,11 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" timestamp="1532294777992">
-        <mark key="'" line="124" column="8" />
-        <mark key="[" line="135" column="15" />
-        <mark key="]" line="135" column="15" />
-        <mark key="^" line="135" column="39" />
-        <mark key="." line="135" column="15" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" timestamp="1532297977706">
+        <mark key="'" line="112" column="41" />
+        <mark key="[" line="49" column="53" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/.dockerignore" timestamp="1511821820090">
         <mark key="[" line="6" column="7" />
@@ -340,6 +333,11 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/setup.cfg" timestamp="1532297859392">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_peewee_orm/event_hooks.py" timestamp="1528892110464">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="16" />
@@ -357,9 +355,6 @@
         <mark key="]" line="24" column="81" />
         <mark key="." line="24" column="81" />
         <mark key="^" line="24" column="81" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/schemas/permission.py" timestamp="1531855206280">
-        <mark key="[" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/goobox/goobox-nodes-scraper/core/tests/pipelines/test_stats.py" timestamp="1522071401189">
         <mark key="[" line="10" column="15" />
@@ -414,6 +409,11 @@
         <mark key="]" line="2" column="41" />
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/test_views.py" timestamp="1532300110208">
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run_ci.py" timestamp="1486057004672">
         <mark key="[" line="0" column="0" />
@@ -685,8 +685,11 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/views.py" timestamp="1532287481284">
-        <mark key="[" line="6" column="31" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/views.py" timestamp="1532300294840">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/views/api/test_mixins.py" timestamp="1453245053657">
         <mark key="[" line="130" column="22" />
@@ -759,9 +762,6 @@
         <mark key="]" line="109" column="40" />
         <mark key="." line="109" column="40" />
         <mark key="^" line="109" column="40" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/farmers/models/__init__.py" timestamp="1531491801848">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/scss/base.scss" timestamp="1499272542532">
         <mark key="[" line="2" column="25" />
@@ -1891,9 +1891,6 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/pyproject.toml" timestamp="1531485602644">
-        <mark key="[" line="3" column="28" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/flights_analyzer/settings.py" timestamp="1512000924289">
         <mark key="[" line="77" column="53" />
         <mark key="]" line="76" column="50" />
@@ -2013,9 +2010,6 @@
         <mark key="]" line="30" column="37" />
         <mark key="." line="30" column="37" />
         <mark key="^" line="68" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/CONTRIBUTORS.md" timestamp="1531829565096">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-telegram/bot/mixins/start.py" timestamp="1524218407632">
         <mark key="[" line="263" column="70" />
@@ -2215,9 +2209,6 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/Dockerfile" timestamp="1531499126527">
-        <mark key="[" line="1" column="5" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1516664599038">
         <mark key="[" line="269" column="31" />
         <mark key="]" line="269" column="55" />
@@ -2313,9 +2304,6 @@
         <mark key="." line="10" column="81" />
         <mark key="^" line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/setup.cfg" timestamp="1532089180653">
-        <mark key="^" line="77" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/barrenero/barrenero-telegram/__main__.py" timestamp="1516114995996">
         <mark key="[" line="96" column="94" />
         <mark key="]" line="96" column="78" />
@@ -2388,11 +2376,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/schemas/login.py" timestamp="1531858636748">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="23" column="65" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="25" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/schemas/login.py" timestamp="1532300029452">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/barrenero_api/urls/api/v1.py" timestamp="1513641229550">
         <mark key="[" line="3" column="11" />
@@ -2586,9 +2574,6 @@
         <mark key="^" line="78" column="46" />
         <mark key="." line="78" column="46" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/constraints.txt" timestamp="1531908937364">
-        <mark key="[" line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/templates/barrenero_miner_ether.service.jinja2" timestamp="1507475217778">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="27" />
@@ -2661,9 +2646,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/instagram/models.py" timestamp="1531921068335">
-        <mark key="[" line="28" column="30" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/tests/run/test_mixins.py" timestamp="1493747266126">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -2706,9 +2688,6 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/development.json" timestamp="1531135752095">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/test_decorators.py" timestamp="1452289384273">
         <mark key="[" line="45" column="35" />
         <mark key="]" line="45" column="35" />
@@ -2720,9 +2699,6 @@
         <mark key="]" line="18" column="10" />
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/README.md" timestamp="1531386910125">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/apistar_crud/sqlalchemy.py" timestamp="1528382670718">
         <mark key="[" line="84" column="15" />
@@ -3272,9 +3248,6 @@
         <mark key="^" line="58" column="30" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/make" timestamp="1531485560401">
-        <mark key="[" line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/systemd/barrenero_telegram.service" timestamp="1507454991300">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
@@ -3371,17 +3344,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="42" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/builder/requirements.txt" timestamp="1531387132783">
-        <mark key="[" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/routes.py" timestamp="1531925139198">
         <mark key="[" line="38" column="71" />
         <mark key="]" line="27" column="34" />
         <mark key="." line="27" column="34" />
         <mark key="^" line="39" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-pagination/README.md" timestamp="1532089035289">
-        <mark key="[" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/src/settings.js" timestamp="1517581591482">
         <mark key="[" line="1" column="29" />
@@ -3448,9 +3415,6 @@
         <mark key="]" line="22" column="3" />
         <mark key="." line="22" column="3" />
         <mark key="^" line="16" column="79" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/deployment/templates/task_definition.json.j2" timestamp="1531391819387">
-        <mark key="[" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-app/README.md" timestamp="1518467006198">
         <mark key="[" line="2" column="0" />
@@ -3542,9 +3506,6 @@
         <mark key="." line="191" column="7" />
         <mark key="^" line="191" column="7" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/instagram/resources.py" timestamp="1530798008502">
-        <mark key="[" line="12" column="41" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/clinner/clinner/run.py" timestamp="1488285198849">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -3562,9 +3523,6 @@
         <mark key="]" line="50" column="12" />
         <mark key="." line="50" column="12" />
         <mark key="^" line="49" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/anzu/deployment/development/service.json" timestamp="1532076074467">
-        <mark key="[" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/recipes/models.py" timestamp="1522495247872">
         <mark key="[" line="9" column="30" />
@@ -3734,8 +3692,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/conftest.py" timestamp="1531929160862">
-        <mark key="[" line="5" column="5" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/conftest.py" timestamp="1532299353008">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/docker-compose.yml" timestamp="1531930233156">
         <mark key="[" line="3" column="12" />
@@ -3896,9 +3858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="18" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="98" column="9" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
-      <jump line="2" column="12" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/cli.py" />
       <jump line="121" column="0" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="134" column="17" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="135" column="27" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
@@ -3996,58 +3955,61 @@
       <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="134" column="48" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="123" column="8" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="151" column="41" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="29" column="9" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/conftest.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/conftest.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
-        <text>new_</text>
+        <text>ipdb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdCh1cmwsIGpzb249dXNlcikKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAxCiAgICAgICAgbmV3X3VzZXIgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBhc3NlcnQgdXNlclsidXNlcm5hbWUiXSA9PSBuZXdfdXNlclsidXNlcm5hbWUiXQogICAgICAgIGFzc2VydCBDcnlwdCgpLmNyeXB0KHVzZXJbInBhc3N3b3JkIl0pID09IG5ld191c2VyWyJwYXNzd29yZCJdCiAgICAgICAgYXNzZXJ0IHVzZXJbImVtYWlsIl0gPT0gbmV3X3VzZXJbImVtYWlsIl0KCg==</text>
+      <register name="0" type="4">
+        <text>(scope=&quot;session&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChhbm90aGVyX3VzZXIsIHVwZGF0ZWRfdXNlcikKCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAxCiAgICAgICAgdXBkYXRlZF91c2VyID0gcmVzcG9uc2UuanNvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPXVzZXIpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMQogICAgICAgIG5ld191c2VyID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgc2VsZi5hc3NlcnRJbnN0YWdyYW1BY2NvdW50RXF1YWwodXNlciwgbmV3X3VzZXIpCgogICAgICAgICMgU3VjY2Vzc2Z1bGx5IGNyZWF0ZSBhbm90aGVyIG5ldyByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wb3N0KHNlbGYudXJsKCksIGpzb249YW5vdGhlcl91c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgdG9rCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqd3QsIGV4cGlyYXRpb24gPSB1c2VyLmp3dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAcHl0ZXN0Lm1hcmsuaW50ZWdyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFVwZGF0ZSByZWNvcmQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge2s6IHYgZm9yIGssIHYgaW4gdXNlcl9kYXRhLml0ZW1zKCkgaWYgayBpbiAoInVzZXJuYW1lIiwgInBhc3N3b3JkIiwgImVtYWlsIil9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wdXQoc2VsZi51cmwobmV3X3VzZXJbImlkIl0pLCBqc29uPWFub3RoZXJfdXNlcikK</text>
+        <text encoding="base64">ZnJvbSBpYW0gaW1wb3J0IHNjaGVtYXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wdXQoc2VsZi51cmwobmV3X3VzZXJbImlkIl0pLCBqc29uPWFub3RoZXJfdXNlcikK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wb3N0KHVybCgpLCBqc29uPXVzZXIpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMQogICAgICAgIG5ld191c2VyID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0IHVzZXJbInVzZXJuYW1lIl0gPT0gbmV3X3VzZXJbInVzZXJuYW1lIl0KICAgICAgICBhc3NlcnQgQ3J5cHQoKS5jcnlwdCh1c2VyWyJwYXNzd29yZCJdKSA9PSBuZXdfdXNlclsicGFzc3dvcmQiXQogICAgICAgIGFzc2VydCB1c2VyWyJlbWFpbCJdID09IG5ld191c2VyWyJlbWFpbCJdCgogICAgICAgICMgTGlzdCBhbGwgdGhlIGV4aXN0aW5nIHJlY29yZHMKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5nZXQodXJsKCkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gW25ld191c2VyXQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbCh1c2VyLCBuZXdfdXNlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>new_</last-search>
+      <last-search>ipdb</last-search>
       <last-offset />
-      <last-pattern>new_</last-pattern>
+      <last-pattern>ipdb</last-pattern>
       <last-replace>first_</last-replace>
       <last-substitute>new_</last-substitute>
       <last-dir>1</last-dir>
@@ -4055,7 +4017,6 @@
     </search>
     <history>
       <history-search>
-        <entry>account_response</entry>
         <entry>assert \([a-z_]\+\) == \([a-z_]\+\)</entry>
         <entry>\(\w\+\)=</entry>
         <entry>pip install.*</entry>
@@ -4075,6 +4036,7 @@
         <entry>response.json() == [/response.json()[&quot;data&quot;] == [/g</entry>
         <entry>response.json() == \[</entry>
         <entry>new_</entry>
+        <entry>ipdb</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
