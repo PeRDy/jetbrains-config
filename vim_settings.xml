@@ -315,11 +315,12 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" timestamp="1532291461914">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="36" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" timestamp="1532294777992">
+        <mark key="'" line="124" column="8" />
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="135" column="15" />
+        <mark key="^" line="135" column="39" />
+        <mark key="." line="135" column="15" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/.dockerignore" timestamp="1511821820090">
         <mark key="[" line="6" column="7" />
@@ -447,8 +448,10 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/huerteo_api/routes.py" timestamp="1532291887496">
-        <mark key="[" line="16" column="45" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/huerteo_api/routes.py" timestamp="1532293254090">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/make" timestamp="1513703982073">
         <mark key="[" line="99" column="22" />
@@ -604,10 +607,10 @@
         <mark key="^" line="117" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/schemas/user.py" timestamp="1532287558428">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Desarrollo/cookiecutter-python-package/{{cookiecutter.project_slug}}/MANIFEST.in" timestamp="1492352633754">
         <mark key="[" line="7" column="0" />
@@ -2227,10 +2230,10 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/resources.py" timestamp="1532291726688">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/resources.py" timestamp="1532293601267">
+        <mark key="[" line="27" column="66" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
@@ -3893,12 +3896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="93" column="33" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="106" column="37" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="135" column="41" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="143" column="8" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
-      <jump line="149" column="35" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="154" column="18" filename="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/tests/unit/users/test_creator.py" />
       <jump line="98" column="9" filename="$USER_HOME$/Desarrollo/perdy/apistar-peewee-orm/apistar_peewee_orm/__main__.py" />
       <jump line="2" column="12" filename="$USER_HOME$/Desarrollo/perdy/clinner/clinner/cli.py" />
@@ -3993,66 +3990,71 @@
       <jump line="14" column="28" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/demo.py" />
       <jump line="204" column="35" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/resource/test_peewee.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/resource/test_sqlalchemy.py" />
+      <jump line="79" column="35" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="116" column="23" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="34" column="41" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="134" column="48" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlcihtZXRhY2xhc3M9UmVzb3VyY2UpOgo=</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>Type</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>response.json() == \[</text>
+        <text>new_</text>
       </register>
-      <register name="0" type="4">
-        <text>playhouse.apsw_ext</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdCh1cmwsIGpzb249dXNlcikKICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAxCiAgICAgICAgbmV3X3VzZXIgPSByZXNwb25zZS5qc29uKCkKICAgICAgICBhc3NlcnQgdXNlclsidXNlcm5hbWUiXSA9PSBuZXdfdXNlclsidXNlcm5hbWUiXQogICAgICAgIGFzc2VydCBDcnlwdCgpLmNyeXB0KHVzZXJbInBhc3N3b3JkIl0pID09IG5ld191c2VyWyJwYXNzd29yZCJdCiAgICAgICAgYXNzZXJ0IHVzZXJbImVtYWlsIl0gPT0gbmV3X3VzZXJbImVtYWlsIl0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlcihtZXRhY2xhc3M9UmVzb3VyY2UpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbChhbm90aGVyX3VzZXIsIHVwZGF0ZWRfdXNlcikKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHMgPSAoImNyZWF0ZSIsICJyZXRyaWV2ZSIsICJ1cGRhdGUiLCAiZGVsZXRlIiwgImxpc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2Uuc3RhdHVzX2NvZGUgPT0gMjAxCiAgICAgICAgdXBkYXRlZF91c2VyID0gcmVzcG9uc2UuanNvbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCiAgICAgICAgcmVzcG9uc2UgPSBjbGllbnQucG9zdChzZWxmLnVybCgpLCBqc29uPXVzZXIpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMQogICAgICAgIG5ld191c2VyID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgc2VsZi5hc3NlcnRJbnN0YWdyYW1BY2NvdW50RXF1YWwodXNlciwgbmV3X3VzZXIpCgogICAgICAgICMgU3VjY2Vzc2Z1bGx5IGNyZWF0ZSBhbm90aGVyIG5ldyByZWNvcmQKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wb3N0KHNlbGYudXJsKCksIGpzb249YW5vdGhlcl91c2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">CiAgICBAcHl0ZXN0Lm1hcmsuaW50ZWdyYXRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCgo=</text>
+        <text encoding="base64">ICAgICAgICAjIFVwZGF0ZSByZWNvcmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpvaW5lZCA9IHZhbGlkYXRvcnMuU3RyaW5nKHRpdGxlPSJqb2luZWQiLCBkZXNjcmlwdGlvbj0iRGF0ZSB3aGVuIHVzZXIgam9pbmVkIiwgYWxsb3dfbnVsbD1UcnVlKQogICAgbGFzdF9sb2dpbiA9IHZhbGlkYXRvcnMuU3RyaW5nKHRpdGxlPSJsYXN0X2xvZ2luIiwgZGVzY3JpcHRpb249Ikxhc3QgbG9naW4gZGF0ZSIsIGFsbG93X251bGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wdXQoc2VsZi51cmwobmV3X3VzZXJbImlkIl0pLCBqc29uPWFub3RoZXJfdXNlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wdXQoc2VsZi51cmwobmV3X3VzZXJbImlkIl0pLCBqc29uPWFub3RoZXJfdXNlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc2VsZi5sYXN0X2xvZ2luID0gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkKICAgICAgICBzdXBlcigpLnNhdmUoKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluc3RhZ3JhbUFjY291bnRFcXVhbCh1c2VyLCBuZXdfdXNlcikK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/response.json() == \[/response.json()[&quot;data&quot;] == [/g</text>
+        <text encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>response.json() == \[</last-search>
+      <last-search>new_</last-search>
       <last-offset />
-      <last-pattern>response.json() == \[</last-pattern>
-      <last-replace>response.json()[&quot;data&quot;] == [</last-replace>
-      <last-substitute>response.json() == \[</last-substitute>
+      <last-pattern>new_</last-pattern>
+      <last-replace>first_</last-replace>
+      <last-substitute>new_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>assert another_instagram_account == \(.*\)</entry>
         <entry>account_response</entry>
         <entry>assert \([a-z_]\+\) == \([a-z_]\+\)</entry>
         <entry>\(\w\+\)=</entry>
@@ -4072,11 +4074,9 @@
         <entry>peewee</entry>
         <entry>response.json() == [/response.json()[&quot;data&quot;] == [/g</entry>
         <entry>response.json() == \[</entry>
+        <entry>new_</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1woXHdcK1wpPS8iXDEiOiAvZw==</entry>
-        <entry>%s/pip install.*/pip install -r bitbucket-pipelines-requirements.txt/g</entry>
-        <entry>%s#--image=anzu#--image=whalar/anzu#g</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</entry>
         <entry>%s#/puppy/#/hooman/#g</entry>
@@ -4094,6 +4094,9 @@
         <entry encoding="base64">JzwsJz5zL3BlZXdlZS9wbGF5aG91c2UuYXBzd19leHQvZw==</entry>
         <entry>%s/response.json() == [/response.json()[&quot;data&quot;] == [/g</entry>
         <entry>%s/response.json() == \[/response.json()[&quot;data&quot;] == [/g</entry>
+        <entry encoding="base64">JzwsJz5zL25ld18vdXBkYXRlZF8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL25ld18vc2Vjb25kXy9n</entry>
+        <entry encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
