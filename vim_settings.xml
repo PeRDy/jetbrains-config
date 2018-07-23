@@ -1948,6 +1948,13 @@
         <mark key="." line="78" column="42" />
         <mark key="^" line="78" column="42" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" timestamp="1532338398243">
+        <mark key="'" line="17" column="16" />
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516674236372">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="28" />
@@ -3858,7 +3865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="23" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="153" column="26" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="154" column="24" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="155" column="27" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
@@ -3958,6 +3964,7 @@
       <jump line="134" column="9" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="165" column="24" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="17" column="16" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3970,7 +3977,7 @@
         <text>decode</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;bar&quot;</text>
+        <text>anzu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0CiAgICBkZWYgdGVzdF9kZWNvZGVfand0KHNlbGYsIHVzZXIpOgogICAgICAgIHRva2VuLCBleHBpcmF0aW9uID0gdXNlci5qd3QKCiAgICAgICAgcGF5bG9hZCA9IHVzZXIuZGVjb2RlX2p3dCh0b2tlbikKCiAgICAgICAgYXNzZXJ0IHBheWxvYWQgPT0geyJpZCI6IHVzZXIuaWQsICJ1c2VybmFtZSI6IHVzZXIudXNlcm5hbWUsICJleHAiOiBpbnQoZXhwaXJhdGlvbi50aW1lc3RhbXAoKSl9CgogICAgCg==</text>
@@ -4003,15 +4010,15 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyJiYXIiL3Bhc3N3b3JkL2c=</text>
+        <text>%s/anzu/gilgamesh</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;bar&quot;</last-search>
+      <last-search>anzu</last-search>
       <last-offset />
-      <last-pattern>&quot;bar&quot;</last-pattern>
-      <last-replace>password</last-replace>
-      <last-substitute>&quot;bar&quot;</last-substitute>
+      <last-pattern>anzu</last-pattern>
+      <last-replace>gilgamesh</last-replace>
+      <last-substitute>anzu</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -4029,7 +4036,6 @@
         <entry>routes.routes()</entry>
         <entry>run_command</entry>
         <entry>instagram_account</entry>
-        <entry>anzu</entry>
         <entry>run_simple</entry>
         <entry>peewee</entry>
         <entry>response.json() == [/response.json()[&quot;data&quot;] == [/g</entry>
@@ -4037,9 +4043,9 @@
         <entry>new_</entry>
         <entry>ipdb</entry>
         <entry>&quot;bar&quot;</entry>
+        <entry>anzu</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</entry>
         <entry>%s#/puppy/#/hooman/#g</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2VtYWlsL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL3Bob25lL2c=</entry>
@@ -4059,6 +4065,7 @@
         <entry encoding="base64">JzwsJz5zL25ld18vc2Vjb25kXy9n</entry>
         <entry encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyJiYXIiL3Bhc3N3b3JkL2c=</entry>
+        <entry>%s/anzu/gilgamesh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
