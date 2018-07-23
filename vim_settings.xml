@@ -274,6 +274,10 @@
         <mark key="." line="57" column="51" />
         <mark key="^" line="57" column="51" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/setup.cfg" timestamp="1532355888447">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/supervisor/supervisord.conf" timestamp="1467214711657">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="4" column="34" />
@@ -377,6 +381,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="118" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/creator.py" timestamp="1532356568967">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="48" column="116" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/Dockerfile" timestamp="1511998245268">
         <mark key="[" line="12" column="0" />
@@ -1326,6 +1336,12 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="24" column="21" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/docker-compose.yml" timestamp="1532354852178">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-miner/systemd/barrenero_telegram.service" timestamp="1504690308476">
         <mark key="[" line="10" column="167" />
         <mark key="]" line="10" column="167" />
@@ -1505,6 +1521,9 @@
         <mark key="]" line="6" column="18" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/routes.py" timestamp="1532357336879">
+        <mark key="[" line="14" column="88" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/index.js" timestamp="1519683930600">
         <mark key="[" line="1" column="12" />
@@ -1949,13 +1968,6 @@
         <mark key="." line="78" column="42" />
         <mark key="^" line="78" column="42" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" timestamp="1532338398243">
-        <mark key="'" line="17" column="16" />
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516674236372">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="28" />
@@ -2303,6 +2315,12 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/user.py" timestamp="1532356702327">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1513636084356">
         <mark key="[" line="10" column="81" />
         <mark key="]" line="10" column="81" />
@@ -2344,6 +2362,12 @@
         <mark key="]" line="54" column="34" />
         <mark key="." line="54" column="34" />
         <mark key="^" line="54" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/conftest.py" timestamp="1532357154575">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/Dockerfile" timestamp="1530093661995">
         <mark key="[" line="40" column="46" />
@@ -2728,6 +2752,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/make" timestamp="1532355705271">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/public/index.html" timestamp="1515623150293">
         <mark key="[" line="5" column="38" />
@@ -3140,6 +3170,11 @@
         <mark key="]" line="19" column="75" />
         <mark key="^" line="19" column="75" />
         <mark key="." line="19" column="75" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/migrations/001_creator.py" timestamp="1532354154096">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-web/website/routes.py" timestamp="1531483982264">
         <mark key="[" line="14" column="0" />
@@ -3859,6 +3894,13 @@
         <mark key="." line="32" column="52" />
         <mark key="^" line="32" column="52" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" timestamp="1532357303835">
+        <mark key="'" line="108" column="40" />
+        <mark key="[" line="114" column="24" />
+        <mark key="]" line="108" column="40" />
+        <mark key="^" line="108" column="40" />
+        <mark key="." line="108" column="40" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/config.babel.js" timestamp="1500119322886">
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="35" />
@@ -3867,9 +3909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="66" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="161" column="60" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="165" column="27" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="166" column="47" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="206" column="20" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="209" column="12" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
@@ -3967,68 +4006,68 @@
       <jump line="63" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" />
       <jump line="71" column="27" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" />
       <jump line="66" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/test_admin.py" />
+      <jump line="25" column="58" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
+      <jump line="21" column="55" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
+      <jump line="108" column="40" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzFdLnVybCA9PSAiL21ldGFkYXRhLyIKICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzFdLm1ldGhvZCA9PSAiR0VUIgogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMV0uaGFuZGxlciA9PSBhZG1pbi5tZXRhZGF0YQogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMV0uZG9jdW1lbnRlZCBpcyBGYWxzZQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVybGpvaW4oYmFzZSwgc3RyKGVsZW1lbnRfaWQpICsgIi8iKQoK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>, element_id: int = None)</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>self, client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzFdLnVybCA9PSAiL21ldGFkYXRhLyIKICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzFdLm1ldGhvZCA9PSAiR0VUIgogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMV0uaGFuZGxlciA9PSBhZG1pbi5tZXRhZGF0YQogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMV0uZG9jdW1lbnRlZCBpcyBGYWxzZQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm91dGUoIi8iLCAiR0VUIiwgc2VsZi5tYWluLCBuYW1lPSJtYWluIiwgZG9jdW1lbnRlZD1GYWxzZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVybGpvaW4oYmFzZSwgc3RyKGVsZW1lbnRfaWQpICsgIi8iKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlID0gIi9jcmVhdG9yLyIKICAgICAgICBpZiBlbGVtZW50X2lkOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzBdLnVybCA9PSAiLyIKICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzBdLm1ldGhvZCA9PSAiR0VUIgogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMF0uaGFuZGxlciA9PSBhZG1pbi5tYWluCiAgICAgICAgYXNzZXJ0IGFkbWluLnJvdXRlc1swXS5kb2N1bWVudGVkIGlzIEZhbHNlCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm91dGUoIi8iLCAiR0VUIiwgc2VsZi5tYWluLCBuYW1lPSJtYWluIiwgZG9jdW1lbnRlZD1GYWxzZSksCg==</text>
+        <text encoding="base64">ZGVmIHVzZXIodXNlcl9kYXRhKToKICAgIHJldHVybiBtb2RlbHMuVXNlci5jcmVhdGUoKip1c2VyX2RhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCgo=</text>
+        <text encoding="base64">CkBweXRlc3QuZml4dHVyZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmcmVlemVndW4gaW1wb3J0IGZyZWV6ZV90aW1lCgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB7InVzZXJuYW1lIjogImJhciIsICJwYXNzd29yZCI6ICJiYXIiLCAiZW1haWwiOiAiYmFyIn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRva2VuLCBleHBpcmF0aW9uID0gb2JqLmp3dAo=</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlCmRlZiBhbm90aGVyX3VzZXJfZGF0YSgpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZEcKICAgIEBweXRlc3QubWFyay51bml0CiAgICBkZWYgdGVzdF9zYXZlX2xhc3RfbG9naW4oc2VsZiwgdXNlcik6CiAgICAgICAgd2l0aCBmcmVlemVfdGltZShkYXRldGltZS5kYXRldGltZS51dGNub3coKSkgYXMgZnJvemVuX3RpbWU6CiAgICAgICAgICAgIGFzc2VydCB1c2VyLmxhc3RfbG9naW4gPT0gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkKICAgICAgICAgICAgCiAgICAgICAgICAgIHVzZXIuZW1haWwgPSAiYmFyIgogICAgICAgICAgICB1c2VyLnNhdmUoKQoKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5sYXN0X2xvZ2luID0gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkK</text>
+        <text encoding="base64">ZGVmIHVzZXJfZGF0YSgpOgogICAgcmV0dXJuIHsidXNlcm5hbWUiOiAiZm9vIiwgInBhc3N3b3JkIjogImZvbyIsICJlbWFpbCI6ICJmb28ifQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzEvMC9n</text>
+        <text>%s/self, client/self, url, client/g</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>self, client</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
-      <last-replace>0</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>self, client</last-pattern>
+      <last-replace>self, url, client</last-replace>
+      <last-substitute>self, client</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>--image=anzu</entry>
-        <entry>description</entry>
-        <entry>/puppy/</entry>
         <entry>username</entry>
         <entry>password</entry>
         <entry>User</entry>
@@ -4046,11 +4085,11 @@
         <entry>anzu</entry>
         <entry>0</entry>
         <entry>1</entry>
+        <entry>== \(\d\+\)</entry>
+        <entry>self.url(</entry>
+        <entry>self, client</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2ZpcnN0X25hbWUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2xhc3RfbmFtZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL3Bhc3N3b3JkL2hhc2gvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXIvR3JvdXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</entry>
@@ -4068,6 +4107,9 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzAvMS9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMC9n</entry>
+        <entry>%s/== \(\d\+\)/== \1, response.json()</entry>
+        <entry>%s/self.url(/url(/g</entry>
+        <entry>%s/self, client/self, url, client/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
