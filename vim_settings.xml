@@ -1112,8 +1112,10 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/brand.py" timestamp="1532362392259">
-        <mark key="[" line="15" column="6" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/brand.py" timestamp="1532363584547">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="94" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json.j2" timestamp="1531140582284">
         <mark key="[" line="23" column="18" />
@@ -2078,10 +2080,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/creator.py" timestamp="1532362144138">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/creator.py" timestamp="1532363582250">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="94" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1520110040964">
         <mark key="[" line="103" column="0" />
@@ -2125,10 +2128,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/mixins.py" timestamp="1532362425853">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/mixins.py" timestamp="1532362786158">
+        <mark key="[" line="43" column="64" />
+        <mark key="]" line="42" column="77" />
+        <mark key="." line="42" column="77" />
+        <mark key="^" line="42" column="77" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
         <mark key="[" line="16" column="14" />
@@ -4024,46 +4028,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0ibmFtZSIsIGRlc2NyaXB0aW9uPSJOYW1lIiwgYWxsb3dfbnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIHRhZ3MgPSBwbGF5aG91c2UucG9zdGdyZXNfZXh0LkFycmF5RmllbGQocGVld2VlLkNoYXJGaWVsZCwgdmVyYm9zZV9uYW1lPSJUYWdzIiwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, element_id: int = None)</text>
+        <text encoding="base64">dmVyYm9zZV9uYW1lPSJUYWdzIiwg</text>
       </register>
       <register name="/" type="4">
         <text>self, client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzFdLnVybCA9PSAiL21ldGFkYXRhLyIKICAgICAgICBhc3NlcnQgYWRtaW4ucm91dGVzWzFdLm1ldGhvZCA9PSAiR0VUIgogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMV0uaGFuZGxlciA9PSBhZG1pbi5tZXRhZGF0YQogICAgICAgIGFzc2VydCBhZG1pbi5yb3V0ZXNbMV0uZG9jdW1lbnRlZCBpcyBGYWxzZQoK</text>
+        <text encoding="base64">ICAgIHRhZ3MgPSBwbGF5aG91c2UucG9zdGdyZXNfZXh0LkFycmF5RmllbGQocGVld2VlLkNoYXJGaWVsZCwgdmVyYm9zZV9uYW1lPSJUYWdzIiwgbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0ibmFtZSIsIGRlc2NyaXB0aW9uPSJOYW1lIiwgYWxsb3dfbnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGFncmVlX3ByaXZhY3lfcG9saWN5ID0gcGVld2VlLkJvb2xlYW5GaWVsZCh2ZXJib3NlX25hbWU9IkFncmVlIG9uIHByaXZhY3kgcG9saWN5IiwgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBwZWV3ZWUuQ2hhckZpZWxkKG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGFncmVlX3ByaXZhY3lfcG9saWN5ID0gcGVld2VlLkJvb2xlYW5GaWVsZCh2ZXJib3NlX25hbWU9IkFncmVlIG9uIHByaXZhY3kgcG9saWN5IiwgZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGpvaW4KCg==</text>
+        <text encoding="base64">ICAgICMgbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCgo=</text>
+        <text encoding="base64">ICAgICMgaWQgPSBDb2x1bW4oSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0ibmFtZSIsIGRlc2NyaXB0aW9uPSJOYW1lIiwgYWxsb3dfbnVsbD1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZGF0YV9kZWxldGlvbiA9IHZhbGlkYXRvcnMuRGF0ZVRpbWUoCiAgICAgICAgdGl0bGU9InJlcXVlc3RfZGF0YV9kZWxldGlvbiIsIGRlc2NyaXB0aW9uPSJEYXRlIHdoZW4gdGhlIGNyZWF0b3IgcmVxdWVzdCBmb3IgYSBkYXRhIGRlbGV0aW9uIiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCg==</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBwZWV3ZWUuQ2hhckZpZWxkKG51bGw9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RfZGF0YV9kZWxldGlvbiA9IHZhbGlkYXRvcnMuRGF0ZVRpbWUoCiAgICAgICAgdGl0bGU9InJlcXVlc3RfZGF0YV9kZWxldGlvbiIsIGRlc2NyaXB0aW9uPSJEYXRlIHdoZW4gdGhlIGNyZWF0b3IgcmVxdWVzdCBmb3IgYSBkYXRhIGRlbGV0aW9uIiwgYWxsb3dfbnVsbD1UcnVlCiAgICApCg==</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGpvaW4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVybGpvaW4oYmFzZSwgc3RyKGVsZW1lbnRfaWQpICsgIi8iKQoK</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlID0gIi9jcmVhdG9yLyIKICAgICAgICBpZiBlbGVtZW50X2lkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/self, client/self, url, client/g</text>
