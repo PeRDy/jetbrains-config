@@ -309,11 +309,12 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" timestamp="1532297977706">
-        <mark key="'" line="112" column="41" />
-        <mark key="[" line="49" column="53" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" timestamp="1532306407578">
+        <mark key="'" line="167" column="24" />
+        <mark key="[" line="172" column="20" />
+        <mark key="]" line="172" column="19" />
+        <mark key="^" line="172" column="19" />
+        <mark key="." line="172" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/.dockerignore" timestamp="1511821820090">
         <mark key="[" line="6" column="7" />
@@ -410,10 +411,12 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/test_views.py" timestamp="1532300110208">
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/test_views.py" timestamp="1532304585117">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="118" column="21" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="120" column="45" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run_ci.py" timestamp="1486057004672">
         <mark key="[" line="0" column="0" />
@@ -685,11 +688,11 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/views.py" timestamp="1532300294840">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="23" column="34" />
-        <mark key="^" line="22" column="35" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/views.py" timestamp="1532302543258">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="23" column="59" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/django-audit-tools/audit_tools/tests/audit/views/api/test_mixins.py" timestamp="1453245053657">
         <mark key="[" line="130" column="22" />
@@ -1537,11 +1540,11 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/models/user.py" timestamp="1532275645324">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="70" />
-        <mark key="^" line="50" column="31" />
-        <mark key="." line="19" column="70" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/models/user.py" timestamp="1532305342970">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/dieteo_api/settings/tests.py" timestamp="1518466190256">
         <mark key="[" line="4" column="5" />
@@ -2221,10 +2224,10 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/resources.py" timestamp="1532293601267">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/resources.py" timestamp="1532301180550">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/supervisor.cfg" timestamp="1515002559793">
         <mark key="[" line="16" column="22" />
@@ -3826,6 +3829,11 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/iam/components/jwt.py" timestamp="1532304346004">
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/dieteo/dieteo-api/Dockerfile" timestamp="1524595073599">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -3858,10 +3866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="134" column="17" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="135" column="27" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="151" column="23" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="152" column="23" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="153" column="26" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="154" column="24" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
@@ -3953,71 +3957,74 @@
       <jump line="116" column="23" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="34" column="41" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
-      <jump line="134" column="48" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="123" column="8" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="151" column="41" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="29" column="9" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/conftest.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/conftest.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/test_views.py" />
+      <jump line="125" column="4" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="134" column="9" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="1" column="13" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
+      <jump line="165" column="24" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>decode</text>
       </register>
       <register name="/" type="4">
-        <text>ipdb</text>
+        <text>&quot;bar&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>(scope=&quot;session&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0CiAgICBkZWYgdGVzdF9kZWNvZGVfand0KHNlbGYsIHVzZXIpOgogICAgICAgIHRva2VuLCBleHBpcmF0aW9uID0gdXNlci5qd3QKCiAgICAgICAgcGF5bG9hZCA9IHVzZXIuZGVjb2RlX2p3dCh0b2tlbikKCiAgICAgICAgYXNzZXJ0IHBheWxvYWQgPT0geyJpZCI6IHVzZXIuaWQsICJ1c2VybmFtZSI6IHVzZXIudXNlcm5hbWUsICJleHAiOiBpbnQoZXhwaXJhdGlvbi50aW1lc3RhbXAoKSl9CgogICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zc2V0X3RyYWNlKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdG9rCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqd3QsIGV4cGlyYXRpb24gPSB1c2VyLmp3dAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN1Y2Nlc3NmdWxseSBjcmVhdGUgYSBuZXcgcmVjb3JkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ge2s6IHYgZm9yIGssIHYgaW4gdXNlcl9kYXRhLml0ZW1zKCkgaWYgayBpbiAoInVzZXJuYW1lIiwgInBhc3N3b3JkIiwgImVtYWlsIil9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBpYW0gaW1wb3J0IHNjaGVtYXMK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IGNsaWVudC5wb3N0KHVybCgpLCBqc29uPXVzZXIpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMQogICAgICAgIG5ld191c2VyID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0IHVzZXJbInVzZXJuYW1lIl0gPT0gbmV3X3VzZXJbInVzZXJuYW1lIl0KICAgICAgICBhc3NlcnQgQ3J5cHQoKS5jcnlwdCh1c2VyWyJwYXNzd29yZCJdKSA9PSBuZXdfdXNlclsicGFzc3dvcmQiXQogICAgICAgIGFzc2VydCB1c2VyWyJlbWFpbCJdID09IG5ld191c2VyWyJlbWFpbCJdCgogICAgICAgICMgTGlzdCBhbGwgdGhlIGV4aXN0aW5nIHJlY29yZHMKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5nZXQodXJsKCkpCiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDIwMAogICAgICAgIGFzc2VydCByZXNwb25zZS5qc29uKCkgPT0gW25ld191c2VyXQ==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHBheWxvYWQgPT0geyJpZCI6IHVzZXIuaWQsICJ1c2VybmFtZSI6IHVzZXIudXNlcm5hbWUsICJleHAiOiBpbnQoZXhwaXJhdGlvbi50aW1lc3RhbXAoKSl9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyID0gbW9kZWxzLlVzZXIuY3JlYXRlKHVzZXJuYW1lPSJmb28iLCBwYXNzd29yZD0iZm9vIiwgZW1haWw9ImZvbyIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBweXRlc3QubWFyay5mcmVlemVfdGltZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbm90IHVzZXIuaXNfZGlydHkoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyID0gbW9kZWxzLlVzZXIuY3JlYXRlKHVzZXJuYW1lPSJmb28iLCBwYXNzd29yZD0iZm9vIiwgZW1haWw9ImZvbyIpCiAgICAgICAgcGFzc3dvcmQgPSAiYmFyIgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</text>
+        <text encoding="base64">JzwsJz5zLyJiYXIiL3Bhc3N3b3JkL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>ipdb</last-search>
+      <last-search>&quot;bar&quot;</last-search>
       <last-offset />
-      <last-pattern>ipdb</last-pattern>
-      <last-replace>first_</last-replace>
-      <last-substitute>new_</last-substitute>
+      <last-pattern>&quot;bar&quot;</last-pattern>
+      <last-replace>password</last-replace>
+      <last-substitute>&quot;bar&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>assert \([a-z_]\+\) == \([a-z_]\+\)</entry>
         <entry>\(\w\+\)=</entry>
         <entry>pip install.*</entry>
         <entry>--image=anzu</entry>
@@ -4037,9 +4044,9 @@
         <entry>response.json() == \[</entry>
         <entry>new_</entry>
         <entry>ipdb</entry>
+        <entry>&quot;bar&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc2NyaXB0aW9uL3ZlcmJvc2VfbmFtZS9n</entry>
         <entry>%s#/puppy/#/hooman/#g</entry>
         <entry encoding="base64">JzwsJz5zL3VzZXJuYW1lL2VtYWlsL2c=</entry>
@@ -4059,6 +4066,7 @@
         <entry encoding="base64">JzwsJz5zL25ld18vdXBkYXRlZF8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL25ld18vc2Vjb25kXy9n</entry>
         <entry encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyJiYXIiL3Bhc3N3b3JkL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
