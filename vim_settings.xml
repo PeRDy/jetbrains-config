@@ -375,10 +375,11 @@
         <mark key="^" line="9" column="118" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/creator.py" timestamp="1532440495173">
-        <mark key="[" line="39" column="49" />
-        <mark key="]" line="39" column="49" />
-        <mark key="." line="39" column="49" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/creator.py" timestamp="1532441198454">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="82" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/Dockerfile" timestamp="1511998245268">
         <mark key="[" line="12" column="0" />
@@ -1098,8 +1099,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/brand.py" timestamp="1532438198075">
-        <mark key="[" line="31" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/brand.py" timestamp="1532441175725">
+        <mark key="[" line="24" column="43" />
         <mark key="]" line="35" column="39" />
         <mark key="." line="31" column="21" />
         <mark key="^" line="31" column="21" />
@@ -2310,10 +2311,11 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/user.py" timestamp="1532438904509">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/user.py" timestamp="1532441767639">
+        <mark key="[" line="11" column="101" />
+        <mark key="]" line="11" column="117" />
+        <mark key="^" line="11" column="117" />
+        <mark key="." line="11" column="117" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1513636084356">
         <mark key="[" line="10" column="81" />
@@ -3058,11 +3060,12 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/brand.py" timestamp="1532440533199">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="7" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/brand.py" timestamp="1532441411601">
+        <mark key="'" line="9" column="85" />
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+        <mark key="^" line="30" column="103" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/mixins.py" timestamp="1485535808398">
         <mark key="[" line="130" column="22" />
@@ -3905,10 +3908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="44" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="9" column="36" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
-      <jump line="23" column="12" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="24" column="11" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="25" column="12" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="58" column="17" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
@@ -4005,67 +4004,69 @@
       <jump line="25" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/migrations/001_initial.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/migrations/001_initial.py" />
       <jump line="109" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/migrations/001_initial.py" />
+      <jump line="11" column="4" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/creator.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/creator.py" />
+      <jump line="10" column="14" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/brand.py" />
+      <jump line="9" column="85" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/brand.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>types</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxhc3RfbG9naW4gPSB2YWxpZGF0b3JzLkRhdGVUaW1lKHRpdGxlPSJsYXN0X2xvZ2luIiwgZGVzY3JpcHRpb249Ikxhc3QgZGF0ZSB3aGVuIHRoYXQgdXNlciBsb2dpbiIpCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>types</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>SQL</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gbW9kZWxzLkNyZWF0b3IKICAgIGlucHV0X3R5cGUgPSB0eXBlcy5DcmVhdG9ySW5wdXQKICAgIG91dHB1dF90eXBlID0gdHlwZXMuQ3JlYXRvck91dHB1dAogICAgbWV0aG9kcyA9ICgiY3JlYXRlIiwgInJldHJpZXZlIiwgInVwZGF0ZSIsICJkZWxldGUiLCAibGlzdCIpCg==</text>
+        <text encoding="base64">ICAgIHdoYWxhcl93aXRoaW4gPSB2YWxpZGF0b3JzLkJvb2xlYW4odGl0bGU9IndoYWxhcl93aXRoaW4iLCBkZXNjcmlwdGlvbj0iV2hhbGFyIHdpdGhpbiIsIGRlZmF1bHQ9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBVc2VyT3V0cHV0CiAgICBwbGF0Zm9ybXMgPSBQbGF0Zm9ybXMK</text>
+        <text encoding="base64">ICAgIGxhc3RfbG9naW4gPSB2YWxpZGF0b3JzLkRhdGVUaW1lKHRpdGxlPSJsYXN0X2xvZ2luIiwgZGVzY3JpcHRpb249Ikxhc3QgZGF0ZSB3aGVuIHRoYXQgdXNlciBsb2dpbiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBVc2VySW5wdXQKICAgIHBsYXRmb3JtcyA9IFBsYXRmb3Jtcwo=</text>
+        <text encoding="base64">ICAgIG5vdGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGZlZSA9IHZhbGlkYXRvcnMuTnVtYmVyKHRpdGxlPSJmZWUiLCBkZXNjcmlwdGlvbj0iUGxhdGZvcm0gZmVlIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lIGFzIGR0Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID4gbWlncmF0b3IuYWRkX2RlZmF1bHQobW9kZWwsIGZpZWxkX25hbWUsIGRlZmF1bHQpCgo=</text>
+        <text encoding="base64">ICAgIGFjdGl2ZSA9IHZhbGlkYXRvcnMuQm9vbGVhbih0aXRsZT0iYWN0aXZlIiwgZGVzY3JpcHRpb249IkFjdGl2ZSBmbGFnIiwgZGVmYXVsdD1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ClNvbWUgZXhhbXBsZXMgKG1vZGVsIC0gY2xhc3Mgb3IgbW9kZWwgbmFtZSk6OgoKICAgID4gTW9kZWwgPSBtaWdyYXRvci5vcm1bJ21vZGVsX25hbWUnXSAgICAgICAgICAgICMgUmV0dXJuIG1vZGVsIGluIGN1cnJlbnQgc3RhdGUgYnkgbmFtZQoKICAgID4gbWlncmF0b3Iuc3FsKHNxbCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgUnVuIGN1c3RvbSBTUUwKICAgID4gbWlncmF0b3IucHl0aG9uKGZ1bmMsICphcmdzLCAqKmt3YXJncykgICAgICAgICMgUnVuIHB5dGhvbiBjb2RlCiAgICA+IG1pZ3JhdG9yLmNyZWF0ZV9tb2RlbChNb2RlbCkgICAgICAgICAgICAgICAgICAjIENyZWF0ZSBhIG1vZGVsIChjb3VsZCBiZSB1c2VkIGFzIGRlY29yYXRvcikKICAgID4gbWlncmF0b3IucmVtb3ZlX21vZGVsKG1vZGVsLCBjYXNjYWRlPVRydWUpICAgICMgUmVtb3ZlIGEgbW9kZWwKICAgID4gbWlncmF0b3IuYWRkX2ZpZWxkcyhtb2RlbCwgKipmaWVsZHMpICAgICAgICAgICMgQWRkIGZpZWxkcyB0byBhIG1vZGVsCiAgICA+IG1pZ3JhdG9yLmNoYW5nZV9maWVsZHMobW9kZWwsICoqZmllbGRzKSAgICAgICAjIENoYW5nZSBmaWVsZHMKICAgID4gbWlncmF0b3IucmVtb3ZlX2ZpZWxkcyhtb2RlbCwgKmZpZWxkX25hbWVzLCBjYXNjYWRlPVRydWUpCiAgICA+IG1pZ3JhdG9yLnJlbmFtZV9maWVsZChtb2RlbCwgb2xkX2ZpZWxkX25hbWUsIG5ld19maWVsZF9uYW1lKQogICAgPiBtaWdyYXRvci5yZW5hbWVfdGFibGUobW9kZWwsIG5ld190YWJsZV9uYW1lKQogICAgPiBtaWdyYXRvci5hZGRfaW5kZXgobW9kZWwsICpjb2xfbmFtZXMsIHVuaXF1ZT1GYWxzZSkKICAgID4gbWlncmF0b3IuZHJvcF9pbmRleChtb2RlbCwgKmNvbF9uYW1lcykKICAgID4gbWlncmF0b3IuYWRkX25vdF9udWxsKG1vZGVsLCAqZmllbGRfbmFtZXMpCiAgICA+IG1pZ3JhdG9yLmRyb3Bfbm90X251bGwobW9kZWwsICpmaWVsZF9uYW1lcykK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtcyA9IFBsYXRmb3Jtcwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB1c2Vycy50eXBlcy5wbGF0Zm9ybXMgaW1wb3J0IFBsYXRmb3JtcwoK</text>
+        <text encoding="base64">ICAgIGFncmVlX3Rlcm1zID0gdmFsaWRhdG9ycy5Cb29sZWFuKHRpdGxlPSJhZ3JlZV90ZXJtcyIsIGRlc2NyaXB0aW9uPSJBZ3JlZW1lbnQgb2YgdGVybXMiLCBkZWZhdWx0PUZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB1c2Vycy50eXBlcy51c2VyIGltcG9ydCBVc2VySW5wdXQsIFVzZXJPdXRwdXQK</text>
+        <text encoding="base64">ICAgIGFncmVlX3Rlcm1zID0gdmFsaWRhdG9ycy5Cb29sZWFuKHRpdGxlPSJhZ3JlZV90ZXJtcyIsIGRlc2NyaXB0aW9uPSJBZ3JlZSIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/SQL/pw.SQL/g</text>
+        <text encoding="base64">JzwsJz5zLykvLCBhbGxvd19udWxsPVRydWUpL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>SQL</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>SQL</last-pattern>
-      <last-replace>pw.SQL</last-replace>
-      <last-substitute>SQL</last-substitute>
+      <last-pattern>)</last-pattern>
+      <last-replace>, allow_null=True)</last-replace>
+      <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>password</entry>
-        <entry>User</entry>
         <entry>cls</entry>
         <entry>routes.routes()</entry>
         <entry>run_command</entry>
@@ -4084,10 +4085,10 @@
         <entry>self.url(</entry>
         <entry>self, client</entry>
         <entry>SQL</entry>
+        <entry>email</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</entry>
-        <entry encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3JvdXRlcy5yb3V0ZXMoKS9yL2c=</entry>
         <entry>%s/instagram_account/user/g</entry>
         <entry>w</entry>
@@ -4106,6 +4107,8 @@
         <entry>%s/self.url(/url(/g</entry>
         <entry>%s/self, client/self, url, client/g</entry>
         <entry>%s/SQL/pw.SQL/g</entry>
+        <entry encoding="base64">JzwsJz5zL2VtYWlsL0lEL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLykvLCBhbGxvd19udWxsPVRydWUpL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
