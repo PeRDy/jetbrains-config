@@ -314,9 +314,6 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" timestamp="1532306686701">
-        <mark key="'" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/knockout-assignment/.dockerignore" timestamp="1511821820090">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="8" column="9" />
@@ -448,9 +445,6 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-crud-py3.6/lib/python3.6/site-packages/werkzeug/serving.py" timestamp="1532095546259">
-        <mark key="'" line="426" column="36" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="18" />
@@ -485,9 +479,6 @@
         <mark key="]" line="93" column="44" />
         <mark key="^" line="93" column="44" />
         <mark key="." line="93" column="44" />
-      </file>
-      <file name="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-crud-py3.6/lib/python3.6/site-packages/werkzeug/__init__.py" timestamp="1532095533285">
-        <mark key="'" line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/static/robots.txt" timestamp="1465559940405">
         <mark key="[" line="0" column="0" />
@@ -1112,11 +1103,17 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/brand.py" timestamp="1532424998820">
-        <mark key="[" line="19" column="96" />
-        <mark key="]" line="19" column="67" />
-        <mark key="^" line="19" column="67" />
-        <mark key="." line="19" column="67" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/migrations/001_initial.py" timestamp="1532438722817">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/brand.py" timestamp="1532438198075">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json.j2" timestamp="1531140582284">
         <mark key="[" line="23" column="18" />
@@ -2081,6 +2078,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/creator.py" timestamp="1532438206976">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1520110040964">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="53" />
@@ -2123,11 +2125,11 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/mixins.py" timestamp="1532362786158">
-        <mark key="[" line="43" column="64" />
-        <mark key="]" line="42" column="77" />
-        <mark key="." line="42" column="77" />
-        <mark key="^" line="42" column="77" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/mixins.py" timestamp="1532439092823">
+        <mark key="[" line="20" column="70" />
+        <mark key="]" line="20" column="70" />
+        <mark key="." line="20" column="70" />
+        <mark key="^" line="13" column="63" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
         <mark key="[" line="16" column="14" />
@@ -2326,11 +2328,10 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/user.py" timestamp="1532362167779">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="79" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/user.py" timestamp="1532438904509">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/templates/barrenero_api.service.jinja2" timestamp="1513636084356">
         <mark key="[" line="10" column="81" />
@@ -2806,6 +2807,11 @@
         <mark key="." line="36" column="9" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/__init__.py" timestamp="1532438444502">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-client/server/nginx.conf" timestamp="1515003923471">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="5" column="13" />
@@ -2950,9 +2956,6 @@
         <mark key="]" line="35" column="57" />
         <mark key="^" line="35" column="57" />
         <mark key="." line="35" column="57" />
-      </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/resource/test_sqlalchemy.py" timestamp="1532096511479">
-        <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/health-check/CHANGELOG.rst" timestamp="1498236434684">
         <mark key="[" line="2" column="5" />
@@ -3732,6 +3735,12 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/starred_creator.py" timestamp="1532438459340">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/Gulpfile.babel.js" timestamp="1497824028736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="45" />
@@ -3920,7 +3929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="47" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="206" column="20" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="209" column="12" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
       <jump line="210" column="44" filename="$USER_HOME$/.cache/pypoetry/virtualenvs/apistar-peewee-orm-py3.6/lib/python3.6/site-packages/colorlog/colorlog.py" />
@@ -4020,66 +4028,66 @@
       <jump line="25" column="58" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
       <jump line="21" column="55" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
       <jump line="108" column="40" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/migrations/001_initial.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhZ3MgPSBwbGF5aG91c2UucG9zdGdyZXNfZXh0LkFycmF5RmllbGQocGVld2VlLkNoYXJGaWVsZCwgdmVyYm9zZV9uYW1lPSJUYWdzIiwgbnVsbD1UcnVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>default</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmVyYm9zZV9uYW1lPSJUYWdzIiwg</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
-        <text>self, client</text>
+        <text>SQL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhZ3MgPSBwbGF5aG91c2UucG9zdGdyZXNfZXh0LkFycmF5RmllbGQocGVld2VlLkNoYXJGaWVsZCwgdmVyYm9zZV9uYW1lPSJUYWdzIiwgbnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">ZnJvbSB1c2Vycy5tb2RlbHMuY3JlYXRvciBpbXBvcnQgKiAgIyBub3FhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFncmVlX3ByaXZhY3lfcG9saWN5ID0gcGVld2VlLkJvb2xlYW5GaWVsZCh2ZXJib3NlX25hbWU9IkFncmVlIG9uIHByaXZhY3kgcG9saWN5IiwgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGxhdGl0dWRlID0gdmFsaWRhdG9ycy5OdW1iZXIoCiAgICAgICAgdGl0bGU9ImxhdGl0dWRlIiwgZGVzY3JpcHRpb249Ikdlb2dyYXBoaWMgbGF0aXR1ZGUiLCBtaW5pbXVtPS05MCwgbWF4aW11bT05MCwgYWxsb3dfbnVsbD1UcnVlCiAgICApCiAgICBsb25naXR1ZGUgPSB2YWxpZGF0b3JzLk51bWJlcigKICAgICAgICB0aXRsZT0ibG9uZ2l0dWRlIiwgZGVzY3JpcHRpb249Ikdlb2dyYXBoaWMgbG9uZ2l0dWRlIiwgbWluaW11bT0tMTgwLCBtYXhpbXVtPTE4MCwgYWxsb3dfbnVsbD1UcnVlCiAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFncmVlX3ByaXZhY3lfcG9saWN5ID0gcGVld2VlLkJvb2xlYW5GaWVsZCh2ZXJib3NlX25hbWU9IkFncmVlIG9uIHByaXZhY3kgcG9saWN5IiwgZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIHJlc2V0X3Bhc3N3b3JkX2hhc2ggPSB2YWxpZGF0b3JzLlN0cmluZygKICAgICAgICB0aXRsZT0icmVzZXRfcGFzc3dvcmRfaGFzaCIsIGRlc2NyaXB0aW9uPSJIYXNoIGZvciByZXNldHRpbmcgcGFzc3dvcmQiLCBhbGxvd19udWxsPVRydWUKICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgbmFtZSA9IENvbHVtbihVbmljb2RlKQo=</text>
+        <text encoding="base64">ICAgIHJlc2V0X3Bhc3N3b3JkX2hhc2ggPSB2YWxpZGF0b3JzLlN0cmluZygKICAgICAgICB0aXRsZT0icmVzZXRfcGFzc3dvcmRfaGFzaCIsIGRlc2NyaXB0aW9uPSJIYXNoIGZvciByZXNldHRpbmcgcGFzc3dvcmQiLCBhbGxvd19udWxsPVRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaWQgPSBDb2x1bW4oSW50ZWdlciwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lIGFzIGR0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSB2YWxpZGF0b3JzLlN0cmluZyh0aXRsZT0ibmFtZSIsIGRlc2NyaXB0aW9uPSJOYW1lIiwgYWxsb3dfbnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">ICAgID4gbWlncmF0b3IuYWRkX2RlZmF1bHQobW9kZWwsIGZpZWxkX25hbWUsIGRlZmF1bHQpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBwZWV3ZWUuQ2hhckZpZWxkKG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgID4gbWlncmF0b3IuYWRkX25vdF9udWxsKG1vZGVsLCAqZmllbGRfbmFtZXMpCiAgICA+IG1pZ3JhdG9yLmRyb3Bfbm90X251bGwobW9kZWwsICpmaWVsZF9uYW1lcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGpvaW4KCg==</text>
+        <text encoding="base64">ClNvbWUgZXhhbXBsZXMgKG1vZGVsIC0gY2xhc3Mgb3IgbW9kZWwgbmFtZSk6OgoKICAgID4gTW9kZWwgPSBtaWdyYXRvci5vcm1bJ21vZGVsX25hbWUnXSAgICAgICAgICAgICMgUmV0dXJuIG1vZGVsIGluIGN1cnJlbnQgc3RhdGUgYnkgbmFtZQoKICAgID4gbWlncmF0b3Iuc3FsKHNxbCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgUnVuIGN1c3RvbSBTUUwKICAgID4gbWlncmF0b3IucHl0aG9uKGZ1bmMsICphcmdzLCAqKmt3YXJncykgICAgICAgICMgUnVuIHB5dGhvbiBjb2RlCiAgICA+IG1pZ3JhdG9yLmNyZWF0ZV9tb2RlbChNb2RlbCkgICAgICAgICAgICAgICAgICAjIENyZWF0ZSBhIG1vZGVsIChjb3VsZCBiZSB1c2VkIGFzIGRlY29yYXRvcikKICAgID4gbWlncmF0b3IucmVtb3ZlX21vZGVsKG1vZGVsLCBjYXNjYWRlPVRydWUpICAgICMgUmVtb3ZlIGEgbW9kZWwKICAgID4gbWlncmF0b3IuYWRkX2ZpZWxkcyhtb2RlbCwgKipmaWVsZHMpICAgICAgICAgICMgQWRkIGZpZWxkcyB0byBhIG1vZGVsCiAgICA+IG1pZ3JhdG9yLmNoYW5nZV9maWVsZHMobW9kZWwsICoqZmllbGRzKSAgICAgICAjIENoYW5nZSBmaWVsZHMKICAgID4gbWlncmF0b3IucmVtb3ZlX2ZpZWxkcyhtb2RlbCwgKmZpZWxkX25hbWVzLCBjYXNjYWRlPVRydWUpCiAgICA+IG1pZ3JhdG9yLnJlbmFtZV9maWVsZChtb2RlbCwgb2xkX2ZpZWxkX25hbWUsIG5ld19maWVsZF9uYW1lKQogICAgPiBtaWdyYXRvci5yZW5hbWVfdGFibGUobW9kZWwsIG5ld190YWJsZV9uYW1lKQogICAgPiBtaWdyYXRvci5hZGRfaW5kZXgobW9kZWwsICpjb2xfbmFtZXMsIHVuaXF1ZT1GYWxzZSkKICAgID4gbWlncmF0b3IuZHJvcF9pbmRleChtb2RlbCwgKmNvbF9uYW1lcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCgo=</text>
+        <text encoding="base64">ClNvbWUgZXhhbXBsZXMgKG1vZGVsIC0gY2xhc3Mgb3IgbW9kZWwgbmFtZSk6OgoKICAgID4gTW9kZWwgPSBtaWdyYXRvci5vcm1bJ21vZGVsX25hbWUnXSAgICAgICAgICAgICMgUmV0dXJuIG1vZGVsIGluIGN1cnJlbnQgc3RhdGUgYnkgbmFtZQoKICAgID4gbWlncmF0b3Iuc3FsKHNxbCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgUnVuIGN1c3RvbSBTUUwKICAgID4gbWlncmF0b3IucHl0aG9uKGZ1bmMsICphcmdzLCAqKmt3YXJncykgICAgICAgICMgUnVuIHB5dGhvbiBjb2RlCiAgICA+IG1pZ3JhdG9yLmNyZWF0ZV9tb2RlbChNb2RlbCkgICAgICAgICAgICAgICAgICAjIENyZWF0ZSBhIG1vZGVsIChjb3VsZCBiZSB1c2VkIGFzIGRlY29yYXRvcikKICAgID4gbWlncmF0b3IucmVtb3ZlX21vZGVsKG1vZGVsLCBjYXNjYWRlPVRydWUpICAgICMgUmVtb3ZlIGEgbW9kZWwKICAgID4gbWlncmF0b3IuYWRkX2ZpZWxkcyhtb2RlbCwgKipmaWVsZHMpICAgICAgICAgICMgQWRkIGZpZWxkcyB0byBhIG1vZGVsCiAgICA+IG1pZ3JhdG9yLmNoYW5nZV9maWVsZHMobW9kZWwsICoqZmllbGRzKSAgICAgICAjIENoYW5nZSBmaWVsZHMKICAgID4gbWlncmF0b3IucmVtb3ZlX2ZpZWxkcyhtb2RlbCwgKmZpZWxkX25hbWVzLCBjYXNjYWRlPVRydWUpCiAgICA+IG1pZ3JhdG9yLnJlbmFtZV9maWVsZChtb2RlbCwgb2xkX2ZpZWxkX25hbWUsIG5ld19maWVsZF9uYW1lKQogICAgPiBtaWdyYXRvci5yZW5hbWVfdGFibGUobW9kZWwsIG5ld190YWJsZV9uYW1lKQogICAgPiBtaWdyYXRvci5hZGRfaW5kZXgobW9kZWwsICpjb2xfbmFtZXMsIHVuaXF1ZT1GYWxzZSkKICAgID4gbWlncmF0b3IuZHJvcF9pbmRleChtb2RlbCwgKmNvbF9uYW1lcykKICAgID4gbWlncmF0b3IuYWRkX25vdF9udWxsKG1vZGVsLCAqZmllbGRfbmFtZXMpCiAgICA+IG1pZ3JhdG9yLmRyb3Bfbm90X251bGwobW9kZWwsICpmaWVsZF9uYW1lcykKICAgID4gbWlncmF0b3IuYWRkX2RlZmF1bHQobW9kZWwsIGZpZWxkX25hbWUsIGRlZmF1bHQpCgoiIiIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/self, client/self, url, client/g</text>
+        <text>%s/SQL/pw.SQL/g</text>
       </register>
     </registers>
     <search>
-      <last-search>self, client</last-search>
+      <last-search>SQL</last-search>
       <last-offset />
-      <last-pattern>self, client</last-pattern>
-      <last-replace>self, url, client</last-replace>
-      <last-substitute>self, client</last-substitute>
+      <last-pattern>SQL</last-pattern>
+      <last-replace>pw.SQL</last-replace>
+      <last-substitute>SQL</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>username</entry>
         <entry>password</entry>
         <entry>User</entry>
         <entry>cls</entry>
@@ -4099,9 +4107,9 @@
         <entry>== \(\d\+\)</entry>
         <entry>self.url(</entry>
         <entry>self, client</entry>
+        <entry>SQL</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1VzZXIvR3JvdXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1VzZXIvUGVybWlzc2lvbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2Nscy9zZWxmL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3JvdXRlcy5yb3V0ZXMoKS9yL2c=</entry>
@@ -4121,6 +4129,7 @@
         <entry>%s/== \(\d\+\)/== \1, response.json()</entry>
         <entry>%s/self.url(/url(/g</entry>
         <entry>%s/self, client/self, url, client/g</entry>
+        <entry>%s/SQL/pw.SQL/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
