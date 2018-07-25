@@ -772,6 +772,12 @@
         <mark key="." line="109" column="40" />
         <mark key="^" line="109" column="40" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar/docs/api-guide/static-files.md" timestamp="1532551925446">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/scss/base.scss" timestamp="1499272542532">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="31" />
@@ -1043,6 +1049,12 @@
         <mark key="]" line="98" column="27" />
         <mark key="^" line="69" column="29" />
         <mark key="." line="70" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/news-challenge/news/serializers.py" timestamp="1465558116160">
         <mark key="[" line="21" column="44" />
@@ -1585,12 +1597,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/routes.py" timestamp="1530720938020">
         <mark key="[" line="14" column="64" />
@@ -2336,6 +2342,9 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar/apistar/server/staticfiles.py" timestamp="1532551323108">
+        <mark key="[" line="19" column="93" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/github/schema.py" timestamp="1497481217815">
         <mark key="[" line="11" column="25" />
@@ -3781,6 +3790,13 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="17" column="55" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar/apistar/server/app.py" timestamp="1532551253522">
+        <mark key="'" line="106" column="25" />
+        <mark key="[" line="288" column="105" />
+        <mark key="]" line="289" column="84" />
+        <mark key="^" line="289" column="24" />
+        <mark key="." line="289" column="25" />
+      </file>
       <file name="$USER_HOME$/Development/piksel/contentkb/contentkb-api/docker-compose.yml" timestamp="1516965986649">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -4011,7 +4027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="21" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="11" column="17" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/docker-compose.yml" />
@@ -4111,10 +4126,11 @@
       <jump line="55" column="57" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
       <jump line="20" column="41" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
       <jump line="56" column="12" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="106" column="25" filename="$USER_HOME$/Desarrollo/perdy/apistar/apistar/server/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4126,34 +4142,34 @@
         <text>anzu</text>
       </register>
       <register name="0" type="4">
-        <text>773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/gilgamesh:developmen</text>
+        <text>whitenoise_opts={&quot;autorefresh&quot;: True}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcCA9IEFwcChyb3V0ZXM9cmVzb3VyY2Vfcm91dGVzLnJvdXRlcygpLCBjb21wb25lbnRzPWNvbXBvbmVudHMsIGV2ZW50X2hvb2tzPWV2ZW50X2hvb2tzLCBwYWNrYWdlcz1wYWNrYWdlcykK</text>
+        <text encoding="base64">CmBgYHB5dGhvbgphcHAgPSBBcHAocm91dGVzPXJvdXRlcywgc3RhdGljX2Rpcj1TVEFUSUNfRElSLCB3aGl0ZW5vaXNlX29wdHM9eyJhdXRvcmVmcmVzaCI6IFRydWV9KQpgYGAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">SXQncyBwb3NzaWJsZSB0byBjb25maWd1cmUgYHdoaXRlbm9pc2VgIHBhc3Npbmcgb3B0aW9ucyB0aHJvdWdoIGB3aGl0ZW5vaXNlX29wdHNgIHBhcmFtZXRlci4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+        <text encoding="base64">Li4uCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyLmNvbXBhdCBpbXBvcnQgd2hpdGVub2lzZQo=</text>
+        <text encoding="base64">U1RBVElDX0RJUiA9IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3N0YXRpYycpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmRhdEJJVEJVQ0tFVF9SRVBPX1NMVUdhLwo=</text>
+        <text encoding="base64">U1RBVElDX0RJUiA9IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3N0YXRpYycpCgouLi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
+        <text encoding="base64">aW1wb3J0IG9zCgpCQVNFX0RJUiA9IG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgdXBkYXRlZF9zdGFycmVkX2NyZWF0b3JdCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfc3RhcnJlZF9jcmVhdG9yXQo=</text>
+        <text encoding="base64">ICAgIGFwcCA9IEFwcChyb3V0ZXM9cmVzb3VyY2Vfcm91dGVzLnJvdXRlcygpLCBjb21wb25lbnRzPWNvbXBvbmVudHMsIGV2ZW50X2hvb2tzPWV2ZW50X2hvb2tzLCBwYWNrYWdlcz1wYWNrYWdlcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4192,6 +4208,7 @@
         <entry>anzu</entry>
       </history-search>
       <history-cmd>
+        <entry>%s/anzu/gilgamesh</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzAvMS9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMC9n</entry>
@@ -4211,7 +4228,6 @@
         <entry>%s/brand/creator/g</entry>
         <entry>%s/gilgamesh/${BITBUCKET_REPO_SLUG}/g</entry>
         <entry>%s/anzu/${BITBUCKET_REPO_SLUG}/g</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
