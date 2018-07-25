@@ -1519,11 +1519,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/routes.py" timestamp="1532516611404">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/routes.py" timestamp="1532516869752">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/index.js" timestamp="1519683930600">
         <mark key="[" line="1" column="12" />
@@ -4060,46 +4060,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">ICAgIHJlc291cmNlc19yb3V0ZXMucm91dGVzKGFkbWluPSIvYWRtaW4iKSwK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tY29uZmlnIHdlYnBhY2suZGV2LmpzIg==</text>
+        <text>Brand</text>
       </register>
       <register name="/" type="4">
         <text>== \(\d\+\)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGNvbW1hbmQoCiAgICBjb21tYW5kX3R5cGU9VHlwZS5TSEVMTCwKICAgIHBhcnNlcl9vcHRzPXsiaGVscCI6ICJCdWlsZCBwYWNrYWdlIn0sCikKZGVmIGJ1aWxkKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICBwYXNzCgoK</text>
+        <text encoding="base64">cmVzb3VyY2VzX3JvdXRlcy5yZWdpc3RlcihCcmFuZCwgImJyYW5kIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">ICAgIHJlc291cmNlc19yb3V0ZXMucm91dGVzKGFkbWluPSIvYWRtaW4iKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbbmV3IENsZWFuV2VicGFja1BsdWdpbihbJ2FwaXN0YXJfY3J1ZC9zdGF0aWMnXSldLAo=</text>
+        <text encoding="base64">ICAgIEluY2x1ZGUoIi9icmFuZCIsICJicmFuZCIsIEJyYW5kLnJvdXRlcyksCiAgICBJbmNsdWRlKCIvY3JlYXRvciIsICJjcmVhdG9yIiwgQ3JlYXRvci5yb3V0ZXMpLAogICAgSW5jbHVkZSgiL3N0YXJyZWRfY3JlYXRvciIsICJzdGFycmVkLWNyZWF0b3IiLCBTdGFycmVkQ3JlYXRvci5yb3V0ZXMpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">cmVzb3VyY2VzX3JvdXRlcy4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbbmV3IENsZWFuV2VicGFja1BsdWdpbihbJ2FwaXN0YXJfY3J1ZC9zdGF0aWMnXSldLAo=</text>
+        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb2RlOiAncHJvZHVjdGlvbicsCiAgZGV2dG9vbDogJ3NvdXJjZS1tYXAnLAo=</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbbmV3IENsZWFuV2VicGFja1BsdWdpbihbJ2FwaXN0YXJfY3J1ZC9zdGF0aWMnXSldLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyZ3M9KCgoIi1wIiwgIi0tcHVibGlzaCIpLCB7ImhlbHAiOiAiUHVibGlzaCB2ZXJzaW9uIn0pLCksCg==</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbbmV3IENsZWFuV2VicGFja1BsdWdpbihbJ2FwaXN0YXJfY3J1ZC9zdGF0aWMnXSldLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyZ3M9KCgoIi1wIiwgIi0tcHVibGlzaCIpLCB7ImhlbHAiOiAiUHVibGlzaCB2ZXJzaW9uIn0pLCksCg==</text>
+        <text encoding="base64">ICBtb2RlOiAncHJvZHVjdGlvbicsCiAgZGV2dG9vbDogJ3NvdXJjZS1tYXAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtb2RlOiAnZGV2ZWxvcG1lbnQnLAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/== \(\d\+\)/== \1, response.json()</text>
