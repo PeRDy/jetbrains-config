@@ -1519,11 +1519,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/routes.py" timestamp="1532516869752">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="42" />
-        <mark key="." line="22" column="42" />
-        <mark key="^" line="22" column="42" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/routes.py" timestamp="1532517698852">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/index.js" timestamp="1519683930600">
         <mark key="[" line="1" column="12" />
@@ -1658,6 +1658,9 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/app.py" timestamp="1532517827328">
+        <mark key="[" line="11" column="94" />
       </file>
       <file name="$USER_HOME$/Development/cookiecutter-django-graphql-api/cookiecutter.json" timestamp="1515151180509">
         <mark key="[" line="2" column="56" />
@@ -2988,11 +2991,11 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/resources.py" timestamp="1532443550032">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="22" column="25" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="25" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/resources.py" timestamp="1532517764536">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/api/resources.rst" timestamp="1507904937076">
         <mark key="[" line="76" column="0" />
@@ -4060,7 +4063,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlc19yb3V0ZXMucm91dGVzKGFkbWluPSIvYWRtaW4iKSwK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAiY3JlYXRvciIKICAgIHZlcmJvc2VfbmFtZSA9ICJDcmVhdG9yIgogICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4072,7 +4075,7 @@
         <text>== \(\d\+\)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVzb3VyY2VzX3JvdXRlcy5yZWdpc3RlcihCcmFuZCwgImJyYW5kIikK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAiY3JlYXRvciIKICAgIHZlcmJvc2VfbmFtZSA9ICJDcmVhdG9yIgogICAgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlc291cmNlc19yb3V0ZXMucm91dGVzKGFkbWluPSIvYWRtaW4iKSwK</text>
