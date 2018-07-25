@@ -1402,10 +1402,10 @@
         <mark key="." line="654" column="108" />
         <mark key="^" line="654" column="108" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/templates/admin.html" timestamp="1532513060309">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="34" />
-        <mark key="." line="16" column="34" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/templates/admin.html" timestamp="1532549052428">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tasks/utils.py" timestamp="1512005976423">
         <mark key="[" line="21" column="0" />
@@ -1585,6 +1585,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/anzu/routes.py" timestamp="1530720938020">
         <mark key="[" line="14" column="64" />
@@ -3727,12 +3733,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1508078852608">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/hashcode-pizza/Dockerfile" timestamp="1518782977770">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
@@ -3895,6 +3895,11 @@
         <mark key="]" line="17" column="39" />
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/demo.py" timestamp="1532549911783">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/hashcode_pizza/app.py" timestamp="1487704912524">
         <mark key="[" line="32" column="0" />
@@ -4107,14 +4112,14 @@
       <jump line="56" column="12" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/gilgamesh</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>new_brand</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>anzu</text>
@@ -4123,31 +4128,31 @@
         <text>773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/gilgamesh:developmen</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmRhdEJJVEJVQ0tFVF9SRVBPX1NMVUdhLwo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
+        <text encoding="base64">ZnJvbSBhcGlzdGFyLmNvbXBhdCBpbXBvcnQgd2hpdGVub2lzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgdXBkYXRlZF9zdGFycmVkX2NyZWF0b3JdCg==</text>
+        <text encoding="base64">LmRhdEJJVEJVQ0tFVF9SRVBPX1NMVUdhLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfc3RhcnJlZF9jcmVhdG9yXQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfYnJhbmQsIHVwZGF0ZWRfYnJhbmRdCg==</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgdXBkYXRlZF9zdGFycmVkX2NyZWF0b3JdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IG5ld19icmFuZAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfc3RhcnJlZF9jcmVhdG9yXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X2JyYW5kXQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfYnJhbmQsIHVwZGF0ZWRfYnJhbmRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IG5ld19icmFuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cGRhdGVkX2JyYW5kKQo=</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X2JyYW5kXQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/anzu/${BITBUCKET_REPO_SLUG}/g</text>
