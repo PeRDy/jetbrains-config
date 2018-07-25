@@ -418,6 +418,13 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/test_views.py" timestamp="1532459161063">
+        <mark key="'" line="82" column="41" />
+        <mark key="[" line="82" column="41" />
+        <mark key="]" line="82" column="41" />
+        <mark key="^" line="82" column="41" />
+        <mark key="." line="82" column="41" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/run_ci.py" timestamp="1486057004672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2515,6 +2522,13 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_brand.py" timestamp="1532531148209">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="137" column="58" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/components/atoms/PrivateRoute.jsx" timestamp="1518198917353">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="5" />
@@ -2837,6 +2851,13 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_starred_creator.py" timestamp="1532531213743">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="87" column="79" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="142" column="32" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/website/website/__main__.py" timestamp="1529675984190">
         <mark key="[" line="62" column="52" />
         <mark key="]" line="62" column="52" />
@@ -3088,6 +3109,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="2" column="23" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/types/brand.py" timestamp="1532442896932">
+        <mark key="'" line="9" column="85" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="57" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="30" column="103" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/core/mixins.py" timestamp="1485535808398">
         <mark key="[" line="130" column="22" />
@@ -3788,6 +3816,13 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/conftest.py" timestamp="1532458662146">
+        <mark key="'" line="53" column="109" />
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="41" />
+        <mark key="^" line="47" column="41" />
+        <mark key="." line="47" column="41" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/docker-compose.yml" timestamp="1531930233156">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="14" column="0" />
@@ -3942,6 +3977,13 @@
         <mark key="." line="32" column="52" />
         <mark key="^" line="32" column="52" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" timestamp="1532531123860">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="105" column="40" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/gulp/config.babel.js" timestamp="1500119322886">
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="35" />
@@ -3950,9 +3992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="53" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="87" column="21" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
       <jump line="88" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
       <jump line="67" column="54" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
@@ -4050,66 +4089,68 @@
       <jump line="140" column="16" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
       <jump line="25" column="17" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/pyproject.lock" />
       <jump line="38" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/resource/test_sqlalchemy.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_brand.py" />
+      <jump line="14" column="12" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_starred_creator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">djAuNS4xIC0gMjAxOC0wNy0yNQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>, **filters</text>
+        <text>new_brand</text>
       </register>
       <register name="/" type="4">
-        <text>black</text>
+        <text>brand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">djAuNS4xIC0gMjAxOC0wNy0yNQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0ICJkYXRhIiBpbiBjb250ZW50LCBjb250ZW50CiAgICAgICAgYXNzZXJ0IGNvbnRlbnRbImRhdGEiXSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgYW5vdGhlcl9zdGFycmVkX2NyZWF0b3JdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaXN0KAogICAgICAgIHNlc3Npb246IFNlc3Npb24sIHBhZ2U6IGh0dHAuUXVlcnlQYXJhbSwgcGFnZV9zaXplOiBodHRwLlF1ZXJ5UGFyYW0sIG5hbWU6IGh0dHAuUXVlcnlQYXJhbQogICAgKSAtPiB0eXBpbmcuTGlzdFtQdXBweU91dHB1dFR5cGVdOgogICAgICAgIHJldHVybiBQYWdlTnVtYmVyUmVzcG9uc2UocGFnZT1wYWdlLCBwYWdlX3NpemU9cGFnZV9zaXplLCBjb250ZW50PWNscy5fZmlsdGVyKHNlc3Npb249c2Vzc2lvbiwgbmFtZT1uYW1lKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaXN0KAogICAgICAgIHNlc3Npb246IFNlc3Npb24sIHBhZ2U6IGh0dHAuUXVlcnlQYXJhbSwgcGFnZV9zaXplOiBodHRwLlF1ZXJ5UGFyYW0sIG5hbWU6IGh0dHAuUXVlcnlQYXJhbQogICAgKSAtPiB0eXBpbmcuTGlzdFtQdXBweU91dHB1dFR5cGVdOgogICAgICAgIHJldHVybiBQYWdlTnVtYmVyUmVzcG9uc2UocGFnZT1wYWdlLCBwYWdlX3NpemU9cGFnZV9zaXplLCBjb250ZW50PWNscy5fZmlsdGVyKHNlc3Npb249c2Vzc2lvbiwgbmFtZT1uYW1lKSkK</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgdXBkYXRlZF9zdGFycmVkX2NyZWF0b3JdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfc3RhcnJlZF9jcmVhdG9yXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaXN0KGNscywgc2Vzc2lvbjogU2Vzc2lvbiwgbmFtZTogaHR0cC5RdWVyeVBhcmFtKSAtPiB0eXBpbmcuTGlzdFtQdXBweU91dHB1dFR5cGVdOgogICAgICAgIHJldHVybiBjbHMuX2xpc3Qoc2Vzc2lvbj1zZXNzaW9uLCBuYW1lPW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfYnJhbmQsIHVwZGF0ZWRfYnJhbmRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlc19yb3V0ZXMucm91dGVzKGFkbWluPSIvYWRtaW4iKSwK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IG5ld19icmFuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEluY2x1ZGUoIi9icmFuZCIsICJicmFuZCIsIEJyYW5kLnJvdXRlcyksCiAgICBJbmNsdWRlKCIvY3JlYXRvciIsICJjcmVhdG9yIiwgQ3JlYXRvci5yb3V0ZXMpLAogICAgSW5jbHVkZSgiL3N0YXJyZWRfY3JlYXRvciIsICJzdGFycmVkLWNyZWF0b3IiLCBTdGFycmVkQ3JlYXRvci5yb3V0ZXMpLAo=</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X2JyYW5kXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2VzX3JvdXRlcy4KCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cGRhdGVkX2JyYW5kKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbbmV3IENsZWFuV2VicGFja1BsdWdpbihbJ2FwaXN0YXJfY3J1ZC9zdGF0aWMnXSldLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcikK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/== \(\d\+\)/== \1, response.json()</text>
+        <text>%s/brand/creator/g</text>
       </register>
     </registers>
     <search>
-      <last-search>black</last-search>
+      <last-search>brand</last-search>
       <last-offset />
-      <last-pattern>black</last-pattern>
-      <last-replace>== \1, response.json()</last-replace>
-      <last-substitute>== \(\d\+\)</last-substitute>
+      <last-pattern>brand</last-pattern>
+      <last-replace>creator</last-replace>
+      <last-substitute>brand</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>new_</entry>
         <entry>ipdb</entry>
         <entry>&quot;bar&quot;</entry>
         <entry>anzu</entry>
@@ -4129,9 +4170,9 @@
         <entry>foo</entry>
         <entry>== \(\d\+\)</entry>
         <entry>black</entry>
+        <entry>brand</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL25ld18vc2Vjb25kXy9n</entry>
         <entry encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyJiYXIiL3Bhc3N3b3JkL2c=</entry>
         <entry>%s/anzu/gilgamesh</entry>
@@ -4151,6 +4192,7 @@
         <entry>%s/&quot;\(brand\|creator\)&quot;/&quot;\1_id&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</entry>
         <entry>%s/== \(\d\+\)/== \1, response.json()</entry>
+        <entry>%s/brand/creator/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
