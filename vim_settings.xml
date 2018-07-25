@@ -2263,6 +2263,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/webpack.common.js" timestamp="1532510562938">
+        <mark key="[" line="60" column="55" />
+        <mark key="]" line="60" column="59" />
+        <mark key="." line="60" column="59" />
+        <mark key="^" line="60" column="59" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-api/barrenero_api/settings/base.py" timestamp="1516664599038">
         <mark key="[" line="269" column="31" />
         <mark key="]" line="269" column="55" />
@@ -4086,14 +4092,14 @@
       <jump line="140" column="16" filename="$USER_HOME$/Desarrollo/souft/huerteo/huerteo-api/tests/unit/iam/resources/test_user.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtb2RlOiAnZGV2ZWxvcG1lbnQnLAogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywK</text>
+      <register name="&quot;" type="4">
+        <text>src</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>new CleanWebpackPlugin(['apistar_crud/static/dist'])</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text>== \(\d\+\)</text>
@@ -4102,31 +4108,31 @@
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtb2RlOiAnZGV2ZWxvcG1lbnQnLAogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywK</text>
+        <text encoding="base64">ICBtb2RlOiAnZGV2ZWxvcG1lbnQnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtb2RlOiAnZGV2ZWxvcG1lbnQnLAogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2sgPSBNYWdpY01vY2soc3BlY19zZXQ9ZGljdCkK</text>
+        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2sgPSBNYWdpY01vY2soc3BlY19zZXQ9ZGljdCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVJfSUFNX1NFQ1JFVF9LRVkiXSA9ICJmb28iCg==</text>
+        <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVIiXQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVJfSUFNX1NFQ1JFVF9LRVkiXSA9ICJmb28iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uWyJBUElTVEFSX0lBTV9TRUNSRVRfS0VZIl0gPSAiZm9vIgo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVIiXQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/== \(\d\+\)/== \1, response.json()</text>
