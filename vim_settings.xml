@@ -271,10 +271,10 @@
         <mark key="^" line="57" column="51" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/setup.cfg" timestamp="1532445727463">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+        <mark key="[" line="45" column="16" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Desarrollo/initia/website/production/supervisor/supervisord.conf" timestamp="1467214711657">
         <mark key="[" line="3" column="1" />
@@ -1109,12 +1109,6 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/brand.py" timestamp="1532445751010">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-        <mark key="^" line="31" column="29" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/deploy/task_definition.json.j2" timestamp="1531140582284">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="11" column="52" />
@@ -1198,6 +1192,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/development/task_definition.json" timestamp="1532515432165">
+        <mark key="[" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
@@ -1522,11 +1519,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/routes.py" timestamp="1532442270415">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="14" column="63" />
-        <mark key="^" line="14" column="63" />
-        <mark key="." line="14" column="63" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/routes.py" timestamp="1532516218647">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-web/src/sagas/index.js" timestamp="1519683930600">
         <mark key="[" line="1" column="12" />
@@ -1592,6 +1589,9 @@
         <mark key="]" line="14" column="139" />
         <mark key="." line="14" column="139" />
         <mark key="^" line="14" column="139" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/production/service.json" timestamp="1532515441981">
+        <mark key="[" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/compute-cli/piksel_compute_flow_cli/jobs/__main__.py" timestamp="1509106000315">
         <mark key="[" line="13" column="0" />
@@ -2013,6 +2013,9 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/production/task_definition.json" timestamp="1532515447167">
+        <mark key="[" line="11" column="68" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/build.py" timestamp="1532512662009">
         <mark key="^" line="2" column="17" />
       </file>
@@ -2087,11 +2090,6 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/creator.py" timestamp="1532445755658">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="30" />
-        <mark key="." line="36" column="22" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/trazabilidad/trazabilidad-api/recipes/models/recipe.py" timestamp="1520110040964">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="53" />
@@ -2135,9 +2133,6 @@
         <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/users/models/mixins.py" timestamp="1532439092823">
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="20" column="70" />
-        <mark key="." line="20" column="70" />
         <mark key="^" line="13" column="63" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero/templates/config/telegraf/telegraf.conf.j2" timestamp="1516662538723">
@@ -2849,12 +2844,6 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_starred_creator.py" timestamp="1532445487437">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="43" />
-      </file>
       <file name="$USER_HOME$/Desarrollo/souft/website/website/__main__.py" timestamp="1529675984190">
         <mark key="[" line="62" column="52" />
         <mark key="]" line="62" column="52" />
@@ -3198,6 +3187,11 @@
         <mark key="^" line="45" column="40" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/pyproject.toml" timestamp="1532516129074">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/Development/trazabilidad/trazabilidad-api/trazabilidad_api/settings/development.py" timestamp="1516118259772">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -3453,6 +3447,9 @@
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/development/service.json" timestamp="1532515230445">
+        <mark key="[" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/router.js" timestamp="1504883786775">
         <mark key="[" line="21" column="12" />
