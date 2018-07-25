@@ -1194,8 +1194,9 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/development/task_definition.json" timestamp="1532515432165">
-        <mark key="[" line="15" column="18" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/development/task_definition.json" timestamp="1532533025312">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="72" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
@@ -1711,6 +1712,11 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/.dockerignore" timestamp="1532531968407">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/wallet.py" timestamp="1513945439226">
         <mark key="[" line="172" column="0" />
         <mark key="]" line="174" column="35" />
@@ -1974,6 +1980,13 @@
         <mark key="]" line="78" column="42" />
         <mark key="." line="78" column="42" />
         <mark key="^" line="78" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" timestamp="1532533611421">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="68" />
+        <mark key="." line="30" column="68" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/barrenero/barrenero-miner/Dockerfile-storj" timestamp="1516674236372">
         <mark key="[" line="3" column="23" />
@@ -3992,17 +4005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
-      <jump line="67" column="54" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/base.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/peewee.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="52" column="33" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/apistar_crud/sqlalchemy.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/README.md" />
       <jump line="6" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="21" column="8" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-data/anzu/tests/unit/instagram/test_resources.py" />
@@ -4092,10 +4094,21 @@
       <jump line="72" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_brand.py" />
       <jump line="14" column="12" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_creator.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/tests/unit/users/test_starred_creator.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="11" column="57" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="21" column="45" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="30" column="41" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="31" column="45" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="40" column="57" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="41" column="57" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="42" column="57" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="55" column="57" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="20" column="41" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
+      <jump line="56" column="12" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
+      <register name="&quot;" type="4">
+        <text>773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/gilgamesh</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4104,56 +4117,54 @@
         <text>new_brand</text>
       </register>
       <register name="/" type="4">
-        <text>brand</text>
+        <text>anzu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcmVzcG9uc2UuanNvbigpCiAgICAgICAgYXNzZXJ0ICJkYXRhIiBpbiBjb250ZW50LCBjb250ZW50CiAgICAgICAgYXNzZXJ0IGNvbnRlbnRbImRhdGEiXSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgYW5vdGhlcl9zdGFycmVkX2NyZWF0b3JdCg==</text>
+      <register name="0" type="4">
+        <text>773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/gilgamesh:developmen</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
+        <text encoding="base64">LmRhdEJJVEJVQ0tFVF9SRVBPX1NMVUdhLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgdXBkYXRlZF9zdGFycmVkX2NyZWF0b3JdCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFt1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfc3RhcnJlZF9jcmVhdG9yXQo=</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X3N0YXJyZWRfY3JlYXRvciwgdXBkYXRlZF9zdGFycmVkX2NyZWF0b3JdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfYnJhbmQsIHVwZGF0ZWRfYnJhbmRdCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfc3RhcnJlZF9jcmVhdG9yXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IG5ld19icmFuZAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IFtuZXdfYnJhbmQsIHVwZGF0ZWRfYnJhbmRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X2JyYW5kXQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzcG9uc2UuanNvbigpID09IG5ld19icmFuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZQo=</text>
+        <text encoding="base64">CiAgICAgICAgYXNzZXJ0IHJlc3BvbnNlLmpzb24oKSA9PSBbbmV3X2JyYW5kXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cGRhdGVkX2JyYW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cGRhdGVkX3N0YXJyZWRfY3JlYXRvcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cGRhdGVkX2JyYW5kKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/brand/creator/g</text>
+        <text>%s/anzu/${BITBUCKET_REPO_SLUG}/g</text>
       </register>
     </registers>
     <search>
-      <last-search>brand</last-search>
+      <last-search>anzu</last-search>
       <last-offset />
-      <last-pattern>brand</last-pattern>
-      <last-replace>creator</last-replace>
-      <last-substitute>brand</last-substitute>
+      <last-pattern>anzu</last-pattern>
+      <last-replace>${BITBUCKET_REPO_SLUG}</last-replace>
+      <last-substitute>anzu</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ipdb</entry>
         <entry>&quot;bar&quot;</entry>
-        <entry>anzu</entry>
         <entry>0</entry>
         <entry>1</entry>
         <entry>self.url(</entry>
@@ -4171,10 +4182,10 @@
         <entry>== \(\d\+\)</entry>
         <entry>black</entry>
         <entry>brand</entry>
+        <entry>gilgamesh</entry>
+        <entry>anzu</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL25ld18vZmlyc3RfL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLyJiYXIiL3Bhc3N3b3JkL2c=</entry>
         <entry>%s/anzu/gilgamesh</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzAvMS9n</entry>
@@ -4193,6 +4204,8 @@
         <entry encoding="base64">JzwsJz5zL2Zvby9iYXIvZw==</entry>
         <entry>%s/== \(\d\+\)/== \1, response.json()</entry>
         <entry>%s/brand/creator/g</entry>
+        <entry>%s/gilgamesh/${BITBUCKET_REPO_SLUG}/g</entry>
+        <entry>%s/anzu/${BITBUCKET_REPO_SLUG}/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
