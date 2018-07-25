@@ -2070,6 +2070,11 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="58" column="32" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/webpack.dev.js" timestamp="1532506639104">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/perdy/cookiecutter-react-app/{{cookiecutter.project_slug}}/src/pages/Login.js" timestamp="1517344244332">
         <mark key="[" line="22" column="20" />
         <mark key="]" line="22" column="25" />
@@ -2773,6 +2778,12 @@
         <mark key="]" line="84" column="17" />
         <mark key="^" line="84" column="17" />
         <mark key="." line="84" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/package.json" timestamp="1532506493384">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Desarrollo/jobist-api/setup.cfg" timestamp="1484514937359">
         <mark key="[" line="59" column="24" />
@@ -4076,13 +4087,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2sgPSBNYWdpY01vY2soc3BlY19zZXQ9ZGljdCkK</text>
+        <text encoding="base64">ICBtb2RlOiAnZGV2ZWxvcG1lbnQnLAogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>os_mock</text>
+        <text>new CleanWebpackPlugin(['apistar_crud/static/dist'])</text>
       </register>
       <register name="/" type="4">
         <text>== \(\d\+\)</text>
@@ -4091,31 +4102,31 @@
         <text encoding="base64">ICAgIEBweXRlc3QubWFyay51bml0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2sgPSBNYWdpY01vY2soc3BlY19zZXQ9ZGljdCkK</text>
+        <text encoding="base64">ICBtb2RlOiAnZGV2ZWxvcG1lbnQnLAogIGRldnRvb2w6ICdzb3VyY2UtbWFwJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVJfSUFNX1NFQ1JFVF9LRVkiXSA9ICJmb28iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVIiXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnZpcm9uWyJBUElTVEFSX0lBTV9TRUNSRVRfS0VZIl0gPSAiZm9vIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgQ2xlYW5XZWJwYWNrUGx1Z2luID0gcmVxdWlyZSgnY2xlYW4td2VicGFjay1wbHVnaW4nKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2sgPSBNYWdpY01vY2soc3BlY19zZXQ9ZGljdCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVJfSUFNX1NFQ1JFVF9LRVkiXSA9ICJmb28iCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvc19tb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnZpcm9uX21vY2tbIkFQSVNUQVIiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgiaWFtLmNvbXBvbmVudHMuY3J5cHQub3MiKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnZpcm9uWyJBUElTVEFSX0lBTV9TRUNSRVRfS0VZIl0gPSAiZm9vIgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/== \(\d\+\)/== \1, response.json()</text>
