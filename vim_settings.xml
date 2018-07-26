@@ -96,10 +96,10 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/components/Header/Header.js" timestamp="1532604194921">
-        <mark key="[" line="19" column="94" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/components/Header/Header.js" timestamp="1532611716703">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
@@ -460,11 +460,11 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/ducks/resource.js" timestamp="1532610316997">
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="78" column="26" />
-        <mark key="." line="78" column="26" />
-        <mark key="^" line="78" column="26" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/ducks/resource.js" timestamp="1532611834399">
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="9" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
@@ -4174,7 +4174,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudEVudGl0eTogbnVsbCwK</text>
+        <text encoding="base64">ICBhbGxJZHM6IG51bGwsCg==</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
@@ -4189,31 +4189,31 @@
         <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2V0UmVzb3VyY2VOYW1lKHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLnJlc291cmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudEVudGl0eTogbnVsbCwK</text>
+        <text encoding="base64">ICBhbGxJZHM6IG51bGwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdFNjaGVtYVVybCA9IHN0YXRlID0+IHN0YXRlLm1ldGFkYXRhLnNjaGVtYTsKZXhwb3J0IGNvbnN0IHNlbGVjdENsaWVudCA9IHN0YXRlID0+IHN0YXRlLm1ldGFkYXRhLmNsaWVudDsK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmN1cnJlbnRFbnRpdHkpIHsKICAgICAgY29uc29sZS5sb2codGhpcy5wcm9wcy5jdXJyZW50RW50aXR5KTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjdXJyZW50RWxlbWVudDogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgY3VycmVudEVudGl0eTogbnVsbCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjdXJyZW50RWxlbWVudDogbnVsbCwK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdFNjaGVtYVVybCA9IHN0YXRlID0+IHN0YXRlLm1ldGFkYXRhLnNjaGVtYTsKZXhwb3J0IGNvbnN0IHNlbGVjdENsaWVudCA9IHN0YXRlID0+IHN0YXRlLm1ldGFkYXRhLmNsaWVudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVzb3VyY2VOYW1lKTsK</text>
+        <text encoding="base64">ICBjdXJyZW50RWxlbWVudDogbnVsbCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdE1ldGFkYXRhID0gc3RhdGUgCg==</text>
+        <text encoding="base64">ICBjdXJyZW50RWxlbWVudDogbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lOiBudWxsLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMucmVzb3VyY2VOYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZDogbnVsbCwK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdE1ldGFkYXRhID0gc3RhdGUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzZXRSZXNvdXJjZU5hbWU6IHNldFJlc291cmNlTmFtZSwK</text>
+        <text encoding="base64">ICBuYW1lOiBudWxsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
