@@ -39,7 +39,7 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1532601431154">
+      <file name="/a.dummy" timestamp="1532639539639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-telegram/templates/setup.cfg.jinja2" timestamp="1513624211627">
@@ -459,11 +459,11 @@
         <mark key="." line="19" column="45" />
         <mark key="^" line="19" column="45" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/ducks/resource.js" timestamp="1532618246221">
-        <mark key="[" line="64" column="14" />
-        <mark key="]" line="76" column="27" />
-        <mark key="." line="76" column="27" />
-        <mark key="^" line="76" column="27" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/ducks/resource.js" timestamp="1532639767929">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="5" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy-site/client/src/js/Skill.vue" timestamp="1498583024370">
         <mark key="[" line="1" column="14" />
@@ -1920,6 +1920,11 @@
         <mark key="^" line="70" column="31" />
         <mark key="." line="77" column="8" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/.eslintrc.json" timestamp="1532640272743">
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="10" column="68" />
+        <mark key="." line="10" column="68" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/admin.py" timestamp="1505074302107">
         <mark key="[" line="75" column="20" />
         <mark key="]" line="66" column="0" />
@@ -2602,11 +2607,11 @@
         <mark key="]" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/sagas/resource.js" timestamp="1532618315176">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="39" column="26" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/sagas/resource.js" timestamp="1532639361804">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/auth.py" timestamp="1505670827550">
         <mark key="[" line="14" column="0" />
@@ -3026,8 +3031,10 @@
       <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/tests/resource/test_sqlalchemy.py" timestamp="1532528580880">
         <mark key="[" line="165" column="61" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/ducks/index.js" timestamp="1532618169685">
-        <mark key="[" line="8" column="11" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/ducks/index.js" timestamp="1532639306128">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/health-check/CHANGELOG.rst" timestamp="1498236434684">
         <mark key="[" line="2" column="5" />
@@ -3226,11 +3233,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/selectors/resource.js" timestamp="1532620010217">
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/selectors/resource.js" timestamp="1532639330578">
         <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="67" />
-        <mark key="." line="4" column="67" />
-        <mark key="^" line="4" column="67" />
+        <mark key="]" line="4" column="111" />
+        <mark key="." line="4" column="111" />
+        <mark key="^" line="4" column="111" />
       </file>
       <file name="$USER_HOME$/Desarrollo/flights-analyzer/tests/acceptance/specs/flights_analyzer.spec" timestamp="1511999206018">
         <mark key="[" line="46" column="149" />
@@ -4136,47 +4143,47 @@
       <jump line="44" column="15" filename="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/routes/ListPage.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWxlY3RFbnRpdHk6IFByb3BUeXBlcy5mdW5jLAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8gc3RhdGUucmVzb3VyY2UuZW50aXRpZXNbMF0gOiBudWxsOw==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2V0UmVzb3VyY2VOYW1lKHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLnJlc291cmNlKTsK</text>
+        <text encoding="base64">ICAgICAgcm93c1BlclBhZ2U6IGVudGl0aWVzLnJlc3VsdC5tZXRhLnBhZ2Vfc2l6ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWxlY3RFbnRpdHk6IFByb3BUeXBlcy5mdW5jLAo=</text>
+        <text encoding="base64">ICAgIH0sCiAgICAicnVsZXMiOiB7Im1heC1sZW4iOiBbMiwgeyJjb2RlIjogMTIwLCAidGFiV2lkdGgiOiAyLCAiaWdub3JlVXJscyI6IHRydWV9XX0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc291cmNlcyA9IHRoaXMucHJvcHMucmVzb3VyY2VzLm1hcChpdGVtID0+IHRoaXMucHJvcHMuc2VsZWN0UmVzb3VyY2UoaXRlbSkpOwogICAgY29uc29sZS5sb2cocmVzb3VyY2VzKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgc2V0RW50aXRpZXNSZXNvdXJjZXMgfSBmcm9tICcuLi9kdWNrcy9lbnRpdGllcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZWxlY3RSZXNvdXJjZTogc2VsZWN0UmVzb3VyY2VzLAo=</text>
+        <text encoding="base64">aW1wb3J0IGVudGl0aWVzIGZyb20gJy4vZW50aXRpZXMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZXRDdXJyZW50UmVzb3VyY2VFbGVtZW50OiBQcm9wVHlwZXMuZnVuYywK</text>
+        <text encoding="base64">ICBlbnRpdGllcywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgIC8vIHlpZWxkIHB1dChzZXRFbnRpdGllc1Jlc291cmNlcyhlbnRpdGllcy5lbnRpdGllcy5yZXNvdXJjZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFtGRVRDSF9NRVRBREFUQV9GQUlMVVJFXTogKHN0YXRlLCB7IHBheWxvYWQgfSkgPT4gKHsKICAgICAgLi4uc3RhdGUsCiAgICAgIGVycm9yOiBwYXlsb2FkLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGZldGNoTWV0YWRhdGFSZXF1ZXN0ID0gY3JlYXRlQWN0aW9uKEZFVENIX01FVEFEQVRBX1JFUVVFU1QpOwpleHBvcnQgY29uc3QgZmV0Y2hNZXRhZGF0YVN1Y2Nlc3MgPSBjcmVhdGVBY3Rpb24oRkVUQ0hfTUVUQURBVEFfU1VDQ0VTUyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdG90YWxDb3VudDogcGF5bG9hZC50b3RhbENvdW50LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZFVENIX01FVEFEQVRBX1NVQ0NFU1MgPSAnbWV0YWRhdGEvZmV0Y2gvU1VDQ0VTUyc7CmV4cG9ydCBjb25zdCBGRVRDSF9NRVRBREFUQV9GQUlMVVJFID0gJ21ldGFkYXRhL2ZldGNoL0ZBSUxVUkUnOwo=</text>
+        <text encoding="base64">ICAgICAgaWRzOiBwYXlsb2FkLmlkcywKICAgICAgZW50aXRpZXM6IHBheWxvYWQuZW50aXRpZXMsCiAgICAgIG5hbWU6IHBheWxvYWQubmFtZSwKICAgICAgcm93c1BlclBhZ2U6IHBheWxvYWQucm93c1BlclBhZ2UsCiAgICAgIGN1cnJlbnRQYWdlOiBwYXlsb2FkLmN1cnJlbnRQYWdlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2NoZW1hOiBwYXlsb2FkLnNjaGVtYSwKICAgICAgY2xpZW50OiBwYXlsb2FkLmNsaWVudCwK</text>
+        <text encoding="base64">ICAgICAgaWRzOiBwYXlsb2FkLmlkcywKICAgICAgbmFtZTogcGF5bG9hZC5uYW1lLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
