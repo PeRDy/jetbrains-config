@@ -93,10 +93,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/components/Header/Header.js" timestamp="1532553927591">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/components/Header/Header.js" timestamp="1532600242993">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/Desarrollo/souft/cookify-api/README.rst" timestamp="1497533401377">
         <mark key="[" line="2" column="10" />
@@ -1829,6 +1830,10 @@
         <mark key="]" line="26" column="59" />
         <mark key="." line="26" column="59" />
         <mark key="^" line="26" column="59" />
+      </file>
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/admin/components/ResourceForm/ResourceForm.jsx" timestamp="1532600404472">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="33" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero/doc/source/configuration.rst" timestamp="1507582816915">
         <mark key="[" line="33" column="0" />
@@ -3909,10 +3914,10 @@
         <mark key="^" line="17" column="39" />
         <mark key="." line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/demo.py" timestamp="1532597246007">
-        <mark key="]" line="41" column="65" />
-        <mark key="^" line="41" column="65" />
-        <mark key="." line="41" column="65" />
+      <file name="$USER_HOME$/Desarrollo/perdy/apistar-crud/demo.py" timestamp="1532600325297">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/hashcode-pizza/hashcode_pizza/app.py" timestamp="1487704912524">
         <mark key="[" line="32" column="0" />
@@ -4125,47 +4130,47 @@
       <jump line="56" column="12" filename="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/bitbucket-pipelines.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UHJvamVjdCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXNvdXJjZUlkOiBQcm9wVHlwZXMuc3RyaW5nLAogIHJlc291cmNlTmFtZTogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJvamVjdCA=</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>anzu</text>
       </register>
-      <register name="0" type="4">
-        <text>773676435453.dkr.ecr.eu-west-1.amazonaws.com/whalar/gilgamesh:developmen</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICByZXNvdXJjZUlkOiBQcm9wVHlwZXMuc3RyaW5nLAogIHJlc291cmNlTmFtZTogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEltYWdlIHNpemU9J21pbmknIHNyYz0nL2xvZ28ucG5nJyBzdHlsZT17eyBtYXJnaW5SaWdodDogJzEuNWVtJyB9fSAvPgo=</text>
+        <text encoding="base64">ICAgIGFwcC5kb2N1bWVudC50aXRsZSA9ICJEZW1vIgogICAgYXBwLmRvY3VtZW50LmRlc2NyaXB0aW9uID0gIkFQSSBTdGFyIENSVUQgRGVtbyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAbWF0ZXJpYWwtdWkvY29yZSI6ICJeMS40LjAiLAogICAgIkBtYXRlcmlhbC11aS9pY29ucyI6ICJeMS4xLjAiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVG9vbGJhciwgQXBwQmFyLCBUeXBvZ3JhcGh5IH0gZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUnOwppbXBvcnQgeyBMaW5rIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzdG9yeWJvb2stYWRkb24tbWF0ZXJpYWwtdWkiOiAiXjAuOC4yIiwK</text>
+        <text encoding="base64">aW1wb3J0IHsgUkVMX1BBVEggfSBmcm9tICcuLi8uLi9hcGknOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxNZW51Lkl0ZW0gYXM9J2EnIGhlYWRlcj5BUEkgU3RhciBDUlVEPC9NZW51Lkl0ZW0+CiAgICAgICAgICA8TWVudS5JdGVtIGFzPSdhJz5Ib21lPC9NZW51Lkl0ZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcCA9IEFwcChyb3V0ZXM9cmVzb3VyY2Vfcm91dGVzLnJvdXRlcygpLCBjb21wb25lbnRzPWNvbXBvbmVudHMsIGV2ZW50X2hvb2tzPWV2ZW50X2hvb2tzLCBwYWNrYWdlcz1wYWNrYWdlcykK</text>
+        <text encoding="base64">ICAgICAgICA8L0NvbnRhaW5lcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8L0NvbnRhaW5lcj4KICAgICAgPC9NZW51Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+        <text encoding="base64">ICAgICAgICA8Q29udGFpbmVyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcGlzdGFyLmNvbXBhdCBpbXBvcnQgd2hpdGVub2lzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEltYWdlIHNpemU9J21pbmknIHNyYz0nL2xvZ28ucG5nJyBzdHlsZT17eyBtYXJnaW5SaWdodDogJzEuNWVtJyB9fSAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmRhdEJJVEJVQ0tFVF9SRVBPX1NMVUdhLwo=</text>
+        <text encoding="base64">ICAgICJAbWF0ZXJpYWwtdWkvY29yZSI6ICJeMS40LjAiLAogICAgIkBtYXRlcmlhbC11aS9pY29ucyI6ICJeMS4xLjAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
