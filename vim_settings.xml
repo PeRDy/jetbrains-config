@@ -1206,9 +1206,10 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/development/task_definition.json" timestamp="1532533025312">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="72" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/development/task_definition.json" timestamp="1533029639041">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Desarrollo/barrenero/barrenero-api/core/views/restart.py" timestamp="1505670815165">
         <mark key="[" line="12" column="0" />
@@ -2042,8 +2043,11 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/production/task_definition.json" timestamp="1532515447167">
-        <mark key="[" line="11" column="68" />
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/deployment/production/task_definition.json" timestamp="1533029633062">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="59" />
+        <mark key="." line="9" column="59" />
       </file>
       <file name="$USER_HOME$/Desarrollo/perdy/clinner/tests/test_command.py" timestamp="1531913007249">
         <mark key="[" line="139" column="23" />
@@ -3815,6 +3819,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desarrollo/whalar/whalar-rd/gilgamesh/gilgamesh/__main__.py" timestamp="1533029602057">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+      </file>
       <file name="$USER_HOME$/Desarrollo/whalar/gilgamesh/gilgamesh-api/users/types/brand.py" timestamp="1528989219103">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="7" column="0" />
@@ -4130,46 +4139,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJWQVVMVF9TRUNSRVRfSUQiOiAiZjg0YjkxNWEtNzQ1Yi00YThmLTY4YjYtYTA5NzkxMjEwNzFjIgo=</text>
       </register>
       <register name="*" type="4">
         <text>{{ cookiecutter.release_date.split('-')[0] }} {{ cookiecutter.full_name }}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>eb81c3176fa6</text>
       </register>
       <register name="/" type="4">
         <text>anzu</text>
       </register>
-      <register name="0" type="4">
-        <text>whitenoise_opts={&quot;autorefresh&quot;: True}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJWQVVMVF9TRUNSRVRfSUQiOiAiOWViYjA1MzUtYjg5My1mY2VjLTExYTQtMzljMWUxOGJjNWQ0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJWQVVMVF9TRUNSRVRfSUQiOiAiZjg0YjkxNWEtNzQ1Yi00YThmLTY4YjYtYTA5NzkxMjEwNzFjIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmBgYHB5dGhvbgphcHAgPSBBcHAocm91dGVzPXJvdXRlcywgc3RhdGljX2Rpcj1TVEFUSUNfRElSLCB3aGl0ZW5vaXNlX29wdHM9eyJhdXRvcmVmcmVzaCI6IFRydWV9KQpgYGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SXQncyBwb3NzaWJsZSB0byBjb25maWd1cmUgYHdoaXRlbm9pc2VgIHBhc3Npbmcgb3B0aW9ucyB0aHJvdWdoIGB3aGl0ZW5vaXNlX29wdHNgIHBhcmFtZXRlci4KCg==</text>
+        <text encoding="base64">CmBgYHB5dGhvbgphcHAgPSBBcHAocm91dGVzPXJvdXRlcywgc3RhdGljX2Rpcj1TVEFUSUNfRElSLCB3aGl0ZW5vaXNlX29wdHM9eyJhdXRvcmVmcmVzaCI6IFRydWV9KQpgYGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Li4uCgo=</text>
+        <text encoding="base64">SXQncyBwb3NzaWJsZSB0byBjb25maWd1cmUgYHdoaXRlbm9pc2VgIHBhc3Npbmcgb3B0aW9ucyB0aHJvdWdoIGB3aGl0ZW5vaXNlX29wdHNgIHBhcmFtZXRlci4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U1RBVElDX0RJUiA9IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3N0YXRpYycpCgo=</text>
+        <text encoding="base64">Li4uCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U1RBVElDX0RJUiA9IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3N0YXRpYycpCgouLi4K</text>
+        <text encoding="base64">U1RBVElDX0RJUiA9IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3N0YXRpYycpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCgpCQVNFX0RJUiA9IG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykK</text>
+        <text encoding="base64">U1RBVElDX0RJUiA9IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ3N0YXRpYycpCgouLi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCgpCQVNFX0RJUiA9IG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcCA9IEFwcChyb3V0ZXM9cmVzb3VyY2Vfcm91dGVzLnJvdXRlcygpLCBjb21wb25lbnRzPWNvbXBvbmVudHMsIGV2ZW50X2hvb2tzPWV2ZW50X2hvb2tzLCBwYWNrYWdlcz1wYWNrYWdlcykK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
